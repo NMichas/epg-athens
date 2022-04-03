@@ -18900,10 +18900,6 @@
     <title lang="el">Sky News</title>
     <desc lang="el">News reports on the big stories from the UK and around the world.</desc>
   </programme>
-  <programme start="20220403000000 +0100" stop="20220403235900 +0100" channel="ERT NEWS">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
-  </programme>
   <programme start="20220404000000 +0100" stop="20220404235900 +0100" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
@@ -18932,9 +18928,9 @@
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
-  <programme start="20220403000000 +0100" stop="20220403235900 +0100" channel="ERT1.">
+  <programme start="20220411000000 +0100" stop="20220411235900 +0100" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
   </programme>
   <programme start="20220404000000 +0100" stop="20220404235900 +0100" channel="ERT1.">
     <title lang="en">dummy program - Full Day Show</title>
@@ -18963,5 +18959,9 @@
   <programme start="20220410000000 +0100" stop="20220410235900 +0100" channel="ERT1.">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
+  </programme>
+  <programme start="20220411000000 +0100" stop="20220411235900 +0100" channel="ERT1.">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
   </programme>
 </tv>
