@@ -18730,10 +18730,6 @@
     <title lang="el">The Daily Climate Show</title>
     <desc lang="el">Anna Jones presents a new daily programme looking at the stories that are impacting our changing climate, including the efforts to find solutions to problems caused by the climate crisis.</desc>
   </programme>
-  <programme start="20220411000000 +0100" stop="20220411235900 +0100" channel="ERT NEWS">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
-  </programme>
   <programme start="20220412000000 +0100" stop="20220412235900 +0100" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
@@ -18762,9 +18758,9 @@
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
-  <programme start="20220411000000 +0100" stop="20220411235900 +0100" channel="ERT1.">
+  <programme start="20220419000000 +0100" stop="20220419235900 +0100" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
   </programme>
   <programme start="20220412000000 +0100" stop="20220412235900 +0100" channel="ERT1.">
     <title lang="en">dummy program - Full Day Show</title>
@@ -18793,5 +18789,9 @@
   <programme start="20220418000000 +0100" stop="20220418235900 +0100" channel="ERT1.">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
+  </programme>
+  <programme start="20220419000000 +0100" stop="20220419235900 +0100" channel="ERT1.">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
   </programme>
 </tv>
