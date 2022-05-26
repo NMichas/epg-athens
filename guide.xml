@@ -16929,9 +16929,33 @@
     <title lang="el">Le journal de l'Afrique</title>
     <desc lang="el">Actualité politique, info culture &amp; sports en Afrique.</desc>
   </programme>
-  <programme start="20220531230900 +0300" stop="20220601004800 +0300" channel="BBC World">
-    <title lang="el">ALEXANDRA EHLE</title>
-    <desc lang="el">Τηλεταινία.(c)</desc>
+  <programme start="20220531230000 +0300" stop="20220531231400 +0300" channel="BBC World">
+    <title lang="el">Le journal</title>
+    <desc lang="el">Actualité politique, info culture &amp; sports en France et à l'international.(c)</desc>
+  </programme>
+  <programme start="20220531231400 +0300" stop="20220531231500 +0300" channel="BBC World">
+    <title lang="el">Rappel des titres</title>
+    <desc lang="el">Rappel des titres.(c)</desc>
+  </programme>
+  <programme start="20220531231500 +0300" stop="20220531232000 +0300" channel="BBC World">
+    <title lang="el">Economie</title>
+    <desc lang="el">Economie.(c)</desc>
+  </programme>
+  <programme start="20220531232000 +0300" stop="20220531233000 +0300" channel="BBC World">
+    <title lang="el">Info intox</title>
+    <desc lang="el">France 24 aide à démêler le vrai du faux, l'info de l'intox, sur Internet et les réseaux sociaux.(c)</desc>
+  </programme>
+  <programme start="20220531233000 +0300" stop="20220531233700 +0300" channel="BBC World">
+    <title lang="el">Le journal</title>
+    <desc lang="el">Actualité politique, info culture &amp; sports en France et à l'international.(c)</desc>
+  </programme>
+  <programme start="20220531233700 +0300" stop="20220531234200 +0300" channel="BBC World">
+    <title lang="el">Extrait magazine</title>
+    <desc lang="el">Extrait magazine.(c)</desc>
+  </programme>
+  <programme start="20220531234200 +0300" stop="20220531234500 +0300" channel="BBC World">
+    <title lang="el">Rappel des titres</title>
+    <desc lang="el">Rappel des titres.(c)</desc>
   </programme>
   <programme start="20220601004800 +0300" stop="20220601011500 +0300" channel="BBC World">
     <title lang="el">Le Journal De La RTS</title>
@@ -17155,7 +17179,7 @@
   </programme>
   <programme start="20220602000000 +0100" stop="20220602235900 +0100" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
   <programme start="20220526000000 +0100" stop="20220526235900 +0100" channel="ERT1.">
     <title lang="en">dummy program - Full Day Show</title>
@@ -17187,6 +17211,6 @@
   </programme>
   <programme start="20220602000000 +0100" stop="20220602235900 +0100" channel="ERT1.">
     <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
 </tv>
