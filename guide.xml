@@ -5847,8 +5847,8 @@
     <desc lang="el">Εκπομπή με τον Κώστα Χαρδαβέλα.</desc>
   </programme>
   <programme start="20220610191500 +0300" stop="20220610205000 +0300" channel="BLUE SKY">
-    <title lang="el">[K8] Εσένα Μόνο Αγαπώ</title>
-    <desc lang="el">Ελληνική ταινία.</desc>
+    <title lang="el">[K8] Μόνο Εσένα Αγαπώ</title>
+    <desc lang="el">Ελληνική ταινία. Η γνωριμία μιας δημοσιογράφου με έναν λαϊκό τραγουδιστή γίνεται αφορμή για μια φιλονικία, στην πορεία όμως γίνεται ένας μεγάλος έρωτας... Θα καταφέρουν να ξεπεράσουν τα κοινωνικά εμπόδια; Παίζουν: Νίκος Ξανθόπουλος, Δώρα Συτζάνη.(c)</desc>
   </programme>
   <programme start="20220610205000 +0300" stop="20220610214500 +0300" channel="BLUE SKY">
     <title lang="el">[K] Κεντρικό Δελτίο Ειδήσεων</title>
@@ -7410,33 +7410,21 @@
     <title lang="el">[K8] Εκπομπές Τηλεοπτικών Αγορών</title>
     <desc lang="el">Παρακολουθήστε τον πιο έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές, υπόσχονται να αλλάξουν τη ζωή σας.</desc>
   </programme>
-  <programme start="20220613180000 +0300" stop="20220613185500 +0300" channel="KONTRA CHANNEL">
+  <programme start="20220613180000 +0300" stop="20220613190000 +0300" channel="KONTRA CHANNEL">
     <title lang="el">[K8] Οίκο Ζην</title>
-    <desc lang="el">Η εκπομπή παρουσιάζει θέματα που αφορούν την υγεία και την οικολογία. Παρουσίαση: Κωνσταντίνος Παπανικόλας (ΤΠ).</desc>
+    <desc lang="el">Η εκπομπή παρουσιάζει θέματα που αφορούν την υγεία και την οικολογία. Παρουσίαση: Κωνσταντίνος Παπανικόλας (ΤΠ).(c)</desc>
   </programme>
-  <programme start="20220613185500 +0300" stop="20220613190500 +0300" channel="KONTRA CHANNEL">
-    <title lang="el">[K8] Kontra News: Νοηματικό Δελτίο</title>
-    <desc lang="el">Kontra News στη νοηματική με την Βάσω Μπούρα.Μεταφράστρια Νοηματικής: Ευγενία Γαλάνη.</desc>
-  </programme>
-  <programme start="20220613190500 +0300" stop="20220613210000 +0300" channel="KONTRA CHANNEL">
-    <title lang="el">[K8] Επί Του Πιεστηρίου</title>
-    <desc lang="el">Κάθε απόγευμα, λίγο μετά τις 19.00, ο Γιώργος Σιαδήμας και ο Βασίλης Σκουρής υποδέχονται κορυφαίους υπουργούς, στελέχη της αντιπολίτευσης, τεχνοκράτες και ειδικούς για ουσιαστικές συζητήσεις «ΕΠΙ ΤΟΥ ΠΙΕΣΤΗΡΙΟΥ».</desc>
-  </programme>
-  <programme start="20220613210000 +0300" stop="20220613220000 +0300" channel="KONTRA CHANNEL">
-    <title lang="el">[K8] Western</title>
-    <desc lang="el">Κάθε Δευτέρα έως Πέμπτη στις 21.00, ο Πάνος Παναγιωτόπουλος σας αποκαλύπτει όλα εκείνα που σας κρύβουν οι άλλοι.</desc>
-  </programme>
-  <programme start="20220613220000 +0300" stop="20220614000000 +0300" channel="KONTRA CHANNEL">
-    <title lang="el">[K8] Kontra News 10: Βραδινό Δελτίο Ειδήσεων</title>
-    <desc lang="el">Τα γεγονότα, το παρασκήνιο, η ανάλυση, οι αποκλειστικές πληροφορίες, τα σχόλια, οι συνεντεύξεις με τους πρωταγωνιστές της επικαιρότητας είναι εδώ! Με βασικό σημείο ενδιαφέροντος την έγκαιρη και έγκυρη ενημέρωση και με θεματολογία που αφορά σε όλη την Ελλάδα, κάθε βράδυ, Δευτέρα με Παρασκευή, από τις 22.00 και για δύο ολόκληρες ώρες, στο Κεντρικό Δελτίο Ειδήσεων του Kontra με τον Γιώργο Μελιγγώνη.</desc>
-  </programme>
-  <programme start="20220614000000 +0300" stop="20220614020000 +0300" channel="KONTRA CHANNEL">
-    <title lang="el">[K8] Kontra 24</title>
-    <desc lang="el">Η Αναστασία Γιάμαλη μαζί με το δυναμικό τεχνικό και δημοσιογραφικό επιτελείο του KONTRA24, μας φέρνουν αντιμέτωπους με τα πραγματικά προβλήματα της κοινωνίας. Πολιτικές αναλύσεις, ουσιαστικές συζητήσεις, έντονες αντιπαραθέσεις, διεισδυτικές συνεντεύξεις με τους πρωταγωνιστές της επικαιρότητας, και πάνω απ' όλα εναλλακτική και αδέσμευτη ενημέρωση. Μαζί της ο Σπύρος Σουρμελίδης.</desc>
-  </programme>
-  <programme start="20220614020000 +0300" stop="20220614060000 +0300" channel="KONTRA CHANNEL">
+  <programme start="20220613190000 +0300" stop="20220613220000 +0300" channel="KONTRA CHANNEL">
     <title lang="el">[K8] Εκπομπές Τηλεοπτικών Αγορών</title>
-    <desc lang="el">Παρακολουθήστε τον πιο έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές, υπόσχονται να αλλάξουν τη ζωή σας.</desc>
+    <desc lang="el">Παρακολουθήστε τον πιο έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές, υπόσχονται να αλλάξουν τη ζωή σας.(c)</desc>
+  </programme>
+  <programme start="20220613220000 +0300" stop="20220613230000 +0300" channel="KONTRA CHANNEL">
+    <title lang="el">[K8] Kontra News 10: Βραδινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Τα γεγονότα, το παρασκήνιο, η ανάλυση, οι αποκλειστικές πληροφορίες, τα σχόλια, οι συνεντεύξεις με τους πρωταγωνιστές της επικαιρότητας είναι εδώ! Με βασικό σημείο ενδιαφέροντος την έγκαιρη και έγκυρη ενημέρωση και με θεματολογία που αφορά σε όλη την Ελλάδα, κάθε βράδυ, Δευτέρα με Παρασκευή, από τις 22.00 και για δύο ολόκληρες ώρες, στο Κεντρικό Δελτίο Ειδήσεων του Kontra με τον Κωνσταντίνο Μαραβελίδη.(c)</desc>
+  </programme>
+  <programme start="20220613230000 +0300" stop="20220614060000 +0300" channel="KONTRA CHANNEL">
+    <title lang="el">[K8] Εκπομπές Τηλεοπτικών Αγορών</title>
+    <desc lang="el">Παρακολουθήστε τον πιο έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές, υπόσχονται να αλλάξουν τη ζωή σας.(c)</desc>
   </programme>
   <programme start="20220614060000 +0300" stop="20220614100000 +0300" channel="KONTRA CHANNEL">
     <title lang="el">[K8] Εκπομπές Τηλεοπτικών Αγορών</title>
@@ -17393,9 +17381,13 @@
     <title lang="el">Criminal Minds Κ12 ΕΠ6</title>
     <desc lang="el">Η ομάδα καλείται να βρει τρία παιδιά που εξαφανίστηκαν ενώ έκαναν βόλτα με τα ποδήλατα και μπορεί να συνδέονται με ένα ανεξιχνίαστο έγκλημα που έγινε πριν 30 χρόνια. Πρωταγωνιστούν: Joe Mantegna,Matthew Gray Gubler,AJ Cook,Kirsten Vangsness,Aisha Tyler. (2016).</desc>
   </programme>
-  <programme start="20220611053500 +0300" stop="20220611062000 +0300" channel="RIK">
+  <programme start="20220611053500 +0300" stop="20220611060000 +0300" channel="RIK">
     <title lang="el">How I Met Your Mother Κ1 ΕΠ17</title>
-    <desc lang="el">Ο Τed προσπαθεί να κρατήσει τη σχέση με την Victoria εξ' αποστάσεως. Όταν η Victoria του λέει πως πρέπει να μιλήσουν, ο Ted είναι σίγουρος ότι θέλει να τον χωρίσει. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2005).</desc>
+    <desc lang="el">Ο Τed προσπαθεί να κρατήσει τη σχέση με την Victoria εξ' αποστάσεως. Όταν η Victoria του λέει πως πρέπει να μιλήσουν, ο Ted είναι σίγουρος ότι θέλει να τον χωρίσει. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2005).(c)</desc>
+  </programme>
+  <programme start="20220611060000 +0300" stop="20220611062000 +0300" channel="RIK">
+    <title lang="el">Rules of Engagement Κ2 ΕΠ2</title>
+    <desc lang="el">Όταν ο Russell ανακαλύπτει ότι η αδερφή της Audrey, Μπάρμπαρα, έχει προβλήματα στο γάμο της, την βγάζει έξω γεγονός που εξοργίζει την Audrey. Πρωταγωνιστούν: Megyn Price,Patrick Warburton. (2007).(c)</desc>
   </programme>
   <programme start="20220611062000 +0300" stop="20220611064500 +0300" channel="RIK">
     <title lang="el">Rules of Engagement Κ2 ΕΠ2</title>
@@ -17409,49 +17401,49 @@
     <title lang="el">Rules of Engagement Κ2 ΕΠ4</title>
     <desc lang="el">Ο νέος φίλος του Jeff απάτησε τη γυναίκα του και, όταν η Audrey θέλει να μάθει τι έγινε, ο Jeff της μαθαίνει την έννοια του κώδικα των ανδρών και της ζητάει να μην ανακατεύτεται, υποστηρίζοντας ότι είναι "αντρικό ζήτημα". Πρωταγωνιστούν: Megyn Price,Patrick Warburton. (2007).</desc>
   </programme>
-  <programme start="20220611073000 +0300" stop="20220611075500 +0300" channel="RIK">
-    <title lang="el">Rules of Engagement Κ2 ΕΠ5</title>
-    <desc lang="el">Ο Jeff αισθάνεται παραμελειμένος όταν ο Russell και ο Adam μιλάνε για τη σεξουαλική τους ζωή, και προσπαθεί να πείσει την Audrey να είναι πιο "δημιουργικοί" στην κρεβατοκάμαρα για να έχει και αυτός να μοιραστεί με τα παιδιά "πικάντικες" ιστορίες. Πρωταγωνιστούν: Megyn Price,Patrick Warburton. (2007).</desc>
-  </programme>
-  <programme start="20220611075500 +0300" stop="20220611081500 +0300" channel="RIK">
+  <programme start="20220611073000 +0300" stop="20220611075000 +0300" channel="RIK">
     <title lang="el">Rules of Engagement Κ2 ΕΠ6</title>
-    <desc lang="el">Η Audrey ανησυχεί ότι ο Jeff θα πιεί πάρα πολύ και θα γίνει ρεζίλι, όταν εκείνος προτιμά αποφεύγοντας ένα γάμο, να περάσει τη βραδιά στην πόλη με τους φίλους του, σε μία συγκέντρωση του παλιού του σχολείου. Πρωταγωνιστούν: Megyn Price,Patrick Warburton. (2007).</desc>
+    <desc lang="el">Η Audrey ανησυχεί ότι ο Jeff θα πιεί πάρα πολύ και θα γίνει ρεζίλι, όταν εκείνος προτιμά αποφεύγοντας ένα γάμο, να περάσει τη βραδιά στην πόλη με τους φίλους του, σε μία συγκέντρωση του παλιού του σχολείου. Πρωταγωνιστούν: Megyn Price,Patrick Warburton. (2007).(c)</desc>
   </programme>
-  <programme start="20220611081500 +0300" stop="20220611084000 +0300" channel="RIK">
+  <programme start="20220611075000 +0300" stop="20220611081500 +0300" channel="RIK">
     <title lang="el">Rules of Engagement Κ2 ΕΠ7</title>
-    <desc lang="el">Οταν η Barbara επιστρέφει στην πόλη και ανακοινώνει ότι παίρνει διαζύγιο από το σύζυγό της, ο Russell είναι πεπεισμένος ότι τελικά θα ανταποκριθεί στο φλερτάρισμά του. Πρωταγωνιστούν: Megyn Price,Patrick Warburton. (2007).</desc>
+    <desc lang="el">Οταν η Barbara επιστρέφει στην πόλη και ανακοινώνει ότι παίρνει διαζύγιο από το σύζυγό της, ο Russell είναι πεπεισμένος ότι τελικά θα ανταποκριθεί στο φλερτάρισμά του. Πρωταγωνιστούν: Megyn Price,Patrick Warburton. (2007).(c)</desc>
   </programme>
-  <programme start="20220611084000 +0300" stop="20220611090000 +0300" channel="RIK">
+  <programme start="20220611081500 +0300" stop="20220611083500 +0300" channel="RIK">
     <title lang="el">Rules of Engagement Κ2 ΕΠ8</title>
-    <desc lang="el">Οι φόβοι του Jeff για τα "προξενιά" γίνονται πραγματικότητα όταν η Audrey και η Jennifer προσπαθούν να προξενέψουν δύο φίλους τους. Πρωταγωνιστούν: Megyn Price,Patrick Warburton. (2007).</desc>
+    <desc lang="el">Οι φόβοι του Jeff για τα "προξενιά" γίνονται πραγματικότητα όταν η Audrey και η Jennifer προσπαθούν να προξενέψουν δύο φίλους τους. Πρωταγωνιστούν: Megyn Price,Patrick Warburton. (2007).(c)</desc>
   </programme>
-  <programme start="20220611090000 +0300" stop="20220611092500 +0300" channel="RIK">
+  <programme start="20220611083500 +0300" stop="20220611090000 +0300" channel="RIK">
     <title lang="el">Rules of Engagement Κ2 ΕΠ9</title>
-    <desc lang="el">Όταν η Audrey μαθαίνει ότι η Fay, η μητέρα του Adam, θα επισκεφθεί την Jennifer την προειδοποεί για τις επικριτικές τάσεις που έχουν οι πεθερές. Πρωταγωνιστούν: Megyn Price,Patrick Warburton. (2007).</desc>
+    <desc lang="el">Όταν η Audrey μαθαίνει ότι η Fay, η μητέρα του Adam, θα επισκεφθεί την Jennifer την προειδοποεί για τις επικριτικές τάσεις που έχουν οι πεθερές. Πρωταγωνιστούν: Megyn Price,Patrick Warburton. (2007).(c)</desc>
   </programme>
-  <programme start="20220611092500 +0300" stop="20220611095000 +0300" channel="RIK">
+  <programme start="20220611090000 +0300" stop="20220611092000 +0300" channel="RIK">
     <title lang="el">Rules of Engagement Κ2 ΕΠ10</title>
-    <desc lang="el">Ο Adam και η Jennifer συμφωνούν να φύγουν για διακοπές με τον Jeff και την Audrey παρόλο που θα πρέπει να κάτσουν και να ακούσουν τον εκπρόσωπο της εταιρίας που προσπαθεί να τους πουλήσει το ταξίδι. Πρωταγωνιστούν: Megyn Price,Patrick Warburton. (2007).</desc>
+    <desc lang="el">Ο Adam και η Jennifer συμφωνούν να φύγουν για διακοπές με τον Jeff και την Audrey παρόλο που θα πρέπει να κάτσουν και να ακούσουν τον εκπρόσωπο της εταιρίας που προσπαθεί να τους πουλήσει το ταξίδι. Πρωταγωνιστούν: Megyn Price,Patrick Warburton. (2007).(c)</desc>
   </programme>
-  <programme start="20220611095000 +0300" stop="20220611103500 +0300" channel="RIK">
+  <programme start="20220611092000 +0300" stop="20220611094000 +0300" channel="RIK">
     <title lang="el">Rules of Engagement Κ2 ΕΠ11</title>
-    <desc lang="el">Ο Adam και η Jennifer συνειδητοποιούν ότι να ζουν και να δουλεύουν μαζί δε πρέπει να επηρεάζει την επαγγελματική τους σχέση. Πρωταγωνιστούν: Megyn Price,Patrick Warburton. (2007).</desc>
+    <desc lang="el">Ο Adam και η Jennifer συνειδητοποιούν ότι να ζουν και να δουλεύουν μαζί δε πρέπει να επηρεάζει την επαγγελματική τους σχέση. Πρωταγωνιστούν: Megyn Price,Patrick Warburton. (2007).(c)</desc>
   </programme>
-  <programme start="20220611103500 +0300" stop="20220611112000 +0300" channel="RIK">
+  <programme start="20220611094000 +0300" stop="20220611103000 +0300" channel="RIK">
     <title lang="el">The Amazing Race Κ30 ΕΠ4</title>
-    <desc lang="el">Μία ομάδα προσπαθεί να παραμείνει στο παιχνίδι όταν δεν καταφέρνει να διαβάσει το στοιχείο που της δόθηκε και οι ομάδες έρχονται αντιμέτωπες μία προς μία για δεύτερη φορά στη σεζόν. Πρωταγωνιστούν: Phil Keoghan. (2018).</desc>
+    <desc lang="el">Μία ομάδα προσπαθεί να παραμείνει στο παιχνίδι όταν δεν καταφέρνει να διαβάσει το στοιχείο που της δόθηκε και οι ομάδες έρχονται αντιμέτωπες μία προς μία για δεύτερη φορά στη σεζόν. Πρωταγωνιστούν: Phil Keoghan. (2018).(c)</desc>
+  </programme>
+  <programme start="20220611103000 +0300" stop="20220611112000 +0300" channel="RIK">
+    <title lang="el">The Amazing Race Κ30 ΕΠ5</title>
+    <desc lang="el">Μια ομάδα προσπαθεί να παραμείνει στον αγώνα μετά από μια αποτυχία και οι ομάδες έρχονται αντιμέτωπες μία προς μία για δεύτερη φορά στη σεζόν. Πρωταγωνιστούν: Phil Keoghan. (2018).(c)</desc>
   </programme>
   <programme start="20220611112000 +0300" stop="20220611120500 +0300" channel="RIK">
     <title lang="el">The Amazing Race Κ30 ΕΠ5</title>
     <desc lang="el">Μια ομάδα προσπαθεί να παραμείνει στον αγώνα μετά από μια αποτυχία και οι ομάδες έρχονται αντιμέτωπες μία προς μία για δεύτερη φορά στη σεζόν. Πρωταγωνιστούν: Phil Keoghan. (2018).</desc>
   </programme>
-  <programme start="20220611120500 +0300" stop="20220611125000 +0300" channel="RIK">
-    <title lang="el">The Amazing Race Κ30 ΕΠ6</title>
-    <desc lang="el">Το ρίσκο είναι μεγάλο όταν οι ομάδες αντιμετωπίζουν την τρομερή αναστροφή και οι racers πασχίζουν να περιπλανηθούν στους δρόμους της Πράγας ενώ παραδίδουν βαρέλια σε ένα πάρτι ντόπιων. Πρωταγωνιστούν: Phil Keoghan. (2018).</desc>
-  </programme>
-  <programme start="20220611125000 +0300" stop="20220611133000 +0300" channel="RIK">
+  <programme start="20220611120500 +0300" stop="20220611124500 +0300" channel="RIK">
     <title lang="el">NCIS: New Orleans Κ2 ΕΠ9</title>
-    <desc lang="el">Στη διάρκεια διακοπής ρεύματος σε όλη την πόλη που δυσκολεύει την αστυνομία και τις ομάδες έκτακτης ανάγκης, ο Pride ορκίζεται να λύσει τη δολοφονία του αρραβωνιαστικού μιας οικογενειακής φίλης. Πρωταγωνιστούν: Scott Bakula,Lucas Black,Zoe McLellan,Rob Kerkovich. (2015).</desc>
+    <desc lang="el">Στη διάρκεια διακοπής ρεύματος σε όλη την πόλη που δυσκολεύει την αστυνομία και τις ομάδες έκτακτης ανάγκης, ο Pride ορκίζεται να λύσει τη δολοφονία του αρραβωνιαστικού μιας οικογενειακής φίλης. Πρωταγωνιστούν: Scott Bakula,Lucas Black,Zoe McLellan,Rob Kerkovich. (2015).(c)</desc>
+  </programme>
+  <programme start="20220611124500 +0300" stop="20220611133000 +0300" channel="RIK">
+    <title lang="el">NCIS: New Orleans Κ2 ΕΠ10</title>
+    <desc lang="el">Η δολοφονία ενός αξιωματικού του Ναυτικού παρέχει νέα στοιχεία για την πρώτη υπόθεση στην οποία συνεργάστηκαν οι Pride και LaSalle, λίγο πριν η πόλη χτυπηθεί από τον τυφώνα Katrina και εξαφανίσει όλα τα αποδεικτικά στοιχεία. Πρωταγωνιστούν: Scott Bakula,Lucas Black,Zoe McLellan,Rob Kerkovich. (2015).(c)</desc>
   </programme>
   <programme start="20220611133000 +0300" stop="20220611141500 +0300" channel="RIK">
     <title lang="el">NCIS: New Orleans Κ2 ΕΠ10</title>
@@ -17465,25 +17457,25 @@
     <title lang="el">NCIS: Los Angeles Κ10 ΕΠ21</title>
     <desc lang="el">Η Anna Kolcheck δραπετεύει από τη φυλακή με τη συγκρατούμενή της. Ο Callen και η ομάδα βοηθούν στην έρευνα και την αναζητούν. Πρωταγωνιστούν: Chris O'Donnell,Daniela Ruah,Barrett Foa,Eric Christian Olsen. (2018).</desc>
   </programme>
-  <programme start="20220611154500 +0300" stop="20220611163000 +0300" channel="RIK">
-    <title lang="el">NCIS: Los Angeles Κ10 ΕΠ22</title>
-    <desc lang="el">Η ομάδα ταξιδεύει στην Κούβα για μια μη εγκεκριμένη αποστολή όταν ο Callen λαμβάνει ένα στοιχείο για το πού μπορεί να βρίσκεται η Anna Kolcheck. Πρωταγωνιστούν: Chris O'Donnell,Daniela Ruah,Barrett Foa,Eric Christian Olsen. (2018).</desc>
-  </programme>
-  <programme start="20220611163000 +0300" stop="20220611171500 +0300" channel="RIK">
+  <programme start="20220611154500 +0300" stop="20220611162500 +0300" channel="RIK">
     <title lang="el">NCIS: Los Angeles Κ10 ΕΠ23</title>
-    <desc lang="el">Οι Callen και Sam ταξιδεύουν στο USS Allegiance στον Περσικό Κόλπο για να συνεργαστούν με τον Υποπλοίαρχο Harmon 'Harm' Rabb Jr. όταν η ομάδα ανακαλύπτει οπαδούς του ISIS, οι οποίοι στοχοποιούν στρατιωτικές τοποθεσίες. Πρωταγωνιστούν: Chris O'Donnell,Daniela Ruah,Barrett Foa,Eric Christian Olsen. (2018).</desc>
+    <desc lang="el">Οι Callen και Sam ταξιδεύουν στο USS Allegiance στον Περσικό Κόλπο για να συνεργαστούν με τον Υποπλοίαρχο Harmon 'Harm' Rabb Jr. όταν η ομάδα ανακαλύπτει οπαδούς του ISIS, οι οποίοι στοχοποιούν στρατιωτικές τοποθεσίες. Πρωταγωνιστούν: Chris O'Donnell,Daniela Ruah,Barrett Foa,Eric Christian Olsen. (2018).(c)</desc>
   </programme>
-  <programme start="20220611171500 +0300" stop="20220611175500 +0300" channel="RIK">
+  <programme start="20220611162500 +0300" stop="20220611171000 +0300" channel="RIK">
     <title lang="el">NCIS: Los Angeles Κ10 ΕΠ24</title>
-    <desc lang="el">Στο φινάλε του 10ου κύκλου, οι Callen και Sam συνεργάζονται με τον Υποπλοίαρχο Harmon 'Harm' Rabb Jr. για να εντοπίσουν οπαδούς του ISIS πάνω στο USS Allegiance. Πρωταγωνιστούν: Chris O'Donnell,Daniela Ruah,Barrett Foa,Eric Christian Olsen. (2018).</desc>
+    <desc lang="el">Στο φινάλε του 10ου κύκλου, οι Callen και Sam συνεργάζονται με τον Υποπλοίαρχο Harmon 'Harm' Rabb Jr. για να εντοπίσουν οπαδούς του ISIS πάνω στο USS Allegiance. Πρωταγωνιστούν: Chris O'Donnell,Daniela Ruah,Barrett Foa,Eric Christian Olsen. (2018).(c)</desc>
+  </programme>
+  <programme start="20220611171000 +0300" stop="20220611175500 +0300" channel="RIK">
+    <title lang="el">NCIS: Los Angeles Κ11 ΕΠ1</title>
+    <desc lang="el">Ο Callen και ο Sam συνεργάζονται με τον Πλοίαρχο Harmon Rabb Jr. για να συλλάβουν κατασκόπους στο πλοίο USS Allegiance. Επίσης, η Hetty επιχειρεί να εξουδετερώσει μια επίθεση με οβίδες στη Μέση Ανατολή. Πρωταγωνιστούν: Chris O'Donnell,LL COOL J,Linda Hunt,Daniela Ruah,Eric Christian Olsen. (2019).(c)</desc>
   </programme>
   <programme start="20220611175500 +0300" stop="20220611184000 +0300" channel="RIK">
-    <title lang="el">NCIS: Los Angeles Κ11 ΕΠ1</title>
-    <desc lang="el">Ο Callen και ο Sam συνεργάζονται με τον Πλοίαρχο Harmon Rabb Jr. για να συλλάβουν κατασκόπους στο πλοίο USS Allegiance. Επίσης, η Hetty επιχειρεί να εξουδετερώσει μια επίθεση με οβίδες στη Μέση Ανατολή. Πρωταγωνιστούν: Chris O'Donnell,LL COOL J,Linda Hunt,Daniela Ruah,Eric Christian Olsen. (2019).</desc>
+    <title lang="el">9-1-1 Κ5 ΕΠ14</title>
+    <desc lang="el">Η ομάδα 118 αναλαμβάνουν δράση όταν μια γυναίκα πέφτει από το μπαλκόνι του ρετιρέ της. Πρωταγωνιστούν: Angela Bassett,Peter Krause,Aisha Hinds,Kenneth Choi. (2021).(c)</desc>
   </programme>
   <programme start="20220611184000 +0300" stop="20220611190500 +0300" channel="RIK">
-    <title lang="el">09/01/01 Κ5 ΕΠ14</title>
-    <desc lang="el">Η ομάδα 118 αναλαμβάνουν δράση όταν μια γυναίκα πέφτει από το μπαλκόνι του ρετιρέ της. Πρωταγωνιστούν: Angela Bassett,Peter Krause,Aisha Hinds,Kenneth Choi. (2021).</desc>
+    <title lang="el">Rules of Engagement Κ2 ΕΠ2</title>
+    <desc lang="el">Όταν ο Russell ανακαλύπτει ότι η αδερφή της Audrey, Μπάρμπαρα, έχει προβλήματα στο γάμο της, την βγάζει έξω γεγονός που εξοργίζει την Audrey. Πρωταγωνιστούν: Megyn Price,Patrick Warburton. (2007).(c)</desc>
   </programme>
   <programme start="20220611190500 +0300" stop="20220611192500 +0300" channel="RIK">
     <title lang="el">Rules of Engagement Κ2 ΕΠ2</title>
@@ -17506,20 +17498,24 @@
     <desc lang="el">Η Audrey ανησυχεί ότι ο Jeff θα πιεί πάρα πολύ και θα γίνει ρεζίλι, όταν εκείνος προτιμά αποφεύγοντας ένα γάμο, να περάσει τη βραδιά στην πόλη με τους φίλους του, σε μία συγκέντρωση του παλιού του σχολείου. Πρωταγωνιστούν: Megyn Price,Patrick Warburton. (2007).</desc>
   </programme>
   <programme start="20220611210000 +0300" stop="20220611212500 +0300" channel="RIK">
-    <title lang="el">Rules of Engagement Κ2 ΕΠ7</title>
-    <desc lang="el">Οταν η Barbara επιστρέφει στην πόλη και ανακοινώνει ότι παίρνει διαζύγιο από το σύζυγό της, ο Russell είναι πεπεισμένος ότι τελικά θα ανταποκριθεί στο φλερτάρισμά του. Πρωταγωνιστούν: Megyn Price,Patrick Warburton. (2007).</desc>
+    <title lang="el">The Simpsons Κ33 ΕΠ1</title>
+    <desc lang="el">Ένα μιούζικαλ λαμβάνει χώρα στο Springfield καθώς η Marge οργανώνει την αναβίωση της αγαπημένης της σχολικής παράστασης - αλλά οι υπέροχες αναμνήσεις της απειλούνται από την επιστροφή ενός αντιπάλου από το παρελθόν. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (2021).(c)</desc>
   </programme>
   <programme start="20220611212500 +0300" stop="20220611215000 +0300" channel="RIK">
-    <title lang="el">The Simpsons Κ33 ΕΠ1</title>
-    <desc lang="el">Ένα μιούζικαλ λαμβάνει χώρα στο Springfield καθώς η Marge οργανώνει την αναβίωση της αγαπημένης της σχολικής παράστασης - αλλά οι υπέροχες αναμνήσεις της απειλούνται από την επιστροφή ενός αντιπάλου από το παρελθόν. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (2021).</desc>
+    <title lang="el">Bob's Burgers Κ12 ΕΠ1</title>
+    <desc lang="el">Η Louise πρέπει να πληρώσει το χρέος της στη MIllie πηγαίνοντας στον χορό Pixie Princess. Στο μεταξύ, ένα μπουκέτο σε σχήμα σκύλου αναγκάζει τη Linda να αντιμετωπίσει το παρελθόν της. Πρωταγωνιστούν: Dan Mintz,Eugene Mirman,H. Jon Benjamin,John Roberts,Kristen Schaal. (2021).(c)</desc>
   </programme>
   <programme start="20220611215000 +0300" stop="20220611223500 +0300" channel="RIK">
-    <title lang="el">Bob's Burgers Κ12 ΕΠ1</title>
-    <desc lang="el">Η Louise πρέπει να πληρώσει το χρέος της στη MIllie πηγαίνοντας στον χορό Pixie Princess. Στο μεταξύ, ένα μπουκέτο σε σχήμα σκύλου αναγκάζει τη Linda να αντιμετωπίσει το παρελθόν της. Πρωταγωνιστούν: Dan Mintz,Eugene Mirman,H. Jon Benjamin,John Roberts,Kristen Schaal. (2021).</desc>
+    <title lang="el">NCIS: Los Angeles Κ12 ΕΠ13</title>
+    <desc lang="el">Για να σώσει την Joelle από ακόμα περισσότερα βασανιστήρια από τους Ρώσους, ο Callen και η ομάδα NCIS πρέπει να δώσουν ως δόλωμα στην Katya την Anna. Επίσης, ο Callen επιτέλους ανακαλύπτει ποιος τον κατηγόρησε για Ρώσο πράκτορα. Πρωταγωνιστούν: Chris O'Donnell,LL Cool J,Linda Hunt,Daniela Ruah,Eric Christian Olsen,Barrett Foa. (2020).(c)</desc>
   </programme>
-  <programme start="20220611225500 +0300" stop="20220612001500 +0300" channel="RIK">
-    <title lang="el">The Evil Dead</title>
-    <desc lang="el">Πέντε εικοσάρηδες φίλοι βρίσκουν καταφύγιο σε μια απομονωμένη καλύβα όπου ανακαλύπτουν ένα Βιβλίο των Νεκρών και άθελά τους επικαλούνται κοιμώμενους δαίμονες που ζουν στο κοντινό δάσος. (1982) Σκηνοθεσία: Sam Raimi. Πρωταγωνιστούν: Bruce Campbell, Ellen Sandweiss, Hal Delrich, Richard DeManincor, Betsy Baker,. (1982).(c)</desc>
+  <programme start="20220611223500 +0300" stop="20220611231000 +0300" channel="RIK">
+    <title lang="el">Atlanta Κ3 ΕΠ8</title>
+    <desc lang="el">Ο Al και ο Darius περιφέρονται στο Άμστερνταμ. Καλά, εγώ μπορώ να φτιάξω καλύτερη σειρά. Πρωταγωνιστούν: Donald Glover,Brian Tyree Henry,Lakeith Stanfield,Zazie Beetz. (2022).(c)</desc>
+  </programme>
+  <programme start="20220611231000 +0300" stop="20220611233500 +0300" channel="RIK">
+    <title lang="el">Solar Opposites Κ2 ΕΠ8</title>
+    <desc lang="el">Ήρθε η ώρα για το φινάλε του κύκλου! Η παρέα μαθαίνει για τον θάνατο! Πρωταγωνιστούν: Justin Roiland,Thomas Middleditch,Sean Giambrone,Mary Mack. (2020).(c)</desc>
   </programme>
   <programme start="20220612001500 +0300" stop="20220612015000 +0300" channel="RIK">
     <title lang="el">Very Bad Things</title>
