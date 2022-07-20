@@ -33457,10 +33457,6 @@
     <title lang="el">Αποκλειστικά στην Cablenet</title>
     <desc lang="el">Αποκλειστικά στην Cablenet.</desc>
   </programme>
-  <programme start="20220720000000 +0100" stop="20220720235900 +0100" channel="ERT NEWS">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
-  </programme>
   <programme start="20220721000000 +0100" stop="20220721235900 +0100" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
@@ -33489,9 +33485,9 @@
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
-  <programme start="20220720000000 +0100" stop="20220720235900 +0100" channel="ERT1.">
+  <programme start="20220728000000 +0100" stop="20220728235900 +0100" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
   </programme>
   <programme start="20220721000000 +0100" stop="20220721235900 +0100" channel="ERT1.">
     <title lang="en">dummy program - Full Day Show</title>
@@ -33520,5 +33516,9 @@
   <programme start="20220727000000 +0100" stop="20220727235900 +0100" channel="ERT1.">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
+  </programme>
+  <programme start="20220728000000 +0100" stop="20220728235900 +0100" channel="ERT1.">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
   </programme>
 </tv>
