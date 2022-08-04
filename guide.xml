@@ -34456,13 +34456,13 @@
     <title lang="el">MOTORVISION</title>
     <desc lang="el">MOTORVISION.(c)</desc>
   </programme>
-  <programme start="20220809223000 +0300" stop="20220810001500 +0300" channel="BBC World">
-    <title lang="el">HCB Karvina - Sabbianco Ανόρθωση 4/12/21 (E)</title>
-    <desc lang="el">EHF Ευρωπαικό Κυπελλο 2021-22.(c)</desc>
-  </programme>
   <programme start="20220809214500 +0300" stop="20220809234500 +0300" channel="BBC World">
     <title lang="el">BRADFORD CITY - HULL CITY (Z)</title>
     <desc lang="el">EFL CARABAO CUP 2022-23.(c)</desc>
+  </programme>
+  <programme start="20220809223000 +0300" stop="20220810001500 +0300" channel="BBC World">
+    <title lang="el">HCB Karvina - Sabbianco Ανόρθωση 4/12/21 (E)</title>
+    <desc lang="el">EHF Ευρωπαικό Κυπελλο 2021-22.(c)</desc>
   </programme>
   <programme start="20220810001500 +0300" stop="20220810010000 +0300" channel="BBC World">
     <title lang="el">FIBA Παγκόσμιο Μπασκετ # 864 03/08/22 (E)</title>
@@ -34562,7 +34562,7 @@
   </programme>
   <programme start="20220811000000 +0100" stop="20220811235900 +0100" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
   <programme start="20220804000000 +0100" stop="20220804235900 +0100" channel="ERT1.">
     <title lang="en">dummy program - Full Day Show</title>
@@ -34594,6 +34594,6 @@
   </programme>
   <programme start="20220811000000 +0100" stop="20220811235900 +0100" channel="ERT1.">
     <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
 </tv>
