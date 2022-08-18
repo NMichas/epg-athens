@@ -12348,13 +12348,6 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20220822000000 +0300" stop="20220822010000 +0300" channel="ART">
-    <title lang="el">[K8] Εγέρθητι</title>
-    <desc lang="el">Πολιτική εκπομπή με τον Κωστή Αϊβαλιωτη.(r)</desc>
-    <rating system="GR">
-      <value>5</value>
-    </rating>
-  </programme>
   <programme start="20220822010000 +0300" stop="20220822020000 +0300" channel="ART">
     <title lang="el">[K8] Τα Εν Δήμω</title>
     <desc lang="el">Ενημερωτική εκπομπή για τις δράσεις και τα έργα της τοπικής αυτοδιοίκησης με τη Δήμητρα Κούτρα.</desc>
@@ -16944,14 +16937,6 @@
       <value>0</value>
     </rating>
   </programme>
-  <programme start="20220822000000 +0300" stop="20220822003000 +0300" channel="CHANNEL 9">
-    <title lang="el">[K8] Άστρα Εν Τάξει</title>
-    <desc lang="el">Εβδομαδιαία αστρολογική εκπομπή με τη Βάσια Κόντη.(r)</desc>
-    <episode-num system="onscreen">S7</episode-num>
-    <rating system="GR">
-      <value>5</value>
-    </rating>
-  </programme>
   <programme start="20220822003000 +0300" stop="20220822030000 +0300" channel="CHANNEL 9">
     <title lang="el">[K8] Ζώνη Τηλεπωλήσεων</title>
     <desc lang="el">Παρακολουθήστε τον πιο έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές.</desc>
@@ -17462,13 +17447,6 @@
   <programme start="20220822210000 +0300" stop="20220822000000 +0300" channel="AE CHANNEL">
     <title lang="el">[K] Η Αγορά Σήμερα</title>
     <desc lang="el">Εκπομπή.</desc>
-    <rating system="GR">
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20220822000000 +0300" stop="20220822063000 +0300" channel="AE CHANNEL">
-    <title lang="el">[K] Η Αγορά Σήμερα</title>
-    <desc lang="el">Εκπομπή.(r)</desc>
     <rating system="GR">
       <value>0</value>
     </rating>
@@ -33124,9 +33102,9 @@
     <title lang="el">Marketplace Middle East ΕΠ10</title>
     <desc lang="el">Marketplace Middle East (2022).</desc>
   </programme>
-  <programme start="20220820232700 +0300" stop="20220821010000 +0300" channel="BBC World">
-    <title lang="el">The Orchestre de la Suisse Romande, Xavier Philipps and Jonathan Nott</title>
-    <desc lang="el">Orchestre de de la Suisse Romande, Jonathan Nott (conductor), Xavier Philipps (cello). Antonín Dvořák (1841 - 1904): Concerto for cello and orchestra in B minor, op. 104. Richard Strauss (1864 - 1949): Ein Heldenleben, op. 40. Recorded on May 8, 2018 at the Teatro Colón, Buenos Aires Directed by Andy Sommer. Σκηνοθεσία: Andy Sommer. (2018).(c)</desc>
+  <programme start="20220820231500 +0300" stop="20220820233000 +0300" channel="BBC World">
+    <title lang="el">Marketplace Asia ΕΠ14</title>
+    <desc lang="el">E-commerce entrepreneurs in California cater to the Asian-American consumer missing a taste of home; investors in Silicon Valley look to South East Asia for the next unicorn. (2022).(c)</desc>
   </programme>
   <programme start="20220821010000 +0300" stop="20220821030000 +0300" channel="BBC World">
     <title lang="el">InterMezzo</title>
@@ -33478,7 +33456,7 @@
   </programme>
   <programme start="20220825000000 +0100" stop="20220825235900 +0100" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
   <programme start="20220818000000 +0100" stop="20220818235900 +0100" channel="ERT1.">
     <title lang="en">dummy program - Full Day Show</title>
@@ -33510,6 +33488,6 @@
   </programme>
   <programme start="20220825000000 +0100" stop="20220825235900 +0100" channel="ERT1.">
     <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
 </tv>
