@@ -12348,13 +12348,6 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20220822010000 +0300" stop="20220822020000 +0300" channel="ART">
-    <title lang="el">[K8] Τα Εν Δήμω</title>
-    <desc lang="el">Ενημερωτική εκπομπή για τις δράσεις και τα έργα της τοπικής αυτοδιοίκησης με τη Δήμητρα Κούτρα.</desc>
-    <rating system="GR">
-      <value>5</value>
-    </rating>
-  </programme>
   <programme start="20220822020000 +0300" stop="20220822030000 +0300" channel="ART">
     <title lang="el">[K8] Τα Νέα Της Αγοράς</title>
     <desc lang="el">Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας.</desc>
@@ -16935,13 +16928,6 @@
     <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα του Channel 9.</desc>
     <rating system="GR">
       <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20220822003000 +0300" stop="20220822030000 +0300" channel="CHANNEL 9">
-    <title lang="el">[K8] Ζώνη Τηλεπωλήσεων</title>
-    <desc lang="el">Παρακολουθήστε τον πιο έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές.</desc>
-    <rating system="GR">
-      <value>5</value>
     </rating>
   </programme>
   <programme start="20220822030000 +0300" stop="20220822040000 +0300" channel="CHANNEL 9">
@@ -33104,7 +33090,7 @@
   </programme>
   <programme start="20220820231500 +0300" stop="20220820233000 +0300" channel="BBC World">
     <title lang="el">Marketplace Asia ΕΠ14</title>
-    <desc lang="el">E-commerce entrepreneurs in California cater to the Asian-American consumer missing a taste of home; investors in Silicon Valley look to South East Asia for the next unicorn. (2022).(c)</desc>
+    <desc lang="el">E-commerce entrepreneurs in California cater to the Asian-American consumer missing a taste of home; investors in Silicon Valley look to South East Asia for the next unicorn. (2022).</desc>
   </programme>
   <programme start="20220821010000 +0300" stop="20220821030000 +0300" channel="BBC World">
     <title lang="el">InterMezzo</title>
