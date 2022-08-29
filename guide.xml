@@ -9747,13 +9747,6 @@
       <value>0</value>
     </rating>
   </programme>
-  <programme start="20220829045000 +0300" stop="20220829063000 +0300" channel="ART TV">
-    <title lang="el">[K8] Ντοκυμαντέρ</title>
-    <desc lang="el">Η φύση, η κοινωνία, η τεχνολογία. Ένας κόσμος γνώσεων σε τηλεοπτική μεταφορά.</desc>
-    <rating system="GR">
-      <value>5</value>
-    </rating>
-  </programme>
   <programme start="20220829063000 +0300" stop="20220829071500 +0300" channel="ART TV">
     <title lang="el">[K] Κεντρικό Δελτίο Ειδήσεων</title>
     <desc lang="el">Δελτίο ειδήσεων με έγκριτους και καταξιωμένους δημοσιογράφους και σχολιαστές που φωτίζει κάθε πτυχή της επικαιρότητας.</desc>
@@ -9784,7 +9777,14 @@
   </programme>
   <programme start="20220829034500 +0300" stop="20220829045000 +0300" channel="ART TV">
     <title lang="el">[K8] Όλο Υγεία</title>
-    <desc lang="el">Με τη Μάρα Χαρμαντά.(n)</desc>
+    <desc lang="el">Με τη Μάρα Χαρμαντά.</desc>
+    <rating system="GR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220829045000 +0300" stop="20220829063000 +0300" channel="ART TV">
+    <title lang="el">[K8] Ντοκυμαντέρ</title>
+    <desc lang="el">Η φύση, η κοινωνία, η τεχνολογία. Ένας κόσμος γνώσεων σε τηλεοπτική μεταφορά.(n)</desc>
     <rating system="GR">
       <value>5</value>
     </rating>
@@ -10844,7 +10844,7 @@
   </programme>
   <programme start="20220829053000 +0300" stop="20220829060000 +0300" channel="ETV">
     <title lang="el">[K8] Νυχτερινή Ζώνη Τηλεπωλήσεων Β'</title>
-    <desc lang="el">Εκπομπή τηλεπωλήσεων.(n)</desc>
+    <desc lang="el">Εκπομπή τηλεπωλήσεων.</desc>
     <rating system="GR">
       <value>5</value>
     </rating>
@@ -33308,9 +33308,9 @@
     <title lang="el">Hot Right Now!</title>
     <desc lang="el">We bring you the very hottest music videos in the world right now, alongside some scorching live performances!</desc>
   </programme>
-  <programme start="20220830225800 +0300" stop="20220830234200 +0300" channel="BBC World">
-    <title lang="el">MTV World Stage Κ3 ΕΠ24</title>
-    <desc lang="el">MTV World Stage is your chance to see the biggest artists on the globe live in concert without leaving the comfort of your sofa. (2015).(c)</desc>
+  <programme start="20220830234000 +0300" stop="20220831003000 +0300" channel="BBC World">
+    <title lang="el">Πες Ναι στο Νυφικό: Λάνκασιρ Κ2 ΕΠ6</title>
+    <desc lang="el">Η Τζες θέλει νυφικό ίδιο με εκείνο που είδε στο ίντερνετ αλλά δεν είναι διαθέσιμο. Η Νατάσα θέλει νυφικό με τιράντες, όμως η μαμά νομίζει ότι τα τατουάζ θα κλέψουν την παράσταση! (2019).(c)</desc>
   </programme>
   <programme start="20220831003000 +0300" stop="20220831011500 +0300" channel="BBC World">
     <title lang="el">Γρήγορα στη δερματολόγο: αναπάντεχα περιστατικά Κ4 ΕΠ5</title>
@@ -33448,9 +33448,9 @@
     <title lang="el">Μικροσκοπικοί άνθρωποι, μεγάλος κόσμος Κ15 ΕΠ7</title>
     <desc lang="el">Έιμι και Κρις επισκέπτονται τον Ματ και την Κάριν στην Αριζόνα και οδηγούν σε δύσβατες διαδρομές. Ακόμα, Ζακ και Τόρι προσπαθούν να μάθουν στη Λάιλα να κοιμάται στο κρεββάτι της.</desc>
   </programme>
-  <programme start="20220831225000 +0300" stop="20220831234000 +0300" channel="BBC World">
-    <title lang="el">Καλωσήρθατε στη χώρα των Πλαθ Κ4 ΕΠ10</title>
-    <desc lang="el">Οι Πλαθ είναι μια 11μελής οικογένεια ξανθών γαλανομάτηδων στη νοτιοανατολική Τζόρτζια. Κοινό τους πάθος η μουσική, η θρησκεία, η οικογενειακή ζωή και οι παραδοσιακοί ρόλοι.(c)</desc>
+  <programme start="20220831233000 +0300" stop="20220901001500 +0300" channel="BBC World">
+    <title lang="el">Animal Fight Club K 4.5 Κ4 ΕΠ2</title>
+    <desc lang="el">Δείτε το άσχημο πρόσωπο της φύσης και εκείνα τα ζώα που τολμούν και νικούν. Επίσης, παρακολουθήστε μάχες για κυριαρχία και δολοφόνους που δαγκώνουν και κλωτσάνε.(c)</desc>
   </programme>
   <programme start="20220901001500 +0300" stop="20220901010500 +0300" channel="BBC World">
     <title lang="el">Ο Πόλεμος των Λιονταριών</title>
