@@ -2,7 +2,7 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V4.2.4.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="ALPHA">
     <display-name lang="el">ALPHA</display-name>
-    <icon src="https://commons.wikimedia.org/wiki/Category:Alpha_TV_logos#/media/File:Alpha_TV_Logo_neu.png"/>
+    <icon src="https://www.athensmagazine.gr/photos/c_600px_400px/articles/202207/03ce32_alpha.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ANT1">
@@ -97,7 +97,7 @@
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
-    <icon src="https://cdn.worldvectorlogo.com/logos/nickelodeon-7.svg"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
@@ -136,14 +136,17 @@
   </channel>
   <channel id="MEGA">
     <display-name lang="el">MEGA</display-name>
+    <icon>https://www.megatv.com/wp-content/uploads/2020/10/facebook.jpeg</icon>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="TV5 Europe">
     <display-name lang="en">TV5 Europe</display-name>
+    <icon>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV5-europe-Logo.svg/2560px-TV5-europe-Logo.svg.png</icon>
     <url>http://www.theguardian.com</url>
   </channel>
   <channel id="RIK">
     <display-name lang="el">RIK</display-name>
+    <icon>https://hellasjournal.com/wp-content/uploads/2015/10/RIK-KYPROS01.jpg</icon>
     <url>http://www.cyta.com.cy</url>
   </channel>
   <channel id="BBC World">
@@ -31023,7 +31026,7 @@
   </programme>
   <programme start="20220902105500 +0300" stop="20220902110000 +0300" channel="RIK">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().(c)</desc>
+    <desc lang="el">: - ().</desc>
   </programme>
   <programme start="20220902110000 +0300" stop="20220902122500 +0300" channel="RIK">
     <title lang="el">ΤΕΝΙΣ: ΤΟΥΡΝΟΥΑ ΓΚΡΑΝ ΣΛΑΜ Αμερικανικό Όπεν - 2ος ΓΥΡΟΣ Μονό</title>
@@ -31031,7 +31034,7 @@
   </programme>
   <programme start="20220902122500 +0300" stop="20220902123000 +0300" channel="RIK">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().(c)</desc>
+    <desc lang="el">: - ().</desc>
   </programme>
   <programme start="20220902123000 +0300" stop="20220902143000 +0300" channel="RIK">
     <title lang="el">ΠΟΔΗΛΑΣΙΑ: Παγκόσμιο Τουρ - Λα Βουέλτα 12ο Ετάπ</title>
@@ -31163,7 +31166,7 @@
   </programme>
   <programme start="20220904220000 +0300" stop="20220904230000 +0300" channel="RIK">
     <title lang="el">MatchDay 2022-23 MatchDay 4/9/22 (LIVE) (Z)</title>
-    <desc lang="el">MatchDay 2022-23.(c)</desc>
+    <desc lang="el">MatchDay 2022-23.</desc>
   </programme>
   <programme start="20220905003000 +0300" stop="20220905012500 +0300" channel="RIK">
     <title lang="el">Матильда Кшесинская. Прима императорской сцены</title>
@@ -31943,7 +31946,7 @@
   </programme>
   <programme start="20220908220000 +0300" stop="20220908231000 +0300" channel="RIK">
     <title lang="el">Η Γενιά του ‘30 ΕΠ1</title>
-    <desc lang="el">Με την πένα του, ο Στρατής Μυριβήλης σφράγισε όσο κανείς άλλος το αντιπολεμικό μυθιστόρημα, γράφοντας με τόλμη για τις αλήθειες που κρύβονται πίσω από εθνικούς 'ήρωες', τη γυναικεία καταπίεση και τα τραύματα μιας ολόκληρης εποχής. Παραγωγή: COSMOTE TV Σκηνοθεσία: Γιώργος Γκικαπέππας. (2021).(c)</desc>
+    <desc lang="el">Με την πένα του, ο Στρατής Μυριβήλης σφράγισε όσο κανείς άλλος το αντιπολεμικό μυθιστόρημα, γράφοντας με τόλμη για τις αλήθειες που κρύβονται πίσω από εθνικούς 'ήρωες', τη γυναικεία καταπίεση και τα τραύματα μιας ολόκληρης εποχής. Παραγωγή: COSMOTE TV Σκηνοθεσία: Γιώργος Γκικαπέππας. (2021).</desc>
   </programme>
   <programme start="20220909003000 +0300" stop="20220909020000 +0300" channel="RIK">
     <title lang="el">A Tale Of Two Coreys</title>
@@ -32179,7 +32182,7 @@
   </programme>
   <programme start="20220902230000 +0300" stop="20220902233000 +0300" channel="BBC World">
     <title lang="el">Sky News at 9</title>
-    <desc lang="el">An hour of news and analysis from Sky News correspondents in the UK and around the world.(c)</desc>
+    <desc lang="el">An hour of news and analysis from Sky News correspondents in the UK and around the world.</desc>
   </programme>
   <programme start="20220903004500 +0300" stop="20220903012200 +0300" channel="BBC World">
     <title lang="el">Monstres d'eau douce S5 ΕΠ5</title>
@@ -32303,7 +32306,7 @@
   </programme>
   <programme start="20220903231200 +0300" stop="20220903235800 +0300" channel="BBC World">
     <title lang="el">Chasse Entre Amis Saison 4 ΕΠ2</title>
-    <desc lang="el">Tim et son ami Dwane partent en quête de daims, et tombent sur un monstrueux sanglier en chemin. (2018).(c)</desc>
+    <desc lang="el">Tim et son ami Dwane partent en quête de daims, et tombent sur un monstrueux sanglier en chemin. (2018).</desc>
   </programme>
   <programme start="20220904005500 +0300" stop="20220904020000 +0300" channel="BBC World">
     <title lang="el">Ρωμαϊκές υπερκατασκευές Κ1 ΕΠ1</title>
@@ -32391,11 +32394,11 @@
   </programme>
   <programme start="20220904220000 +0300" stop="20220904225500 +0300" channel="BBC World">
     <title lang="el">Τα μυστικά της Χαμένης Κιβωτού Κ1 ΕΠ5</title>
-    <desc lang="el">Οι Ναΐτες Ιππότες έκλεψαν την Κιβωτό, ή τουλάχιστον αυτό αφηγούνται κάποιες ιστορίες... μια ομάδα ειδικών αναζητά αποδείξεις κάτω από την πόλη της Ιερουσαλήμ και στον βυθό του κόλπου Άκο. Σκηνοθεσία: Charlie Clayton. Πρωταγωνιστούν: Allan Macca, Jon Mohr.(c)</desc>
+    <desc lang="el">Οι Ναΐτες Ιππότες έκλεψαν την Κιβωτό, ή τουλάχιστον αυτό αφηγούνται κάποιες ιστορίες... μια ομάδα ειδικών αναζητά αποδείξεις κάτω από την πόλη της Ιερουσαλήμ και στον βυθό του κόλπου Άκο. Σκηνοθεσία: Charlie Clayton. Πρωταγωνιστούν: Allan Macca, Jon Mohr.</desc>
   </programme>
   <programme start="20220904225500 +0300" stop="20220904234500 +0300" channel="BBC World">
     <title lang="el">Τα μυστικά της Χαμένης Κιβωτού Κ1 ΕΠ6</title>
-    <desc lang="el">Η Κιβωτός είναι στην Αφρική; Ένα βιβλίο αναφέρει ότι μεταφέρθηκε στην Αιθιοπία και φυλάσσεται σε μακρινό ξωκλήσι. Ειδικοί ερευνούν φήμες που θέλουν την Κιβωτό να βρίσκεται σε σπήλαιο στη Ν. Αφρική. Σκηνοθεσία: Charlie Clayton. Πρωταγωνιστούν: Allan Macca, Jon Mohr.(c)</desc>
+    <desc lang="el">Η Κιβωτός είναι στην Αφρική; Ένα βιβλίο αναφέρει ότι μεταφέρθηκε στην Αιθιοπία και φυλάσσεται σε μακρινό ξωκλήσι. Ειδικοί ερευνούν φήμες που θέλουν την Κιβωτό να βρίσκεται σε σπήλαιο στη Ν. Αφρική. Σκηνοθεσία: Charlie Clayton. Πρωταγωνιστούν: Allan Macca, Jon Mohr.</desc>
   </programme>
   <programme start="20220905004000 +0300" stop="20220905032500 +0300" channel="BBC World">
     <title lang="el">The Great Escape</title>
