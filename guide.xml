@@ -82,42 +82,52 @@
   </channel>
   <channel id="KONTRA CHANNEL">
     <display-name lang="el">KONTRA CHANNEL</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/el/b/b8/Kontra_channel_new_logo.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="MAD">
     <display-name lang="el">MAD</display-name>
+    <icon src="https://mad.tv/wp-content/uploads/2018/02/mad_logo_yellow.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="RISE TV">
     <display-name lang="el">RISE TV</display-name>
+    <icon src="https://i0.wp.com/typologies.gr/wp-content/uploads/2018/09/Rice-TV2.png?resize=350%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -17890,6 +17900,13 @@
       <value>5</value>
     </rating>
   </programme>
+  <programme start="20220905000000 +0300" stop="20220905060000 +0300" channel="KONTRA CHANNEL">
+    <title lang="el">[K8] Εκπομπές Τηλεοπτικών Αγορών</title>
+    <desc lang="el">Παρακολουθήστε τον πιο έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές, υπόσχονται να αλλάξουν τη ζωή σας.(r)</desc>
+    <rating system="GR">
+      <value>5</value>
+    </rating>
+  </programme>
   <programme start="20220905231500 +0300" stop="20220906011500 +0300" channel="KONTRA CHANNEL">
     <title lang="el">[K8] Kontra 24</title>
     <desc lang="el">Η μοναδική βραδινή πολιτική εκπομπή της ελληνικής τηλεόρασης, άκρως παρεμβατική, εναλλακτική και απαλλαγμένη από τα στερεότυπα. Κάθε βράδυ στις 23:15 με την Αναστασία Γιάμαλη.</desc>
@@ -32107,7 +32124,7 @@
   </programme>
   <programme start="20220904105500 +0300" stop="20220904110000 +0300" channel="RIK">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().</desc>
+    <desc lang="el">: - ().(c)</desc>
   </programme>
   <programme start="20220904110000 +0300" stop="20220904125500 +0300" channel="RIK">
     <title lang="el">ΤΕΝΙΣ: ΤΟΥΡΝΟΥΑ ΓΚΡΑΝ ΣΛΑΜ Αμερικανικό Όπεν - 3ος ΓΥΡΟΣ Μονό</title>
@@ -32115,7 +32132,7 @@
   </programme>
   <programme start="20220904125500 +0300" stop="20220904130000 +0300" channel="RIK">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().</desc>
+    <desc lang="el">: - ().(c)</desc>
   </programme>
   <programme start="20220904130000 +0300" stop="20220904140000 +0300" channel="RIK">
     <title lang="el">Αναρρίχηση: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Κόπερ - Τελικός (Άνδρες και γυναίκες)</title>
@@ -33545,9 +33562,9 @@
     <title lang="el">Τα μυστικά των μουσείων Κ3 ΕΠ1</title>
     <desc lang="el">Μια περιήγηση σε μοναδικά μουσεία που αποκαλύπτει την ιστορία αναντικατάστατων θησαυρών, ερευνά γνωστούς θρύλους και χρησιμοποιεί έρευνα και τεχνολογία αιχμής για να διερευνήσει το άγνωστο.</desc>
   </programme>
-  <programme start="20220906220000 +0300" stop="20220906230500 +0300" channel="BBC World">
-    <title lang="el">Ρωμαϊκές υπερκατασκευές Κ1 ΕΠ3</title>
-    <desc lang="el">Τρισδιάστατες φωτογραφίες, αναπαραστάσεις, συνεντεύξεις ιστορικών και αρχαιολόγων αφηγούνται την ιστορία του ρωμαϊκού Παρισιού στη Γαλατία και αποκαλύπτουν τα ερείπια της αρχαίας πόλης: της Λουτέτια. Σκηνοθεσία: Isabelle Cottenceau. Πρωταγωνιστούν: Ken Starcevic.</desc>
+  <programme start="20220906225500 +0300" stop="20220907004000 +0300" channel="BBC World">
+    <title lang="el">Boys on the Side</title>
+    <desc lang="el">Η Τζέιν, τραγουδίστρια σε νυχτερινά κλαμπ, έχει μείνει άνεργη. Η Ρόμπιν είναι μια ιδιόρρυθμη μεσίτρια που ψάχνει συνεπιβάτη για να μοιραστεί τη διαδρομή μέχρι την Καλιφόρνια. Στην αγγελία της ανταποκρίνεται η Τζέιν, παρά τις αρχικές επιφυλάξεις της. (1995) Σκηνοθεσία: Herbert Ross. Πρωταγωνιστούν: Whoopi Goldberg, Malika Edwards, Drew Barrymore, Billy Wirth, Josh Segal, Estelle Parsons. (1995).(c)</desc>
   </programme>
   <programme start="20220907004000 +0300" stop="20220907022500 +0300" channel="BBC World">
     <title lang="el">Donnie Darko</title>
@@ -33653,9 +33670,9 @@
     <title lang="el">Ammonite</title>
     <desc lang="el">Στην Αγγλία του 1840, μία διαβόητη κυνηγός απολιθωμάτων βοηθά μια νεαρή γυναίκα να αναρρώσει, δίπλα στη θάλασσα. Η σχέση που αναπτύσσεται μεταξύ τους αλλάζει τις ζωές τους για πάντα. Αληθινή ιστορία, 2021. Σκηνοθεσία: Φράνσις Λι. Πρωταγωνιστές: Κέιτ Γουίνσλετ, Σίρσα Ρόναν, Τζέμα Τζόουνς.</desc>
   </programme>
-  <programme start="20220908220000 +0300" stop="20220908234500 +0300" channel="BBC World">
-    <title lang="el">James vs. His Future Self</title>
-    <desc lang="el">Ένας επιστήμονας δέχεται επίσκεψη από τον μελλοντικό εαυτό του, ο οποίος τον συμβουλεύει να μην γίνει ο πρώτος ταξιδιώτης στον χρόνο. Κι όταν αρνείται, μπαίνει σε μία μάχη με τον ίδιο του του εαυτό! Περιπέτεια, 2019. Σκηνοθεσία: Τζέρεμι ΛαΛοντ. Πρωταγωνιστές: Ντάνιελ Στερν, Τζόνας Τσέρνικ, Φράνσις Κόνροϊ.</desc>
+  <programme start="20220908224500 +0300" stop="20220909010000 +0300" channel="BBC World">
+    <title lang="el">ΞΕΝΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΞΕΝΗ ΤΑΙΝΙΑ: ΕΓΚΛΗΜΑ, ΔΡΑΣΗ, ΘΡΙΛΕΡ, ΑΓΩΝΙΑ.(c)</desc>
   </programme>
   <programme start="20220909010000 +0300" stop="20220909020000 +0300" channel="BBC World">
     <title lang="el">TRAVEL GUIDE [Ε]</title>
