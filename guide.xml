@@ -42,74 +42,92 @@
   </channel>
   <channel id="ART">
     <display-name lang="el">ART</display-name>
+    <icon src="https://i0.wp.com/www.livetvgr.com/wp-content/uploads/2018/12/art1-e1552571192350.png?fit=310%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="EXTRA">
     <display-name lang="el">EXTRA</display-name>
+    <icon src="https://www.zappit.gr/wp-content/uploads/2016n/05/zp_36971_extra.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ACTION24">
     <display-name lang="el">ACTION24</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Action_24_new_logo.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ATTICA TV">
     <display-name lang="el">ATTICA TV</display-name>
+    <icon src="https://www.radiotvlink.com/images/amydv/atticatv_logo_900.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="BLUE SKY">
     <display-name lang="el">BLUE SKY</display-name>
+    <icon src="https://i0.wp.com/travelgirl.s3.eu-central-1.amazonaws.com/2021/01/bluesky10genari.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="CHANNEL 9">
     <display-name lang="el">CHANNEL 9</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/el/0/0a/Channel9.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="AE CHANNEL">
     <display-name lang="el">A.EPSILON</display-name>
+    <icon src="https://www.nicepng.com/png/detail/223-2235783_apps-a-e-channel-logo.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="HIGH TV">
     <display-name lang="el">HIGH TV</display-name>
+    <icon src="https://i37.servimg.com/u/f37/16/92/15/82/logo_h10.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="KONTRA CHANNEL">
     <display-name lang="el">KONTRA CHANNEL</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/el/b/b8/Kontra_channel_new_logo.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="MAD">
     <display-name lang="el">MAD</display-name>
+    <icon src="https://mad.tv/wp-content/uploads/2018/02/mad_logo_yellow.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="RISE TV">
     <display-name lang="el">RISE TV</display-name>
+    <icon src="https://i0.wp.com/typologies.gr/wp-content/uploads/2018/09/Rice-TV2.png?resize=350%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -10747,6 +10765,13 @@
       <value>5</value>
     </rating>
   </programme>
+  <programme start="20220905000000 +0300" stop="20220905010000 +0300" channel="ART">
+    <title lang="el">[K8] Εγέρθητι</title>
+    <desc lang="el">Πολιτική εκπομπή με τον Κωστή Αϊβαλιωτη.(n)</desc>
+    <rating system="GR">
+      <value>5</value>
+    </rating>
+  </programme>
   <programme start="20220905010000 +0300" stop="20220905020000 +0300" channel="ART">
     <title lang="el">[K8] Τα Εν Δήμω</title>
     <desc lang="el">Ενημερωτική εκπομπή για τις δράσεις και τα έργα της τοπικής αυτοδιοίκησης με τη Δήμητρα Κούτρα.</desc>
@@ -16205,6 +16230,13 @@
       <value>0</value>
     </rating>
   </programme>
+  <programme start="20220905000000 +0300" stop="20220905063000 +0300" channel="AE CHANNEL">
+    <title lang="el">[K] Η Αγορά Σήμερα</title>
+    <desc lang="el">Εκπομπή.(n)</desc>
+    <rating system="GR">
+      <value>0</value>
+    </rating>
+  </programme>
   <programme start="20220906043000 +0300" stop="20220906063000 +0300" channel="AE CHANNEL">
     <title lang="el">[K8] Αποκαλυπτικό Δελτίο</title>
     <desc lang="el">Εκπομπή.</desc>
@@ -17508,6 +17540,13 @@
   <programme start="20220905231500 +0300" stop="20220905000000 +0300" channel="KONTRA CHANNEL">
     <title lang="el">[K8] Kontra 24</title>
     <desc lang="el">Η μοναδική βραδινή πολιτική εκπομπή της ελληνικής τηλεόρασης, άκρως παρεμβατική, εναλλακτική και απαλλαγμένη από τα στερεότυπα. Κάθε βράδυ στις 23:15 με την Αναστασία Γιάμαλη.</desc>
+    <rating system="GR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20220905000000 +0300" stop="20220905060000 +0300" channel="KONTRA CHANNEL">
+    <title lang="el">[K8] Εκπομπές Τηλεοπτικών Αγορών</title>
+    <desc lang="el">Παρακολουθήστε τον πιο έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές, υπόσχονται να αλλάξουν τη ζωή σας.(n)</desc>
     <rating system="GR">
       <value>5</value>
     </rating>
@@ -32725,9 +32764,9 @@
     <title lang="el">Κληρονόμοι της μνήμης ΕΠ4</title>
     <desc lang="el">Από το 1922 έως το 1924 φτάνουν στην Ελλάδα εκατοντάδες χιλιάδες πρόσφυγες. Με όσες δυνάμεις τούς έχουν απομείνει, προσπαθούν να ξαναστήσουν τη ζωή τους. Μα οι ελπίδες τους για ειρήνη σύντομα διαψεύδονται από την ίδια την Ιστορία. Παραγωγή: COSMOTE TV Σκηνοθεσία: Γιάννης Βάκρινος. (2022).</desc>
   </programme>
-  <programme start="20220911230000 +0300" stop="20220912003000 +0300" channel="RIK">
-    <title lang="el">Beyond The Sky</title>
-    <desc lang="el">Ένας κινηματογραφιστής και η ομάδα του γυρίζουν ένα ντοκιμαντέρ με σκοπό να ξεσκεπάσουν τις ιστορίες αυτών που ισχυρίζονται ότι έχουν απαχθεί από εξωγήινους. Έρχονται, όμως, αντιμέτωποι με μια γυναίκα που τους οδηγεί στην ανακάλυψη ενός φοβερού μυστικού. Ταινία μυστηρίου παραγωγής 2018 σε σκηνοθεσία Φούλβιο Σεστίτο με τους: Ράιαν Καρνς, Τζόρνταν Χίνσον, Πίτερ Στόρμερ, Ντι Γουάλας.</desc>
+  <programme start="20220911220000 +0300" stop="20220911233000 +0300" channel="RIK">
+    <title lang="el">Ματαρόα. Το ταξίδι συνεχίζεται...</title>
+    <desc lang="el">Δεκέμβριος 1945. 150 νέοι και νέες από την Ελλάδα επιβιβάζονται στο πλοίο 'Ματαρόα' με προορισμό το Παρίσι. Η έξοδός τους αυτή έμελλε να σημαδέψει τόσο τους ίδιους όσο και τις εξελίξεις στη μεταπολεμική Ευρώπη. Παραγωγή: Dangerous Productions, ΕΡΤ, 2-35 Σκηνοθεσία: Ανδρέας Σιαδήμας. (2019).(c)</desc>
   </programme>
   <programme start="20220912003000 +0300" stop="20220912023000 +0300" channel="RIK">
     <title lang="el">The Big Fat Stone</title>
@@ -33105,9 +33144,9 @@
     <title lang="el">1000 pays en un ΕΠ17</title>
     <desc lang="el">Bienvenue à Carcassonne! Visitez la cité médiévale classée au patrimoine mondial de l'Unesco. Dégustez le véritable Cassoulet et arpentez la Montagne Noire renfermant ses lamas atypiques, sans oublier ses grottes et l'histoire des cathares. (2015).</desc>
   </programme>
-  <programme start="20220906224400 +0300" stop="20220906233600 +0300" channel="BBC World">
-    <title lang="el">Chasse Entre Amis Saison 4 ΕΠ5</title>
-    <desc lang="el">L'équipe s'aventure sur la Grande Barrière de Corail, à bord d'un catamaran de croisière. Elle est à la recherche de porcs, de carangues géantes, de truites de corail et de crabes et fera tout pour éviter la population locale de requins. (2018).</desc>
+  <programme start="20220906230500 +0300" stop="20220907001000 +0300" channel="BBC World">
+    <title lang="el">Νέα μυστικά του Στρατού από τερακότα</title>
+    <desc lang="el">Η ανακάλυψη του Στρατού από τερακότα στην Κίνα το 1974 έφερε στο φως ένα μικρό μέρος του αμύθητου θησαυρού. Το ντοκιμαντέρ αποκαλύπτει νέα στοιχεία με εντυπωσιακές εικόνες των ίδιων των στρατιωτών. Σκηνοθεσία: Ian Bremner. Πρωταγωνιστούν: Rob Bell.(c)</desc>
   </programme>
   <programme start="20220907001000 +0300" stop="20220907011000 +0300" channel="BBC World">
     <title lang="el">Ο δρόμος του μεταξιού Κ1 ΕΠ2</title>
@@ -33201,9 +33240,9 @@
     <title lang="el">Τα μυστικά των μουσείων Κ3 ΕΠ2</title>
     <desc lang="el">Μια περιήγηση σε μοναδικά μουσεία που αποκαλύπτει την ιστορία αναντικατάστατων θησαυρών, ερευνά γνωστούς θρύλους και χρησιμοποιεί έρευνα και τεχνολογία αιχμής για να διερευνήσει το άγνωστο.</desc>
   </programme>
-  <programme start="20220907215500 +0300" stop="20220907225500 +0300" channel="BBC World">
-    <title lang="el">Αννίβας: Νέα στοιχεία</title>
-    <desc lang="el">Ο Αννίβας, ένας από τους γνωστότερους στρατηλάτες της ιστορίας, διέσχισε τις Άλπεις σε μόλις 16 ημέρες για να επιτεθεί στη Ρώμη· ομάδα ειδικών αποκαλύπτει για πρώτη φορά τη διαδρομή του στρατού του. Σκηνοθεσία: Giulia Clark. Πρωταγωνιστούν: Adrian Bower.</desc>
+  <programme start="20220907224500 +0300" stop="20220908004500 +0300" channel="BBC World">
+    <title lang="el">The Painted Veil</title>
+    <desc lang="el">Στη δεκαετία του 1920, ένα νεαρό ζευγάρι Άγγλων - - ο Γουόλτερ, ένας μεσοαστός γιατρός, και η Κίτι, μια γυναίκα από μεγαλοαστική οικογένεια - - παντρεύεται για λάθος λόγους και μετακομίζει στη Σαγκάη, όπου εκείνη ερωτεύεται κάποιον άλλον. Όταν εκείνος αποκαλύπτει την απιστία της και θέλοντας να την εκδικηθεί, δέχεται μια θέση σε ένα απομακρυσμένο χωριό της Κίνας που μαστίζεται από μια θανατηφόρα επιδημία και την παίρνει μαζί του. Σκηνοθεσία: John Curran,. Πρωταγωνιστούν: Cheng Yue, Ma Yun, Cheng Shihan, Chen Xi, Diana Rigg, Catherine An. (2006).(c)</desc>
   </programme>
   <programme start="20220908004500 +0300" stop="20220908022000 +0300" channel="BBC World">
     <title lang="el">Stigmata</title>
