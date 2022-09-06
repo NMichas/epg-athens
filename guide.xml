@@ -97,30 +97,37 @@
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -31476,13 +31483,9 @@
     <title lang="el">Τα μυστικά των μουσείων Κ3 ΕΠ3</title>
     <desc lang="el">Μια περιήγηση σε μοναδικά μουσεία που αποκαλύπτει την ιστορία αναντικατάστατων θησαυρών, ερευνά γνωστούς θρύλους και χρησιμοποιεί έρευνα και τεχνολογία αιχμής για να διερευνήσει το άγνωστο.</desc>
   </programme>
-  <programme start="20220908220000 +0300" stop="20220908225000 +0300" channel="BBC World">
-    <title lang="el">Εξιχνίαση μυστηρίων Κ1 ΕΠ6</title>
-    <desc lang="el">Η σειρά αστυνομικών ντοκιμαντέρ ερευνά σε βάθος τα σημαντικότερα ανεξιχνίαστα μυστήρια της Αμερικής, αναλύοντας πρωτοφανή στοιχεία και αξιοποιώντας τεχνολογικά μέσα στην επανεξέταση κάθε υπόθεσης. Πρωταγωνιστούν: Jennifer Marshall.</desc>
-  </programme>
-  <programme start="20220908225000 +0300" stop="20220908235000 +0300" channel="BBC World">
-    <title lang="el">Τα χαμένα εκατομμύρια της Γκρέις Κέλι</title>
-    <desc lang="el">Τα χαμένα εκατομμύρια της Γκρέις Κέλι Πρωταγωνιστούν: Gemma Godfrey.</desc>
+  <programme start="20220908224500 +0300" stop="20220909003000 +0300" channel="BBC World">
+    <title lang="el">Resurrecting the Champ</title>
+    <desc lang="el">Ένας δημοσιογράφος γνωρίζει έναν άστεγο και ανακαλύπτει ότι πρόκειται για έναν θρυλικό πυγμάχο που όλοι θεωρούσαν νεκρό. Σκηνοθεσία: Rod Lurie,. Πρωταγωνιστούν: Mitchell Frost, Rachel Nichols, Roxanne Wong, Samuel L. Jackson, Dennis Belair, Chris Massoglia. (2007).(c)</desc>
   </programme>
   <programme start="20220909003000 +0300" stop="20220909023500 +0300" channel="BBC World">
     <title lang="el">The Magnificent Seven</title>
@@ -31528,9 +31531,9 @@
     <title lang="el">Forgetting Sarah Marshall</title>
     <desc lang="el">Ο Πίτερ έχει σχέση με την τηλεοπτική σταρ Σάρα Μάρσαλ για έξι χρόνια, μέχρι που εκείνη τον χωρίζει για έναν Άγγλο ροκά. Για να ανακουφίσει τον πόνο του, ο Πίτερ αποφασίζει να ταξιδέψει στη Χαβάη, χωρίς να υποψιάζεται ότι θα είναι κι εκείνη σε αυτόν τον ηλιόλουστο παράδεισο με τον νέο της φίλο. Σκηνοθεσία: Nicholas Stoller,. Πρωταγωνιστούν: Jason Segel,. (2008).</desc>
   </programme>
-  <programme start="20220909210000 +0300" stop="20220909223000 +0300" channel="BBC World">
-    <title lang="el">Teen Wolf</title>
-    <desc lang="el">Teen Wolf Σκηνοθεσία: Rod Daniel,. Πρωταγωνιστούν: Brian Sheehan, Michael J. Fox,. (1985).</desc>
+  <programme start="20220909220000 +0300" stop="20220910000500 +0300" channel="BBC World">
+    <title lang="el">Last Looks</title>
+    <desc lang="el">Ο πρώην αστυνομικός Τσάρλι Γουόλντο διακόπτει τον μινιμαλιστικό τρόπο ζωής του στο δάσος, όταν καλείται να ερευνήσει τη δολοφονία μίας γυναίκας, συζύγου μίας εκκεντρικής τηλε-περσόνας. Αστυνομική, 2021. Σκηνοθεσία: Τιμ Κέρμπι. Πρωταγωνιστές: Μελ Γκίμπσον, Τσάρλι Χάναμ, Ρούπερτ Φρεντ, Λούσι Φράι.(c)</desc>
   </programme>
   <programme start="20220910000500 +0300" stop="20220910021000 +0300" channel="BBC World">
     <title lang="el">Κόντρα στα Προγνωστικά</title>
