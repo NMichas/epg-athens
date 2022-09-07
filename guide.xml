@@ -102,26 +102,32 @@
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -28165,13 +28171,9 @@
     <title lang="el">Άουγκσμπουργκ - Χέρτα Βερολίνου</title>
     <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις! Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο.</desc>
   </programme>
-  <programme start="20220908200000 +0300" stop="20220908220000 +0300" channel="RIK">
-    <title lang="el">Ουνιόν Βερολίνου - Μπάγερν Μονάχου</title>
-    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις! Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο.</desc>
-  </programme>
-  <programme start="20220908220000 +0300" stop="20220908223000 +0300" channel="RIK">
-    <title lang="el">Άιντραχτ Φρανκφούρτης - Λειψία</title>
-    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις! Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο.</desc>
+  <programme start="20220908214500 +0300" stop="20220909001500 +0300" channel="RIK">
+    <title lang="el">Голосящий КиВиН-2022</title>
+    <desc lang="el">Музыкальный фестиваль.(c)</desc>
   </programme>
   <programme start="20220909001500 +0300" stop="20220909012500 +0300" channel="RIK">
     <title lang="el">Жизнь обаятельного человека</title>
@@ -28925,9 +28927,9 @@
     <title lang="el">Έτσι χάσαμε τη Σμύρνη</title>
     <desc lang="el">Με πρόσβαση σε ένα αρχείο 2.700 επιστολών, χειρογράφων, εφημερίδων και επιστολικών δελταρίων από το μικρασιατικό μέτωπο, το ντοκιμαντέρ παρουσιάζει αθέατες πτυχές της Μικρασιατικής Εκστρατείας και της Καταστροφής της Σμύρνης. Παραγωγή: Μνήμες Σκηνοθεσία: Βαγγέλης Δημητρίου. (1997).</desc>
   </programme>
-  <programme start="20220912214500 +0300" stop="20220912230000 +0300" channel="RIK">
-    <title lang="el">1922: Ο μεγάλος ξεριζωμός</title>
-    <desc lang="el">Τέλη Αυγούστου του 1922 ξεκίνησε η πυρπόληση της Σμύρνης. Μέσω αυθεντικού κινηματογραφικού υλικού της εποχής, φωτογραφιών, πινάκων, κειμένων και μαρτυριών, το ντοκιμαντέρ ξεδιπλώνει τα συνταρακτικά γεγονότα του Μεγάλου Ξεριζωμού. Παραγωγή: WCA Productions Σκηνοθεσία: Ηλέκτρα Βενάκη. (2007).</desc>
+  <programme start="20220912224500 +0300" stop="20220913010500 +0300" channel="RIK">
+    <title lang="el">Just 6.5</title>
+    <desc lang="el">6.5 ΕΚΤΟΣ ΕΛΕΓΧΟΥ. Ο αστυνόμος Σάμαντ και η ομάδα του είναι αποφασισμένοι να συλλάβουν τον πιο περιβόητο βαρόνο ναρκωτικών και επιδίδονται σε ένα ανελέητο κυνηγητό. Όταν τελικά καταφέρνουν να τον πιάσουν, αυτός θα κάνει το παν για να ξεφύγει και να σώσει την οικογένειά του. Ταινία δράσης παραγωγής 2019 σε σκηνοθεσία Σαϊντ Ρουστάγι με τους: Παϊμάν Μάαντι, Ναβίντ Μοχαμαντζαντέ, Χουμάν Κιάι, Παρινάζ Ιζαντιάρ.(c)</desc>
   </programme>
   <programme start="20220913010500 +0300" stop="20220913032000 +0300" channel="RIK">
     <title lang="el">Under Fire</title>
@@ -29381,9 +29383,13 @@
     <title lang="el">Τα μυστικά των μουσείων Κ3 ΕΠ4</title>
     <desc lang="el">Μια περιήγηση σε μοναδικά μουσεία που αποκαλύπτει την ιστορία αναντικατάστατων θησαυρών, ερευνά γνωστούς θρύλους και χρησιμοποιεί έρευνα και τεχνολογία αιχμής για να διερευνήσει το άγνωστο.</desc>
   </programme>
-  <programme start="20220909223000 +0300" stop="20220910002000 +0300" channel="BBC World">
-    <title lang="el">Back to the Future</title>
-    <desc lang="el">Ο Μάρτι Μακ Φλάι εκτινάσσεται στο 1955 με τη χρονομηχανή που δημιούργησε ο Δρ. Μπράουν και αντιμετωπίζει μια κατάσταση κατακερματισμού του χρόνου που βάζει σε κίνδυνο το μέλλον του. Σκηνοθεσία: Frank Marshall,Robert Zemeckis,. Πρωταγωνιστούν: Michael J. Fox, Christopher Lloyd,. (1985).</desc>
+  <programme start="20220909215000 +0300" stop="20220909224500 +0300" channel="BBC World">
+    <title lang="el">Νείλος: 5.000 Χρόνια Ιστορίας Κ1 ΕΠ4</title>
+    <desc lang="el">Με το δικό της νταχαμπίγια η Μπέτανι Χιουζ καλύπτει σχεδόν 1.000 μίλια από το Κάιρο μέχρι το Φράγμα του Ασουάν στον μεγαλοπρεπή Νείλο σταματώντας σε κάθε εμβληματικό, μαγευτικό μέρος κατά τη διαδρομή.(c)</desc>
+  </programme>
+  <programme start="20220909224500 +0300" stop="20220909234000 +0300" channel="BBC World">
+    <title lang="el">Εξιχνιάζοντας τα μυστήρια των Πυραμίδων Κ1 ΕΠ2</title>
+    <desc lang="el">Μέσα από αεροφωτογραφίες και δορυφορικές εικόνες νέας τεχνολογίας, οι αιγυπτιολόγοι αποκρυπτογραφούν τα μυστήρια των πυραμίδων και μας παρουσιάζουν την Αίγυπτο όπως ήταν πριν από 5000 και πλέον χρόνια Σκηνοθεσία: François Pomès.(c)</desc>
   </programme>
   <programme start="20220910002000 +0300" stop="20220910023000 +0300" channel="BBC World">
     <title lang="el">In the Name of the Father</title>
@@ -29516,6 +29522,14 @@
   <programme start="20220912053000 +0300" stop="20220912180000 +0300" channel="BBC World">
     <title lang="el">Transmission time: 0:00-5:30</title>
     <desc lang="el">Transmission time: 0:00-5:30.</desc>
+  </programme>
+  <programme start="20220912180000 +0300" stop="20220913060000 +0300" channel="BBC World">
+    <title lang="el">Novasports5</title>
+    <desc lang="el">Ενα κανάλι αφιερωμένο στο μπάσκετ! Ολοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της Euroleague, αγώνες του Eurocup και του ιταλικού πρωταθλήματος Lega Basket Serie A, καθώς και αγώνες εθνικών ομάδων στις διοργανώσεις της FIBA.(n)</desc>
+  </programme>
+  <programme start="20220913060000 +0300" stop="20220913180000 +0300" channel="BBC World">
+    <title lang="el">Novasports5</title>
+    <desc lang="el">Ενα κανάλι αφιερωμένο στο μπάσκετ! Ολοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της Euroleague, αγώνες του Eurocup και του ιταλικού πρωταθλήματος Lega Basket Serie A, καθώς και αγώνες εθνικών ομάδων στις διοργανώσεις της FIBA.(n)</desc>
   </programme>
   <programme start="20220907000000 +0100" stop="20220907235900 +0100" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
