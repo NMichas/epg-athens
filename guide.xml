@@ -107,22 +107,27 @@
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -29005,7 +29010,7 @@
   </programme>
   <programme start="20220908123000 +0300" stop="20220908123500 +0300" channel="RIK">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().</desc>
+    <desc lang="el">: - ().(c)</desc>
   </programme>
   <programme start="20220908123500 +0300" stop="20220908135500 +0300" channel="RIK">
     <title lang="el">ΠΟΔΗΛΑΣΙΑ</title>
@@ -29013,7 +29018,7 @@
   </programme>
   <programme start="20220908135500 +0300" stop="20220908140000 +0300" channel="RIK">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().</desc>
+    <desc lang="el">: - ().(c)</desc>
   </programme>
   <programme start="20220908140000 +0300" stop="20220908143000 +0300" channel="RIK">
     <title lang="el">ΠΟΔΗΛΑΣΙΑ</title>
@@ -30439,13 +30444,9 @@
     <title lang="el">Το τελευταίο ταξίδι των Βίκινγκς Κ1 ΕΠ1</title>
     <desc lang="el">Εξερευνήστε τη ζωή των Βίκινγκς, από τα ταξίδια τους στη Γαλλία και την Αγγλία και την πρώτη γνωριμία τους με τον Χριστιανισμό, μέχρι την ίδρυση της Νορμανδίας και τη Μάχη του Χέιστινγκς το 1066. Σκηνοθεσία: James Velasquez. Πρωταγωνιστούν: Pernilla August.</desc>
   </programme>
-  <programme start="20220910220000 +0300" stop="20220910225500 +0300" channel="BBC World">
-    <title lang="el">Οι φωνές των νεκρών Κ1 ΕΠ1</title>
-    <desc lang="el">Η Μπέτανι Χιουζ αποκαλύπτει συγκλονιστικά στοιχεία για τη δολοφονία της μητέρας του Τουταγχαμών.Αποκαλύπτει νέα στοιχεία για την ελονοσία από την οποία έπασχε και την παραλυτική πάθηση των ποδιών του. Σκηνοθεσία: Paul Bradshaw. Πρωταγωνιστούν: Bettany Hughes.</desc>
-  </programme>
-  <programme start="20220910225500 +0300" stop="20220910235500 +0300" channel="BBC World">
-    <title lang="el">Οι φωνές των νεκρών Κ1 ΕΠ2</title>
-    <desc lang="el">79 μ.Χ./Κ.Χ.: ο Βεζούβιος εκρήγνυται. Η Μπέτανι ακολουθεί τη μοίρα πέντε θυμάτων - ενός αγοριού, ενός στρατιώτη, μιας εγκύου, ενός σκλάβου κι ενός επιστάτη- και αναπαριστά τις τελευταίες 24 ώρες τους. Σκηνοθεσία: Paul Bradshaw. Πρωταγωνιστούν: Bettany Hughes.</desc>
+  <programme start="20220910224000 +0300" stop="20220911000500 +0300" channel="BBC World">
+    <title lang="el">Raising Cain</title>
+    <desc lang="el">Ο Κάρτερ Νιξ είναι ένας έγκριτος παιδοψυχολόγος που αρχίζει να αποκτά μια περίεργη και επικίνδυνη εμμονή. Σε σκηνοθεσία Μπράιαν Ντε Πάλμα. Σκηνοθεσία: Brian De Palma,. Πρωταγωνιστούν: Kathleen Callan, John Lithgow,. (1992).(c)</desc>
   </programme>
   <programme start="20220911000500 +0300" stop="20220911015000 +0300" channel="BBC World">
     <title lang="el">Boys on the Side</title>
@@ -30491,13 +30492,9 @@
     <title lang="el">Bird on a Wire</title>
     <desc lang="el">Bird on a Wire Σκηνοθεσία: John Badham,James Gavin,. Πρωταγωνιστούν: James Kidnie, Mel Gibson,. (1990).</desc>
   </programme>
-  <programme start="20220911210000 +0300" stop="20220911223000 +0300" channel="BBC World">
-    <title lang="el">Hot Tub Time Machine</title>
-    <desc lang="el">Hot Tub Time Machine Σκηνοθεσία: Steve Pink,Steve  Pink,. Πρωταγωνιστούν: Curtis Santiago, Jocelyn Waugh,. (2010).</desc>
-  </programme>
-  <programme start="20220911223000 +0300" stop="20220911235500 +0300" channel="BBC World">
-    <title lang="el">Along Came Polly</title>
-    <desc lang="el">Όταν συναντιούνται οι δρόμοι της Πόλι, μιας κοπέλας ανοργάνωτης με ελεύθερο πνεύμα, και του Ρούμπεν, ενός οργανωμένου, σταθερού και προσεκτικού ασφαλιστικού πράκτορα, εκείνος πρέπει να αποφασίσει αν θα ανταλλάξει τη βαρετή, προγραμματισμένη ζωή του με το όμορφο χάος που ακούει στο όνομα Πόλι. Σκηνοθεσία: John Hamburg,. Πρωταγωνιστούν: Nathan Dean, Ben Stiller,. (2004).</desc>
+  <programme start="20220911220000 +0300" stop="20220912000500 +0300" channel="BBC World">
+    <title lang="el">Συνέβη στο Σόχο</title>
+    <desc lang="el">Μία 18χρονη έχει την ικανότητα να μπαίνει στη δεκαετία του '60, όπου συναντά μία πανέμορφη επίδοξη τραγουδίστρια. Σύντομα, όμως, ανακαλύπτει πως πίσω από τη λάμψη κρύβεται ζοφερό σκοτάδι... Τρόμου, 2021. Σκηνοθεσία: Εντγκαρ Ράιτ. Πρωταγωνιστές: Ανια Τέιλορ Τζόι, Ματ Σμιθ, Νταϊάνα Ριγκ, Τόμασιν ΜακΚένζι.(c)</desc>
   </programme>
   <programme start="20220912000500 +0300" stop="20220912014500 +0300" channel="BBC World">
     <title lang="el">Εκτός Νόμου</title>
