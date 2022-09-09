@@ -97,30 +97,37 @@
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -28508,7 +28515,7 @@
   </programme>
   <programme start="20220909093000 +0300" stop="20220909093500 +0300" channel="RIK">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().</desc>
+    <desc lang="el">: - ().(c)</desc>
   </programme>
   <programme start="20220909093500 +0300" stop="20220909105500 +0300" channel="RIK">
     <title lang="el">ΠΟΔΗΛΑΣΙΑ: Παγκόσμιο Τουρ - Λα Βουέλτα 18ο Ετάπ</title>
@@ -28516,7 +28523,7 @@
   </programme>
   <programme start="20220909105500 +0300" stop="20220909110000 +0300" channel="RIK">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().</desc>
+    <desc lang="el">: - ().(c)</desc>
   </programme>
   <programme start="20220909110000 +0300" stop="20220909123000 +0300" channel="RIK">
     <title lang="el">Αναρρίχηση</title>
@@ -28598,9 +28605,9 @@
     <title lang="el">Σάλκε - Μπόχουμ (Ζ)</title>
     <desc lang="el">H Σάλκε (15η-3β), που πήρε ισοπαλία 1-1 με τη Στουτγκάρδη εκτός, και η Μπόχουμ (18η-0β), που έχασε στην έδρα της από τη Βέρντερ και δεν έχει πάρει ακόμα βαθμό τη φετινή σεζόν, συναντιούνται στην 6η αγωνιστική.  Περιγραφή: Αγ. Στυλιάδης Ποδόσφαιρο.</desc>
   </programme>
-  <programme start="20220910213000 +0300" stop="20220910233000 +0300" channel="RIK">
-    <title lang="el">Φορτούνα Ντίσελντορφ - Χάνσα Ροστόκ (Ζ)</title>
-    <desc lang="el">Η Φορτούνα Ντίσελντορφ (8η-11β) φιλοξενεί τη Χάνσα Ροστόκ (11η-9β) στην 8η αγωνιστική του πρωταθλήματος της δεύτερης κατηγορίας της Γερμανίας. Περιγραφή: Μ. Κατσαφάδος Ποδόσφαιρο.</desc>
+  <programme start="20220910230000 +0300" stop="20220911010000 +0300" channel="RIK">
+    <title lang="el">Κύπρος - Ουκρανία 10/9/22 (PREMIERE)</title>
+    <desc lang="el">Προκριματικά Γιουροβόλλευ Γυναικών 2023.(c)</desc>
   </programme>
   <programme start="20220911010000 +0300" stop="20220911030000 +0300" channel="RIK">
     <title lang="el">Αποκλειστικά στην Cablenet</title>
@@ -28646,9 +28653,9 @@
     <title lang="el">Ολυμπιακός Π. - Βόλος 11/9/22 (LIVE) (Z)</title>
     <desc lang="el">Ελληνικό Πρωτάθλημα Ποδοσφαίρου 2022-23.</desc>
   </programme>
-  <programme start="20220911210000 +0300" stop="20220911230000 +0300" channel="RIK">
-    <title lang="el">Αποκλειστικά στην Cablenet</title>
-    <desc lang="el">Αποκλειστικά στην Cablenet.</desc>
+  <programme start="20220911223500 +0300" stop="20220912003500 +0300" channel="RIK">
+    <title lang="el">Тобол</title>
+    <desc lang="el">Дмитрий Назаров, Дмитрий Дюжев, Евгений Дятлов, Александр Лазарев в фильме.(c)</desc>
   </programme>
   <programme start="20220912003500 +0300" stop="20220912015500 +0300" channel="RIK">
     <title lang="el">Петр Первый</title>
@@ -29422,9 +29429,9 @@
     <title lang="el">Η Μάχη του Καλπακίου - 28 Οκτωβρίου 1940</title>
     <desc lang="el">Το 1940 δόθηκαν οι πρώτες αποφασιστικές μάχες ανάμεσα στις ελληνικές και τις ιταλικές δυνάμεις στο Καλπάκι της Ηπείρου. Ο σκηνοθετικός φακός απαθανατίζει την ανδρεία και την αυτοθυσία των Ελλήνων κατά τον Β’ Παγκόσμιο Πόλεμο. Παραγωγή: Πολεμικό Μουσείο Σκηνοθεσία: Γιάννης Κοροδήμος. (2006).</desc>
   </programme>
-  <programme start="20220915220000 +0300" stop="20220915231000 +0300" channel="RIK">
-    <title lang="el">Η Γενιά του ‘30 ΕΠ3</title>
-    <desc lang="el">Καθισμένος στην ακρογιαλιά με θέα έναν αρχαίο ναό, ο νομπελίστας Γιώργος Σεφέρης 'διαβάζει' πάνω στα ερείπια τη διαχρονική γλώσσα της ποίησης. Παράλληλα, σε μια αίθουσα, τέσσερις ηθοποιοί απαγγέλουν αποσπάσματα από ποιήματά του. Παραγωγή: COSMOTE TV Σκηνοθεσία: Γιώργος Γκικαπέππας. (2021).</desc>
+  <programme start="20220915224500 +0300" stop="20220916004500 +0300" channel="RIK">
+    <title lang="el">Waiting For The Barbarians</title>
+    <desc lang="el">Ένας δικαστικός λειτουργός που υπηρετεί στα σύνορα ανυπομονεί να αφυπηρετήσει. Τα πράγματα αλλάζουν με την άφιξη του Συνταγματάρχη Τζολ καθήκον του οποίου είναι να δίνει αναφορά για την ασφάλεια των συνόρων αλλά και για τις δραστηριότητες των ‘βαρβάρων’. Δράμα παραγωγής 2019 σε σκηνοθεσία Τσίρο Γκουέρα με τους: Μαρκ Ράιλανς, Τζόνι Ντεπ, Ρόμπερτ Πάτινσον, Γκάνα Μπαγιαρσαϊκάν.(c)</desc>
   </programme>
   <programme start="20220916004500 +0300" stop="20220916030000 +0300" channel="RIK">
     <title lang="el">Vice</title>
@@ -29654,9 +29661,9 @@
     <title lang="el">Sky News Tonight</title>
     <desc lang="el">All the day's news followed by all the day's sport.</desc>
   </programme>
-  <programme start="20220909230000 +0300" stop="20220909233000 +0300" channel="BBC World">
-    <title lang="el">Sky News at 9</title>
-    <desc lang="el">An hour of news and analysis from Sky News correspondents in the UK and around the world.</desc>
+  <programme start="20220909231300 +0300" stop="20220910002800 +0300" channel="BBC World">
+    <title lang="el">Suivez le guide 3 : sandre &amp; brochet tout savoir avec Gael Even ΕΠ1</title>
+    <desc lang="el">Embarquez avec Gaël Even, l’un des plus forts pêcheurs de sandre en Europe. Il donne une vraie leçon de pêche sur son secteur normand, en fleuve comme en lac. Le guide partage aussi sans filtre son approche du métier, ses doutes et ses espoirs sur l’avenir de la pêche en France. (2020).(c)</desc>
   </programme>
   <programme start="20220910002800 +0300" stop="20220910012400 +0300" channel="BBC World">
     <title lang="el">Chasse en famille en Tunisie ΕΠ1</title>
@@ -29934,9 +29941,9 @@
     <title lang="el">The Terminator</title>
     <desc lang="el">Ένα σάιμποργκ στέλνεται από το μέλλον για να δολοφονήσει μια νεαρή γυναίκα που πρόκειται να γεννήσει έναν γιο ο οποίος θα γίνει ο σωτήρας της ανθρωπότητας. Σκηνοθεσία: James Cameron,. Πρωταγωνιστούν: Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield, Brian Thompson, Earl Boen. (1984).</desc>
   </programme>
-  <programme start="20220912210000 +0300" stop="20220912232000 +0300" channel="BBC World">
-    <title lang="el">Papillon</title>
-    <desc lang="el">Σε αυτό το βασανιστικό έπος θάρρους, αντοχής και φυγής, ένας άντρας είναι αποφασισμένος να ζήσει ελεύθερος ή να πεθάνει. Πρόκειται για την αληθινή ιστορία του Ανρί Σαριέρ, γνωστού και ως Πεταλούδα. Ο Στιβ ΜακΚουίν και ο βραβευμένος με Όσκαρ, Ντάστιν Χόφμαν, πρωταγωνιστούν σε αυτή τη βιογραφία ενός άντρα που καταδικάστηκε άδικα για φόνο και φυλακίστηκε στη Γαλλική Γουιάνα. Σκηνοθεσία: Franklin J Schaffner,Franklin J. Schaffner,. Πρωταγωνιστούν: Anthony Zerbe, Bill Mumy, Dalton Trumbo, E Andre, Richard Angarola, Don Hanmer. (1973).</desc>
+  <programme start="20220912220000 +0300" stop="20220913000500 +0300" channel="BBC World">
+    <title lang="el">Oι Διαρρήκτες</title>
+    <desc lang="el">Ένας ευφυής νεαρός μηχανικός δέχεται να οργανώσει τη ληστεία της Τράπεζας της Ισπανίας, η οποία στεγάζεται σε ένα κτίριο για το οποίο δεν υπάρχουν σχέδια, ούτε πληροφορίες για το σύστημα ασφαλείας. Δράση, 2021. Σκηνοθεσία: Τζάουμε Μπαλαγερό. Πρωταγωνιστές: Φρέντι Χάιμορ, Λίαμ Κάνινχαμ, Σαμ Ράιλι, Αστριντ Μπέρτζες-Φρίσμπι.(c)</desc>
   </programme>
   <programme start="20220913000500 +0300" stop="20220913014500 +0300" channel="BBC World">
     <title lang="el">James vs. His Future Self</title>
