@@ -92,34 +92,42 @@
   </channel>
   <channel id="RISE TV">
     <display-name lang="el">RISE TV</display-name>
+    <icon src="https://i0.wp.com/typologies.gr/wp-content/uploads/2018/09/Rice-TV2.png?resize=350%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -31234,7 +31242,7 @@
   </programme>
   <programme start="20220910093000 +0300" stop="20220910093500 +0300" channel="RIK">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().</desc>
+    <desc lang="el">: - ().(c)</desc>
   </programme>
   <programme start="20220910093500 +0300" stop="20220910105500 +0300" channel="RIK">
     <title lang="el">ΠΟΔΗΛΑΣΙΑ: Παγκόσμιο Τουρ - Λα Βουέλτα 19ο Ετάπ</title>
@@ -31242,7 +31250,7 @@
   </programme>
   <programme start="20220910105500 +0300" stop="20220910110000 +0300" channel="RIK">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().</desc>
+    <desc lang="el">: - ().(c)</desc>
   </programme>
   <programme start="20220910110000 +0300" stop="20220910120000 +0300" channel="RIK">
     <title lang="el">ΠΟΔΗΛΑΣΙΑ</title>
@@ -32428,9 +32436,9 @@
     <title lang="el">Sky News</title>
     <desc lang="el">News reports on the big stories from the UK and around the world.</desc>
   </programme>
-  <programme start="20220910230000 +0300" stop="20220910233000 +0300" channel="BBC World">
-    <title lang="el">Sky News</title>
-    <desc lang="el">News reports on the big stories from the UK and around the world.</desc>
+  <programme start="20220910231300 +0300" stop="20220911000100 +0300" channel="BBC World">
+    <title lang="el">Chasse Entre Amis Saison 4 ΕΠ3</title>
+    <desc lang="el">Au cours de leur recherche d'un cerf roux, Anto et Sam affrontent un temps épouvantable, dans les vastes sommets du Central Otago. (2018).(c)</desc>
   </programme>
   <programme start="20220911000100 +0300" stop="20220911004400 +0300" channel="BBC World">
     <title lang="el">Monstres d'eau douce S5 ΕΠ4</title>
@@ -32548,13 +32556,9 @@
     <title lang="el">Chasseur d'aventure Saison 5 ΕΠ8</title>
     <desc lang="el">La chasse aux chiens courants se poursuit pour Rob et ses équipiers. (2021).</desc>
   </programme>
-  <programme start="20220911222100 +0300" stop="20220911230600 +0300" channel="BBC World">
-    <title lang="el">Monster Carp S1 ΕΠ1</title>
-    <desc lang="el">Ali Hamidi se rend au Japon en compagnie de Tom Dove et Darrell Peck afin d’y pêcher la légendaire carpe Koï. (2019).</desc>
-  </programme>
-  <programme start="20220911230600 +0300" stop="20220911235100 +0300" channel="BBC World">
-    <title lang="el">Monster Carp S1 ΕΠ2</title>
-    <desc lang="el">Ali Hamidi se rend en Hongrie en compagnie de Tom Dove et Neil Spooner afin d’y pêcher une carpe gigantesque. (2019).</desc>
+  <programme start="20220911230000 +0300" stop="20220912000500 +0300" channel="BBC World">
+    <title lang="el">Συντέλεια της αρχαιότητας Κ1 ΕΠ2</title>
+    <desc lang="el">Υπήρξαν αλήθεια τα Σόδομα; Στο Ταλ ελ Χαμάμ της σύγχρονης Ιορδανίας οι αρχαιολόγοι ανακάλυψαν μια πόλη που άκμασε κατά την Εποχή του Χαλκού και θεωρούν ότι ίσως είναι τα Σόδομα. Σκηνοθεσία: Kim Lask. Πρωταγωνιστούν: Alisdair Simpson.(c)</desc>
   </programme>
   <programme start="20220912000500 +0300" stop="20220912010500 +0300" channel="BBC World">
     <title lang="el">Συντέλεια της αρχαιότητας Κ1 ΕΠ3</title>
@@ -32708,9 +32712,9 @@
     <title lang="el">Tigerland</title>
     <desc lang="el">Μια ομάδα νεοσύλλεκτων υποβάλεται στην Εξελιγμένη Εκπαίδευση Πεζικού του Φορτ Πολκ, την περιβόητη Τάιγκερλαντ της Λουιζιάνα, που είναι η τελευταία στάση πριν το Βιετνάμ. Σκηνοθεσία: Joel Schumacher,. Πρωταγωνιστούν: Colin Farrell, Matthew Davis, Clifton Collins Jr., Thomas Guiry, Shea Whigham, Russell Richardson. (2000).</desc>
   </programme>
-  <programme start="20220913210000 +0300" stop="20220913225500 +0300" channel="BBC World">
-    <title lang="el">What Women Want</title>
-    <desc lang="el">Ένα στέλεχος διαφημιστικής εταιρείας στο Σικάγο αποκτά μια εντελώς νέα οπτική όταν ένα απρόσμενο ατύχημα του δίνει την ικανότητα να διαβάζει το μυαλό των γυναικών. Σκηνοθεσία: Nancy Meyers,. Πρωταγωνιστούν: Mel Gibson, Helen Hunt, Marisa Tomei, Mark Feuerstein, Ashley Johnson, Alan Alda. (2000).</desc>
+  <programme start="20220913220000 +0300" stop="20220914000500 +0300" channel="BBC World">
+    <title lang="el">Ana</title>
+    <desc lang="el">Ένας υπερχρεωμένος έμπορος αυτοκινήτων βρίσκει τυχαία ένα 9χρονο κορίτσι που δεν έχει πού να πάει. Οι δυο τους ζουν μαζί μία δύσκολη περιπέτεια, μέχρι να καταφέρει ο καθένας να τραβήξει τον δρόμο του. Δραματική Κομεντί, 2020. Σκηνοθεσία: Τσαρλς ΜακΝτούγκαλ. Πρωταγωνιστές: Αντι Γκαρσία, Ντάφνι Κιν, Τζιν Τρίπλχορν.(c)</desc>
   </programme>
   <programme start="20220914000500 +0300" stop="20220914013500 +0300" channel="BBC World">
     <title lang="el">Songbird</title>
