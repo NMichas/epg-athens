@@ -102,26 +102,32 @@
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -32818,13 +32824,9 @@
     <title lang="el">Απαγορευμένη Ιστορία Κ7 ΕΠ4</title>
     <desc lang="el">Αποκαλύπτουμε μια νέα ενδιαφέρουσα θεωρία για το Γκεμπεκλί Τεπέ στη ν. Τουρκία. Ένα από τα παλαιότερα μυστήρια του κόσμου, 12.000 χρόνια πριν, και ακόμα δεν έχουμε καταλήξει ποιος το έκτισε και γιατί. Σκηνοθεσία: Steve Gillham. Πρωταγωνιστούν: Jamie Theakston.</desc>
   </programme>
-  <programme start="20220915220000 +0300" stop="20220915225000 +0300" channel="BBC World">
-    <title lang="el">Εξιχνίαση μυστηρίων Κ1 ΕΠ7</title>
-    <desc lang="el">Η σειρά αστυνομικών ντοκιμαντέρ ερευνά σε βάθος τα σημαντικότερα ανεξιχνίαστα μυστήρια της Αμερικής, αναλύοντας πρωτοφανή στοιχεία και αξιοποιώντας τεχνολογικά μέσα στην επανεξέταση κάθε υπόθεσης. Πρωταγωνιστούν: Jennifer Marshall.</desc>
-  </programme>
-  <programme start="20220915225000 +0300" stop="20220915235500 +0300" channel="BBC World">
-    <title lang="el">Η δίκη του Τσαουσέσκου</title>
-    <desc lang="el">Τριάντα χρόνια μετά την πτώση του Τσαουσέσκου, εξετάζουμε ένα από τα πιο βίαια γεγονότα της κατάρρευσης των σοσιαλιστικών δικτατοριών, ένα πραξικόπημα εν είδει λαϊκής επανάστασης. Σκηνοθεσία: Vincent de Cointet.</desc>
+  <programme start="20220915224000 +0300" stop="20220916001500 +0300" channel="BBC World">
+    <title lang="el">Requiem for a Dream</title>
+    <desc lang="el">Μια αμείλικτη και απτόητη αποτύπωση των επιπτώσεων της τοξικομανίας σε τέσσερα άτομα που αναζητούν αγάπη και καταξίωση. (2000) Σκηνοθεσία: Darren Aronofsky. Πρωταγωνιστούν: Ellen Burstyn, Jennifer Connelly, Jared Leto, Marlon Wayans. (2000).(c)</desc>
   </programme>
   <programme start="20220916001500 +0300" stop="20220916014000 +0300" channel="BBC World">
     <title lang="el">Along Came Polly</title>
