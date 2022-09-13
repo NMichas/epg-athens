@@ -127,6 +127,7 @@
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -30452,333 +30453,341 @@
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037715912000800.jpg/1f880f4d-112b-782e-e55f-04aae35823ea?version=1.0&amp;t=1662672594813"/>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20220914000000 +0300" stop="20220914060000 +0300" channel="RIK">
-    <title lang="el">Novasports3</title>
-    <desc lang="el">Ενα κανάλι αφιερωμένο στο ευρωπαϊκό και το παγκόσμιο ποδόσφαιρο με συνεχή δράση από την Παρασκευή μέχρι τη Δευτέρα, αλλά και τις υπόλοιπες μέρες της εβδομάδας όταν πραγματοποιούνται εμβόλιμες αγωνιστικές και παιχνίδια κυπέλλων.</desc>
+  <programme start="20220914020000 +0300" stop="20220914030000 +0300" channel="RIK">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ: PRO SERIES - Γύρος Λουξεμβούργου 1ο Ετάπ</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ: PRO SERIES - Γύρος Λουξεμβούργου 1ο Ετάπ.(c)</desc>
   </programme>
-  <programme start="20220914060000 +0300" stop="20220914120000 +0300" channel="RIK">
-    <title lang="el">Novasports3</title>
-    <desc lang="el">Ενα κανάλι αφιερωμένο στο ευρωπαϊκό και το παγκόσμιο ποδόσφαιρο με συνεχή δράση από την Παρασκευή μέχρι τη Δευτέρα, αλλά και τις υπόλοιπες μέρες της εβδομάδας όταν πραγματοποιούνται εμβόλιμες αγωνιστικές και παιχνίδια κυπέλλων.</desc>
+  <programme start="20220914030000 +0300" stop="20220914040000 +0300" channel="RIK">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ: - Γύρος Σλοβακίας 1ο Ετάπ</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ: - Γύρος Σλοβακίας 1ο Ετάπ.(c)</desc>
   </programme>
-  <programme start="20220914120000 +0300" stop="20220914140000 +0300" channel="RIK">
-    <title lang="el">Άουγκσμπουργκ - Χέρτα Βερολίνου</title>
-    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις! Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο.</desc>
+  <programme start="20220914040000 +0300" stop="20220914060000 +0300" channel="RIK">
+    <title lang="el">Αντοχή Μοτοσικλετών: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">Αντοχή Μοτοσικλετών: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - 24 Ώρες Λε Μαν.(c)</desc>
+  </programme>
+  <programme start="20220914060000 +0300" stop="20220914070000 +0300" channel="RIK">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ: PRO SERIES - Γύρος Λουξεμβούργου 1ο Ετάπ</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ: PRO SERIES - Γύρος Λουξεμβούργου 1ο Ετάπ.(c)</desc>
+  </programme>
+  <programme start="20220914070000 +0300" stop="20220914080000 +0300" channel="RIK">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ: - Γύρος Σλοβακίας 1ο Ετάπ</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ: - Γύρος Σλοβακίας 1ο Ετάπ.(c)</desc>
+  </programme>
+  <programme start="20220914080000 +0300" stop="20220914100000 +0300" channel="RIK">
+    <title lang="el">Αντοχή Μοτοσικλετών: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">Αντοχή Μοτοσικλετών: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - 24 Ώρες Λε Μαν.(c)</desc>
+  </programme>
+  <programme start="20220914100000 +0300" stop="20220914110000 +0300" channel="RIK">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ</title>
+    <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.(c)</desc>
+  </programme>
+  <programme start="20220914110000 +0300" stop="20220914120000 +0300" channel="RIK">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ: - Γύρος Σλοβακίας 1ο Ετάπ</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ: - Γύρος Σλοβακίας 1ο Ετάπ.(c)</desc>
+  </programme>
+  <programme start="20220914120000 +0300" stop="20220914130000 +0300" channel="RIK">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ HALL OF FAME ΠΕΚΙΝΟ 2008</title>
+    <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.(c)</desc>
+  </programme>
+  <programme start="20220914130000 +0300" stop="20220914140000 +0300" channel="RIK">
+    <title lang="el">ΤΡΙΑΘΛΟ: PTO Τουρ Κόλινς Καπ -</title>
+    <desc lang="el">ΤΡΙΑΘΛΟ: PTO Τουρ Κόλινς Καπ -.(c)</desc>
   </programme>
   <programme start="20220914140000 +0300" stop="20220914160000 +0300" channel="RIK">
-    <title lang="el">Λεβερκούζεν - Φράιμπουργκ</title>
-    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις! Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο.</desc>
+    <title lang="el">Αντοχή Μοτοσικλετών: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">Αντοχή Μοτοσικλετών: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - 24 Ώρες Λε Μαν.(c)</desc>
   </programme>
-  <programme start="20220914160000 +0300" stop="20220914180000 +0300" channel="RIK">
-    <title lang="el">Φράιμπουργκ - Γκλάντμπαχ</title>
-    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις! Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο.</desc>
+  <programme start="20220914160000 +0300" stop="20220914173000 +0300" channel="RIK">
+    <title lang="el">ΤΡΙΑΘΛΟ: PTO Τουρ Κόλινς Καπ -</title>
+    <desc lang="el">ΤΡΙΑΘΛΟ: PTO Τουρ Κόλινς Καπ -.(c)</desc>
   </programme>
-  <programme start="20220914180000 +0300" stop="20220914200000 +0300" channel="RIK">
-    <title lang="el">Φορτούνα Ντίσελντορφ - Χάνσα Ροστόκ</title>
-    <desc lang="el">Παρακολουθείτε αγώνες της Bundesliga 2, της δεύτερης κατηγορίας του γερμανικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 18 σύλλογοι, ενώ πέρσι πρωταθλήτρια αναδείχθηκε η Σάλκε. Ποδόσφαιρο.</desc>
+  <programme start="20220914173000 +0300" stop="20220914183000 +0300" channel="RIK">
+    <title lang="el">ΤΕΝΙΣ: ΤΟΥΡΝΟΥΑ ΓΚΡΑΝ ΣΛΑΜ Αμερικανικό Όπεν - Τελικός Μονό ΓΥΝΑΙΚΕΣ</title>
+    <desc lang="el">ΤΕΝΙΣ: ΤΟΥΡΝΟΥΑ ΓΚΡΑΝ ΣΛΑΜ Αμερικανικό Όπεν - Τελικός Μονό ΓΥΝΑΙΚΕΣ.(c)</desc>
   </programme>
-  <programme start="20220914200000 +0300" stop="20220914220000 +0300" channel="RIK">
-    <title lang="el">Βέρντερ Βρέμης - Άουγκσμπουργκ</title>
-    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις! Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο.</desc>
+  <programme start="20220914183000 +0300" stop="20220914193000 +0300" channel="RIK">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ HALL OF FAME ΠΕΚΙΝΟ 2008</title>
+    <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.(c)</desc>
+  </programme>
+  <programme start="20220914193000 +0300" stop="20220914203000 +0300" channel="RIK">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ: PRO SERIES - Γύρος Λουξεμβούργου 2ο Ετάπ</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ: PRO SERIES - Γύρος Λουξεμβούργου 2ο Ετάπ.(c)</desc>
+  </programme>
+  <programme start="20220914203000 +0300" stop="20220914211500 +0300" channel="RIK">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ: - Γύρος Σλοβακίας 2ο Ετάπ</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ: - Γύρος Σλοβακίας 2ο Ετάπ.(c)</desc>
+  </programme>
+  <programme start="20220914211500 +0300" stop="20220914215500 +0300" channel="RIK">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ</title>
+    <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.(c)</desc>
+  </programme>
+  <programme start="20220914215500 +0300" stop="20220914220000 +0300" channel="RIK">
+    <title lang="el">*</title>
+    <desc lang="el">N/A.(c)</desc>
   </programme>
   <programme start="20220914220000 +0300" stop="20220914223000 +0300" channel="RIK">
-    <title lang="el">Μπάγερν Μονάχου - Στουτγκάρδη</title>
-    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις! Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο.</desc>
+    <title lang="el">GOLF PGA TOUR Discovery Γκολφ</title>
+    <desc lang="el">GOLF PGA TOUR Discovery Γκολφ.(c)</desc>
   </programme>
-  <programme start="20220914223000 +0300" stop="20220915003000 +0300" channel="RIK">
-    <title lang="el">Αποκλειστικά στην Cablenet</title>
-    <desc lang="el">Αποκλειστικά στην Cablenet.</desc>
+  <programme start="20220914223000 +0300" stop="20220914235500 +0300" channel="RIK">
+    <title lang="el">ΤΕΝΙΣ</title>
+    <desc lang="el">ΤΕΝΙΣ.(c)</desc>
   </programme>
-  <programme start="20220915003000 +0300" stop="20220915010000 +0300" channel="RIK">
-    <title lang="el">Ομάδες Όνειρο #1917 Never Won A Ballon D’or / Atletico Madrid’s Dream Team (E)</title>
-    <desc lang="el">ΟΜΑΔΕΣ ΟΝΕΙΡΟ.</desc>
+  <programme start="20220914235500 +0300" stop="20220915000000 +0300" channel="RIK">
+    <title lang="el">*</title>
+    <desc lang="el">N/A.(c)</desc>
   </programme>
-  <programme start="20220915010000 +0300" stop="20220915030000 +0300" channel="RIK">
-    <title lang="el">ΑΠΟΕΛ - Άρης 10/9/22 (E)</title>
-    <desc lang="el">Πρωτάθλημα Α' Κατηγορίας 2022-23.</desc>
+  <programme start="20220915000000 +0300" stop="20220915060000 +0300" channel="RIK">
+    <title lang="el">Novasports3</title>
+    <desc lang="el">Ενα κανάλι αφιερωμένο στο ευρωπαϊκό και το παγκόσμιο ποδόσφαιρο με συνεχή δράση από την Παρασκευή μέχρι τη Δευτέρα, αλλά και τις υπόλοιπες μέρες της εβδομάδας όταν πραγματοποιούνται εμβόλιμες αγωνιστικές και παιχνίδια κυπέλλων.(c)</desc>
   </programme>
-  <programme start="20220915030000 +0300" stop="20220915050000 +0300" channel="RIK">
-    <title lang="el">Ολυμπιακός Π. - Βόλος 11/9/22 (E)</title>
-    <desc lang="el">Ελληνικό Πρωτάθλημα Ποδοσφαίρου 2022-23.</desc>
-  </programme>
-  <programme start="20220915050000 +0300" stop="20220915070000 +0300" channel="RIK">
-    <title lang="el">Αποκλειστικά στην Cablenet</title>
-    <desc lang="el">Αποκλειστικά στην Cablenet.</desc>
-  </programme>
-  <programme start="20220915070000 +0300" stop="20220915090000 +0300" channel="RIK">
-    <title lang="el">Αθλητικά Ντοκιμαντέρ Michael Vick (Part B) (E)</title>
-    <desc lang="el">Αθλητικά Ντοκιμαντέρ.</desc>
-  </programme>
-  <programme start="20220915090000 +0300" stop="20220915100000 +0300" channel="RIK">
-    <title lang="el">Αποκλειστικά στην Cablenet</title>
-    <desc lang="el">Αποκλειστικά στην Cablenet.</desc>
-  </programme>
-  <programme start="20220915100000 +0300" stop="20220915120000 +0300" channel="RIK">
-    <title lang="el">Αποκλειστικά στην Cablenet</title>
-    <desc lang="el">Αποκλειστικά στην Cablenet.</desc>
+  <programme start="20220915060000 +0300" stop="20220915120000 +0300" channel="RIK">
+    <title lang="el">Novasports3</title>
+    <desc lang="el">Ενα κανάλι αφιερωμένο στο ευρωπαϊκό και το παγκόσμιο ποδόσφαιρο με συνεχή δράση από την Παρασκευή μέχρι τη Δευτέρα, αλλά και τις υπόλοιπες μέρες της εβδομάδας όταν πραγματοποιούνται εμβόλιμες αγωνιστικές και παιχνίδια κυπέλλων.(c)</desc>
   </programme>
   <programme start="20220915120000 +0300" stop="20220915140000 +0300" channel="RIK">
-    <title lang="el">Δόξα - ΑΕΚ 10/9/22 (E)</title>
-    <desc lang="el">Παγκύπριο πρωτάθλημα Νέων U19 - Α κατηγορίας 2022-23.</desc>
+    <title lang="el">Άιντραχτ Φρανκφούρτης - Λειψία</title>
+    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις! Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο.(c)</desc>
   </programme>
-  <programme start="20220915140000 +0300" stop="20220915143000 +0300" channel="RIK">
-    <title lang="el">Αντίστροφη Μέτρηση Για Το Κατάρ 2022 # 30 Αυστραλία (E)</title>
-    <desc lang="el">Αντίστροφη Μέτρηση Για Το Κατάρ 2022.</desc>
+  <programme start="20220915140000 +0300" stop="20220915160000 +0300" channel="RIK">
+    <title lang="el">Μπόχουμ - Βέρντερ Βρέμης</title>
+    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις! Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο.(c)</desc>
   </programme>
-  <programme start="20220915143000 +0300" stop="20220915163000 +0300" channel="RIK">
-    <title lang="el">Αποκλειστικά στην Cablenet</title>
-    <desc lang="el">Αποκλειστικά στην Cablenet.</desc>
-  </programme>
-  <programme start="20220915163000 +0300" stop="20220915170000 +0300" channel="RIK">
-    <title lang="el">Αποκλειστικά στην Cablenet</title>
-    <desc lang="el">Αποκλειστικά στην Cablenet.</desc>
-  </programme>
-  <programme start="20220915170000 +0300" stop="20220915173000 +0300" channel="RIK">
-    <title lang="el">Ομάδες Όνειρο #1917 Never Won A Ballon D’or / Atletico Madrid’s Dream Team (E)</title>
-    <desc lang="el">ΟΜΑΔΕΣ ΟΝΕΙΡΟ.</desc>
-  </programme>
-  <programme start="20220915173000 +0300" stop="20220915180000 +0300" channel="RIK">
-    <title lang="el">#2017 Floyd Mayweather Jr. / Joe Frazier / George Foreman / Sugar Ray Leonard(E)</title>
-    <desc lang="el">ΟΙ ΑΘΑΝΑΤΟΙ.</desc>
+  <programme start="20220915160000 +0300" stop="20220915180000 +0300" channel="RIK">
+    <title lang="el">Βέρντερ Βρέμης - Άουγκσμπουργκ</title>
+    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις! Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο.(c)</desc>
   </programme>
   <programme start="20220915180000 +0300" stop="20220915200000 +0300" channel="RIK">
-    <title lang="el">Αποκλειστικά στην Cablenet</title>
-    <desc lang="el">Αποκλειστικά στην Cablenet.</desc>
+    <title lang="el">Σάλκε - Μπόχουμ</title>
+    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις! Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο.(c)</desc>
   </programme>
-  <programme start="20220915200000 +0300" stop="20220915203000 +0300" channel="RIK">
-    <title lang="el">Οι Μεγάλοι Του Ποδοσφαίρου Σεζόν 5 # 08 Ρόναλτ Κούμαν (E)</title>
-    <desc lang="el">Οι Μεγάλοι Του Ποδοσφαίρου Σεζόν 5.</desc>
-  </programme>
-  <programme start="20220915203000 +0300" stop="20220915210000 +0300" channel="RIK">
-    <title lang="el">FIBA Παγκόσμιο Μπασκετ # 870 14/09/22 (PREMIERE)</title>
-    <desc lang="el">FIBA Παγκόσμιο Μπασκετ.</desc>
-  </programme>
-  <programme start="20220915210000 +0300" stop="20220915213000 +0300" channel="RIK">
-    <title lang="el">Αντίστροφη Μέτρηση Για Το Κατάρ 2022 # 30 Αυστραλία (E)</title>
-    <desc lang="el">Αντίστροφη Μέτρηση Για Το Κατάρ 2022.</desc>
-  </programme>
-  <programme start="20220915213000 +0300" stop="20220915220000 +0300" channel="RIK">
-    <title lang="el">Αποκλειστικά στην Cablenet</title>
-    <desc lang="el">Αποκλειστικά στην Cablenet.</desc>
+  <programme start="20220915200000 +0300" stop="20220915220000 +0300" channel="RIK">
+    <title lang="el">Χέρτα Βερολίνου - Λεβερκούζεν</title>
+    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις! Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο.(c)</desc>
   </programme>
   <programme start="20220915220000 +0300" stop="20220915223000 +0300" channel="RIK">
-    <title lang="el">Κόντρα Στις Πιθανότητες 2019 # 0119 (E)</title>
-    <desc lang="el">Κόντρα Στις Πιθανότητες 2019.</desc>
+    <title lang="el">Χόφενχαϊμ - Μάιντς</title>
+    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις! Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο.(c)</desc>
   </programme>
-  <programme start="20220915223000 +0300" stop="20220915234500 +0300" channel="RIK">
+  <programme start="20220915223000 +0300" stop="20220915234000 +0300" channel="RIK">
     <title lang="el">Αποκλειστικά στην Cablenet</title>
-    <desc lang="el">Αποκλειστικά στην Cablenet.</desc>
+    <desc lang="el">Αποκλειστικά στην Cablenet.(c)</desc>
   </programme>
-  <programme start="20220915234500 +0300" stop="20220916011500 +0300" channel="RIK">
-    <title lang="el">Информационный канал</title>
-    <desc lang="el">Информационный канал.</desc>
+  <programme start="20220915234000 +0300" stop="20220916004500 +0300" channel="RIK">
+    <title lang="el">Марина Цветаева.</title>
+    <desc lang="el">Марина Цветаева.(c)</desc>
   </programme>
-  <programme start="20220916011500 +0300" stop="20220916020500 +0300" channel="RIK">
-    <title lang="el">Мужское/Женское</title>
-    <desc lang="el">Мужское/Женское.</desc>
-  </programme>
-  <programme start="20220916020500 +0300" stop="20220916025500 +0300" channel="RIK">
-    <title lang="el">На самом деле</title>
-    <desc lang="el">На самом деле.</desc>
+  <programme start="20220916004500 +0300" stop="20220916025500 +0300" channel="RIK">
+    <title lang="el">За гранью реальности</title>
+    <desc lang="el">Антонио Бандерас, Милош Бикович в фильме.(c)</desc>
   </programme>
   <programme start="20220916025500 +0300" stop="20220916040000 +0300" channel="RIK">
-    <title lang="el">Пусть говорят</title>
-    <desc lang="el">Пусть говорят.</desc>
+    <title lang="el">Поле чудес</title>
+    <desc lang="el">Поле чудес.(c)</desc>
   </programme>
   <programme start="20220916040000 +0300" stop="20220916044500 +0300" channel="RIK">
     <title lang="el">Время</title>
     <desc lang="el">Время.</desc>
   </programme>
-  <programme start="20220916044500 +0300" stop="20220916053500 +0300" channel="RIK">
-    <title lang="el">Мосгаз. Дело №8: Западня</title>
-    <desc lang="el">Мосгаз. Дело №8: Западня.</desc>
+  <programme start="20220916044500 +0300" stop="20220916061500 +0300" channel="RIK">
+    <title lang="el">Семь ужинов</title>
+    <desc lang="el">Фильм.(c)</desc>
   </programme>
-  <programme start="20220916053500 +0300" stop="20220916090000 +0300" channel="RIK">
-    <title lang="el">Доброе утро</title>
-    <desc lang="el">Телеканал.</desc>
+  <programme start="20220916061500 +0300" stop="20220916094500 +0300" channel="RIK">
+    <title lang="el">Доброе утро. Суббота</title>
+    <desc lang="el">Телеканал.(c)</desc>
   </programme>
-  <programme start="20220916090000 +0300" stop="20220916092000 +0300" channel="RIK">
+  <programme start="20220916094500 +0300" stop="20220916100000 +0300" channel="RIK">
+    <title lang="el">Слово пастыря</title>
+    <desc lang="el">Слово пастыря.(c)</desc>
+  </programme>
+  <programme start="20220916100000 +0300" stop="20220916101500 +0300" channel="RIK">
     <title lang="el">Новости (с субтитрами)</title>
-    <desc lang="el">Новости (с субтитрами).</desc>
+    <desc lang="el">Новости (с субтитрами).(c)</desc>
   </programme>
-  <programme start="20220916092000 +0300" stop="20220916100000 +0300" channel="RIK">
-    <title lang="el">АнтиФейк</title>
-    <desc lang="el">Премьера.</desc>
+  <programme start="20220916101500 +0300" stop="20220916111000 +0300" channel="RIK">
+    <title lang="el">Поехали!</title>
+    <desc lang="el">Премьера.(c)</desc>
   </programme>
-  <programme start="20220916100000 +0300" stop="20220916104500 +0300" channel="RIK">
-    <title lang="el">Жить здорово!</title>
-    <desc lang="el">Жить здорово!</desc>
-  </programme>
-  <programme start="20220916104500 +0300" stop="20220916120000 +0300" channel="RIK">
-    <title lang="el">Информационный канал</title>
-    <desc lang="el">Информационный канал.</desc>
+  <programme start="20220916111000 +0300" stop="20220916120000 +0300" channel="RIK">
+    <title lang="el">Видели видео?</title>
+    <desc lang="el">Видели видео?(c)</desc>
   </programme>
   <programme start="20220916120000 +0300" stop="20220916121500 +0300" channel="RIK">
     <title lang="el">Новости (с субтитрами)</title>
     <desc lang="el">Новости (с субтитрами).</desc>
   </programme>
-  <programme start="20220916121500 +0300" stop="20220916150000 +0300" channel="RIK">
-    <title lang="el">Информационный канал</title>
-    <desc lang="el">Информационный канал.</desc>
+  <programme start="20220916121500 +0300" stop="20220916140000 +0300" channel="RIK">
+    <title lang="el">Видели видео?</title>
+    <desc lang="el">Видели видео?(c)</desc>
   </programme>
-  <programme start="20220916150000 +0300" stop="20220916151500 +0300" channel="RIK">
-    <title lang="el">Новости (с субтитрами)</title>
-    <desc lang="el">Новости (с субтитрами).</desc>
+  <programme start="20220916140000 +0300" stop="20220916150500 +0300" channel="RIK">
+    <title lang="el">Ангелина Вовк. Женщина, которая ведет</title>
+    <desc lang="el">Ангелина Вовк. Женщина, которая ведет.(c)</desc>
   </programme>
-  <programme start="20220916151500 +0300" stop="20220916180000 +0300" channel="RIK">
-    <title lang="el">Информационный канал</title>
-    <desc lang="el">Информационный канал.</desc>
+  <programme start="20220916150500 +0300" stop="20220916170500 +0300" channel="RIK">
+    <title lang="el">Ты у меня одна</title>
+    <desc lang="el">Александр Збруев, Марина Неёлова в фильме.(c)</desc>
   </programme>
-  <programme start="20220916180000 +0300" stop="20220916184000 +0300" channel="RIK">
+  <programme start="20220916170500 +0300" stop="20220916180000 +0300" channel="RIK">
+    <title lang="el">Игорь Кириллов.</title>
+    <desc lang="el">Игорь Кириллов.(c)</desc>
+  </programme>
+  <programme start="20220916180000 +0300" stop="20220916182000 +0300" channel="RIK">
     <title lang="el">Вечерние новости (с субтитрами)</title>
-    <desc lang="el">Вечерние новости (с субтитрами).</desc>
+    <desc lang="el">Вечерние новости (с субтитрами).(c)</desc>
   </programme>
-  <programme start="20220916184000 +0300" stop="20220916194500 +0300" channel="RIK">
-    <title lang="el">Человек и закон</title>
-    <desc lang="el">с Алексеем Пимановым.</desc>
+  <programme start="20220916182000 +0300" stop="20220916195000 +0300" channel="RIK">
+    <title lang="el">Сегодня вечером</title>
+    <desc lang="el">Сегодня вечером.(c)</desc>
   </programme>
-  <programme start="20220916194500 +0300" stop="20220916210000 +0300" channel="RIK">
-    <title lang="el">Поле чудес</title>
-    <desc lang="el">Поле чудес.</desc>
+  <programme start="20220916195000 +0300" stop="20220916210000 +0300" channel="RIK">
+    <title lang="el">Точь-в-точь</title>
+    <desc lang="el">Точь-в-точь.(c)</desc>
   </programme>
-  <programme start="20220916210000 +0300" stop="20220916214500 +0300" channel="RIK">
+  <programme start="20220916210000 +0300" stop="20220916213500 +0300" channel="RIK">
     <title lang="el">Время</title>
-    <desc lang="el">Время.</desc>
+    <desc lang="el">Время.(c)</desc>
   </programme>
-  <programme start="20220916214500 +0300" stop="20220916234000 +0300" channel="RIK">
-    <title lang="el">Клуб Веселых и Находчивых</title>
-    <desc lang="el">Клуб Веселых и Находчивых.</desc>
+  <programme start="20220916213500 +0300" stop="20220916230000 +0300" channel="RIK">
+    <title lang="el">Точь-в-точь</title>
+    <desc lang="el">Точь-в-точь.(c)</desc>
   </programme>
-  <programme start="20220916234000 +0300" stop="20220917000000 +0300" channel="RIK">
-    <title lang="el">Марина Цветаева.</title>
-    <desc lang="el">Марина Цветаева.</desc>
+  <programme start="20220916230000 +0300" stop="20220917000000 +0300" channel="RIK">
+    <title lang="el">Игра</title>
+    <desc lang="el">Юрий Степанов, Даниил Страхов, Алексей Булдаков в фильме.(c)</desc>
   </programme>
-  <programme start="20220917000000 +0300" stop="20220917003000 +0300" channel="RIK">
-    <title lang="el">BBC World News America</title>
-    <desc lang="el">In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+  <programme start="20220917000000 +0300" stop="20220917001000 +0300" channel="RIK">
+    <title lang="el">BBC World News</title>
+    <desc lang="el">The latest international news from the BBC.(c)</desc>
   </programme>
-  <programme start="20220917003000 +0300" stop="20220917010000 +0300" channel="RIK">
-    <title lang="el">HARDtalk</title>
-    <desc lang="el">In-depth interviews with hard-hitting questions and sensitive topics being covered as famous personalities from all walks of life talk about the highs and lows in their lives.</desc>
+  <programme start="20220917001000 +0300" stop="20220917010000 +0300" channel="RIK">
+    <title lang="el">Ukraine's Musical Freedom Fighters</title>
+    <desc lang="el">In the midst of war, more than 75 of Ukraine's finest musicians have come together. Clive Myrie tells the extraordinary story of the newly formed Ukrainian Freedom Orchestra.(c)</desc>
   </programme>
   <programme start="20220917010000 +0300" stop="20220917013000 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
     <desc lang="el">The latest international news from the BBC.</desc>
   </programme>
   <programme start="20220917013000 +0300" stop="20220917020000 +0300" channel="RIK">
-    <title lang="el">Newsnight</title>
-    <desc lang="el">Newsnight is a weekly round up of news and current affairs; incorporating hard-hitting interviews with global opinion-formers and documentaries from every corner of the world.</desc>
+    <title lang="el">The Great Indian Cricket Dream</title>
+    <desc lang="el">Tracing the evolution of the Indian women's cricket team, from humble beginnings in the 1970's to twice reaching the World Cup Final.(c)</desc>
   </programme>
   <programme start="20220917020000 +0300" stop="20220917023000 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
     <desc lang="el">The latest international news from the BBC.</desc>
   </programme>
   <programme start="20220917023000 +0300" stop="20220917030000 +0300" channel="RIK">
-    <title lang="el">The Sky at Night</title>
-    <desc lang="el">Space scientist Dr Maggie Aderin-Pocock and astrophysicist and author Chris Lintott look back at the legacy of the Apollo programme, and forward to the future of lunar exploration.</desc>
+    <title lang="el">Talking Business</title>
+    <desc lang="el">Examining the business stories and economic trends that are re-shaping our world.(c)</desc>
   </programme>
   <programme start="20220917030000 +0300" stop="20220917033000 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
     <desc lang="el">The latest international news from the BBC.</desc>
   </programme>
   <programme start="20220917033000 +0300" stop="20220917040000 +0300" channel="RIK">
-    <title lang="el">Click</title>
-    <desc lang="el">Could transplant organs one day be created in the lab and fashioned on a 3D printer? Click finds out.</desc>
+    <title lang="el">The Sky at Night</title>
+    <desc lang="el">Space scientist Dr Maggie Aderin-Pocock and astrophysicist and author Chris Lintott look back at the legacy of the Apollo programme, and forward to the future of lunar exploration.(c)</desc>
   </programme>
   <programme start="20220917040000 +0300" stop="20220917043000 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
     <desc lang="el">The latest international news from the BBC.</desc>
   </programme>
   <programme start="20220917043000 +0300" stop="20220917050000 +0300" channel="RIK">
-    <title lang="el">Panorama</title>
-    <desc lang="el">Panorama investigates the smugglers who get people into Britain and finds out what the UK government's plan to send asylum seekers to Rwanda means for those attempting the journey.</desc>
+    <title lang="el">Dateline London</title>
+    <desc lang="el">Foreign correspondents currently posted to London look at events in the UK through outsiders' eyes, and at how the issues of the week are being tackled around the world.(c)</desc>
   </programme>
-  <programme start="20220917050000 +0300" stop="20220917053000 +0300" channel="RIK">
+  <programme start="20220917050000 +0300" stop="20220917051000 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
-    <desc lang="el">The latest international news from the BBC.</desc>
+    <desc lang="el">The latest international news from the BBC.(c)</desc>
   </programme>
-  <programme start="20220917053000 +0300" stop="20220917060000 +0300" channel="RIK">
-    <title lang="el">Wonders of Turkey</title>
-    <desc lang="el">Historian Bettany Hughes continues her journey through Turkey, travelling through the region of Cappadocia.</desc>
+  <programme start="20220917051000 +0300" stop="20220917060000 +0300" channel="RIK">
+    <title lang="el">Ukraine's Musical Freedom Fighters</title>
+    <desc lang="el">In the midst of war, more than 75 of Ukraine's finest musicians have come together. Clive Myrie tells the extraordinary story of the newly formed Ukrainian Freedom Orchestra.(c)</desc>
   </programme>
   <programme start="20220917060000 +0300" stop="20220917063000 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
     <desc lang="el">The latest international news from the BBC.</desc>
   </programme>
   <programme start="20220917063000 +0300" stop="20220917070000 +0300" channel="RIK">
-    <title lang="el">The Travel Show</title>
-    <desc lang="el">Rajan Datar looks back at some of his favourite stories from recent months - including how Greece recovered from devastating forest fires to the resurgence of Mahjong in Hong Kong.</desc>
+    <title lang="el">Click</title>
+    <desc lang="el">Could transplant organs one day be created in the lab and fashioned on a 3D printer? Click finds out.(c)</desc>
   </programme>
   <programme start="20220917070000 +0300" stop="20220917073000 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
     <desc lang="el">The latest international news from the BBC.</desc>
   </programme>
   <programme start="20220917073000 +0300" stop="20220917080000 +0300" channel="RIK">
-    <title lang="el">Our World</title>
-    <desc lang="el">BBC journalism at its best with programmes that expose and evaluate global topics.</desc>
+    <title lang="el">The Great Indian Cricket Dream</title>
+    <desc lang="el">Tracing the evolution of the Indian women's cricket team, from humble beginnings in the 1970's to twice reaching the World Cup Final.(c)</desc>
   </programme>
   <programme start="20220917080000 +0300" stop="20220917083000 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
     <desc lang="el">The latest international news from the BBC.</desc>
   </programme>
   <programme start="20220917083000 +0300" stop="20220917090000 +0300" channel="RIK">
-    <title lang="el">Unspun World with John Simpson</title>
-    <desc lang="el">Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor John Simpson.</desc>
+    <title lang="el">Talking Business</title>
+    <desc lang="el">Examining the business stories and economic trends that are re-shaping our world.(c)</desc>
   </programme>
   <programme start="20220917090000 +0300" stop="20220917093000 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
     <desc lang="el">The latest international news from the BBC.</desc>
   </programme>
   <programme start="20220917093000 +0300" stop="20220917100000 +0300" channel="RIK">
-    <title lang="el">Click</title>
-    <desc lang="el">Could transplant organs one day be created in the lab and fashioned on a 3D printer? Click finds out.</desc>
+    <title lang="el">The Travel Show</title>
+    <desc lang="el">Rajan Datar looks back at some of his favourite stories from recent months - including how Greece recovered from devastating forest fires to the resurgence of Mahjong in Hong Kong.(c)</desc>
   </programme>
   <programme start="20220917100000 +0300" stop="20220917101000 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
     <desc lang="el">The latest international news from the BBC.</desc>
   </programme>
-  <programme start="20220917101000 +0300" stop="20220917110000 +0300" channel="RIK">
-    <title lang="el">Ukraine's Musical Freedom Fighters</title>
-    <desc lang="el">In the midst of war, more than 75 of Ukraine's finest musicians have come together. Clive Myrie tells the extraordinary story of the newly formed Ukrainian Freedom Orchestra.</desc>
+  <programme start="20220917101000 +0300" stop="20220917103000 +0300" channel="RIK">
+    <title lang="el">#MeToo for the Ultra-Orthodox?</title>
+    <desc lang="el">Israel's ultra-Orthodox Jews are struggling to come to terms with recent high-profile sex abuse scandals. Some are describing it as a "me-too" moment. Yolande Knell investigates.(c)</desc>
+  </programme>
+  <programme start="20220917103000 +0300" stop="20220917110000 +0300" channel="RIK">
+    <title lang="el">The Sky at Night</title>
+    <desc lang="el">Space scientist Dr Maggie Aderin-Pocock and astrophysicist and author Chris Lintott look back at the legacy of the Apollo programme, and forward to the future of lunar exploration.(c)</desc>
   </programme>
   <programme start="20220917110000 +0300" stop="20220917113000 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
     <desc lang="el">The latest international news from the BBC.</desc>
   </programme>
   <programme start="20220917113000 +0300" stop="20220917120000 +0300" channel="RIK">
-    <title lang="el">Panorama</title>
-    <desc lang="el">Panorama investigates the smugglers who get people into Britain and finds out what the UK government's plan to send asylum seekers to Rwanda means for those attempting the journey.</desc>
+    <title lang="el">Dateline London</title>
+    <desc lang="el">Foreign correspondents currently posted to London look at events in the UK through outsiders' eyes, and at how the issues of the week are being tackled around the world.(c)</desc>
   </programme>
   <programme start="20220917120000 +0300" stop="20220917123000 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
     <desc lang="el">The latest international news from the BBC.</desc>
   </programme>
   <programme start="20220917123000 +0300" stop="20220917130000 +0300" channel="RIK">
-    <title lang="el">The Sky at Night</title>
-    <desc lang="el">Space scientist Dr Maggie Aderin-Pocock and astrophysicist and author Chris Lintott look back at the legacy of the Apollo programme, and forward to the future of lunar exploration.</desc>
+    <title lang="el">Wonders of Turkey</title>
+    <desc lang="el">Historian Bettany Hughes continues her journey through Turkey, travelling through the region of Cappadocia.(c)</desc>
   </programme>
   <programme start="20220917130000 +0300" stop="20220917133000 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
     <desc lang="el">The latest international news from the BBC.</desc>
   </programme>
   <programme start="20220917133000 +0300" stop="20220917140000 +0300" channel="RIK">
-    <title lang="el">Newsnight</title>
-    <desc lang="el">Newsnight is a weekly round up of news and current affairs; incorporating hard-hitting interviews with global opinion-formers and documentaries from every corner of the world.</desc>
+    <title lang="el">The Great Indian Cricket Dream</title>
+    <desc lang="el">Tracing the evolution of the Indian women's cricket team, from humble beginnings in the 1970's to twice reaching the World Cup Final.(c)</desc>
   </programme>
   <programme start="20220917140000 +0300" stop="20220917143000 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
     <desc lang="el">The latest international news from the BBC.</desc>
   </programme>
   <programme start="20220917143000 +0300" stop="20220917150000 +0300" channel="RIK">
-    <title lang="el">Our World</title>
-    <desc lang="el">BBC journalism at its best with programmes that expose and evaluate global topics.</desc>
+    <title lang="el">Unspun World with John Simpson</title>
+    <desc lang="el">Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor John Simpson.(c)</desc>
   </programme>
   <programme start="20220917150000 +0300" stop="20220917153000 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
     <desc lang="el">The latest international news from the BBC.</desc>
   </programme>
   <programme start="20220917153000 +0300" stop="20220917160000 +0300" channel="RIK">
-    <title lang="el">The Spirit of Yachting</title>
-    <desc lang="el">The first of three shows taking an unflinching look at the teams and technology behind the fastest sailing series on the planet, focussing on the action from the races 1-4.</desc>
+    <title lang="el">The Travel Show</title>
+    <desc lang="el">Rajan Datar looks back at some of his favourite stories from recent months - including how Greece recovered from devastating forest fires to the resurgence of Mahjong in Hong Kong.(c)</desc>
   </programme>
   <programme start="20220917160000 +0300" stop="20220917161500 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
@@ -30789,8 +30798,8 @@
     <desc lang="el">All the latest sports news and results from around the globe.</desc>
   </programme>
   <programme start="20220917163000 +0300" stop="20220917170000 +0300" channel="RIK">
-    <title lang="el">The Travel Show</title>
-    <desc lang="el">Rajan Datar looks back at some of his favourite stories from recent months - including how Greece recovered from devastating forest fires to the resurgence of Mahjong in Hong Kong.</desc>
+    <title lang="el">Click</title>
+    <desc lang="el">Could transplant organs one day be created in the lab and fashioned on a 3D printer? Click finds out.(c)</desc>
   </programme>
   <programme start="20220917170000 +0300" stop="20220917171000 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
@@ -30801,36 +30810,32 @@
     <desc lang="el">Israel's ultra-Orthodox Jews are struggling to come to terms with recent high-profile sex abuse scandals. Some are describing it as a "me-too" moment. Yolande Knell investigates.</desc>
   </programme>
   <programme start="20220917173000 +0300" stop="20220917180000 +0300" channel="RIK">
-    <title lang="el">Dateline London</title>
-    <desc lang="el">Foreign correspondents currently posted to London look at events in the UK through outsiders' eyes, and at how the issues of the week are being tackled around the world.</desc>
+    <title lang="el">Panorama</title>
+    <desc lang="el">Panorama investigates the smugglers who get people into Britain and finds out what the UK government's plan to send asylum seekers to Rwanda means for those attempting the journey.(c)</desc>
   </programme>
   <programme start="20220917180000 +0300" stop="20220917181000 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
     <desc lang="el">The latest international news from the BBC.</desc>
   </programme>
-  <programme start="20220917181000 +0300" stop="20220917183000 +0300" channel="RIK">
-    <title lang="el">#MeToo for the Ultra-Orthodox?</title>
-    <desc lang="el">Israel's ultra-Orthodox Jews are struggling to come to terms with recent high-profile sex abuse scandals. Some are describing it as a "me-too" moment. Yolande Knell investigates.</desc>
-  </programme>
-  <programme start="20220917183000 +0300" stop="20220917190000 +0300" channel="RIK">
-    <title lang="el">Wonders of Turkey</title>
-    <desc lang="el">Historian Bettany Hughes continues her journey through Turkey, travelling through the region of Cappadocia.</desc>
+  <programme start="20220917181000 +0300" stop="20220917190000 +0300" channel="RIK">
+    <title lang="el">Ukraine's Musical Freedom Fighters</title>
+    <desc lang="el">In the midst of war, more than 75 of Ukraine's finest musicians have come together. Clive Myrie tells the extraordinary story of the newly formed Ukrainian Freedom Orchestra.(c)</desc>
   </programme>
   <programme start="20220917190000 +0300" stop="20220917193000 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
     <desc lang="el">The latest international news from the BBC.</desc>
   </programme>
   <programme start="20220917193000 +0300" stop="20220917200000 +0300" channel="RIK">
-    <title lang="el">Our World</title>
-    <desc lang="el">BBC journalism at its best with programmes that expose and evaluate global topics.</desc>
+    <title lang="el">Talking Business</title>
+    <desc lang="el">Examining the business stories and economic trends that are re-shaping our world.(c)</desc>
   </programme>
   <programme start="20220917200000 +0300" stop="20220917203000 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
     <desc lang="el">The latest international news from the BBC.</desc>
   </programme>
   <programme start="20220917203000 +0300" stop="20220917210000 +0300" channel="RIK">
-    <title lang="el">The Great Indian Cricket Dream</title>
-    <desc lang="el">Tracing the evolution of the Indian women's cricket team, from humble beginnings in the 1970's to twice reaching the World Cup Final.</desc>
+    <title lang="el">The Sky at Night</title>
+    <desc lang="el">Space scientist Dr Maggie Aderin-Pocock and astrophysicist and author Chris Lintott look back at the legacy of the Apollo programme, and forward to the future of lunar exploration.(c)</desc>
   </programme>
   <programme start="20220917210000 +0300" stop="20220917211500 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
@@ -30841,8 +30846,8 @@
     <desc lang="el">All the latest sports news and results from around the globe.</desc>
   </programme>
   <programme start="20220917213000 +0300" stop="20220917220000 +0300" channel="RIK">
-    <title lang="el">The Travel Show</title>
-    <desc lang="el">Rajan Datar looks back at some of his favourite stories from recent months - including how Greece recovered from devastating forest fires to the resurgence of Mahjong in Hong Kong.</desc>
+    <title lang="el">Click</title>
+    <desc lang="el">Could transplant organs one day be created in the lab and fashioned on a 3D printer? Click finds out.(c)</desc>
   </programme>
   <programme start="20220917220000 +0300" stop="20220917221000 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
@@ -30853,16 +30858,16 @@
     <desc lang="el">Israel's ultra-Orthodox Jews are struggling to come to terms with recent high-profile sex abuse scandals. Some are describing it as a "me-too" moment. Yolande Knell investigates.</desc>
   </programme>
   <programme start="20220917223000 +0300" stop="20220917230000 +0300" channel="RIK">
-    <title lang="el">Unspun World with John Simpson</title>
-    <desc lang="el">Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor John Simpson.</desc>
+    <title lang="el">The Spirit of Yachting</title>
+    <desc lang="el">The first of three shows taking an unflinching look at the teams and technology behind the fastest sailing series on the planet, focussing on the action from the races 1-4.(c)</desc>
   </programme>
   <programme start="20220917230000 +0300" stop="20220917233000 +0300" channel="RIK">
     <title lang="el">BBC World News</title>
     <desc lang="el">The latest international news from the BBC.</desc>
   </programme>
   <programme start="20220917233000 +0300" stop="20220918000000 +0300" channel="RIK">
-    <title lang="el">Dateline London</title>
-    <desc lang="el">Foreign correspondents currently posted to London look at events in the UK through outsiders' eyes, and at how the issues of the week are being tackled around the world.</desc>
+    <title lang="el">Panorama</title>
+    <desc lang="el">Panorama investigates the smugglers who get people into Britain and finds out what the UK government's plan to send asylum seekers to Rwanda means for those attempting the journey.(c)</desc>
   </programme>
   <programme start="20220918000000 +0300" stop="20220918003000 +0300" channel="RIK">
     <title lang="el">Midnite Haute</title>
@@ -30901,12 +30906,12 @@
     <desc lang="el">FashionTV gives you an unique chance to be part of the world’s greatest parties right from your home! Listen to world famous DJs, mixing the greatest tracks in all the hottest fashion bars and clubs around the world.</desc>
   </programme>
   <programme start="20220918030000 +0300" stop="20220918033000 +0300" channel="RIK">
-    <title lang="el">2000s Fashion</title>
-    <desc lang="el">Join us on our trip down memory lane as we recount the most memorable 2000s fashion trends which have made a comeback today.</desc>
+    <title lang="el">90s Fashion</title>
+    <desc lang="el">Join us on our trip down memory lane as we recount the most memorable '90s fashion trends which have made a comeback today.(c)</desc>
   </programme>
   <programme start="20220918033000 +0300" stop="20220918035500 +0300" channel="RIK">
-    <title lang="el">2000s Fashion</title>
-    <desc lang="el">Join us on our trip down memory lane as we recount the most memorable 2000s fashion trends which have made a comeback today.</desc>
+    <title lang="el">90s Fashion</title>
+    <desc lang="el">Join us on our trip down memory lane as we recount the most memorable '90s fashion trends which have made a comeback today.(c)</desc>
   </programme>
   <programme start="20220918035500 +0300" stop="20220918040000 +0300" channel="RIK">
     <title lang="el">F-Parties</title>
@@ -30937,80 +30942,80 @@
     <desc lang="el">FashionTV gives you an unique chance to be part of the world’s greatest parties right from your home! Listen to world famous DJs, mixing the greatest tracks in all the hottest fashion bars and clubs around the world.</desc>
   </programme>
   <programme start="20220918060000 +0300" stop="20220918062500 +0300" channel="RIK">
-    <title lang="el">Fitness</title>
-    <desc lang="el">Get fit with FashionTV and your favourite models. Exclusive inside tips from fashion's elite on how to get catwalk-ready.</desc>
+    <title lang="el">Fashion &amp; Sports</title>
+    <desc lang="el">Featuring worldwide sporting events, exhibitions, car races, boating, campaigns, extreme outdoor sports and sports fashion shows.(c)</desc>
   </programme>
   <programme start="20220918062500 +0300" stop="20220918063000 +0300" channel="RIK">
     <title lang="el">F-People</title>
     <desc lang="el">FashionTV brings you an exclusive look at all of the fashion week front rows, red carpets, Hollywood glamour and launch events.</desc>
   </programme>
   <programme start="20220918063000 +0300" stop="20220918065500 +0300" channel="RIK">
-    <title lang="el">Fashion &amp; Sports</title>
-    <desc lang="el">Featuring worldwide sporting events, exhibitions, car races, boating, campaigns, extreme outdoor sports and sports fashion shows.</desc>
+    <title lang="el">Fitness</title>
+    <desc lang="el">Get fit with FashionTV and your favourite models. Exclusive inside tips from fashion's elite on how to get catwalk-ready.(c)</desc>
   </programme>
   <programme start="20220918065500 +0300" stop="20220918070000 +0300" channel="RIK">
     <title lang="el">Fashion Week</title>
     <desc lang="el">FashionTV brings you the latest coverage of the world's biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews.</desc>
   </programme>
   <programme start="20220918070000 +0300" stop="20220918072500 +0300" channel="RIK">
-    <title lang="el">Model Talks</title>
-    <desc lang="el">An unique chance to get to know everything you've ever wanted to know about the world's most famous beauties. Hear what they have to say about the world of fashion, modeling and what it's like to be a runway model.</desc>
+    <title lang="el">90s Fashion</title>
+    <desc lang="el">Join us on our trip down memory lane as we recount the most memorable '90s fashion trends which have made a comeback today.(c)</desc>
   </programme>
   <programme start="20220918072500 +0300" stop="20220918073000 +0300" channel="RIK">
     <title lang="el">F-People</title>
     <desc lang="el">FashionTV brings you an exclusive look at all of the fashion week front rows, red carpets, Hollywood glamour and launch events.</desc>
   </programme>
   <programme start="20220918073000 +0300" stop="20220918075500 +0300" channel="RIK">
-    <title lang="el">Hairstyles</title>
-    <desc lang="el">Your backstage pass to the world's greatest hair and make-up gurus of fashion! Find out all the latest hair and make-up trends, discover the secrets of the models, learn the tricks of the trade and the beauty tips sure to get you noticed.</desc>
+    <title lang="el">Skincare</title>
+    <desc lang="el">Your backstage pass to the world's greatest gurus of fashion! Find out all the latest trends, discover the secrets of the models, learn the tricks of the trade and the beauty tips sure to get you noticed.(c)</desc>
   </programme>
   <programme start="20220918075500 +0300" stop="20220918080000 +0300" channel="RIK">
     <title lang="el">Fashion Week</title>
     <desc lang="el">FashionTV brings you the latest coverage of the world's biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews.</desc>
   </programme>
   <programme start="20220918080000 +0300" stop="20220918082500 +0300" channel="RIK">
-    <title lang="el">Skincare</title>
-    <desc lang="el">Your backstage pass to the world's greatest gurus of fashion! Find out all the latest trends, discover the secrets of the models, learn the tricks of the trade and the beauty tips sure to get you noticed.</desc>
+    <title lang="el">Make Up</title>
+    <desc lang="el">Your backstage pass to the world's greatest hair &amp; make-up gurus of fashion! find out all the latest hair and make-up trends; discover the secrets of the models, learn the tricks of the trade &amp; the beauty tips to be sure to get you noticed.(c)</desc>
   </programme>
   <programme start="20220918082500 +0300" stop="20220918083000 +0300" channel="RIK">
     <title lang="el">F-People</title>
     <desc lang="el">FashionTV brings you an exclusive look at all of the fashion week front rows, red carpets, Hollywood glamour and launch events.</desc>
   </programme>
   <programme start="20220918083000 +0300" stop="20220918085500 +0300" channel="RIK">
-    <title lang="el">Make Up</title>
-    <desc lang="el">Your backstage pass to the world's greatest hair &amp; make-up gurus of fashion! find out all the latest hair and make-up trends; discover the secrets of the models, learn the tricks of the trade &amp; the beauty tips to be sure to get you noticed.</desc>
+    <title lang="el">Hairstyles</title>
+    <desc lang="el">Your backstage pass to the world's greatest hair and make-up gurus of fashion! Find out all the latest hair and make-up trends, discover the secrets of the models, learn the tricks of the trade and the beauty tips sure to get you noticed.(c)</desc>
   </programme>
   <programme start="20220918085500 +0300" stop="20220918090000 +0300" channel="RIK">
     <title lang="el">Fashion Week</title>
     <desc lang="el">FashionTV brings you the latest coverage of the world's biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews.</desc>
   </programme>
   <programme start="20220918090000 +0300" stop="20220918092500 +0300" channel="RIK">
-    <title lang="el">Bvlgari Story</title>
-    <desc lang="el">Focus on Bvlgari - an in-depth look at the day to day life of the fashion industry professionals. Exclusive to FashionTV.</desc>
+    <title lang="el">Elsa Hosk Story</title>
+    <desc lang="el">Join FashionTV as we take you on a complete journey with fashion’s greatest icons. Celebrate world glamour with breathtaking fashion, passion, and all the action.(c)</desc>
   </programme>
   <programme start="20220918092500 +0300" stop="20220918093000 +0300" channel="RIK">
     <title lang="el">F-People</title>
     <desc lang="el">FashionTV brings you an exclusive look at all of the fashion week front rows, red carpets, Hollywood glamour and launch events.</desc>
   </programme>
   <programme start="20220918093000 +0300" stop="20220918095500 +0300" channel="RIK">
-    <title lang="el">Bvlgari Story</title>
-    <desc lang="el">Focus on Bvlgari - an in-depth look at the day to day life of the fashion industry professionals. Exclusive to FashionTV.</desc>
+    <title lang="el">Elsa Hosk Story</title>
+    <desc lang="el">Join FashionTV as we take you on a complete journey with fashion’s greatest icons. Celebrate world glamour with breathtaking fashion, passion, and all the action.(c)</desc>
   </programme>
   <programme start="20220918095500 +0300" stop="20220918100000 +0300" channel="RIK">
     <title lang="el">Fashion Week</title>
     <desc lang="el">FashionTV brings you the latest coverage of the world's biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews.</desc>
   </programme>
   <programme start="20220918100000 +0300" stop="20220918102500 +0300" channel="RIK">
-    <title lang="el">Fashion Destination Hilton</title>
-    <desc lang="el">Explore the legend of hospitality - Hilton! From inaugural balls to personal moments, Hilton is where the world makes history, closes the deal, toasts special occasions and gets away from it all.</desc>
+    <title lang="el">Fashion Destination France</title>
+    <desc lang="el">Discover France with its sophisticated culture, art museums and fashion houses of Paris, fine wines, romantic chateaux, exquisite cuisine, picturesque countryside, and fashionable seaside resorts!(c)</desc>
   </programme>
   <programme start="20220918102500 +0300" stop="20220918103000 +0300" channel="RIK">
     <title lang="el">F-People</title>
     <desc lang="el">FashionTV brings you an exclusive look at all of the fashion week front rows, red carpets, Hollywood glamour and launch events.</desc>
   </programme>
   <programme start="20220918103000 +0300" stop="20220918105500 +0300" channel="RIK">
-    <title lang="el">Fashion Destination</title>
-    <desc lang="el">A glamorous and entertaining journey into some of the world's most exotic and fashionable destinations, with access to some of the best and hottest events, beautiful models, sunny beaches and much more...</desc>
+    <title lang="el">Fashion Destination France</title>
+    <desc lang="el">Discover France with its sophisticated culture, art museums and fashion houses of Paris, fine wines, romantic chateaux, exquisite cuisine, picturesque countryside, and fashionable seaside resorts!(c)</desc>
   </programme>
   <programme start="20220918105500 +0300" stop="20220918110000 +0300" channel="RIK">
     <title lang="el">Fashion Week</title>
@@ -31033,28 +31038,28 @@
     <desc lang="el">FashionTV brings you the latest coverage of the world's biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews.</desc>
   </programme>
   <programme start="20220918120000 +0300" stop="20220918122500 +0300" channel="RIK">
-    <title lang="el">Haute Couture Fashion Week</title>
-    <desc lang="el">FashionTV brings you the ultimate world of luxury and glamour. Haute Couture might not be available for everyone to buy but thanks to FashionTV you can take a look!</desc>
+    <title lang="el">Men's Fashion Week</title>
+    <desc lang="el">FashionTV brings you the stylish world of men's fashion. Top designers and the most dashing men in the modeling industry, beautiful clothing and beautiful people.(c)</desc>
   </programme>
   <programme start="20220918122500 +0300" stop="20220918123000 +0300" channel="RIK">
     <title lang="el">F-People</title>
     <desc lang="el">FashionTV brings you an exclusive look at all of the fashion week front rows, red carpets, Hollywood glamour and launch events.</desc>
   </programme>
   <programme start="20220918123000 +0300" stop="20220918130000 +0300" channel="RIK">
-    <title lang="el">Haute Couture Fashion Week</title>
-    <desc lang="el">FashionTV brings you the ultimate world of luxury and glamour. Haute Couture might not be available for everyone to buy but thanks to FashionTV you can take a look!</desc>
+    <title lang="el">Men's Fashion Week</title>
+    <desc lang="el">FashionTV brings you the stylish world of men's fashion. Top designers and the most dashing men in the modeling industry, beautiful clothing and beautiful people.(c)</desc>
   </programme>
   <programme start="20220918130000 +0300" stop="20220918132500 +0300" channel="RIK">
-    <title lang="el">Top Models</title>
-    <desc lang="el">An unique chance to get to know everything you've ever wanted to know about the world's most famous beauties. Hear what they have to say about the world of fashion, modeling and what it's like to be a runway model.</desc>
+    <title lang="el">Top Photoshoots</title>
+    <desc lang="el">Experience the largest collection of fashion films with FashionTV!(c)</desc>
   </programme>
   <programme start="20220918132500 +0300" stop="20220918133000 +0300" channel="RIK">
     <title lang="el">F-People</title>
     <desc lang="el">FashionTV brings you an exclusive look at all of the fashion week front rows, red carpets, Hollywood glamour and launch events.</desc>
   </programme>
   <programme start="20220918133000 +0300" stop="20220918135500 +0300" channel="RIK">
-    <title lang="el">Top Models</title>
-    <desc lang="el">An unique chance to get to know everything you've ever wanted to know about the world's most famous beauties. Hear what they have to say about the world of fashion, modeling and what it's like to be a runway model.</desc>
+    <title lang="el">Top Photoshoots</title>
+    <desc lang="el">Experience the largest collection of fashion films with FashionTV!(c)</desc>
   </programme>
   <programme start="20220918135500 +0300" stop="20220918140000 +0300" channel="RIK">
     <title lang="el">Fashion Week</title>
@@ -31109,32 +31114,32 @@
     <desc lang="el">FashionTV brings you the latest coverage of the world's biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews.</desc>
   </programme>
   <programme start="20220918170000 +0300" stop="20220918172500 +0300" channel="RIK">
-    <title lang="el">Gisele Bundchen Story</title>
-    <desc lang="el">Focus on Gisele Bundchen: an in-depth look at the world's top models. FashionTV follows our favourite models through the years, through all the major fashion shows, looks and seasons. Focus on models – only on FashionTV.</desc>
+    <title lang="el">Moschino Story</title>
+    <desc lang="el">Join FashionTV as we take you on a complete journey with fashion’s greatest icons. Celebrate world glamour with breathtaking fashion, passion, and all the action.(c)</desc>
   </programme>
   <programme start="20220918172500 +0300" stop="20220918173000 +0300" channel="RIK">
     <title lang="el">F-People</title>
     <desc lang="el">FashionTV brings you an exclusive look at all of the fashion week front rows, red carpets, Hollywood glamour and launch events.</desc>
   </programme>
   <programme start="20220918173000 +0300" stop="20220918175500 +0300" channel="RIK">
-    <title lang="el">Gisele Bundchen Story</title>
-    <desc lang="el">Focus on Gisele Bundchen: an in-depth look at the world's top models. FashionTV follows our favourite models through the years, through all the major fashion shows, looks and seasons. Focus on models – only on FashionTV.</desc>
+    <title lang="el">Moschino Story</title>
+    <desc lang="el">Join FashionTV as we take you on a complete journey with fashion’s greatest icons. Celebrate world glamour with breathtaking fashion, passion, and all the action.(c)</desc>
   </programme>
   <programme start="20220918175500 +0300" stop="20220918180000 +0300" channel="RIK">
     <title lang="el">Fashion Week</title>
     <desc lang="el">FashionTV brings you the latest coverage of the world's biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews.</desc>
   </programme>
   <programme start="20220918180000 +0300" stop="20220918182500 +0300" channel="RIK">
-    <title lang="el">Made in Singapore</title>
-    <desc lang="el">Join FashionTV as we take you on a complete journey with fashion’s greatest icons. Celebrate world glamour with breathtaking fashion, passion, and all the action.</desc>
+    <title lang="el">Made in Turkey</title>
+    <desc lang="el">Join FashionTV as we take you on a complete journey with fashion’s greatest icons. Celebrate world glamour with breathtaking fashion, passion, and all the action.(c)</desc>
   </programme>
   <programme start="20220918182500 +0300" stop="20220918183000 +0300" channel="RIK">
     <title lang="el">F-People</title>
     <desc lang="el">FashionTV brings you an exclusive look at all of the fashion week front rows, red carpets, Hollywood glamour and launch events.</desc>
   </programme>
   <programme start="20220918183000 +0300" stop="20220918185500 +0300" channel="RIK">
-    <title lang="el">Made in Singapore</title>
-    <desc lang="el">Join FashionTV as we take you on a complete journey with fashion’s greatest icons. Celebrate world glamour with breathtaking fashion, passion, and all the action.</desc>
+    <title lang="el">Made in Turkey</title>
+    <desc lang="el">Join FashionTV as we take you on a complete journey with fashion’s greatest icons. Celebrate world glamour with breathtaking fashion, passion, and all the action.(c)</desc>
   </programme>
   <programme start="20220918185500 +0300" stop="20220918190000 +0300" channel="RIK">
     <title lang="el">Fashion Week</title>
@@ -31157,16 +31162,16 @@
     <desc lang="el">FashionTV brings you the latest coverage of the world's biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews.</desc>
   </programme>
   <programme start="20220918200000 +0300" stop="20220918202500 +0300" channel="RIK">
-    <title lang="el">Fashion Destination</title>
-    <desc lang="el">A glamorous and entertaining journey into some of the world's most exotic and fashionable destinations, with access to some of the best and hottest events, beautiful models, sunny beaches and much more...</desc>
+    <title lang="el">Fashion Destination Mexico</title>
+    <desc lang="el">Discover Mexico, the country of endless sunshine, stunning scenery comprising everything from arid deserts to lush tropical rainforests, rich cultural heritage and vibrant musical and dance traditions.(c)</desc>
   </programme>
   <programme start="20220918202500 +0300" stop="20220918203000 +0300" channel="RIK">
     <title lang="el">F-People</title>
     <desc lang="el">FashionTV brings you an exclusive look at all of the fashion week front rows, red carpets, Hollywood glamour and launch events.</desc>
   </programme>
   <programme start="20220918203000 +0300" stop="20220918205500 +0300" channel="RIK">
-    <title lang="el">Fashion Destination</title>
-    <desc lang="el">A glamorous and entertaining journey into some of the world's most exotic and fashionable destinations, with access to some of the best and hottest events, beautiful models, sunny beaches and much more...</desc>
+    <title lang="el">Fashion Destination Mexico</title>
+    <desc lang="el">Discover Mexico, the country of endless sunshine, stunning scenery comprising everything from arid deserts to lush tropical rainforests, rich cultural heritage and vibrant musical and dance traditions.(c)</desc>
   </programme>
   <programme start="20220918205500 +0300" stop="20220918210000 +0300" channel="RIK">
     <title lang="el">Fashion Week</title>
@@ -31189,16 +31194,16 @@
     <desc lang="el">FashionTV brings you the latest coverage of the world's biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews.</desc>
   </programme>
   <programme start="20220918220000 +0300" stop="20220918222500 +0300" channel="RIK">
-    <title lang="el">Dsquared2 Story</title>
-    <desc lang="el">Join FashionTV as we take you on a complete journey with fashion’s greatest icons. Celebrate world glamour with breathtaking fashion, passion, and all the action.</desc>
+    <title lang="el">Ellen Von Unwerth Story</title>
+    <desc lang="el">Join FashionTV as we take you on a complete journey with fashion’s greatest icons. Celebrate world glamour with breathtaking fashion, passion, and all the action.(c)</desc>
   </programme>
   <programme start="20220918222500 +0300" stop="20220918223000 +0300" channel="RIK">
     <title lang="el">F-People</title>
     <desc lang="el">FashionTV brings you an exclusive look at all of the fashion week front rows, red carpets, Hollywood glamour and launch events.</desc>
   </programme>
   <programme start="20220918223000 +0300" stop="20220918225500 +0300" channel="RIK">
-    <title lang="el">Dsquared2 Story</title>
-    <desc lang="el">Join FashionTV as we take you on a complete journey with fashion’s greatest icons. Celebrate world glamour with breathtaking fashion, passion, and all the action.</desc>
+    <title lang="el">Ellen Von Unwerth Story</title>
+    <desc lang="el">Join FashionTV as we take you on a complete journey with fashion’s greatest icons. Celebrate world glamour with breathtaking fashion, passion, and all the action.(c)</desc>
   </programme>
   <programme start="20220918225500 +0300" stop="20220918230000 +0300" channel="RIK">
     <title lang="el">Fashion Week</title>
@@ -31217,80 +31222,92 @@
     <desc lang="el">FashionTV gives you an unique chance to be part of the world’s greatest parties right from your home! Listen to world famous DJs, mixing the greatest tracks in all the hottest fashion bars and clubs around the world.</desc>
   </programme>
   <programme start="20220919000000 +0300" stop="20220919010000 +0300" channel="RIK">
-    <title lang="el">Οι πρώτοι Ολυμπιονίκες</title>
-    <desc lang="el">Τα οστά ενός Έλληνα πρωταθλητή που έζησε το 500 π.Χ. βρέθηκαν στον Τάραντα της Ιταλίας. Μέσω γραφικών συστημάτων και δραματικής αναπαράστασης, οι ειδικοί 'δίνουν πνοή' στον σκελετό κι αναβιώνουν τους αρχαίους Ολυμπιακούς Αγώνες. Σκηνοθεσία: Νικ Κόπους. (2004).</desc>
+    <title lang="el">Τέχνη και πολιτισμοί ΕΠ1</title>
+    <desc lang="el">Ποιος ο ρόλος της τέχνης και της δημιουργικής φαντασίας στη διαμόρφωση της ανθρωπότητας; Από τις ζωγραφιές της προϊστορικής εποχής μέχρι την Πέτρα της Ιορδανίας και την Κίνα, επιχειρούμε να ορίσουμε την έννοια του πολιτισμού. Σκηνοθεσία: Τιμ Νιλ. (2018).(c)</desc>
   </programme>
-  <programme start="20220919010000 +0300" stop="20220919021500 +0300" channel="RIK">
-    <title lang="el">Το τόξο του Αιγαίου ΕΠ2</title>
-    <desc lang="el">Η Σαντορίνη δεν είναι μόνο κοσμοπολίτικος προορισμός. Είναι το δεύτερο ηφαιστειακό κέντρο του τόξου του Αιγαίου και στον βυθό της κρύβει τα μυστικά της δημιουργίας του κόσμου. Τι μας αποκαλύπτει, λοιπόν, η γεωλογική της ιστορία; Παραγωγή: COSMOTE TV Σκηνοθεσία: Γιώργος Πετρόπουλος. (2022).</desc>
+  <programme start="20220919010000 +0300" stop="20220919020000 +0300" channel="RIK">
+    <title lang="el">Μυστήρια της αρχαιότητας: Αρχαία τεχνολογία</title>
+    <desc lang="el">Δεν είναι λίγες οι φορές που οι ιδιοφυείς εφευρέσεις των αρχαίων έχουν αφήσει άναυδους τους σύγχρονους επιστήμονες. Ένα ταξίδι ανά την υφήλιο, που αποκαλύπτει τη δημιουργική διάνοια μερικών από τους αρχαιότερους πολιτισμούς! (1997).(c)</desc>
   </programme>
-  <programme start="20220919021500 +0300" stop="20220919034500 +0300" channel="RIK">
-    <title lang="el">Μακεδονικός Αγώνας: 1904-1908 - Η τανία</title>
-    <desc lang="el">Ο Μακεδονικός Αγώνας ξέσπασε όταν ακόμα η Μακεδονία ήταν μέρος της Οθωμανικής Αυτοκρατορίας ως ένοπλη αντίδραση των Ελλήνων στον βουλγαρικό επεκτατισμό. Ποια η σημασία του για την ελληνική Ιστορία; Παραγωγή: COSMOTE TV, White Fox Σκηνοθεσία: Γρηγόρης Καραντινάκης. (2018).</desc>
+  <programme start="20220919020000 +0300" stop="20220919030000 +0300" channel="RIK">
+    <title lang="el">Να μαθαίνω γράμματα ΕΠ1</title>
+    <desc lang="el">Μια διεισδυτική ματιά στον καθοριστικό ρόλο της Εκκλησίας στην εκπαίδευση των Ελλήνων κατά την Τουρκοκρατία και τους παράγοντες που συνέβαλαν ώστε το έθνος να οδηγηθεί από το σκοτάδι του αναλφαβητισμού στην αυγή μιας νέας εποχής. Παραγωγή: COSMOTE TV Σκηνοθεσία: Σπύρος Λαμπρόπουλος. (2019).(c)</desc>
   </programme>
-  <programme start="20220919034500 +0300" stop="20220919050000 +0300" channel="RIK">
-    <title lang="el">Διονύσιος Σολωμός - Κλείσε στην ψυχή σου την Ελλάδα</title>
-    <desc lang="el">Ποιητής της ελευθερίας, της πίστης και της πατρίδας, ο Διονύσιος Σολωμός δημιούργησε ένα έργο σύμφωνο με τις απαιτήσεις της εποχής του, υψηλό και πάντα επίκαιρο. Μια κατάδυση στη ζωή και το έργο του εθνικού μας ποιητή. Παραγωγή: COSMOTE TV, Στ. Τσαρουχάς Σκηνοθεσία: Σταμάτης Τσαρουχάς. (2021).</desc>
+  <programme start="20220919030000 +0300" stop="20220919040000 +0300" channel="RIK">
+    <title lang="el">ΕΥΡΗΚΑ! Επιστήμη, τέχνη &amp;τεχνολογία των αρχαίων Ελλήνων</title>
+    <desc lang="el">Beijing, November 2017. Brilliant ancient Greek technological innovations are put before the eyes of the Chinese audience. A documentary about the exhibition that turned into an event of international interest. Σκηνοθεσία: Νικήτας Μήκας. (2019).(c)</desc>
   </programme>
-  <programme start="20220919050000 +0300" stop="20220919060000 +0300" channel="RIK">
-    <title lang="el">Μηχανή του Χρόνου Κ5 ΕΠ28</title>
-    <desc lang="el">Οι εκλογές του 1920 επέφεραν σαρωτικές αλλαγές στο μικρασιατικό μέτωπο. Από τις μάχες του ελληνικού στρατού έως τις διπλωματικές πιέσεις από τους Συμμάχους και τη σταδιακή ανέλιξη του Κεμάλ, μια αναδρομή με τον Χρίστο Βασιλόπουλο. Παραγωγή: COSMOTE TV Σκηνοθεσία: ΜτΧ Lab. (2021).</desc>
+  <programme start="20220919040000 +0300" stop="20220919043000 +0300" channel="RIK">
+    <title lang="el">Διά χειρός ΕΠ10</title>
+    <desc lang="el">Η ομπρέλα είναι ένα αντικείμενο που οι άνθρωποι δεν έχουν πάψει να χρησιμοποιούν από την αρχαιότητα μέχρι σήμερα. Ο κ. Παναγιώτης Βροχίδης, τεχνίτης από τον Πειραιά, μας μιλά για την ιστορία και τον τρόπο κατασκευής της. Παραγωγή: 2Vision Σκηνοθεσία: Γιώργος Δαμασκόπουλος. (2017).(c)</desc>
   </programme>
-  <programme start="20220919060000 +0300" stop="20220919070000 +0300" channel="RIK">
-    <title lang="el">Θρύλοι των γηπέδων ΕΠ6</title>
-    <desc lang="el">Στην τελευταία του συνέντευξη πριν φύγει από τη ζωή, ο Τάκης Λουκανίδης μιλά για τη ζωή του στο ορφανοτροφείο αλλά και την ανάδειξή του σε έναν από τους σπουδαιότερους παίκτες του Παναθηναϊκού. Παρουσίαση/Αφήγηση: Γιώργος Λιάνης. Παραγωγή: COSMOTE TV Σκηνοθεσία: Λεωνίδας Πανονίδης, Βασίλης Κεχαγιάς. (2018).</desc>
+  <programme start="20220919043000 +0300" stop="20220919061000 +0300" channel="RIK">
+    <title lang="el">Μακεδονία: Ο ελληνιστικός πολιτισμός μέχρι την Ασία</title>
+    <desc lang="el">Το ντοκιμαντέρ περιγράφει το σημαντικό ρόλο που έπαιξε η Μακεδονία στη διαμόρφωση του ευρωπαϊκού πολιτισμού και ρίχνει φως στην πορεία αυτής της πολιτισμικής γέφυρας τριών από τους σπουδαιότερους αιώνες της παγκόσμιας Ιστορίας. Παραγωγή: Φ. Κωνσταντινίδης Σκηνοθεσία: Φώτης Κωνσταντινίδης. (2009).(c)</desc>
   </programme>
-  <programme start="20220919070000 +0300" stop="20220919080000 +0300" channel="RIK">
-    <title lang="el">Μεσοπόλεμος: Από τη συντριβή στην αναγέννηση ΕΠ3</title>
-    <desc lang="el">Στις 13 Αυγούστου, η τουρκική επίθεση ξεκινά. Οι ελληνικές μονάδες υποχωρούν η μία μετά την άλλη και στα παράλια φτάνουν οι πρώτοι πρόσφυγες από την ενδοχώρα. Όταν πια ο τουρκικός στρατός μπαίνει στη Σμύρνη, επικρατεί ο πανικός. Παραγωγή: COSMOTE TV Σκηνοθεσία: Μυρτώ Πατσαλίδου. (2022).</desc>
+  <programme start="20220919061000 +0300" stop="20220919070000 +0300" channel="RIK">
+    <title lang="el">Εκπαιδευτικά Ιδρύματα της Ελλάδας ΕΠ7</title>
+    <desc lang="el">Το Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης ιδρύθηκε ως απάντηση στην ανάγκη εδραίωσης της εθνικής κυριαρχίας σε μια περιοχή με πολυπολιτισμική παράδοση. Σήμερα, αποτελεί το πανεπιστήμιο με τον μεγαλύτερο αριθμό φοιτητών στη χώρα. Παραγωγή: COSMOTE TV Σκηνοθεσία: Στέφανος Μπλάτσος. (2017).(c)</desc>
+  </programme>
+  <programme start="20220919070000 +0300" stop="20220919074500 +0300" channel="RIK">
+    <title lang="el">Μετρώντας τ' άστρα - Η αστρονομία στην αρχαία Ελλάδα ΕΠ2</title>
+    <desc lang="el">Με τη γέννηση της φιλοσοφίας και της επιστήμης, τα μυστήρια του σύμπαντος αρχίζουν να απογυμνώνονται από το πέπλο του ανεξήγητου. Ίωνες, πυθαγόρειοι και σωκρατικοί φιλόσοφοι δίνουν τις πρώτες λογικές εξηγήσεις περί κοσμογονίας. Παραγωγή: COSMOTE TV, Eqvus Σκηνοθεσία: Λίνα Δαμασκοπούλου. (2020).(c)</desc>
+  </programme>
+  <programme start="20220919074500 +0300" stop="20220919080000 +0300" channel="RIK">
+    <title lang="el">Μικρές μεγάλες ιστορίες ΕΠ26</title>
+    <desc lang="el">Ποιες ιστορίες διαμόρφωσαν τη συλλογική συνείδηση των Ελλήνων; Άνθρωποι του πνεύματος και των τεχνών ξεχωρίζουν στιγμές και προσωπικότητες που - κατά τη γνώμη τους- άλλαξαν την πορεία του ελληνικού έθνους. Παραγωγή: COSMOTE TV Σκηνοθεσία: Ομάδα Ταυ. (2021).(c)</desc>
   </programme>
   <programme start="20220919080000 +0300" stop="20220919090000 +0300" channel="RIK">
-    <title lang="el">Γιάννης Μωραΐτης... Η νύχτα είπε καληνύχτα ΕΠ2</title>
-    <desc lang="el">Σε ηλικία 17 ετών, ο Γιάννης Μωραΐτης έγινε ο πρώτος μπουζουξής που έπαιξε στο Ηρώδειο. Έκτοτε, συνεργάστηκε με μερικούς από τους μεγαλύτερους καλλιτέχνες της χώρας. Ο 'φρουρός του μπουζουκιού' μιλά στον φακό για τη διαδρομή του. Παραγωγή: Navarchy Σκηνοθεσία: Κατερίνα Πανταζοπούλου. (2021).</desc>
+    <title lang="el">Τα Λάφυρα ΕΠ1</title>
+    <desc lang="el">Τα αποικιακά χρόνια, πολιτιστικοί θησαυροί αποσπάστηκαν από τις χώρες προέλευσής τους και ταξίδεψαν σε μουσεία ανά τον κόσμο. Σήμερα, τα αιτήματα περί επαναπατρισμού τους πληθαίνουν. Τι υποστηρίζουν οι αντίθετες πλευρές; Συμπαραγωγή: COSMOTE TV, Heretic Σκηνοθεσία: Θόρκελ Χάρνταρσον, Ερν Μαρίνο Άρναρσον. (2018).(c)</desc>
   </programme>
   <programme start="20220919090000 +0300" stop="20220919100000 +0300" channel="RIK">
-    <title lang="el">Κληρονόμοι της μνήμης ΕΠ6</title>
-    <desc lang="el">Ούτε είκοσι χρόνια μετά τη Μικρασιατική Καταστροφή, μια νέα συμφορά βρίσκει την Ελλάδα: ο Β’ Παγκόσμιος Πόλεμος. Μπροστά στον κοινό εχθρό, ντόπιοι και πρόσφυγες ρίχνονται στη μάχη. Το τέλος της Κατοχής αφήνει τη χώρα διαλυμένη... Παραγωγή: COSMOTE TV Σκηνοθεσία: Γιάννης Βάκρινος. (2022).</desc>
+    <title lang="el">Μηχανή του Χρόνου Κ6 ΕΠ11</title>
+    <desc lang="el">Η γνωστή εκπομπή συνεχίζει το ταξίδι της στο παρελθόν με νέα επεισόδια στο COSMOTE HISTORY! Γεγονότα και προσωπικότητες που διαμόρφωσαν την ελληνική κοινωνία έρχονται στο φως, σε αναζήτηση της ιστορικής αλήθειας. Παραγωγή: COSMOTE TV Σκηνοθεσία: ΜτΧ Lab. (2021).(c)</desc>
   </programme>
-  <programme start="20220919100000 +0300" stop="20220919110000 +0300" channel="RIK">
-    <title lang="el">Τελευταίο Ταξίδι</title>
-    <desc lang="el">65 χρόνια μετά τον θάνατο του Νίκου Καζαντζάκη, το ντοκιμαντέρ ακολουθεί τα βήματα του συγγραφέα στα δύο ταξίδια του στην Ιαπωνία, με οδηγό τις σημειώσεις του ίδιου και της συζύγου του. Αφήγηση: Γ. Αγγελάκας, Ο. Λαζαρίδου. Παραγωγή: Moviementa Productions Σκηνοθεσία: Άρης Χατζηστεφάνου. (2021).</desc>
+  <programme start="20220919100000 +0300" stop="20220919111000 +0300" channel="RIK">
+    <title lang="el">Μεγάλοι Έλληνες Μουσικοί ΕΠ3</title>
+    <desc lang="el">Οι συνθέσεις και η προσωπικότητα του Μανώλη Καλομοίρη 'σφράγισαν' την ελληνική μουσική σκηνή των αρχών του 20ού αιώνα. Από τα νεανικά χρόνια ως τον θάνατό του, ανακαλύψτε τη ζωή και την προσφορά του μεγάλου μουσικού. Παραγωγή: COSMOTE TV, Σ. Τσαρουχάς Σκηνοθεσία: Σταμάτης Τσαρουχάς. (2018).(c)</desc>
   </programme>
-  <programme start="20220919110000 +0300" stop="20220919120000 +0300" channel="RIK">
-    <title lang="el">Μυστηριώδη μνημεία της Αρχαίας Ελλάδας</title>
-    <desc lang="el">Μια συναρπαστική ξενάγηση στα μνημεία της Ακρόπολης και της Αρχαίας Αγοράς. Άραγε οι ιεροί ναοί των Αθηνών κατασκευάστηκαν για να στεγάσουν το νέο πολίτευμα της δημοκρατίας ή για να ενισχύσουν το λατρευτικό αίσθημα των πολιτών; (1996).</desc>
+  <programme start="20220919111000 +0300" stop="20220919120000 +0300" channel="RIK">
+    <title lang="el">Η χαμένη Ατλαντίδα</title>
+    <desc lang="el">Πέντε ερευνητικές αποστολές σε πέντε διαφορετικές γωνιές του πλανήτη αναζητούν τα ίχνη μιας αρχαίας πόλης που 'ακροβατεί' μεταξύ μύθου και πραγματικότητας. Θα βρουν άραγε στέρεες αποδείξεις για την ύπαρξη της χαμένης Ατλαντίδος; (2005).(c)</desc>
   </programme>
   <programme start="20220919120000 +0300" stop="20220919130000 +0300" channel="RIK">
     <title lang="el">Τέχνη και πολιτισμοί ΕΠ1</title>
     <desc lang="el">Ποιος ο ρόλος της τέχνης και της δημιουργικής φαντασίας στη διαμόρφωση της ανθρωπότητας; Από τις ζωγραφιές της προϊστορικής εποχής μέχρι την Πέτρα της Ιορδανίας και την Κίνα, επιχειρούμε να ορίσουμε την έννοια του πολιτισμού. Σκηνοθεσία: Τιμ Νιλ. (2018).</desc>
   </programme>
-  <programme start="20220919130000 +0300" stop="20220919140000 +0300" channel="RIK">
-    <title lang="el">Μυστήρια της αρχαιότητας: Αρχαία τεχνολογία</title>
-    <desc lang="el">Δεν είναι λίγες οι φορές που οι ιδιοφυείς εφευρέσεις των αρχαίων έχουν αφήσει άναυδους τους σύγχρονους επιστήμονες. Ένα ταξίδι ανά την υφήλιο, που αποκαλύπτει τη δημιουργική διάνοια μερικών από τους αρχαιότερους πολιτισμούς! (1997).</desc>
+  <programme start="20220919130000 +0300" stop="20220919142000 +0300" channel="RIK">
+    <title lang="el">Ο Σωκράτης συναντά τον Κομφούκιο</title>
+    <desc lang="el">What could two civilizations as distant as those of Greece and China have in common? Two academics, one Greek and one Chinese, meet at the foothills of the Acropolis and converse about philosophy, literature and history. Σκηνοθεσία: Φώτης Κωνσταντινίδης. (2018).(c)</desc>
   </programme>
-  <programme start="20220919140000 +0300" stop="20220919150000 +0300" channel="RIK">
-    <title lang="el">Να μαθαίνω γράμματα ΕΠ1</title>
-    <desc lang="el">Μια διεισδυτική ματιά στον καθοριστικό ρόλο της Εκκλησίας στην εκπαίδευση των Ελλήνων κατά την Τουρκοκρατία και τους παράγοντες που συνέβαλαν ώστε το έθνος να οδηγηθεί από το σκοτάδι του αναλφαβητισμού στην αυγή μιας νέας εποχής. Παραγωγή: COSMOTE TV Σκηνοθεσία: Σπύρος Λαμπρόπουλος. (2019).</desc>
+  <programme start="20220919142000 +0300" stop="20220919151000 +0300" channel="RIK">
+    <title lang="el">Κορδέλες στην κιθάρα μου Κ2 ΕΠ5</title>
+    <desc lang="el">Ο Παύλος Λινάρδος είναι από τα πρόσωπα της μουσικής που ξεχωρίζουν στη Ζάκυνθο. Με φόντο την παραλία του Πόρτο Κούκλα, μας μιλά για την πορεία του, για τη μουσική, καθώς και για τη σχέση του με τον μεγάλο συνθέτη Δημήτρη Λάγιο. Παραγωγή: 2 Vision Σκηνοθεσία: Γιώργος Πελετίδης. (2022).(c)</desc>
   </programme>
-  <programme start="20220919150000 +0300" stop="20220919160000 +0300" channel="RIK">
-    <title lang="el">ΕΥΡΗΚΑ! Επιστήμη, τέχνη &amp;τεχνολογία των αρχαίων Ελλήνων</title>
-    <desc lang="el">Beijing, November 2017. Brilliant ancient Greek technological innovations are put before the eyes of the Chinese audience. A documentary about the exhibition that turned into an event of international interest. Σκηνοθεσία: Νικήτας Μήκας. (2019).</desc>
+  <programme start="20220919151000 +0300" stop="20220919160000 +0300" channel="RIK">
+    <title lang="el">Βιβλίο και βιβλιοθήκες ΕΠ3</title>
+    <desc lang="el">Τι επιφυλάσσει το μέλλον για τα βιβλία; Με αφορμή την ανακήρυξη της Αθήνας σε Παγκόσμια Πρωτεύουσα Βιβλίου για το 2018, κριτικοί και συγγραφείς εκθέτουν τις απόψεις τους για το μέλλον του βιβλίου και τον ρόλο των βιβλιοθηκών. Παραγωγή: COSMOTE TV Σκηνοθεσία: Πάνος Αγγελόπουλος. (2018).(c)</desc>
   </programme>
-  <programme start="20220919160000 +0300" stop="20220919163000 +0300" channel="RIK">
-    <title lang="el">Διά χειρός ΕΠ10</title>
-    <desc lang="el">Η ομπρέλα είναι ένα αντικείμενο που οι άνθρωποι δεν έχουν πάψει να χρησιμοποιούν από την αρχαιότητα μέχρι σήμερα. Ο κ. Παναγιώτης Βροχίδης, τεχνίτης από τον Πειραιά, μας μιλά για την ιστορία και τον τρόπο κατασκευής της. Παραγωγή: 2Vision Σκηνοθεσία: Γιώργος Δαμασκόπουλος. (2017).</desc>
+  <programme start="20220919160000 +0300" stop="20220919165000 +0300" channel="RIK">
+    <title lang="el">Κάτι αρχίζει, κάτι τελειώνει ΕΠ6</title>
+    <desc lang="el">Πόσο έχουν αλλάξει οι συγκοινωνίες στην Ελλάδα μέσα στο πέρασμα του χρόνου; Από τον 19ο αιώνα, όταν το τρένο ήταν συνώνυμο της ανάπτυξης, έως τον 20ό με την εμφάνιση των λεωφορείων και των αυτοκινήτων, μια ματιά στην εξέλιξή τους. Παραγωγή: COSMOTE TV Σκηνοθεσία: Πάνος Αγγελόπουλος. (2021).(c)</desc>
   </programme>
-  <programme start="20220919163000 +0300" stop="20220919181000 +0300" channel="RIK">
-    <title lang="el">Μακεδονία: Ο ελληνιστικός πολιτισμός μέχρι την Ασία</title>
-    <desc lang="el">Το ντοκιμαντέρ περιγράφει το σημαντικό ρόλο που έπαιξε η Μακεδονία στη διαμόρφωση του ευρωπαϊκού πολιτισμού και ρίχνει φως στην πορεία αυτής της πολιτισμικής γέφυρας τριών από τους σπουδαιότερους αιώνες της παγκόσμιας Ιστορίας. Παραγωγή: Φ. Κωνσταντινίδης Σκηνοθεσία: Φώτης Κωνσταντινίδης. (2009).</desc>
+  <programme start="20220919165000 +0300" stop="20220919170000 +0300" channel="RIK">
+    <title lang="el">Οι ήρωες των λογοτεχνών ΕΠ12</title>
+    <desc lang="el">Από πού αντλούν έμπνευση οι λογοτέχνες; Τριάντα Έλληνες και Ελληνίδες συγγραφείς αποκαλύπτουν στην κάμερα τα έργα της παγκόσμιας λογοτεχνίας που τους καθόρισαν και μιλούν για τους αγαπημένους τους ήρωες. Παραγωγή: COSMOTE TV Σκηνοθεσία: Πάνος Τσιροζίδης. (2021).(c)</desc>
   </programme>
-  <programme start="20220919181000 +0300" stop="20220919190000 +0300" channel="RIK">
-    <title lang="el">Εκπαιδευτικά Ιδρύματα της Ελλάδας ΕΠ7</title>
-    <desc lang="el">Το Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης ιδρύθηκε ως απάντηση στην ανάγκη εδραίωσης της εθνικής κυριαρχίας σε μια περιοχή με πολυπολιτισμική παράδοση. Σήμερα, αποτελεί το πανεπιστήμιο με τον μεγαλύτερο αριθμό φοιτητών στη χώρα. Παραγωγή: COSMOTE TV Σκηνοθεσία: Στέφανος Μπλάτσος. (2017).</desc>
+  <programme start="20220919170000 +0300" stop="20220919180000 +0300" channel="RIK">
+    <title lang="el">Απίθανες πολεμίστριες: Αμαζόνες</title>
+    <desc lang="el">Γοητευμένοι από το θάρρος και την ικανότητα των γυναικών πολεμιστριών των Σκύθων της Ευρασίας, οι αρχαίοι Έλληνες δημιούργησαν τον μύθο των Αμαζόνων. Πώς ήταν, όμως, στ’ αλήθεια η ζωή μιας γυναίκας πολεμίστριας στις στέπες; Σκηνοθεσία: Τζον Γουέιτ. (2017).(c)</desc>
   </programme>
-  <programme start="20220919190000 +0300" stop="20220919194500 +0300" channel="RIK">
-    <title lang="el">Μετρώντας τ' άστρα - Η αστρονομία στην αρχαία Ελλάδα ΕΠ2</title>
-    <desc lang="el">Με τη γέννηση της φιλοσοφίας και της επιστήμης, τα μυστήρια του σύμπαντος αρχίζουν να απογυμνώνονται από το πέπλο του ανεξήγητου. Ίωνες, πυθαγόρειοι και σωκρατικοί φιλόσοφοι δίνουν τις πρώτες λογικές εξηγήσεις περί κοσμογονίας. Παραγωγή: COSMOTE TV, Eqvus Σκηνοθεσία: Λίνα Δαμασκοπούλου. (2020).</desc>
+  <programme start="20220919180000 +0300" stop="20220919191000 +0300" channel="RIK">
+    <title lang="el">Αρχαίοι Έλληνες φιλόσοφοι: Γέφυρες γνώσης ΕΠ6</title>
+    <desc lang="el">Οι αρχαίοι Έλληνες φιλόσοφοι ήταν οι πρώτοι που αναζήτησαν τον δρόμο για την ευτυχία. Βασιζόμενοι στις ιδέες του Αριστοτέλη, των Στωικών και των Επικούρειων, επιχειρούμε να ανιχνεύσουμε τα συστατικά στοιχεία της ευδαιμονίας. Παραγωγή: COSMOTE TV Σκηνοθεσία: Γιάννης Βάκρινος, Ιωάννα Αντερκόου. (2018).(c)</desc>
+  </programme>
+  <programme start="20220919191000 +0300" stop="20220919194500 +0300" channel="RIK">
+    <title lang="el">Ξόρκια και προφητείες ΕΠ3</title>
+    <desc lang="el">Στην προσπάθειά τους να επιβληθούν στο άγνωστο και να προστατευτούν από το κακό, οι Αρχαίοι Έλληνες κατέφευγαν στη δημιουργία φυλαχτών, που τους συντρόφευαν ακόμα και στον Κάτω Κόσμο - μια πρακτική που επιβιώνει έως σήμερα. Παραγωγή: COSMOTE TV, Eqvus Σκηνοθεσία: Λίνα Δαμασκοπούλου. (2021).(c)</desc>
   </programme>
   <programme start="20220919194500 +0300" stop="20220919200000 +0300" channel="RIK">
     <title lang="el">Μικρές μεγάλες ιστορίες ΕΠ26</title>
@@ -31300,13 +31317,17 @@
     <title lang="el">Τα Λάφυρα ΕΠ1</title>
     <desc lang="el">Τα αποικιακά χρόνια, πολιτιστικοί θησαυροί αποσπάστηκαν από τις χώρες προέλευσής τους και ταξίδεψαν σε μουσεία ανά τον κόσμο. Σήμερα, τα αιτήματα περί επαναπατρισμού τους πληθαίνουν. Τι υποστηρίζουν οι αντίθετες πλευρές; Συμπαραγωγή: COSMOTE TV, Heretic Σκηνοθεσία: Θόρκελ Χάρνταρσον, Ερν Μαρίνο Άρναρσον. (2018).</desc>
   </programme>
-  <programme start="20220919210000 +0300" stop="20220919220000 +0300" channel="RIK">
-    <title lang="el">Μηχανή του Χρόνου Κ6 ΕΠ11</title>
-    <desc lang="el">Η γνωστή εκπομπή συνεχίζει το ταξίδι της στο παρελθόν με νέα επεισόδια στο COSMOTE HISTORY! Γεγονότα και προσωπικότητες που διαμόρφωσαν την ελληνική κοινωνία έρχονται στο φως, σε αναζήτηση της ιστορικής αλήθειας. Παραγωγή: COSMOTE TV Σκηνοθεσία: ΜτΧ Lab. (2021).</desc>
+  <programme start="20220919210000 +0300" stop="20220919215000 +0300" channel="RIK">
+    <title lang="el">Ο Μάης του Πόντου ΕΠ1</title>
+    <desc lang="el">Η ιστορία των Ποντίων, ενός λαού που μιλούσε τη γλώσσα του Ομήρου, διασταυρώθηκε με εκείνη των Ελλήνων γύρω στο 800 π.Χ. Έκτοτε, ο ελληνισμός ρίζωσε στις καρδιές των Ποντίων, και Πόντος και Ελλάδα έγιναν έννοιες ταυτόσημες. Παραγωγή: COSMOTE TV Σκηνοθεσία: Πάνος Αγγελόπουλος. (2019).(c)</desc>
   </programme>
-  <programme start="20220919220000 +0300" stop="20220919231000 +0300" channel="RIK">
-    <title lang="el">Μεγάλοι Έλληνες Μουσικοί ΕΠ3</title>
-    <desc lang="el">Οι συνθέσεις και η προσωπικότητα του Μανώλη Καλομοίρη 'σφράγισαν' την ελληνική μουσική σκηνή των αρχών του 20ού αιώνα. Από τα νεανικά χρόνια ως τον θάνατό του, ανακαλύψτε τη ζωή και την προσφορά του μεγάλου μουσικού. Παραγωγή: COSMOTE TV, Σ. Τσαρουχάς Σκηνοθεσία: Σταμάτης Τσαρουχάς. (2018).</desc>
+  <programme start="20220919215000 +0300" stop="20220919230000 +0300" channel="RIK">
+    <title lang="el">Ανέστης Δελιάς - Η μαύρη γάτα του ρεμπέτικου</title>
+    <desc lang="el">Αν και πέθανε σε ηλικία 32 ετών, ο Ανέστης Δελιάς άφησε το στίγμα του στο ρεμπέτικο τραγούδι και ταυτίστηκε με την περίφημη Πειραϊκή Τετράδα. Μια κατάδυση στην πολυτάραχη ζωή του, το έργο του και τον άδικο θάνατό του. Παραγωγή: COSMOTE TV, Κ. Μπεληγιάννη Σκηνοθεσία: Σπύρος Μανωλάτος. (2022).(c)</desc>
+  </programme>
+  <programme start="20220919230000 +0300" stop="20220919230000 +0300" channel="RIK">
+    <title lang="el">Καλαβρία: Η καρδιά της Μεγάλης Ελλάδας ΕΠ5</title>
+    <desc lang="el">Απόγονοι των πρώτων αποίκων του 8ου αιώνα π.Χ., δεκάδες χιλιάδες Έλληνες ζουν ως σήμερα στα δύσβατα, αλλά πανέμορφα, 'γκρικοχώρια' του Ασπρομόντε. Και η γλώσσα τους είναι η πιο γλυκιά και τραγουδιστή ελληνική που μιλήθηκε ποτέ! Παραγωγή: COSMOTE TV Σκηνοθεσία: Πάνος Αγγελόπουλος. (2020).(c)</desc>
   </programme>
   <programme start="20220919231000 +0300" stop="20220919231000 +0300" channel="RIK">
     <title lang="el">Η χαμένη Ατλαντίδα</title>
@@ -31364,437 +31385,621 @@
     <title lang="el">Burning At Both Ends</title>
     <desc lang="el">Β’ Παγκόσμιος Πόλεμος, Γαλλία. Ο Ζακ χρησιμοποιεί ένα ραδιόφωνο για να μεταδίδει μηνύματα ελπίδας. Με την Γκεστάπο να τον ψάχνει, ο Ζακ, η κόρη του και μια μικρή ομάδα αντιφρονούντων, πρέπει να εμπιστευτούν έναν άγνωστο που προσφέρεται να τους βοηθήσει. Δράμα παραγωγής 2021 σε σκηνοθεσία Μάθιου Χιλ &amp;Λάντον Τζόνσον με τους: Κάρι Έλγουες, Τζέισον Πάτρικ, Γκριρ Γκράμερ, Τζαντ Χιρς.</desc>
   </programme>
-  <programme start="20220914003200 +0300" stop="20220914011500 +0300" channel="BBC World">
-    <title lang="el">Monstres d'eau douce S5 ΕΠ4</title>
-    <desc lang="el">En Colombie, une jeune mariée en lune de miel est morte, traînée au fond du fleuve Amazone par une force mystérieuse. Lorsqu'une infirmière à la retraite lui fournit de nouvelles preuves cruciales, Jeremy l’aide à prouver la théorie farfelue selon laquelle le « tueur colombien » serait un monstre aquatique. (2013).</desc>
+  <programme start="20220914010000 +0300" stop="20220914013000 +0300" channel="BBC World">
+    <title lang="el">News &amp; Press Preview</title>
+    <desc lang="el">The key stories of the day plus debate and discussion with our panel of reviewers on the stories making the morning newspapers in the extended press preview.(c)</desc>
   </programme>
-  <programme start="20220914011500 +0300" stop="20220914020500 +0300" channel="BBC World">
-    <title lang="el">Carpes, entre business et passion ΕΠ1</title>
-    <desc lang="el">En France, le tourisme lié à la pêche aux carpes est de plus en plus important. Découvrez comment s’organise le business autour de cette activité. (2016).</desc>
+  <programme start="20220914013000 +0300" stop="20220914020000 +0300" channel="BBC World">
+    <title lang="el">Press Preview</title>
+    <desc lang="el">A full review of the best stories in tomorrow's national newspapers.(c)</desc>
   </programme>
-  <programme start="20220914020500 +0300" stop="20220914024800 +0300" channel="BBC World">
-    <title lang="el">Monstres d'eau douce S5 ΕΠ4</title>
-    <desc lang="el">En Colombie, une jeune mariée en lune de miel est morte, traînée au fond du fleuve Amazone par une force mystérieuse. Lorsqu'une infirmière à la retraite lui fournit de nouvelles preuves cruciales, Jeremy l’aide à prouver la théorie farfelue selon laquelle le « tueur colombien » serait un monstre aquatique. (2013).</desc>
+  <programme start="20220914020000 +0300" stop="20220914023000 +0300" channel="BBC World">
+    <title lang="el">Sky News</title>
+    <desc lang="el">News reports on the big stories from the UK and around the world.(c)</desc>
   </programme>
-  <programme start="20220914024800 +0300" stop="20220914034200 +0300" channel="BBC World">
-    <title lang="el">1000 pays en un ΕΠ15</title>
-    <desc lang="el">Des volcans à perte de vue, c'est la carte postale du Puy de Dôme! Le département regorge aussi de trésors culturels, avec un patrimoine riche et singulier. Des couteaux de Thiers aux pneus Michelin, c'est aussi un territoire chargé d'histoire industrielle. (2015).</desc>
+  <programme start="20220914023000 +0300" stop="20220914030000 +0300" channel="BBC World">
+    <title lang="el">Sky News</title>
+    <desc lang="el">News reports on the big stories from the UK and around the world.(c)</desc>
   </programme>
-  <programme start="20220914034200 +0300" stop="20220914061800 +0300" channel="BBC World">
-    <title lang="el">Suivez le guide 3 : sandre &amp; brochet tout savoir avec Gael Even ΕΠ1</title>
-    <desc lang="el">Embarquez avec Gaël Even, l’un des plus forts pêcheurs de sandre en Europe. Il donne une vraie leçon de pêche sur son secteur normand, en fleuve comme en lac. Le guide partage aussi sans filtre son approche du métier, ses doutes et ses espoirs sur l’avenir de la pêche en France. (2020).</desc>
+  <programme start="20220914030000 +0300" stop="20220914033000 +0300" channel="BBC World">
+    <title lang="el">Sky News</title>
+    <desc lang="el">News reports on the big stories from the UK and around the world.(c)</desc>
   </programme>
-  <programme start="20220914061800 +0300" stop="20220914070100 +0300" channel="BBC World">
-    <title lang="el">Monstres d'eau douce S5 ΕΠ4</title>
-    <desc lang="el">En Colombie, une jeune mariée en lune de miel est morte, traînée au fond du fleuve Amazone par une force mystérieuse. Lorsqu'une infirmière à la retraite lui fournit de nouvelles preuves cruciales, Jeremy l’aide à prouver la théorie farfelue selon laquelle le « tueur colombien » serait un monstre aquatique. (2013).</desc>
+  <programme start="20220914033000 +0300" stop="20220914040000 +0300" channel="BBC World">
+    <title lang="el">Sky News</title>
+    <desc lang="el">News reports on the big stories from the UK and around the world.(c)</desc>
   </programme>
-  <programme start="20220914070100 +0300" stop="20220914075100 +0300" channel="BBC World">
-    <title lang="el">Carpes, entre business et passion ΕΠ1</title>
-    <desc lang="el">En France, le tourisme lié à la pêche aux carpes est de plus en plus important. Découvrez comment s’organise le business autour de cette activité. (2016).</desc>
+  <programme start="20220914040000 +0300" stop="20220914043000 +0300" channel="BBC World">
+    <title lang="el">Sky News</title>
+    <desc lang="el">News reports on the big stories from the UK and around the world.(c)</desc>
   </programme>
-  <programme start="20220914075100 +0300" stop="20220914090700 +0300" channel="BBC World">
-    <title lang="el">Suivez le guide 3 : sandre &amp; brochet tout savoir avec Gael Even ΕΠ1</title>
-    <desc lang="el">Embarquez avec Gaël Even, l’un des plus forts pêcheurs de sandre en Europe. Il donne une vraie leçon de pêche sur son secteur normand, en fleuve comme en lac. Le guide partage aussi sans filtre son approche du métier, ses doutes et ses espoirs sur l’avenir de la pêche en France. (2020).</desc>
+  <programme start="20220914043000 +0300" stop="20220914050000 +0300" channel="BBC World">
+    <title lang="el">Sky News</title>
+    <desc lang="el">News reports on the big stories from the UK and around the world.(c)</desc>
   </programme>
-  <programme start="20220914090700 +0300" stop="20220914095100 +0300" channel="BBC World">
-    <title lang="el">Des stars et la pêche saison 2 ΕΠ5</title>
-    <desc lang="el">Dean Macey et Adam Rooney partent pour un road trip en Angleterre. Ils rencontreront les pêcheurs Matt Godfrey, Tom Dove et Steve Ringer. (2019).</desc>
+  <programme start="20220914050000 +0300" stop="20220914053000 +0300" channel="BBC World">
+    <title lang="el">Sky News</title>
+    <desc lang="el">News reports on the big stories from the UK and around the world.(c)</desc>
   </programme>
-  <programme start="20220914095100 +0300" stop="20220914103600 +0300" channel="BBC World">
-    <title lang="el">Des stars et la pêche saison 2 ΕΠ6</title>
-    <desc lang="el">Dean Macey, Adam Rooney et Matt Godfrey tentent d'attraper des carpes dans le Dorset. Ils s'essaieront aussi à la pêche en mer à Portland Bill. (2019).</desc>
+  <programme start="20220914053000 +0300" stop="20220914060000 +0300" channel="BBC World">
+    <title lang="el">Sky News</title>
+    <desc lang="el">News reports on the big stories from the UK and around the world.(c)</desc>
   </programme>
-  <programme start="20220914103600 +0300" stop="20220914112800 +0300" channel="BBC World">
-    <title lang="el">Chasse Entre Amis Saison 4 ΕΠ5</title>
-    <desc lang="el">L'équipe s'aventure sur la Grande Barrière de Corail, à bord d'un catamaran de croisière. Elle est à la recherche de porcs, de carangues géantes, de truites de corail et de crabes et fera tout pour éviter la population locale de requins. (2018).</desc>
+  <programme start="20220914060000 +0300" stop="20220914063000 +0300" channel="BBC World">
+    <title lang="el">Sky News</title>
+    <desc lang="el">News reports on the big stories from the UK and around the world.(c)</desc>
   </programme>
-  <programme start="20220914112800 +0300" stop="20220914121200 +0300" channel="BBC World">
-    <title lang="el">River Monsters S4 ΕΠ7</title>
-    <desc lang="el">Après avoir entendu des rapports sur la disparition des pêcheurs dans la rivière Zambezi en Zambie, Jeremy Wade se rend là-bas pour découvrir la vérité derrière ces décès. Il accèdera aux eaux interdites. (2012).</desc>
+  <programme start="20220914063000 +0300" stop="20220914070000 +0300" channel="BBC World">
+    <title lang="el">Press Preview</title>
+    <desc lang="el">A full review of the best stories in tomorrow's national newspapers.(c)</desc>
   </programme>
-  <programme start="20220914121200 +0300" stop="20220914130000 +0300" channel="BBC World">
-    <title lang="el">River Monsters S6 ΕΠ1</title>
-    <desc lang="el">Jeremy Wade poursuit sa quête du Piraiba. Ce poisson-chat est toujours passée au travers des mailles de son filet depuis des décennies. S'étant résolu à ne pas quitter l'Amazonie sans avoir atteint son objectif, Wade fait face aux éléments et à la solitude sur le fleuve de l'Essequibo pour enfin rencontrer son monstre, un Piraiba de plus de 122 kilos et de plus de 2 mètres de long. (2014).</desc>
+  <programme start="20220914070000 +0300" stop="20220914073000 +0300" channel="BBC World">
+    <title lang="el">The Early Rundown</title>
+    <desc lang="el">Niall Paterson presents a comprehensive and fast-paced round-up of the big news stories of the morning.(c)</desc>
   </programme>
-  <programme start="20220914130000 +0300" stop="20220914133900 +0300" channel="BBC World">
-    <title lang="el">Cuisine de chasseur ΕΠ15</title>
-    <desc lang="el">Produits de la chasse ou de la pêche : rien ne se perd et tout se transforme. (2019).</desc>
+  <programme start="20220914073000 +0300" stop="20220914080000 +0300" channel="BBC World">
+    <title lang="el">The Early Rundown</title>
+    <desc lang="el">Niall Paterson presents a comprehensive and fast-paced round-up of the big news stories of the morning.(c)</desc>
   </programme>
-  <programme start="20220914133900 +0300" stop="20220914144200 +0300" channel="BBC World">
-    <title lang="el">J'irai pêcher chez vous ΕΠ12</title>
-    <desc lang="el">Le Maine et Loire est un département qui possède l’un des plus gros réseaux hydrographiques en France, c’est aussi celui qui compte le plus grand nombre de pêcheurs licenciés, une véritable terre de pêche que Julien Mathien, natif de la région, connaît comme sa poche. C’est donc à domicile et accompagné de ses plus fidèles amis que Julien a choisi de terminer cette première saison JPCV. (2020).</desc>
+  <programme start="20220914080000 +0300" stop="20220914083000 +0300" channel="BBC World">
+    <title lang="el">The Early Rundown</title>
+    <desc lang="el">Niall Paterson presents a comprehensive and fast-paced round-up of the big news stories of the morning.(c)</desc>
   </programme>
-  <programme start="20220914144200 +0300" stop="20220914153500 +0300" channel="BBC World">
-    <title lang="el">1000 pays en un ΕΠ14</title>
-    <desc lang="el">La Bretagne, son air marin et ses côtes sauvages sont bien connus des touristes. Mais le pays des Abers reste méconnu. Découvrez la Bretagne gastronomique, avec son incontournable fraise de Plougastel et ses inégalables produits du terroir. (2015).</desc>
+  <programme start="20220914083000 +0300" stop="20220914090000 +0300" channel="BBC World">
+    <title lang="el">The Early Rundown</title>
+    <desc lang="el">Niall Paterson presents a comprehensive and fast-paced round-up of the big news stories of the morning.(c)</desc>
   </programme>
-  <programme start="20220914153500 +0300" stop="20220914162900 +0300" channel="BBC World">
-    <title lang="el">1000 pays en un ΕΠ15</title>
-    <desc lang="el">Des volcans à perte de vue, c'est la carte postale du Puy de Dôme! Le département regorge aussi de trésors culturels, avec un patrimoine riche et singulier. Des couteaux de Thiers aux pneus Michelin, c'est aussi un territoire chargé d'histoire industrielle. (2015).</desc>
+  <programme start="20220914090000 +0300" stop="20220914093000 +0300" channel="BBC World">
+    <title lang="el">Kay Burley</title>
+    <desc lang="el">All the big stories of the morning presented by Kay Burley, with reports and analysis from the Sky News team, big name interviews and human interest stories.(c)</desc>
   </programme>
-  <programme start="20220914162900 +0300" stop="20220914172100 +0300" channel="BBC World">
-    <title lang="el">1000 pays en un ΕΠ16</title>
-    <desc lang="el">Les Cévennes sont situés dans la région montagneuse du Massif Central. Partez à la découverte de ce territoire d'exception du sud de la France et partagez une expérience unique. (2015).</desc>
+  <programme start="20220914093000 +0300" stop="20220914100000 +0300" channel="BBC World">
+    <title lang="el">Kay Burley</title>
+    <desc lang="el">All the big stories of the morning presented by Kay Burley, with reports and analysis from the Sky News team, big name interviews and human interest stories.(c)</desc>
   </programme>
-  <programme start="20220914172100 +0300" stop="20220914181300 +0300" channel="BBC World">
-    <title lang="el">1000 pays en un ΕΠ17</title>
-    <desc lang="el">Bienvenue à Carcassonne! Visitez la cité médiévale classée au patrimoine mondial de l'Unesco. Dégustez le véritable Cassoulet et arpentez la Montagne Noire renfermant ses lamas atypiques, sans oublier ses grottes et l'histoire des cathares. (2015).</desc>
+  <programme start="20220914100000 +0300" stop="20220914103000 +0300" channel="BBC World">
+    <title lang="el">Kay Burley</title>
+    <desc lang="el">All the big stories of the morning presented by Kay Burley, with reports and analysis from the Sky News team, big name interviews and human interest stories.(c)</desc>
   </programme>
-  <programme start="20220914181300 +0300" stop="20220914183600 +0300" channel="BBC World">
-    <title lang="el">Quebec a vol d'oiseau - saison 12 ΕΠ3</title>
-    <desc lang="el">La Saskatchewan est un rendez-vous obligatoire pour un bon début de saison de chasse à la sauvagine. Découvrez la Pourvoirie Western Trophy Outfitters pour une aventure où les oies et les canards se donnent en spectacle au-dessus des caches! (2021).</desc>
+  <programme start="20220914103000 +0300" stop="20220914110000 +0300" channel="BBC World">
+    <title lang="el">Kay Burley</title>
+    <desc lang="el">All the big stories of the morning presented by Kay Burley, with reports and analysis from the Sky News team, big name interviews and human interest stories.(c)</desc>
   </programme>
-  <programme start="20220914183600 +0300" stop="20220914190000 +0300" channel="BBC World">
-    <title lang="el">Quebec a vol d'oiseau - saison 12 ΕΠ4</title>
-    <desc lang="el">Après quelques années sans cibler le dindon, l’équipe de QVO est de retour en Estrie avec la relève pour cette chasse au dindon sauvage. Grâce à la participation de Yves Fortin, le duo d’animateurs redouble d’ardeur pour faire vivre cette chasse printanière à de jeunes sportifs. (2021).</desc>
+  <programme start="20220914110000 +0300" stop="20220914113000 +0300" channel="BBC World">
+    <title lang="el">Kay Burley</title>
+    <desc lang="el">All the big stories of the morning presented by Kay Burley, with reports and analysis from the Sky News team, big name interviews and human interest stories.(c)</desc>
   </programme>
-  <programme start="20220914190000 +0300" stop="20220914200000 +0300" channel="BBC World">
-    <title lang="el">Chasse Entre Amis Saison 4 ΕΠ7</title>
-    <desc lang="el">Tim et Dan endurent les rudesses de la chasse dans la brousse dense de Fiordland, avec pour mission d'approcher de près quelques cerfs roux rugissants. (2018).</desc>
+  <programme start="20220914113000 +0300" stop="20220914120000 +0300" channel="BBC World">
+    <title lang="el">Kay Burley</title>
+    <desc lang="el">All the big stories of the morning presented by Kay Burley, with reports and analysis from the Sky News team, big name interviews and human interest stories.(c)</desc>
   </programme>
-  <programme start="20220914200000 +0300" stop="20220914210000 +0300" channel="BBC World">
-    <title lang="el">Chasse Entre Amis Saison 4 ΕΠ4</title>
-    <desc lang="el">Alors qu’ils chassent des canards, Anto et Blair se lancent mutuellement des défis afin de retrouver le plaisir de la chasse. (2018).</desc>
+  <programme start="20220914120000 +0300" stop="20220914123000 +0300" channel="BBC World">
+    <title lang="el">Ian King Live</title>
+    <desc lang="el">In this daily business show, Ian King tackles the biggest business and economics stories live from Sky's studios in the heart of the City of London.(c)</desc>
   </programme>
-  <programme start="20220914210000 +0300" stop="20220914214400 +0300" channel="BBC World">
-    <title lang="el">Monster Carp S1 ΕΠ3</title>
-    <desc lang="el">Ali Hamidi se rend en Italie en compagnie de Tom Dove et Danny Fairbass afin d’y pêcher une carpe de 27 kg et le plus grand silure au monde. (2019).</desc>
+  <programme start="20220914123000 +0300" stop="20220914130000 +0300" channel="BBC World">
+    <title lang="el">Ian King Live</title>
+    <desc lang="el">In this daily business show, Ian King tackles the biggest business and economics stories live from Sky's studios in the heart of the City of London.(c)</desc>
   </programme>
-  <programme start="20220914214400 +0300" stop="20220914222900 +0300" channel="BBC World">
-    <title lang="el">Monster Carp S1 ΕΠ4</title>
-    <desc lang="el">Ali Hamidi se rend en Autriche en compagnie de Darrell Peck et Danny Fairbass afin d’y pêcher une carpe de 22 kg. (2019).</desc>
+  <programme start="20220914130000 +0300" stop="20220914133000 +0300" channel="BBC World">
+    <title lang="el">Sky News Today</title>
+    <desc lang="el">Colin Brazier and Jayne Secker with the latest developments and news conferences on the coronavirus pandemic from the UK and around the world.(c)</desc>
   </programme>
-  <programme start="20220914222900 +0300" stop="20220914225300 +0300" channel="BBC World">
-    <title lang="el">Chasseur d'aventure Κ6 ΕΠ2</title>
-    <desc lang="el">Robert Fickling teste un nouveau moyen de transport pour aller chasser : le rafting en rivière. Son objectif est de chasser le cerf Sambar. (2019).</desc>
+  <programme start="20220914133000 +0300" stop="20220914140000 +0300" channel="BBC World">
+    <title lang="el">Sky News Today</title>
+    <desc lang="el">Colin Brazier and Jayne Secker with the latest developments and news conferences on the coronavirus pandemic from the UK and around the world.(c)</desc>
   </programme>
-  <programme start="20220914225300 +0300" stop="20220914232500 +0300" channel="BBC World">
-    <title lang="el">Chasseur d'aventure Κ6 ΕΠ3</title>
-    <desc lang="el">Après avoir dévalé les rapides et installé leur campement, nos chasseurs partent sur les traces d'un cerf Sambar. (2019).</desc>
+  <programme start="20220914140000 +0300" stop="20220914143000 +0300" channel="BBC World">
+    <title lang="el">Sky News Today</title>
+    <desc lang="el">Colin Brazier and Jayne Secker with the latest developments and news conferences on the coronavirus pandemic from the UK and around the world.(c)</desc>
   </programme>
-  <programme start="20220914232500 +0300" stop="20220914235100 +0300" channel="BBC World">
-    <title lang="el">Chasseur d'aventure Saison 5 ΕΠ8</title>
-    <desc lang="el">La chasse aux chiens courants se poursuit pour Rob et ses équipiers. (2021).</desc>
+  <programme start="20220914143000 +0300" stop="20220914150000 +0300" channel="BBC World">
+    <title lang="el">Sky News Today</title>
+    <desc lang="el">Colin Brazier and Jayne Secker with the latest developments and news conferences on the coronavirus pandemic from the UK and around the world.(c)</desc>
   </programme>
-  <programme start="20220914235100 +0300" stop="20220914235500 +0300" channel="BBC World">
+  <programme start="20220914150000 +0300" stop="20220914153000 +0300" channel="BBC World">
+    <title lang="el">Sky News At One</title>
+    <desc lang="el">Jayne Secker presents a comprehensive round-up of all the key stories of the day so far, with all the latest breaking news, live events and reports from Sky News correspondents around the world.(c)</desc>
+  </programme>
+  <programme start="20220914153000 +0300" stop="20220914160000 +0300" channel="BBC World">
+    <title lang="el">Sky News At One</title>
+    <desc lang="el">Jayne Secker presents a comprehensive round-up of all the key stories of the day so far, with all the latest breaking news, live events and reports from Sky News correspondents around the world.(c)</desc>
+  </programme>
+  <programme start="20220914160000 +0300" stop="20220914163000 +0300" channel="BBC World">
+    <title lang="el">Sky News with Sarah-Jane Mee</title>
+    <desc lang="el">Join Sarah-Jane Mee for all the latest breaking stories through the afternoon with a wide range of guests discussing the main topics in the news.(c)</desc>
+  </programme>
+  <programme start="20220914163000 +0300" stop="20220914170000 +0300" channel="BBC World">
+    <title lang="el">Sky News with Sarah-Jane Mee</title>
+    <desc lang="el">Join Sarah-Jane Mee for all the latest breaking stories through the afternoon with a wide range of guests discussing the main topics in the news.(c)</desc>
+  </programme>
+  <programme start="20220914170000 +0300" stop="20220914173000 +0300" channel="BBC World">
+    <title lang="el">Sky News with Sarah-Jane Mee</title>
+    <desc lang="el">Join Sarah-Jane Mee for all the latest breaking stories through the afternoon with a wide range of guests discussing the main topics in the news.(c)</desc>
+  </programme>
+  <programme start="20220914173000 +0300" stop="20220914180000 +0300" channel="BBC World">
+    <title lang="el">Sky News with Sarah-Jane Mee</title>
+    <desc lang="el">Join Sarah-Jane Mee for all the latest breaking stories through the afternoon with a wide range of guests discussing the main topics in the news.(c)</desc>
+  </programme>
+  <programme start="20220914180000 +0300" stop="20220914183000 +0300" channel="BBC World">
+    <title lang="el">Sky News with Sarah-Jane Mee</title>
+    <desc lang="el">Join Sarah-Jane Mee for all the latest breaking stories through the afternoon with a wide range of guests discussing the main topics in the news.(c)</desc>
+  </programme>
+  <programme start="20220914183000 +0300" stop="20220914190000 +0300" channel="BBC World">
+    <title lang="el">Sky News with Sarah-Jane Mee</title>
+    <desc lang="el">Join Sarah-Jane Mee for all the latest breaking stories through the afternoon with a wide range of guests discussing the main topics in the news.(c)</desc>
+  </programme>
+  <programme start="20220914190000 +0300" stop="20220914193000 +0300" channel="BBC World">
+    <title lang="el">The News Hour With Mark Austin</title>
+    <desc lang="el">Join Mark Austin for a comprehensive take on the big stories of the day, with reports and analysis from Sky News correspondents around the world.(c)</desc>
+  </programme>
+  <programme start="20220914193000 +0300" stop="20220914200000 +0300" channel="BBC World">
+    <title lang="el">The News Hour With Mark Austin</title>
+    <desc lang="el">Join Mark Austin for a comprehensive take on the big stories of the day, with reports and analysis from Sky News correspondents around the world.(c)</desc>
+  </programme>
+  <programme start="20220914200000 +0300" stop="20220914203000 +0300" channel="BBC World">
+    <title lang="el">The News Hour With Mark Austin</title>
+    <desc lang="el">Join Mark Austin for a comprehensive take on the big stories of the day, with reports and analysis from Sky News correspondents around the world.(c)</desc>
+  </programme>
+  <programme start="20220914203000 +0300" stop="20220914210000 +0300" channel="BBC World">
+    <title lang="el">The News Hour With Mark Austin</title>
+    <desc lang="el">Join Mark Austin for a comprehensive take on the big stories of the day, with reports and analysis from Sky News correspondents around the world.(c)</desc>
+  </programme>
+  <programme start="20220914210000 +0300" stop="20220914213000 +0300" channel="BBC World">
+    <title lang="el">Sky News Tonight</title>
+    <desc lang="el">All the day's news followed by all the day's sport.(c)</desc>
+  </programme>
+  <programme start="20220914213000 +0300" stop="20220914220000 +0300" channel="BBC World">
+    <title lang="el">Sky News Tonight</title>
+    <desc lang="el">All the day's news followed by all the day's sport.(c)</desc>
+  </programme>
+  <programme start="20220914220000 +0300" stop="20220914223000 +0300" channel="BBC World">
+    <title lang="el">Sky News Tonight</title>
+    <desc lang="el">All the day's news followed by all the day's sport.(c)</desc>
+  </programme>
+  <programme start="20220914223000 +0300" stop="20220914230000 +0300" channel="BBC World">
+    <title lang="el">Sky News Tonight</title>
+    <desc lang="el">All the day's news followed by all the day's sport.(c)</desc>
+  </programme>
+  <programme start="20220914230000 +0300" stop="20220914233000 +0300" channel="BBC World">
+    <title lang="el">Sophy Ridge: The Take</title>
+    <desc lang="el">Sophy Ridge analyses the interviews from her show and looks at the reaction of politicians to what her guests had to say.(c)</desc>
+  </programme>
+  <programme start="20220914233000 +0300" stop="20220914235100 +0300" channel="BBC World">
+    <title lang="el">Sophy Ridge: The Take</title>
+    <desc lang="el">Sophy Ridge analyses the interviews from her show and looks at the reaction of politicians to what her guests had to say.(c)</desc>
+  </programme>
+  <programme start="20220914235100 +0300" stop="20220915001900 +0300" channel="BBC World">
     <title lang="el">Chasse et peche le mag ΕΠ4</title>
-    <desc lang="el">Retrouvez Lucie et Nicolas pour des sujets et débats passionnants autour de la chasse et de la pêche en France. (2021).</desc>
+    <desc lang="el">Retrouvez Lucie et Nicolas pour des sujets et débats passionnants autour de la chasse et de la pêche en France. (2021).(c)</desc>
   </programme>
-  <programme start="20220914235500 +0300" stop="20220915010500 +0300" channel="BBC World">
-    <title lang="el">Μπάια - η Ατλαντίδα της Ρώμης</title>
-    <desc lang="el">Μπάια - η Ατλαντίδα της Ρώμης Σκηνοθεσία: Marcello Adamo. Πρωταγωνιστούν: Fiona Goldman.</desc>
+  <programme start="20220915001900 +0300" stop="20220915010300 +0300" channel="BBC World">
+    <title lang="el">River Monsters Compilations avec Jeremy Wade ΕΠ5</title>
+    <desc lang="el">Jeremy Wade, biologiste et pêcheur passionné, poursuit sa quête des poissons d'eau douce les plus impressionnants du monde. (2020).(c)</desc>
   </programme>
-  <programme start="20220915010500 +0300" stop="20220915020500 +0300" channel="BBC World">
-    <title lang="el">Ξεχασμένοι τόποι Κ1 ΕΠ2</title>
-    <desc lang="el">Τρία απομεινάρια μιας ξεπεσμένης αυτοκρατορίας, τρία μνημεία της εποχής που ο κόσμος ζούσε κάτω από τη σκιά της. Ακόμα και σήμερα ανακαλύπτετε ίχνη της Σοβιετικής Ένωσης όποιο μέρος αν επισκεφτείτε. Πρωταγωνιστούν: Steven Charles.</desc>
+  <programme start="20220915010300 +0300" stop="20220915014600 +0300" channel="BBC World">
+    <title lang="el">River Monsters Compilations avec Jeremy Wade ΕΠ5</title>
+    <desc lang="el">Jeremy Wade, biologiste et pêcheur passionné, poursuit sa quête des poissons d'eau douce les plus impressionnants du monde. (2020).(c)</desc>
   </programme>
-  <programme start="20220915020500 +0300" stop="20220915030000 +0300" channel="BBC World">
-    <title lang="el">Νείλος: 5.000 Χρόνια Ιστορίας Κ1 ΕΠ3</title>
-    <desc lang="el">Με το δικό της νταχαμπίγια η Μπέτανι Χιουζ καλύπτει σχεδόν 1.000 μίλια από το Κάιρο μέχρι το Φράγμα του Ασουάν στον μεγαλοπρεπή Νείλο σταματώντας σε κάθε εμβληματικό, μαγευτικό μέρος κατά τη διαδρομή.</desc>
+  <programme start="20220915014600 +0300" stop="20220915023000 +0300" channel="BBC World">
+    <title lang="el">River Monsters Compilations avec Jeremy Wade ΕΠ5</title>
+    <desc lang="el">Jeremy Wade, biologiste et pêcheur passionné, poursuit sa quête des poissons d'eau douce les plus impressionnants du monde. (2020).(c)</desc>
   </programme>
-  <programme start="20220915030000 +0300" stop="20220915034500 +0300" channel="BBC World">
-    <title lang="el">Απαγορευμένη Ιστορία Κ7 ΕΠ3</title>
-    <desc lang="el">Τι συνέβη στη Μαρία Μαγδαληνή μετά την ανάσταση του Κυρίου; Ακολουθούμε τους λάτρεις της ιστορίας στη νότια Γαλλία που επιχειρούν να βρουν τα λείψανα της αγίας σε ένα μέρος ανεξερεύνητο έως σήμερα. Σκηνοθεσία: Steve Gillham. Πρωταγωνιστούν: Jamie Theakston.</desc>
+  <programme start="20220915023000 +0300" stop="20220915033000 +0300" channel="BBC World">
+    <title lang="el">River Monsters Compilations avec Jeremy Wade ΕΠ5</title>
+    <desc lang="el">Jeremy Wade, biologiste et pêcheur passionné, poursuit sa quête des poissons d'eau douce les plus impressionnants du monde. (2020).(c)</desc>
   </programme>
-  <programme start="20220915034500 +0300" stop="20220915043500 +0300" channel="BBC World">
-    <title lang="el">Ο χαμένος κόσμος του Ανγκόρ Γουάτ Κ1 ΕΠ1</title>
-    <desc lang="el">Τα λέιζερ αποκαλύπτουν κρυφούς ναούς στη ζούγκλα, τα ραντάρ διαπερνούν το έδαφος φανερώνοντας πώς καταλάμβαναν νέα εδάφη οι βασιλείς, η τεράστια πυραμίδα θα αποκαλύψει τελετές μυστηριώδους θρησκείας.</desc>
+  <programme start="20220915033000 +0300" stop="20220915064100 +0300" channel="BBC World">
+    <title lang="el">Grives, la passion du Sud ΕΠ1</title>
+    <desc lang="el">Les grives et les merles passionnent les chasseurs français. Ces experts vous font découvrir ce qu'est réellement la chasse des grives : des modes de chasse et de capture mis au point en fonction des régions et certaines techniques ancestrales. (2019).(c)</desc>
   </programme>
-  <programme start="20220915043500 +0300" stop="20220915052500 +0300" channel="BBC World">
-    <title lang="el">Ο χαμένος κόσμος του Ανγκόρ Γουάτ Κ1 ΕΠ2</title>
-    <desc lang="el">Η ομάδα εξερευνά ένα από τα μεγαλύτερα αρχαία δίκτυα νερού με τη βοήθεια ντρόουν, ενώ αρχαία όπλα και ίχνη ανεπτυγμένης σιδηρουργίας αποκαλύπτουν την αλήθεια για τη δύναμη του στρατού των Χμερ.</desc>
+  <programme start="20220915064100 +0300" stop="20220915073200 +0300" channel="BBC World">
+    <title lang="el">Le quinté gagnant écossais ΕΠ1</title>
+    <desc lang="el">L'Ecosse. Un nom magique et emblématique. L'Ecosse évoque obligatoirement les clans anciens, les légendes celtes, les kilts, le wisky ou plutôt les wiskys, tous plus typés les uns que les autres ; et l'Ecosse pour les chasseurs est également synonyme de grands espaces, de cerfs sauvages, de bécasses, de faisans, de lièvres variables et surtout de grooses, l'oiseau mythique des Highlands. (2016).(c)</desc>
   </programme>
-  <programme start="20220915052500 +0300" stop="20220915062000 +0300" channel="BBC World">
-    <title lang="el">Μπάια - η Ατλαντίδα της Ρώμης</title>
-    <desc lang="el">Μπάια - η Ατλαντίδα της Ρώμης Σκηνοθεσία: Marcello Adamo. Πρωταγωνιστούν: Fiona Goldman.</desc>
+  <programme start="20220915073200 +0300" stop="20220915081500 +0300" channel="BBC World">
+    <title lang="el">Monstres d'eau douce S5 ΕΠ4</title>
+    <desc lang="el">En Colombie, une jeune mariée en lune de miel est morte, traînée au fond du fleuve Amazone par une force mystérieuse. Lorsqu'une infirmière à la retraite lui fournit de nouvelles preuves cruciales, Jeremy l’aide à prouver la théorie farfelue selon laquelle le « tueur colombien » serait un monstre aquatique. (2013).(c)</desc>
   </programme>
-  <programme start="20220915062000 +0300" stop="20220915071000 +0300" channel="BBC World">
-    <title lang="el">Φοβερές εφευρέσεις Κ2 ΕΠ21</title>
-    <desc lang="el">Τι κοινό έχουν η μονωτική ταινία και ο στιγμιαίος καφές, ή το GPS και τα χαρτομάντιλα Kleenex; Ετοιμαστείτε να εκπλαγείτε! Η σειρά διερευνά πώς και γιατί εφευρέθηκαν μερικά καθημερινά αντικείμενα.</desc>
+  <programme start="20220915081500 +0300" stop="20220915091100 +0300" channel="BBC World">
+    <title lang="el">Chasse Entre Amis Saison 4 ΕΠ7</title>
+    <desc lang="el">Tim et Dan endurent les rudesses de la chasse dans la brousse dense de Fiordland, avec pour mission d'approcher de près quelques cerfs roux rugissants. (2018).(c)</desc>
   </programme>
-  <programme start="20220915071000 +0300" stop="20220915081000 +0300" channel="BBC World">
-    <title lang="el">Τα πιο παράξενα αντικείμενα Κ1 ΕΠ9</title>
-    <desc lang="el">Καταχωνιασμένα μέσα σε μουσεία, εργαστήρια και αποθήκες ανά την υφήλιο βρίσκονται τα πιο αξιοσημείωτα αντικείμενα στον κόσμο. Με νέα μέσα έρευνας και τεχνολογίας, τα εξετάζουμε διεξοδικότερα από ποτέ. Σκηνοθεσία: Corey Johnson. Πρωταγωνιστούν: Corey Johnson.</desc>
+  <programme start="20220915091100 +0300" stop="20220915095400 +0300" channel="BBC World">
+    <title lang="el">River Monsters S4 ΕΠ5</title>
+    <desc lang="el">En 2002, les scientifiques ont découvert un nouveau genre de requin : le Glyphis. Quand un rapport fait état d'une attaque non identifiée sur une personne dans la rivière australienne de Fitzroy, Jeremy Wade se rend sur place, se demandant si l'attaque n'est pas l'oeuvre de cette espèce rare. (2012).(c)</desc>
   </programme>
-  <programme start="20220915081000 +0300" stop="20220915090500 +0300" channel="BBC World">
-    <title lang="el">Λονδίνο: 2000 χρόνια ιστορίας Κ1 ΕΠ1</title>
-    <desc lang="el">Νταν Τζόουνς, Σουζάνα Λίπσκομπ και Ρομπ Μπελ αφηγούνται πώς το Λονδίνο εξελίχθηκε από μικρή ρωμαϊκή εμπορική πόλη σε πρωτεύουσα της Βρετ. Αυτοκρατορίας και τελικά στη σημερινή ακμάζουσα μεγαλούπολη. Σκηνοθεσία: Sarah Jobling, Paul Nelson. Πρωταγωνιστούν: Dan Jones, Suzannah Lipscomb, Rob Bell.</desc>
+  <programme start="20220915095400 +0300" stop="20220915103800 +0300" channel="BBC World">
+    <title lang="el">River Monsters S4 ΕΠ6</title>
+    <desc lang="el">En Afrique australe, il y a des rumeurs sur un poisson mortel. Avec des dents similaires aux requins, il chasse en pack et raffole de la chair humaine. Cela ressemble au travail de piranhas géants, mais ce n'est rien de tel. Où se cache-t-il? La mission de Jeremy Wade, identifier ce terrifiant monstre de la rivière. (2012).(c)</desc>
   </programme>
-  <programme start="20220915090500 +0300" stop="20220915100000 +0300" channel="BBC World">
-    <title lang="el">Οι χαμένες πόλεις των Τρώων Κ1 ΕΠ1</title>
-    <desc lang="el">Στην Τουρκία ερευνητές ξεκλειδώνουν σημαντικά νέα μυστικά που αλλάζουν όσα κατανοούσαμε για το παρελθόν. Πραγματοποιούν ανασκαφές στα ερείπια μιας πόλης που πολλοί πιστεύουν ότι είναι η Τροία. Σκηνοθεσία: Laurent Portes. Πρωταγωνιστούν: Douglas Rand.</desc>
+  <programme start="20220915103800 +0300" stop="20220915110100 +0300" channel="BBC World">
+    <title lang="el">Quebec a vol d'oiseau - saison 12 ΕΠ3</title>
+    <desc lang="el">La Saskatchewan est un rendez-vous obligatoire pour un bon début de saison de chasse à la sauvagine. Découvrez la Pourvoirie Western Trophy Outfitters pour une aventure où les oies et les canards se donnent en spectacle au-dessus des caches! (2021).(c)</desc>
   </programme>
-  <programme start="20220915100000 +0300" stop="20220915110500 +0300" channel="BBC World">
-    <title lang="el">Ο δρόμος του μεταξιού Κ1 ΕΠ3</title>
-    <desc lang="el">Ο Σαμ Ουίλις συνεχίζει τη διαδρομή του δυτικά στο Ιράν. Αρχίζει από την Περσέπολη, το κέντρο της πρώτης περσικής αυτοκρατορίας, και μετά στην Κωνσταντινούπολη, ολοκληρώνοντας τη διαδρομή στη Βενετία. Σκηνοθεσία: Richard Downes. Πρωταγωνιστούν: Sam Willis.</desc>
+  <programme start="20220915110100 +0300" stop="20220915112400 +0300" channel="BBC World">
+    <title lang="el">Quebec a vol d'oiseau - saison 12 ΕΠ4</title>
+    <desc lang="el">Après quelques années sans cibler le dindon, l’équipe de QVO est de retour en Estrie avec la relève pour cette chasse au dindon sauvage. Grâce à la participation de Yves Fortin, le duo d’animateurs redouble d’ardeur pour faire vivre cette chasse printanière à de jeunes sportifs. (2021).(c)</desc>
   </programme>
-  <programme start="20220915110500 +0300" stop="20220915120000 +0300" channel="BBC World">
-    <title lang="el">Νείλος: 5.000 Χρόνια Ιστορίας Κ1 ΕΠ3</title>
-    <desc lang="el">Με το δικό της νταχαμπίγια η Μπέτανι Χιουζ καλύπτει σχεδόν 1.000 μίλια από το Κάιρο μέχρι το Φράγμα του Ασουάν στον μεγαλοπρεπή Νείλο σταματώντας σε κάθε εμβληματικό, μαγευτικό μέρος κατά τη διαδρομή.</desc>
+  <programme start="20220915112400 +0300" stop="20220915114700 +0300" channel="BBC World">
+    <title lang="el">Quebec a vol d'oiseau - saison 12 ΕΠ12</title>
+    <desc lang="el">L’équipe de QVO découvre la région de la Côte-Nord d’ouest en est. Tout au long de la route 138 se trouvent plusieurs possibilités de pêche allant du saumon de la prestigieuse rivière Moisie aux fruits de mer du Saint-Laurent. (2021).(c)</desc>
   </programme>
-  <programme start="20220915120000 +0300" stop="20220915130500 +0300" channel="BBC World">
-    <title lang="el">Ξεχασμένοι τόποι Κ1 ΕΠ2</title>
-    <desc lang="el">Τρία απομεινάρια μιας ξεπεσμένης αυτοκρατορίας, τρία μνημεία της εποχής που ο κόσμος ζούσε κάτω από τη σκιά της. Ακόμα και σήμερα ανακαλύπτετε ίχνη της Σοβιετικής Ένωσης όποιο μέρος αν επισκεφτείτε. Πρωταγωνιστούν: Steven Charles.</desc>
+  <programme start="20220915114700 +0300" stop="20220915121100 +0300" channel="BBC World">
+    <title lang="el">Quebec a vol d'oiseau - saison 12 ΕΠ13</title>
+    <desc lang="el">Redécouvrez Majeje, en Afrique du Sud! (2021).(c)</desc>
   </programme>
-  <programme start="20220915130500 +0300" stop="20220915140000 +0300" channel="BBC World">
-    <title lang="el">Οι ανεξήγητοι φάκελοι της Αιγύπτου Κ1 ΕΠ8</title>
-    <desc lang="el">Η αρχαία Αίγυπτος είναι ένας από τους σπουδαιότερους πολιτισμούς του κόσμου με ιστορία 3.000 χρόνων. Τα θαύματα της σύγχρονης τεχνολογίας αποκωδικοποιούν τα παλαιότερα μυστήρια της Αιγύπτου.</desc>
+  <programme start="20220915121100 +0300" stop="20220915130000 +0300" channel="BBC World">
+    <title lang="el">Monster Carp S1 ΕΠ3</title>
+    <desc lang="el">Ali Hamidi se rend en Italie en compagnie de Tom Dove et Danny Fairbass afin d’y pêcher une carpe de 27 kg et le plus grand silure au monde. (2019).(c)</desc>
   </programme>
-  <programme start="20220915140000 +0300" stop="20220915145500 +0300" channel="BBC World">
-    <title lang="el">Απαγορευμένη Ιστορία Κ7 ΕΠ3</title>
-    <desc lang="el">Τι συνέβη στη Μαρία Μαγδαληνή μετά την ανάσταση του Κυρίου; Ακολουθούμε τους λάτρεις της ιστορίας στη νότια Γαλλία που επιχειρούν να βρουν τα λείψανα της αγίας σε ένα μέρος ανεξερεύνητο έως σήμερα. Σκηνοθεσία: Steve Gillham. Πρωταγωνιστούν: Jamie Theakston.</desc>
+  <programme start="20220915130000 +0300" stop="20220915140100 +0300" channel="BBC World">
+    <title lang="el">Cuisine de chasseur ΕΠ16</title>
+    <desc lang="el">Produits de la chasse ou de la pêche : rien ne se perd et tout se transforme. (2019).(c)</desc>
   </programme>
-  <programme start="20220915145500 +0300" stop="20220915155500 +0300" channel="BBC World">
-    <title lang="el">Ο χαμένος κόσμος του Ανγκόρ Γουάτ Κ1 ΕΠ1</title>
-    <desc lang="el">Τα λέιζερ αποκαλύπτουν κρυφούς ναούς στη ζούγκλα, τα ραντάρ διαπερνούν το έδαφος φανερώνοντας πώς καταλάμβαναν νέα εδάφη οι βασιλείς, η τεράστια πυραμίδα θα αποκαλύψει τελετές μυστηριώδους θρησκείας.</desc>
+  <programme start="20220915140100 +0300" stop="20220915144600 +0300" channel="BBC World">
+    <title lang="el">Monster Carp S1 ΕΠ4</title>
+    <desc lang="el">Ali Hamidi se rend en Autriche en compagnie de Darrell Peck et Danny Fairbass afin d’y pêcher une carpe de 22 kg. (2019).(c)</desc>
   </programme>
-  <programme start="20220915155500 +0300" stop="20220915170000 +0300" channel="BBC World">
-    <title lang="el">Ο χαμένος κόσμος του Ανγκόρ Γουάτ Κ1 ΕΠ2</title>
-    <desc lang="el">Η ομάδα εξερευνά ένα από τα μεγαλύτερα αρχαία δίκτυα νερού με τη βοήθεια ντρόουν, ενώ αρχαία όπλα και ίχνη ανεπτυγμένης σιδηρουργίας αποκαλύπτουν την αλήθεια για τη δύναμη του στρατού των Χμερ.</desc>
+  <programme start="20220915144600 +0300" stop="20220915153100 +0300" channel="BBC World">
+    <title lang="el">Des stars et la pêche saison 2 ΕΠ6</title>
+    <desc lang="el">Dean Macey, Adam Rooney et Matt Godfrey tentent d'attraper des carpes dans le Dorset. Ils s'essaieront aussi à la pêche en mer à Portland Bill. (2019).(c)</desc>
   </programme>
-  <programme start="20220915170000 +0300" stop="20220915180500 +0300" channel="BBC World">
-    <title lang="el">Μπάια - η Ατλαντίδα της Ρώμης</title>
-    <desc lang="el">Μπάια - η Ατλαντίδα της Ρώμης Σκηνοθεσία: Marcello Adamo. Πρωταγωνιστούν: Fiona Goldman.</desc>
+  <programme start="20220915153100 +0300" stop="20220915155500 +0300" channel="BBC World">
+    <title lang="el">Chasseur d'aventure Κ6 ΕΠ1</title>
+    <desc lang="el">Retrouvez Robert Fickling en Scandinavie, dans le sud de la Suède, où, pour sa première chasse en Europe, il tentera de chasser le daim suédois. (2019).(c)</desc>
   </programme>
-  <programme start="20220915180500 +0300" stop="20220915190000 +0300" channel="BBC World">
-    <title lang="el">Νείλος: 5.000 Χρόνια Ιστορίας Κ1 ΕΠ4</title>
-    <desc lang="el">Με το δικό της νταχαμπίγια η Μπέτανι Χιουζ καλύπτει σχεδόν 1.000 μίλια από το Κάιρο μέχρι το Φράγμα του Ασουάν στον μεγαλοπρεπή Νείλο σταματώντας σε κάθε εμβληματικό, μαγευτικό μέρος κατά τη διαδρομή.</desc>
+  <programme start="20220915155500 +0300" stop="20220915162100 +0300" channel="BBC World">
+    <title lang="el">Chasseur d'aventure Κ6 ΕΠ5</title>
+    <desc lang="el">De retour en Suède, Robert Fickling testera une nouvelle arme. Il se dirigera ensuite vers l'île de Ven pour chasser le lièvre. (2019).(c)</desc>
   </programme>
-  <programme start="20220915190000 +0300" stop="20220915200500 +0300" channel="BBC World">
+  <programme start="20220915162100 +0300" stop="20220915164700 +0300" channel="BBC World">
+    <title lang="el">Chasseur d'aventure Κ6 ΕΠ8</title>
+    <desc lang="el">Dans cet épisode découvrez la chasse au grand gibier en Suède. (2019).(c)</desc>
+  </programme>
+  <programme start="20220915164700 +0300" stop="20220915171500 +0300" channel="BBC World">
+    <title lang="el">Chasseur d'aventure Κ6 ΕΠ4</title>
+    <desc lang="el">Dans cet épisode de Chasseur d'aventure, nous retrouvons Robert Fickling dans le Far West australien, dans la ville de Bourke située à l'orée du désert pour chasser la chèvre. (2019).(c)</desc>
+  </programme>
+  <programme start="20220915171500 +0300" stop="20220915180800 +0300" channel="BBC World">
+    <title lang="el">1000 pays en un ΕΠ16</title>
+    <desc lang="el">Les Cévennes sont situés dans la région montagneuse du Massif Central. Partez à la découverte de ce territoire d'exception du sud de la France et partagez une expérience unique. (2015).(c)</desc>
+  </programme>
+  <programme start="20220915180800 +0300" stop="20220915190000 +0300" channel="BBC World">
+    <title lang="el">1000 pays en un ΕΠ17</title>
+    <desc lang="el">Bienvenue à Carcassonne! Visitez la cité médiévale classée au patrimoine mondial de l'Unesco. Dégustez le véritable Cassoulet et arpentez la Montagne Noire renfermant ses lamas atypiques, sans oublier ses grottes et l'histoire des cathares. (2015).(c)</desc>
+  </programme>
+  <programme start="20220915190000 +0300" stop="20220915193000 +0300" channel="BBC World">
+    <title lang="el">Au pays des Mitchifs - saison 1 &amp; 2 ΕΠ3</title>
+    <desc lang="el">Les cousins Gerry et Mushroom Bruce partent pour capturer un wapiti qui doit bien faire 600 livres. La bête est si grande qu'elle pourrait nourrir leurs deux familles pendant tout l'hiver. Gerry est bon en tout, mais à la chasse au wapiti, c'est Mushroom qui est le meilleur. Il traque la bête depuis des semaines. De leur côté, Norbert Langelier et La Bite Dumont continuent leur chasse au chevreuil et se font accompagner, cette fois-ci, par Charles Langelier. (2017).(c)</desc>
+  </programme>
+  <programme start="20220915193000 +0300" stop="20220915195100 +0300" channel="BBC World">
+    <title lang="el">Au pays des Mitchifs - saison 1 &amp; 2 ΕΠ4</title>
+    <desc lang="el">Norbert Langelier est l'un des premiers pêcheurs à s'aventurer sur la glace du lac Manitoba au début décembre. À ce moment de la saison, les pêcheurs avancent prudemment avec un pic pour mesurer l'épaisseur de la glace. Trois pouces leur suffisent pour étendre leurs filets, mais ils traînent un bateau avec eux, juste au cas où. Les Mitchifs peuvent prendre dans la nature tout ce qu'ils veulent pour nourrir leurs familles, mais pour vendre leur poisson, ils doivent déternir un permis commercial. (2017).(c)</desc>
+  </programme>
+  <programme start="20220915195100 +0300" stop="20220915210000 +0300" channel="BBC World">
+    <title lang="el">1000 pays en un ΕΠ14</title>
+    <desc lang="el">La Bretagne, son air marin et ses côtes sauvages sont bien connus des touristes. Mais le pays des Abers reste méconnu. Découvrez la Bretagne gastronomique, avec son incontournable fraise de Plougastel et ses inégalables produits du terroir. (2015).(c)</desc>
+  </programme>
+  <programme start="20220915210000 +0300" stop="20220915215600 +0300" channel="BBC World">
+    <title lang="el">Chasse Entre Amis Saison 4 ΕΠ7</title>
+    <desc lang="el">Tim et Dan endurent les rudesses de la chasse dans la brousse dense de Fiordland, avec pour mission d'approcher de près quelques cerfs roux rugissants. (2018).(c)</desc>
+  </programme>
+  <programme start="20220915215600 +0300" stop="20220915224400 +0300" channel="BBC World">
+    <title lang="el">Chasse Entre Amis Saison 4 ΕΠ4</title>
+    <desc lang="el">Alors qu’ils chassent des canards, Anto et Blair se lancent mutuellement des défis afin de retrouver le plaisir de la chasse. (2018).(c)</desc>
+  </programme>
+  <programme start="20220915224400 +0300" stop="20220915233700 +0300" channel="BBC World">
+    <title lang="el">1000 pays en un ΕΠ15</title>
+    <desc lang="el">Des volcans à perte de vue, c'est la carte postale du Puy de Dôme! Le département regorge aussi de trésors culturels, avec un patrimoine riche et singulier. Des couteaux de Thiers aux pneus Michelin, c'est aussi un territoire chargé d'histoire industrielle. (2015).(c)</desc>
+  </programme>
+  <programme start="20220915233700 +0300" stop="20220915235500 +0300" channel="BBC World">
+    <title lang="el">Quebec a vol d'oiseau - saison 12 ΕΠ3</title>
+    <desc lang="el">La Saskatchewan est un rendez-vous obligatoire pour un bon début de saison de chasse à la sauvagine. Découvrez la Pourvoirie Western Trophy Outfitters pour une aventure où les oies et les canards se donnent en spectacle au-dessus des caches! (2021).(c)</desc>
+  </programme>
+  <programme start="20220915235500 +0300" stop="20220916005500 +0300" channel="BBC World">
+    <title lang="el">Οι μάγισσες του Σάλεμ Κ1 ΕΠ3</title>
+    <desc lang="el">Οι δίκες των μαγισσών του Σάλεμ οδήγησαν στην εκτέλεση 20 γυναικών. Αποκαλύπτουμε την υστερία που προκάλεσε μαζικές συλλήψεις, παραποιημένες δίκες και δημόσιους απαγχονισμούς στην πλατεία της πόλης. Σκηνοθεσία: Stephen Kemp. Πρωταγωνιστούν: Tom Park.(c)</desc>
+  </programme>
+  <programme start="20220916005500 +0300" stop="20220916020000 +0300" channel="BBC World">
     <title lang="el">Ξεχασμένοι τόποι Κ1 ΕΠ3</title>
-    <desc lang="el">Τρία κατάλοιπα βοηθούν να ανακαλύψουμε την περίπλοκη ιστορία της Βρετανικής Αυτοκρατορίας. Επισκεπτόμαστε το Χάσλαρ, το νησί Μονσεράτ και το νησί Μιρασίν, την πρώτη βρετανική αποικία στην ιστορία. Πρωταγωνιστούν: Steven Charles.</desc>
+    <desc lang="el">Τρία κατάλοιπα βοηθούν να ανακαλύψουμε την περίπλοκη ιστορία της Βρετανικής Αυτοκρατορίας. Επισκεπτόμαστε το Χάσλαρ, το νησί Μονσεράτ και το νησί Μιρασίν, την πρώτη βρετανική αποικία στην ιστορία. Πρωταγωνιστούν: Steven Charles.(c)</desc>
   </programme>
-  <programme start="20220915200500 +0300" stop="20220915210000 +0300" channel="BBC World">
-    <title lang="el">Οι ανεξήγητοι φάκελοι της Αιγύπτου Κ1 ΕΠ9</title>
-    <desc lang="el">Η αρχαία Αίγυπτος είναι ένας από τους σπουδαιότερους πολιτισμούς του κόσμου με ιστορία 3.000 χρόνων. Τα θαύματα της σύγχρονης τεχνολογίας αποκωδικοποιούν τα παλαιότερα μυστήρια της Αιγύπτου.</desc>
+  <programme start="20220916020000 +0300" stop="20220916025000 +0300" channel="BBC World">
+    <title lang="el">Νείλος: 5.000 Χρόνια Ιστορίας Κ1 ΕΠ4</title>
+    <desc lang="el">Με το δικό της νταχαμπίγια η Μπέτανι Χιουζ καλύπτει σχεδόν 1.000 μίλια από το Κάιρο μέχρι το Φράγμα του Ασουάν στον μεγαλοπρεπή Νείλο σταματώντας σε κάθε εμβληματικό, μαγευτικό μέρος κατά τη διαδρομή.(c)</desc>
   </programme>
-  <programme start="20220915210000 +0300" stop="20220915220000 +0300" channel="BBC World">
+  <programme start="20220916025000 +0300" stop="20220916033500 +0300" channel="BBC World">
     <title lang="el">Απαγορευμένη Ιστορία Κ7 ΕΠ4</title>
-    <desc lang="el">Αποκαλύπτουμε μια νέα ενδιαφέρουσα θεωρία για το Γκεμπεκλί Τεπέ στη ν. Τουρκία. Ένα από τα παλαιότερα μυστήρια του κόσμου, 12.000 χρόνια πριν, και ακόμα δεν έχουμε καταλήξει ποιος το έκτισε και γιατί. Σκηνοθεσία: Steve Gillham. Πρωταγωνιστούν: Jamie Theakston.</desc>
+    <desc lang="el">Αποκαλύπτουμε μια νέα ενδιαφέρουσα θεωρία για το Γκεμπεκλί Τεπέ στη ν. Τουρκία. Ένα από τα παλαιότερα μυστήρια του κόσμου, 12.000 χρόνια πριν, και ακόμα δεν έχουμε καταλήξει ποιος το έκτισε και γιατί. Σκηνοθεσία: Steve Gillham. Πρωταγωνιστούν: Jamie Theakston.(c)</desc>
   </programme>
-  <programme start="20220915220000 +0300" stop="20220915225000 +0300" channel="BBC World">
+  <programme start="20220916033500 +0300" stop="20220916041500 +0300" channel="BBC World">
     <title lang="el">Εξιχνίαση μυστηρίων Κ1 ΕΠ7</title>
-    <desc lang="el">Η σειρά αστυνομικών ντοκιμαντέρ ερευνά σε βάθος τα σημαντικότερα ανεξιχνίαστα μυστήρια της Αμερικής, αναλύοντας πρωτοφανή στοιχεία και αξιοποιώντας τεχνολογικά μέσα στην επανεξέταση κάθε υπόθεσης. Πρωταγωνιστούν: Jennifer Marshall.</desc>
+    <desc lang="el">Η σειρά αστυνομικών ντοκιμαντέρ ερευνά σε βάθος τα σημαντικότερα ανεξιχνίαστα μυστήρια της Αμερικής, αναλύοντας πρωτοφανή στοιχεία και αξιοποιώντας τεχνολογικά μέσα στην επανεξέταση κάθε υπόθεσης. Πρωταγωνιστούν: Jennifer Marshall.(c)</desc>
   </programme>
-  <programme start="20220915225000 +0300" stop="20220915235500 +0300" channel="BBC World">
+  <programme start="20220916041500 +0300" stop="20220916051000 +0300" channel="BBC World">
     <title lang="el">Η δίκη του Τσαουσέσκου</title>
-    <desc lang="el">Τριάντα χρόνια μετά την πτώση του Τσαουσέσκου, εξετάζουμε ένα από τα πιο βίαια γεγονότα της κατάρρευσης των σοσιαλιστικών δικτατοριών, ένα πραξικόπημα εν είδει λαϊκής επανάστασης. Σκηνοθεσία: Vincent de Cointet.</desc>
+    <desc lang="el">Τριάντα χρόνια μετά την πτώση του Τσαουσέσκου, εξετάζουμε ένα από τα πιο βίαια γεγονότα της κατάρρευσης των σοσιαλιστικών δικτατοριών, ένα πραξικόπημα εν είδει λαϊκής επανάστασης. Σκηνοθεσία: Vincent de Cointet.(c)</desc>
   </programme>
-  <programme start="20220916001500 +0300" stop="20220916014000 +0300" channel="BBC World">
-    <title lang="el">Along Came Polly</title>
-    <desc lang="el">Όταν συναντιούνται οι δρόμοι της Πόλι, μιας κοπέλας ανοργάνωτης με ελεύθερο πνεύμα, και του Ρούμπεν, ενός οργανωμένου, σταθερού και προσεκτικού ασφαλιστικού πράκτορα, εκείνος πρέπει να αποφασίσει αν θα ανταλλάξει τη βαρετή, προγραμματισμένη ζωή του με το όμορφο χάος που ακούει στο όνομα Πόλι. Σκηνοθεσία: John Hamburg,. Πρωταγωνιστούν: Nathan Dean, Ben Stiller,. (2004).</desc>
+  <programme start="20220916051000 +0300" stop="20220916060000 +0300" channel="BBC World">
+    <title lang="el">Οι μάγισσες του Σάλεμ Κ1 ΕΠ3</title>
+    <desc lang="el">Οι δίκες των μαγισσών του Σάλεμ οδήγησαν στην εκτέλεση 20 γυναικών. Αποκαλύπτουμε την υστερία που προκάλεσε μαζικές συλλήψεις, παραποιημένες δίκες και δημόσιους απαγχονισμούς στην πλατεία της πόλης. Σκηνοθεσία: Stephen Kemp. Πρωταγωνιστούν: Tom Park.(c)</desc>
   </programme>
-  <programme start="20220916014000 +0300" stop="20220916033000 +0300" channel="BBC World">
-    <title lang="el">The Man Without a Face</title>
-    <desc lang="el">Ένα νεαρό αγόρι που ονειρεύεται να πάει στο Γουέστ Πόιντ πιάνει φιλίες με έναν πρώην δάσκαλο που ζει σε απομόνωση μετά από ένα τροχαίο ατύχημα που του προκάλεσε παραμόρφωση στη δεξιά πλευρά του προσώπου και του στέρνου του. Σκηνοθεσία: Mel Gibson,. Πρωταγωνιστούν: Mel Gibson,. (1993).</desc>
+  <programme start="20220916060000 +0300" stop="20220916070000 +0300" channel="BBC World">
+    <title lang="el">Μυστήρια των μουσείων Κ12 ΕΠ5</title>
+    <desc lang="el">Τα μουσεία εκθέτουν περίφημους θησαυρούς του παρελθόντος. Πίσω από κάθε έκθεμα κρύβεται μια ιστορία και μυστικά που πρέπει να αποκαλυφθούν - ιστορίες γεμάτες σκάνδαλα, μυστήρια, φόνους και ίντριγκες. Σκηνοθεσία: Don Wildman. Πρωταγωνιστούν: Don Wildman.(c)</desc>
   </programme>
-  <programme start="20220916033000 +0300" stop="20220916053000 +0300" channel="BBC World">
-    <title lang="el">Rescue Dawn</title>
-    <desc lang="el">Ο Ντίτερ Ντένγκλερ ονειρευόταν να πετάξει από τότε που ήταν παιδί και μεγάλωνε στη Γερμανία της εποχής του πολέμου, γι' αυτό και όταν η οικογένειά του μετακομίζει στις ΗΠΑ επιδιώκει να γίνει πιλότος του Ναυτικού. (2006) Σκηνοθεσία: Werner Herzog,. Πρωταγωνιστούν: Christian Bale, Steve Zahn, Pat Healy, Jeremy Davies, Galen Yuen, Evan Jones. (2007).</desc>
+  <programme start="20220916070000 +0300" stop="20220916075500 +0300" channel="BBC World">
+    <title lang="el">Μυστήρια των μουσείων Κ12 ΕΠ1</title>
+    <desc lang="el">Τα μουσεία εκθέτουν περίφημους θησαυρούς του παρελθόντος. Πίσω από κάθε έκθεμα κρύβεται μια ιστορία και μυστικά που πρέπει να αποκαλυφθούν - ιστορίες γεμάτες σκάνδαλα, μυστήρια, φόνους και ίντριγκες. Σκηνοθεσία: Don Wildman. Πρωταγωνιστούν: Don Wildman.(c)</desc>
   </programme>
-  <programme start="20220916053000 +0300" stop="20220916072000 +0300" channel="BBC World">
-    <title lang="el">The Terminator</title>
-    <desc lang="el">Ένα σάιμποργκ στέλνεται από το μέλλον για να δολοφονήσει μια νεαρή γυναίκα που πρόκειται να γεννήσει έναν γιο ο οποίος θα γίνει ο σωτήρας της ανθρωπότητας. Σκηνοθεσία: James Cameron,. Πρωταγωνιστούν: Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield, Brian Thompson, Earl Boen. (1984).</desc>
+  <programme start="20220916075500 +0300" stop="20220916090000 +0300" channel="BBC World">
+    <title lang="el">Μύθοι: τα μεγάλα μυστήρια της ανθρωπότητας Κ1 ΕΠ2</title>
+    <desc lang="el">Νιμπελούνγκεν: ο μεγαλύτερος θρύλος της Γερμανίας μαγνητίζει κυνηγούς θησαυρών μέχρι και σήμερα. Με τη βοήθεια αρχαίων κειμένων και υδροσκοπικών ράβδων, αναζητούν τον θρυλικό χρυσό του Ζίγκφριντ. Σκηνοθεσία: Jochen Ruderer. Πρωταγωνιστούν: Shaun Lawton.(c)</desc>
   </programme>
-  <programme start="20220916072000 +0300" stop="20220916085500 +0300" channel="BBC World">
-    <title lang="el">Requiem for a Dream</title>
-    <desc lang="el">Μια αμείλικτη και απτόητη αποτύπωση των επιπτώσεων της τοξικομανίας σε τέσσερα άτομα που αναζητούν αγάπη και καταξίωση. (2000) Σκηνοθεσία: Darren Aronofsky. Πρωταγωνιστούν: Ellen Burstyn, Jennifer Connelly, Jared Leto, Marlon Wayans. (2000).</desc>
+  <programme start="20220916090000 +0300" stop="20220916095500 +0300" channel="BBC World">
+    <title lang="el">Τα πιο παράξενα αντικείμενα Κ1 ΕΠ10</title>
+    <desc lang="el">Καταχωνιασμένα μέσα σε μουσεία, εργαστήρια και αποθήκες ανά την υφήλιο βρίσκονται τα πιο αξιοσημείωτα αντικείμενα στον κόσμο. Με νέα μέσα έρευνας και τεχνολογίας, τα εξετάζουμε διεξοδικότερα από ποτέ. Σκηνοθεσία: Corey Johnson. Πρωταγωνιστούν: Corey Johnson.(c)</desc>
   </programme>
-  <programme start="20220916085500 +0300" stop="20220916103500 +0300" channel="BBC World">
-    <title lang="el">Untraceable</title>
-    <desc lang="el">Η Μονάδα Δίωξης Ηλεκτρονικού Εγκλήματος του FBI καταδιώκει επικίνδυνους διαδικτυακούς εγκληματίες, αλλά ο πιο επικίνδυνος απ’ όλους καταδιώκει εκείνους. Σκηνοθεσία: Gregory Hoblit,. Πρωταγωνιστούν: Diane Lane, Billy Burke,. (2008).</desc>
+  <programme start="20220916095500 +0300" stop="20220916110000 +0300" channel="BBC World">
+    <title lang="el">Ο χαμένος κόσμος του Ανγκόρ Γουάτ Κ1 ΕΠ1</title>
+    <desc lang="el">Τα λέιζερ αποκαλύπτουν κρυφούς ναούς στη ζούγκλα, τα ραντάρ διαπερνούν το έδαφος φανερώνοντας πώς καταλάμβαναν νέα εδάφη οι βασιλείς, η τεράστια πυραμίδα θα αποκαλύψει τελετές μυστηριώδους θρησκείας.(c)</desc>
   </programme>
-  <programme start="20220916103500 +0300" stop="20220916122000 +0300" channel="BBC World">
-    <title lang="el">The Wrestler</title>
-    <desc lang="el">Ο Ράντι Ρόμπινσον, πρώην επαγγελματίας παλαιστής, αναγκάζεται να αποσυρθεί. Όταν νιώθει ότι αρχίζει να περνάει κρίση ταυτότητας, θα αξιολογήσει την κατάσταση της ζωής του. Σκηνοθεσία: Darren Aronofsky,. Πρωταγωνιστούν: Mickey Rourke, Alyssa Bresnahan,. (2008).</desc>
+  <programme start="20220916110000 +0300" stop="20220916120000 +0300" channel="BBC World">
+    <title lang="el">Ο χαμένος κόσμος του Ανγκόρ Γουάτ Κ1 ΕΠ2</title>
+    <desc lang="el">Η ομάδα εξερευνά ένα από τα μεγαλύτερα αρχαία δίκτυα νερού με τη βοήθεια ντρόουν, ενώ αρχαία όπλα και ίχνη ανεπτυγμένης σιδηρουργίας αποκαλύπτουν την αλήθεια για τη δύναμη του στρατού των Χμερ.(c)</desc>
   </programme>
-  <programme start="20220916122000 +0300" stop="20220916141000 +0300" channel="BBC World">
-    <title lang="el">Harry and the Hendersons</title>
-    <desc lang="el">Η ζωή μιας οικογένειας γίνεται άνω κάτω όταν βρίσκουν έναν γιγαντοπίθηκο και τον παίρνουν στο σπίτι τους. Σκηνοθεσία: William Dear,. Πρωταγωνιστούν: Nick Flynn, John Lithgow,. (1987).</desc>
+  <programme start="20220916120000 +0300" stop="20220916131000 +0300" channel="BBC World">
+    <title lang="el">Μπάια - η Ατλαντίδα της Ρώμης</title>
+    <desc lang="el">Μπάια - η Ατλαντίδα της Ρώμης Σκηνοθεσία: Marcello Adamo. Πρωταγωνιστούν: Fiona Goldman.(c)</desc>
   </programme>
-  <programme start="20220916141000 +0300" stop="20220916155500 +0300" channel="BBC World">
-    <title lang="el">The Bourne Supremacy</title>
-    <desc lang="el">Όταν ο Κινέζος αντιπρόεδρος πέφτει θύμα βίαιης δολοφονίας, η CIA εξαπολύει ανθρωποκυνηγητό για τον ένα βασικό τους ύποπτο, τον Τζέισον Μπορν. Σκηνοθεσία: Paul Greengrass,. Πρωταγωνιστούν: Matt Damon, Julia Stiles,. (2004).</desc>
+  <programme start="20220916131000 +0300" stop="20220916140500 +0300" channel="BBC World">
+    <title lang="el">Νείλος: 5.000 Χρόνια Ιστορίας Κ1 ΕΠ4</title>
+    <desc lang="el">Με το δικό της νταχαμπίγια η Μπέτανι Χιουζ καλύπτει σχεδόν 1.000 μίλια από το Κάιρο μέχρι το Φράγμα του Ασουάν στον μεγαλοπρεπή Νείλο σταματώντας σε κάθε εμβληματικό, μαγευτικό μέρος κατά τη διαδρομή.(c)</desc>
   </programme>
-  <programme start="20220916155500 +0300" stop="20220916173500 +0300" channel="BBC World">
-    <title lang="el">Robocop</title>
-    <desc lang="el">Στο όχι και τόσο μακρινό μέλλον, ένας αστυνομικός του Ντιτρόιτ που έχει μόλις πάρει μετάθεση μεταμορφώνεται σε άφθαρτο σάιμποργκ. Σκηνοθεσία: Paul Verhoeven,. Πρωταγωνιστούν: Peter Weller, Nancy Allen, Dan O'Herlihy, Ronny Cox, Miguel Ferrer, Kurtwood Smith. (1987).</desc>
+  <programme start="20220916140500 +0300" stop="20220916151000 +0300" channel="BBC World">
+    <title lang="el">Ξεχασμένοι τόποι Κ1 ΕΠ3</title>
+    <desc lang="el">Τρία κατάλοιπα βοηθούν να ανακαλύψουμε την περίπλοκη ιστορία της Βρετανικής Αυτοκρατορίας. Επισκεπτόμαστε το Χάσλαρ, το νησί Μονσεράτ και το νησί Μιρασίν, την πρώτη βρετανική αποικία στην ιστορία. Πρωταγωνιστούν: Steven Charles.(c)</desc>
   </programme>
-  <programme start="20220916173500 +0300" stop="20220916192500 +0300" channel="BBC World">
-    <title lang="el">Back to the Future Part II</title>
-    <desc lang="el">Ο Μάρτι Μακ Φλάι και ο Καθηγητής Μπράουν επιστρέφουν! Αυτή τη φορά πρέπει να ταξιδέψουν στο μέλλον για να εμποδίσουν τα παιδιά του Μάρτι να εκτεθούν σε κίνδυνο. Σκηνοθεσία: Robert Zemeckis,Max Kleven,. Πρωταγωνιστούν: Charles Fleischer, Michael J. Fox,. (1989).</desc>
+  <programme start="20220916151000 +0300" stop="20220916160500 +0300" channel="BBC World">
+    <title lang="el">Οι ανεξήγητοι φάκελοι της Αιγύπτου Κ1 ΕΠ9</title>
+    <desc lang="el">Η αρχαία Αίγυπτος είναι ένας από τους σπουδαιότερους πολιτισμούς του κόσμου με ιστορία 3.000 χρόνων. Τα θαύματα της σύγχρονης τεχνολογίας αποκωδικοποιούν τα παλαιότερα μυστήρια της Αιγύπτου.(c)</desc>
   </programme>
-  <programme start="20220916192500 +0300" stop="20220916210000 +0300" channel="BBC World">
-    <title lang="el">Legally Blonde</title>
-    <desc lang="el">Η Ελ Γουντς είναι πρόεδρος της αδελφότητάς της και φυσική ξανθιά, αλλά όταν ο φίλος της πηγαίνει στο Χάρβαρντ μαζί με ένα παλιό του αίσθημα, η Ελ τον ακολουθεί, αποφασισμένη να τον ξανακερδίσει. Σκηνοθεσία: Robert Luketic,. Πρωταγωνιστούν: Natalie Barish, Reese Witherspoon,. (2001).</desc>
+  <programme start="20220916160500 +0300" stop="20220916170000 +0300" channel="BBC World">
+    <title lang="el">Απαγορευμένη Ιστορία Κ7 ΕΠ4</title>
+    <desc lang="el">Αποκαλύπτουμε μια νέα ενδιαφέρουσα θεωρία για το Γκεμπεκλί Τεπέ στη ν. Τουρκία. Ένα από τα παλαιότερα μυστήρια του κόσμου, 12.000 χρόνια πριν, και ακόμα δεν έχουμε καταλήξει ποιος το έκτισε και γιατί. Σκηνοθεσία: Steve Gillham. Πρωταγωνιστούν: Jamie Theakston.(c)</desc>
   </programme>
-  <programme start="20220916210000 +0300" stop="20220916223000 +0300" channel="BBC World">
-    <title lang="el">Carrie</title>
-    <desc lang="el">Μια έφηβη εκδικείται τηλεκινητικά όσους την βασανίζουν στο σχολείο καθώς και τη θρησκόληπτη μητέρα της. Σκηνοθεσία: Brian De Palma,. Πρωταγωνιστούν: Noelle North, Sissy Spacek, Betty Buckley, Amy Irving, Stefan Gierasch, William Katt. (1976).</desc>
+  <programme start="20220916170000 +0300" stop="20220916175000 +0300" channel="BBC World">
+    <title lang="el">Εξιχνίαση μυστηρίων Κ1 ΕΠ7</title>
+    <desc lang="el">Η σειρά αστυνομικών ντοκιμαντέρ ερευνά σε βάθος τα σημαντικότερα ανεξιχνίαστα μυστήρια της Αμερικής, αναλύοντας πρωτοφανή στοιχεία και αξιοποιώντας τεχνολογικά μέσα στην επανεξέταση κάθε υπόθεσης. Πρωταγωνιστούν: Jennifer Marshall.(c)</desc>
   </programme>
-  <programme start="20220916223000 +0300" stop="20220917000000 +0300" channel="BBC World">
+  <programme start="20220916175000 +0300" stop="20220916185500 +0300" channel="BBC World">
+    <title lang="el">Μπάια - η Ατλαντίδα της Ρώμης</title>
+    <desc lang="el">Μπάια - η Ατλαντίδα της Ρώμης Σκηνοθεσία: Marcello Adamo. Πρωταγωνιστούν: Fiona Goldman.(c)</desc>
+  </programme>
+  <programme start="20220916185500 +0300" stop="20220916200000 +0300" channel="BBC World">
+    <title lang="el">Ξεχασμένοι τόποι Κ1 ΕΠ4</title>
+    <desc lang="el">Τρία εγκαταλελειμμένα και μοιραία μέρη-μάρτυρες της ακμής και παρακμής της Γιουγκοσλαβίας βοηθούν να καταλάβουμε τις συνέπειες του εμφύλιου πολέμου που έδωσε τέλος στο πολυεθνικό κράτος των Βαλκανίων. Πρωταγωνιστούν: Steven Charles.(c)</desc>
+  </programme>
+  <programme start="20220916200000 +0300" stop="20220916210000 +0300" channel="BBC World">
+    <title lang="el">Οι ανεξήγητοι φάκελοι της Αιγύπτου Κ1 ΕΠ10</title>
+    <desc lang="el">Η αρχαία Αίγυπτος είναι ένας από τους σπουδαιότερους πολιτισμούς του κόσμου με ιστορία 3.000 χρόνων. Τα θαύματα της σύγχρονης τεχνολογίας αποκωδικοποιούν τα παλαιότερα μυστήρια της Αιγύπτου.(c)</desc>
+  </programme>
+  <programme start="20220916210000 +0300" stop="20220916215500 +0300" channel="BBC World">
+    <title lang="el">Απαγορευμένη Ιστορία Κ7 ΕΠ5</title>
+    <desc lang="el">Τα λείψανα 7.000 ανθρώπων ανακαλύφθηκαν στο Υπόγειο Χαλ Σαφλιενί, τον νεολιθικό ναό στη Μάλτα. Θα μπορούσε ο ναός να λύσει το μυστήριο σχετικά με τους ιδιοκτήτες του και την τύχη που είχαν; Σκηνοθεσία: Steve Gillham. Πρωταγωνιστούν: Jamie Theakston.(c)</desc>
+  </programme>
+  <programme start="20220916223000 +0300" stop="20220917001500 +0300" channel="BBC World">
     <title lang="el">Mermaids</title>
-    <desc lang="el">Η Σάρλοτ είναι ένα έφηβο κορίτσι που διχάζεται μεταξύ του πάθους που αρχίζει να τρέφει για έναν όμορφο επιστάτη και την επιθυμία της να γίνει καλόγρια. Σκηνοθεσία: Patrick Palmer,Richard Benjamin,. Πρωταγωνιστούν: Bob Rogerson, Cher, Betsy Townsend, Bob Hoskins, Bill Mcdonald, Winona Ryder. (1990).</desc>
+    <desc lang="el">Η Σάρλοτ είναι ένα έφηβο κορίτσι που διχάζεται μεταξύ του πάθους που αρχίζει να τρέφει για έναν όμορφο επιστάτη και την επιθυμία της να γίνει καλόγρια. Σκηνοθεσία: Patrick Palmer,Richard Benjamin,. Πρωταγωνιστούν: Bob Rogerson, Cher, Betsy Townsend, Bob Hoskins, Bill Mcdonald, Winona Ryder. (1990).(c)</desc>
   </programme>
-  <programme start="20220917000000 +0300" stop="20220917020000 +0300" channel="BBC World">
-    <title lang="el">Ida Red</title>
-    <desc lang="el">Καταδικασμένη σε 25ετή φυλάκιση, η Αϊντα 'Ρεντ'Γουόκερ μαθαίνει ότι της απομένουν λίγοι μήνες ζωής και αναθέτει στον γιο της μία σημαντική δουλειά για να ανακτήσει την ελευθερία της. Θρίλερ, 2021. Σκηνοθεσία: Τζον Σουάμπ. Πρωταγωνιστές: Τζος Χάρτνετ, Μελίσα Λίο, Φρανκ Γκρίλο.</desc>
+  <programme start="20220916215500 +0300" stop="20220916225500 +0300" channel="BBC World">
+    <title lang="el">Ο πλανήτης των θησαυρών Κ1 ΕΠ1</title>
+    <desc lang="el">Ο ιστορικός Κρίστοφερ Κλαρκ ταξιδεύει στην Αφρική. Το ταξίδι του τον οδηγεί στην Αίγυπτο, Αιθιοπία, Τανζανία με το συγκλονιστικό Εθνικό Πάρκο Σερενγκέτι, και στη νήσο Λάμου ανοιχτά της Κένυας. Σκηνοθεσία: Gero von Boehm. Πρωταγωνιστούν: Christopher Clark.(c)</desc>
   </programme>
-  <programme start="20220917020000 +0300" stop="20220917042500 +0300" channel="BBC World">
-    <title lang="el">Havana</title>
-    <desc lang="el">Κούβα, 1958. Ένας επαγγελματίας τζογαδόρος ταξιδεύει στην Αβάνα για να οργανώσει ένα μεγάλο παιχνίδι πόκερ. Στο πλοίο συναντά κι ερωτεύεται μια όμορφη γυναίκα, σύζυγο ενός Κουβανού επαναστάτη... Περιπέτεια, 1990. Σκηνοθεσία: Σίντνεϊ Πόλακ. Πρωταγωνιστές: Ρόμπερτ Ρέντφορντ, Αλαν Αρκιν, Λένα Ολίν.</desc>
+  <programme start="20220917001500 +0300" stop="20220917021000 +0300" channel="BBC World">
+    <title lang="el">Edtv</title>
+    <desc lang="el">Ένας φανατικός τηλεθεατής κερδίζει έναν διαγωνισμό και οι επόμενοι μήνες της ζωής του καταγράφονται λεπτό προς λεπτό από ένα τηλεοπτικό συνεργείο. Αρχικά, ο Εντ, που είναι υπάλληλος σε βίντεο κλαμπ, απολαμβάνει την προσοχή, και η εκπομπή σώζει το συνδρομητικό κανάλι που είχε ποντάρει στην επιτυχία της. Σταδιακά όμως, καθώς η οικογένεια και οι φίλοι του γίνονται επίσης διάσημοι, ο Εντ αρχίζει να βρίσκει μειονεκτήματα στη φήμη που απόκτησε. Σκηνοθεσία: Ron Howard,Todd Hallowell,. Πρωταγωνιστούν: Chris Hogan, Matthew McConaughey,. (1999).(c)</desc>
   </programme>
-  <programme start="20220917042500 +0300" stop="20220917061500 +0300" channel="BBC World">
-    <title lang="el">Δύσκολα Δεκαεπτά</title>
-    <desc lang="el">Όταν η καλύτερή της φίλη αρχίζει να βγαίνει με τον αδελφό της, η Ναντίν νιώθει πιο μόνη από ποτέ κι ότι η ζωή της είναι ανυπόφορη... Η Χέιλι Στάινφιλντ κέρδισε υποψηφιότητα για Χρυσή Σφαίρα. Δραματική Κομεντί, 2016. Σκηνοθεσία: Κέλι Φρίμον Κρεγκ. Πρωταγωνιστές: Χέιλι Στάινφιλντ, Γούντι Χάρελσον, Κίρα Σέντγουικ.</desc>
+  <programme start="20220917021000 +0300" stop="20220917042500 +0300" channel="BBC World">
+    <title lang="el">Apocalypto</title>
+    <desc lang="el">Όταν η ήσυχη ζωή ενός άντρα αναστατώνεται από μια βίαιη εισβολή, εκείνος αναγκάζεται να κάνει ένα επικίνδυνο ταξίδι σε έναν κόσμο όπου βασιλεύει ο φόβος. Σκηνοθεσία: Mel Gibson,. Πρωταγωνιστούν: Iazua Larios, Israel Contreras,. (2006).(c)</desc>
   </programme>
-  <programme start="20220917061500 +0300" stop="20220917082000 +0300" channel="BBC World">
-    <title lang="el">Εκρηκτικό Κοκτέιλ</title>
-    <desc lang="el">Μία νεαρή εκτελέστρια, που έχει ακολουθήσει τα βήματα της αποξενωμένης μητέρας της, μπαίνει η ίδια στο στόχαστρο των εργοδοτών της όταν αποφασίζει να προστατέψει ένα 8χρονο κορίτσι. Δράση, 2021. Σκηνοθεσία: Ναβότ Παπουσάντο. Πρωταγωνιστές: Λίνα Χέντεϊ, Πολ Τζιαμάτι, Κάρλα Γκουτζίνο, Κάρεν Γκίλαν.</desc>
+  <programme start="20220917042500 +0300" stop="20220917045500 +0300" channel="BBC World">
+    <title lang="el">Hollywood's Best Film Directors</title>
+    <desc lang="el">Οι Τζορτζ Λούκας, Ρίντλεϊ Σκοτ, Πολ Γκρίνγκρας και άλλοι όμοιοί τους βρίσκονται στο επίκεντρο αυτής της σειράς που εξερευνά τη ζωή και το έργο των σκηνοθετών του Χόλιγουντ. (2009).(c)</desc>
   </programme>
-  <programme start="20220917082000 +0300" stop="20220917090500 +0300" channel="BBC World">
-    <title lang="el">Κινηματογραφικά Νέα</title>
-    <desc lang="el">Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema! Νέες κυκλοφορίες, παραγωγές που σημειώνουν επιτυχία, διάσημοι πρωταγωνιστές και σκηνοθέτες παρελαύνουν στην οθόνη σας... Μαγκαζίνο.</desc>
+  <programme start="20220917045500 +0300" stop="20220917052000 +0300" channel="BBC World">
+    <title lang="el">Hollywood's Best Film Directors</title>
+    <desc lang="el">Οι Τζορτζ Λούκας, Ρίντλεϊ Σκοτ, Πολ Γκρίνγκρας και άλλοι όμοιοί τους βρίσκονται στο επίκεντρο αυτής της σειράς που εξερευνά τη ζωή και το έργο των σκηνοθετών του Χόλιγουντ. (2011).(c)</desc>
   </programme>
-  <programme start="20220917090500 +0300" stop="20220917111000 +0300" channel="BBC World">
-    <title lang="el">Μητέρα Τερέζα</title>
-    <desc lang="el">Η μοναχική ζωή και το ανθρωπιστικό έργο της Μητέρας Τερέζα, μέσα από την διάρκειας πενήντα ετών αλληγραφία της με τον πατέρα Σελέστ βαν Έξεμ, τον καλό φίλο και πνευματικό οδηγό της. Κοινωνική, 2014. Σκηνοθεσία: Γουίλιαμ Ριντ. Πρωταγωνιστές: Ρούτγκερ Χάουερ, Τζούλιετ  Στίβενσον, Μαξ Φον Σίντοου.</desc>
+  <programme start="20220917052000 +0300" stop="20220917072000 +0300" channel="BBC World">
+    <title lang="el">Harry and the Hendersons</title>
+    <desc lang="el">Η ζωή μιας οικογένειας γίνεται άνω κάτω όταν βρίσκουν έναν γιγαντοπίθηκο και τον παίρνουν στο σπίτι τους. Σκηνοθεσία: William Dear,. Πρωταγωνιστούν: Nick Flynn, John Lithgow,. (1987).(c)</desc>
   </programme>
-  <programme start="20220917111000 +0300" stop="20220917125000 +0300" channel="BBC World">
-    <title lang="el">Hancock</title>
-    <desc lang="el">Αν και καλοπροαίρετος, ο σούπερ ήρωας Χάνκοκ αφήνει στο πέρασμά του το απόλυτο χάος εξοργίζοντας τους κατοίκους του Λος Αντζελες! Την εικόνα του προσφέρεται να αλλάξει ένας υπεύθυνος δημοσίων σχέσεων. Δράση, 2008. Σκηνοθεσία: Πίτερ Μπεργκ. Πρωταγωνιστές: Γουίλ Σμιθ, Σαρλίζ Θέρον, Τζέισον Μπέιτμαν, Τζέι Χεντ.</desc>
+  <programme start="20220917072000 +0300" stop="20220917092000 +0300" channel="BBC World">
+    <title lang="el">What Women Want</title>
+    <desc lang="el">Ένα στέλεχος διαφημιστικής εταιρείας στο Σικάγο αποκτά μια εντελώς νέα οπτική όταν ένα απρόσμενο ατύχημα του δίνει την ικανότητα να διαβάζει το μυαλό των γυναικών. Σκηνοθεσία: Nancy Meyers,. Πρωταγωνιστούν: Mel Gibson, Helen Hunt, Marisa Tomei, Mark Feuerstein, Ashley Johnson, Alan Alda. (2000).(c)</desc>
   </programme>
-  <programme start="20220917125000 +0300" stop="20220917133000 +0300" channel="BBC World">
-    <title lang="el">Κινηματογραφικά Νέα</title>
-    <desc lang="el">Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema! Νέες κυκλοφορίες, παραγωγές που σημειώνουν επιτυχία, διάσημοι πρωταγωνιστές και σκηνοθέτες παρελαύνουν στην οθόνη σας... Μαγκαζίνο.</desc>
+  <programme start="20220917092000 +0300" stop="20220917111500 +0300" channel="BBC World">
+    <title lang="el">Mermaids</title>
+    <desc lang="el">Η Σάρλοτ είναι ένα έφηβο κορίτσι που διχάζεται μεταξύ του πάθους που αρχίζει να τρέφει για έναν όμορφο επιστάτη και την επιθυμία της να γίνει καλόγρια. Σκηνοθεσία: Patrick Palmer,Richard Benjamin,. Πρωταγωνιστούν: Bob Rogerson, Cher, Betsy Townsend, Bob Hoskins, Bill Mcdonald, Winona Ryder. (1990).(c)</desc>
   </programme>
-  <programme start="20220917133000 +0300" stop="20220917151000 +0300" channel="BBC World">
-    <title lang="el">Αιγαίο SOS</title>
-    <desc lang="el">Καλοκαίρι 2018. Ενας ισχυρός σεισμός φέρνει στην επιφάνεια μια βραχονησίδα σε διεθνή χωρικά ύδατα. Αμέσως, Ελληνες και Τούρκοι στέλνουν στρατεύματα για να καταλάβουν το μικρό νησάκι... Κωμωδία, 2018. Σκηνοθεσία: Πιέρρος Ανδρακάκος. Πρωταγωνιστές: Θοδωρής Αθερίδης, Πάνος Βλάχος, Ευαγγελία Συριοπούλου, Μιχάλης Λεβεντογιάννης.</desc>
+  <programme start="20220917111500 +0300" stop="20220917130000 +0300" channel="BBC World">
+    <title lang="el">Bird on a Wire</title>
+    <desc lang="el">Bird on a Wire Σκηνοθεσία: John Badham,James Gavin,. Πρωταγωνιστούν: James Kidnie, Mel Gibson,. (1990).(c)</desc>
   </programme>
-  <programme start="20220917151000 +0300" stop="20220917165000 +0300" channel="BBC World">
-    <title lang="el">Angry Birds: Η Ταινία</title>
-    <desc lang="el">Όταν σε ένα νησί που κατοικείται από ανέμελα πουλιά κάνουν απόβαση μυστηριώδη πράσινα γουρούνια, οι οξύθυμοι Ρεντ, Τσακ και Μπομπ αναλαμβάνουν να ανακαλύψουν τις προθέσεις τους! Κινούμενα Σχέδια, 2016. Σκηνοθεσία: Κλέι Κέιτις, Φέργκαλ Ράιλι.</desc>
+  <programme start="20220917130000 +0300" stop="20220917143500 +0300" channel="BBC World">
+    <title lang="el">Hot Tub Time Machine</title>
+    <desc lang="el">Hot Tub Time Machine Σκηνοθεσία: Steve Pink,Steve  Pink,. Πρωταγωνιστούν: Curtis Santiago, Jocelyn Waugh,. (2010).(c)</desc>
   </programme>
-  <programme start="20220917165000 +0300" stop="20220917173500 +0300" channel="BBC World">
-    <title lang="el">Κινηματογραφικά Νέα</title>
-    <desc lang="el">Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema! Νέες κυκλοφορίες, παραγωγές που σημειώνουν επιτυχία, διάσημοι πρωταγωνιστές και σκηνοθέτες παρελαύνουν στην οθόνη σας... Μαγκαζίνο.</desc>
+  <programme start="20220917143500 +0300" stop="20220917160500 +0300" channel="BBC World">
+    <title lang="el">Legally Blonde</title>
+    <desc lang="el">Η Ελ Γουντς είναι πρόεδρος της αδελφότητάς της και φυσική ξανθιά, αλλά όταν ο φίλος της πηγαίνει στο Χάρβαρντ μαζί με ένα παλιό του αίσθημα, η Ελ τον ακολουθεί, αποφασισμένη να τον ξανακερδίσει. Σκηνοθεσία: Robert Luketic,. Πρωταγωνιστούν: Natalie Barish, Reese Witherspoon,. (2001).(c)</desc>
   </programme>
-  <programme start="20220917173500 +0300" stop="20220917193500 +0300" channel="BBC World">
-    <title lang="el">Oι Διαρρήκτες</title>
-    <desc lang="el">Ένας ευφυής νεαρός μηχανικός δέχεται να οργανώσει τη ληστεία της Τράπεζας της Ισπανίας, η οποία στεγάζεται σε ένα κτίριο για το οποίο δεν υπάρχουν σχέδια, ούτε πληροφορίες για το σύστημα ασφαλείας. Δράση, 2021. Σκηνοθεσία: Τζάουμε Μπαλαγερό. Πρωταγωνιστές: Φρέντι Χάιμορ, Λίαμ Κάνινχαμ, Σαμ Ράιλι, Αστριντ Μπέρτζες-Φρίσμπι.</desc>
+  <programme start="20220917160500 +0300" stop="20220917174500 +0300" channel="BBC World">
+    <title lang="el">Carrie</title>
+    <desc lang="el">Μια έφηβη εκδικείται τηλεκινητικά όσους την βασανίζουν στο σχολείο καθώς και τη θρησκόληπτη μητέρα της. Σκηνοθεσία: Brian De Palma,. Πρωταγωνιστούν: Noelle North, Sissy Spacek, Betty Buckley, Amy Irving, Stefan Gierasch, William Katt. (1976).(c)</desc>
   </programme>
-  <programme start="20220917193500 +0300" stop="20220917220000 +0300" channel="BBC World">
-    <title lang="el">Dear Evan Hansen</title>
-    <desc lang="el">Η συγκλονιστική ιστορία ενός αγχωμένου και απομονωμένου εφήβου που λαχταρά να βρει κατανόηση και να ανήκει κάπου, μέσα στο χάος και τη σκληρότητα της εποχής των μέσων κοινωνικής δικτύωσης. Μιούζικαλ, 2021. Σκηνοθεσία: Στίβεν Τσιμπόσκι. Πρωταγωνιστές: Τζουλιάν Μουρ, Εϊμι Ανταμς, Μπεν Πλατ, Κέιτλιν Ντίβερ.</desc>
+  <programme start="20220917174500 +0300" stop="20220917191000 +0300" channel="BBC World">
+    <title lang="el">Billy Madison</title>
+    <desc lang="el">Billy Madison Σκηνοθεσία: Tamra Davis,. Πρωταγωνιστούν: Eric Aguilera, Adam Sandler,. (1995).(c)</desc>
   </programme>
-  <programme start="20220917220000 +0300" stop="20220917235000 +0300" channel="BBC World">
-    <title lang="el">Palm Beach</title>
-    <desc lang="el">Μία παρέα φίλων, των οποίων η φιλία μετρά δεκαετίες, συγκεντρώνεται ύστερα από χρόνια για μία ειδική περίσταση. Η διασκέδαση και η χαρά, όμως, δίνουν τη θέση τους στη σκληρή πραγματικότητα... Δραματική Κομεντί, 2019. Σκηνοθεσία: Ρέιτσελ Γουόρντ. Πρωταγωνιστές: Σαμ Νιλ, Ρίτσαρντ Γκραντ, Μπράιαν Μπράουν, Τζάκλιν ΜακΚένζι.</desc>
+  <programme start="20220917191000 +0300" stop="20220917210000 +0300" channel="BBC World">
+    <title lang="el">The Kingdom</title>
+    <desc lang="el">Όταν σε μια τρομοκρατική επίθεση εκρήγνυται μια βόμβα μέσα σε συγκρότημα κατοικιών για δυτικούς στη Σαουδική Αραβία, ξεσπά διεθνές επεισόδιο. Σκηνοθεσία: Peter Berg,. Πρωταγωνιστούν: Maitham Al-Zubfidy, Jamie Foxx,. (2007).(c)</desc>
   </programme>
-  <programme start="20220917235000 +0300" stop="20220918000000 +0300" channel="BBC World">
+  <programme start="20220917210000 +0300" stop="20220917230500 +0300" channel="BBC World">
+    <title lang="el">Q&amp;a</title>
+    <desc lang="el">Η ιστορία ενός διεφθαρμένου αλλά αξιοσέβαστου παλαίμαχου αστυνομικού και του νεαρού βοηθού εισαγγελέα που τον κατηγορεί. Σκηνοθεσία: Sidney Lumet,. Πρωταγωνιστούν: Harry Madsen, Brian Neill, Junior Perez, Danny Darrow, Edward Rowan, David Dill. (1990).(c)</desc>
+  </programme>
+  <programme start="20220917230500 +0300" stop="20220917235000 +0300" channel="BBC World">
+    <title lang="el">Misery</title>
+    <desc lang="el">Σε σκηνοθεσία Ρομπ Ράινερ, η βραβευμένη με Όσκαρ ταινία “Μίζερι” παρουσιάζει τον Τζέιμς Κάαν στον πρωταγωνιστικό ρόλο του μυθιστοριογράφου Πολ Σέλντον, που νοικιάζει μια απόμερη καλύβα για να μπορέσει να γράψει το απόλυτο αμερικανικό μυθιστόρημα, αλλά τρακάρει με το αυτοκίνητό του κατά τη διάρκεια μιας ορμητικής χιονοθύελλας, χάνοντας τις αισθήσεις του και σπάζοντας τα πόδια του. Σκηνοθεσία: Rob Reiner,. Πρωταγωνιστούν: Julie Payne, James Caan, Kathy Bates, Wendy Bowers, Richard Farnsworth, Gregory Snegoff. (1990).(c)</desc>
+  </programme>
+  <programme start="20220917235000 +0300" stop="20220918015000 +0300" channel="BBC World">
     <title lang="el">Συνέβη στο Σόχο</title>
-    <desc lang="el">Μία 18χρονη έχει την ικανότητα να μπαίνει στη δεκαετία του '60, όπου συναντά μία πανέμορφη επίδοξη τραγουδίστρια. Σύντομα, όμως, ανακαλύπτει πως πίσω από τη λάμψη κρύβεται ζοφερό σκοτάδι... Τρόμου, 2021. Σκηνοθεσία: Εντγκαρ Ράιτ. Πρωταγωνιστές: Ανια Τέιλορ Τζόι, Ματ Σμιθ, Νταϊάνα Ριγκ, Τόμασιν ΜακΚένζι.</desc>
+    <desc lang="el">Μία 18χρονη έχει την ικανότητα να μπαίνει στη δεκαετία του '60, όπου συναντά μία πανέμορφη επίδοξη τραγουδίστρια. Σύντομα, όμως, ανακαλύπτει πως πίσω από τη λάμψη κρύβεται ζοφερό σκοτάδι... Τρόμου, 2021. Σκηνοθεσία: Εντγκαρ Ράιτ. Πρωταγωνιστές: Ανια Τέιλορ Τζόι, Ματ Σμιθ, Νταϊάνα Ριγκ, Τόμασιν ΜακΚένζι.(c)</desc>
   </programme>
-  <programme start="20220918000000 +0300" stop="20220918001000 +0300" channel="BBC World">
+  <programme start="20220918015000 +0300" stop="20220918040000 +0300" channel="BBC World">
+    <title lang="el">Ηνωμένες Πολιτείες εναντίον</title>
+    <desc lang="el">Το 1947, η θρυλική Μπίλι Χόλιντεϊ γίνεται το επίκεντρο μίας μυστικής έρευνας του FBI, με αφορμή το τραγούδι Strange Fruit. Η Αντρα Ντέι ήταν υποψήφια για το Οσκαρ Α'Γυναικείου Ρόλου. Αληθινή ιστορία, 2021. Σκηνοθεσία: Λι Ντάνιελς. Πρωταγωνιστές: Αντρα Ντέι, Τρεβάντε Ρόουντς, Γκάρετ Χέντλαντ, Νατάσα Λιόν.(c)</desc>
+  </programme>
+  <programme start="20220918040000 +0300" stop="20220918054500 +0300" channel="BBC World">
+    <title lang="el">Εξ Επαφής</title>
+    <desc lang="el">Με φόντο το σύγχρονο Λονδίνο, η απιστία χτυπάει την πόρτα δύο φιλικών ζευγαριών, θέτοντας σε δοκιμασία τη φιλία τους και φέρνοντάς τα αντιμέτωπα με τις επώδυνες συνέπειες των επιλογών τους... Ρομαντική, 2004. Σκηνοθεσία: Μάικ Νίκολς. Πρωταγωνιστές: Νάταλι Πόρτμαν, Τζουντ Λo, Κλάιβ Οουεν, Τζούλια Ρόμπερτς.(c)</desc>
+  </programme>
+  <programme start="20220918054500 +0300" stop="20220918072000 +0300" channel="BBC World">
+    <title lang="el">Ανοιχτοί Λογαριασμοί</title>
+    <desc lang="el">Στον απόηχο μίας ανείπωτης τραγωδίας, ένας άνδρας με βίαιο παρελθόν εργάζεται πια ως οδηγός απορριματοφόρου και αποζητά τη λύτρωση, την οποία, όμως, θα βρει όταν αντιμετωπίσει τους δαίμονές του. Δράση, 2021. Σκηνοθεσία: Πολ Σόλετ. Πρωταγωνιστές: Εϊντριεν Μπρόντι, Ρίτσι Μέριτ, Μισέλ Γουίλσον.(c)</desc>
+  </programme>
+  <programme start="20220918072000 +0300" stop="20220918094000 +0300" channel="BBC World">
+    <title lang="el">Καλύτερα δεν Γίνεται</title>
+    <desc lang="el">Ενας ιδιόρρυθμος συγγραφέας, ένας καλλιτέχνης και μια σερβιτόρα δημιουργούν μια ιδιαίτερη φιλία, σε μια ταινία που χάρισε στους Τζακ Νίκολσον κι Ελεν Χαντ Οσκαρ για την ερμηνεία τους. Ρομαντική Κομεντί, 1997. Σκηνοθεσία: Τζέιμς Λ. Μπρουκς. Πρωταγωνιστές: Τζακ Νίκολσον, Ελεν Χαντ, Γκρεγκ Κινίαρ, Κούμπα Γκούντινγκ Τζούνιορ.(c)</desc>
+  </programme>
+  <programme start="20220918094000 +0300" stop="20220918111500 +0300" channel="BBC World">
+    <title lang="el">Πουλιά στον Αέρα</title>
+    <desc lang="el">Ένας άνδρας φλερτάρει επίμονα μια γοητευτική γυναίκα, μέχρι που μαθαίνει ότι πρόκειται για τη σύζυγο του φίλου του. Οι ελπίδες του, όμως, αναπτερώνονται, όταν εμφανίζονται θαυμαστές και ερωμένες... Κωμωδία, 2019. Σκηνοθεσία: Ζαλίλ Λεσπέρ. Πρωταγωνιστές: Ντάνι Μπουν, Γκιγιόμ Γκαλιέν, Χολτ ΜακΚάλανι.(c)</desc>
+  </programme>
+  <programme start="20220918111500 +0300" stop="20220918131500 +0300" channel="BBC World">
+    <title lang="el">Κάτι πιο Ποπ 2</title>
+    <desc lang="el">Ύστερα από συνεχείς επιτυχίες, ένα σκάνδαλο αφήνει τις Bellas εκτός των εθνικών διαγωνισμών τραγουδιού α καπέλα. Μόνος τρόπος για να συμμετάσχουν ξανά, η κατάκτηση του Παγκοσμίου Πρωταθλήματος. Κωμωδία, 2015. Σκηνοθεσία: Ελίζαμπεθ Μπανκς. Πρωταγωνιστές: Ανα Κέντρικ, Ρέμπελ Γουίλσον, Χέιλι Στάινφιλντ, Μπρίτανι Σνόου.(c)</desc>
+  </programme>
+  <programme start="20220918131500 +0300" stop="20220918153000 +0300" channel="BBC World">
+    <title lang="el">Μαχητές των Δρόμων 6</title>
+    <desc lang="el">Μετά τη ληστεία στο Ρίο, η ομάδα βρίσκεται διασκορπισμένη στον πλανήτη, μέχρι τη στιγμή που ο Χομπς ζητά τη βοήθεια του Ντομ για τον εντοπισμό μίας θανάσιμης συμμορίας οδηγών, με αντάλλαγμα πλήρη ασυλία. Δράση, 2013. Σκηνοθεσία: Τζάστιν Λιν. Πρωταγωνιστές: Πολ Γουόκερ, Βιν Ντίζελ, Μισέλ Ροντρίγκες, Ντουέιν Τζόνσον.(c)</desc>
+  </programme>
+  <programme start="20220918153000 +0300" stop="20220918171500 +0300" channel="BBC World">
+    <title lang="el">Οι Μεγάλοι 2</title>
+    <desc lang="el">Ο Λένι επιστρέφει με την οικογένειά του στη μικρή πόλη όπου μεγάλωσε, για να επανασυνδεθεί με τους παιδικούς του φίλους και να απολαύσει μια ήρεμη ζωή. Τελικά, όμως, η τρέλα καραδοκεί παντού! Κωμωδία, 2013. Σκηνοθεσία: Ντένις Ντούγκαν. Πρωταγωνιστές: Ανταμ Σάντλερ, Κέβιν Τζέιμς, Κρις Ροκ.(c)</desc>
+  </programme>
+  <programme start="20220918171500 +0300" stop="20220918195500 +0300" channel="BBC World">
+    <title lang="el">Οι Άθλιοι</title>
+    <desc lang="el">Οι περιπέτειες του Γιάννη Αγιάννη και του αμείλικτου διώκτη του επιθεωρητή Ιαβέρη, σε μια μεταφορά του κλασικού αριστουργήματος του Βίκτωρος Ουγκώ, που απέσπασε 3 Οσκαρ και ισάριθμες Χρυσές Σφαίρες. Μιούζικαλ, 2012. Σκηνοθεσία: Tομ Χούπερ. Πρωταγωνιστές: Χιου Τζάκμαν, Ράσελ Κρόου, Αν Χάθαγουεϊ, Αμάντα Σάιφρεντ.(c)</desc>
+  </programme>
+  <programme start="20220918195500 +0300" stop="20220918220000 +0300" channel="BBC World">
+    <title lang="el">Ana</title>
+    <desc lang="el">Ένας υπερχρεωμένος έμπορος αυτοκινήτων βρίσκει τυχαία ένα 9χρονο κορίτσι που δεν έχει πού να πάει. Οι δυο τους ζουν μαζί μία δύσκολη περιπέτεια, μέχρι να καταφέρει ο καθένας να τραβήξει τον δρόμο του. Δραματική Κομεντί, 2020. Σκηνοθεσία: Τσαρλς ΜακΝτούγκαλ. Πρωταγωνιστές: Αντι Γκαρσία, Ντάφνι Κιν, Τζιν Τρίπλχορν.(c)</desc>
+  </programme>
+  <programme start="20220918220000 +0300" stop="20220919000000 +0300" channel="BBC World">
+    <title lang="el">Τραγούδα! 2</title>
+    <desc lang="el">Ο Μπάστερ Μουν, το αισιόδοξο κοάλα, σχεδιάζει μία μεγάλη παράσταση για να ικανοποιήσει το απαιτητικό αφεντικό του. Πρώτα, όμως, πρέπει να βγάλει έναν ροκ αστέρα από την αφάνεια... Κινούμενα Σχέδια, 2021. Σκηνοθεσία: Γκαρθ Τζένινγκς, Κριστόφ Λουρντελέ.(c)</desc>
+  </programme>
+  <programme start="20220919000000 +0300" stop="20220919001000 +0300" channel="BBC World">
     <title lang="el">ΓΕΓΟΝΟΤΑ ΣΕ ΣΥΝΤΟΜΙΑ</title>
-    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας σε 10΄.</desc>
+    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας σε 10΄.(c)</desc>
   </programme>
-  <programme start="20220918001000 +0300" stop="20220918030000 +0300" channel="BBC World">
-    <title lang="el">ΣΤΗΝ ΥΓΕΙΑ ΜΑΣ ΡΕ ΠΑΙΔΙΑ (E)</title>
-    <desc lang="el">19/09/00.</desc>
+  <programme start="20220919001000 +0300" stop="20220919020000 +0300" channel="BBC World">
+    <title lang="el">ΚΑΛΟ ΜΕΣΗΜΕΡΑΚΙ (E)</title>
+    <desc lang="el">Ο απόλυτος showman, Νίκος Μουτσινάς, παρουσιάζει την πιο fun εκπομπή της ελληνικής τηλεόρασης. Stand up, χρυσή τηλεόραση, αποκλειστικές ειδήσεις από την υπέρλαμπρη Βάνια και μουσικοί πειραματισμοί από τους Alcatrash.(c)</desc>
   </programme>
-  <programme start="20220918030000 +0300" stop="20220918043000 +0300" channel="BBC World">
-    <title lang="el">ΗΡΘΕ ΚΙ ΕΔΕΣΕ (E)</title>
-    <desc lang="el">ΗΡΘΕ ΚΙ ΕΔΕΣΕ (E).</desc>
+  <programme start="20220919020000 +0300" stop="20220919040000 +0300" channel="BBC World">
+    <title lang="el">ΠΡΩΙΝΟ ΜΑΣ ΜΕ ΤΗ ΦΑΙΗ ΣΚΟΡΔΑ (E)</title>
+    <desc lang="el">ΠΡΩΙΝΟ ΜΑΣ ΜΕ ΤΗ ΦΑΙΗ ΣΚΟΡΔΑ (E).(c)</desc>
   </programme>
-  <programme start="20220918043000 +0300" stop="20220918060000 +0300" channel="BBC World">
+  <programme start="20220919040000 +0300" stop="20220919053000 +0300" channel="BBC World">
+    <title lang="el">ΚΑΤΙ ΞΑΝΑΨΗΝΕΤΑΙ (E)</title>
+    <desc lang="el">Το Κάτι Ξαναψήνεται στρώνει τραπέζι στο ΣΙΓΜΑ με συνδαιτυμόνες... τη νοστιμιά, το χιούμορ και τις απρόβλεπτες καταστάσεις. Η Κωνσταντίνα Σπυροπούλου, κάθε εβδομάδα, μας συστήνει πέντε μοναδικούς χαρακτήρες που μας ανοίγουν το σπίτι και την κουζίνα τους.(c)</desc>
+  </programme>
+  <programme start="20220919053000 +0300" stop="20220919060000 +0300" channel="BBC World">
     <title lang="el">The Cooking (E)</title>
-    <desc lang="el">The Cooking (E).</desc>
+    <desc lang="el">The Cooking (E).(c)</desc>
   </programme>
-  <programme start="20220918060000 +0300" stop="20220918064500 +0300" channel="BBC World">
+  <programme start="20220919060000 +0300" stop="20220919064500 +0300" channel="BBC World">
     <title lang="el">ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ (E)</title>
-    <desc lang="el">Η Ιωάννα Μαλέσκου και η παρέα της αλλάζει τα μεσημέρια μας ΣΙΓΜΑ και γίνονται η καθημερινή μας συνήθεια. Αποκλειστικές ειδήσεις, πρόσωπα που αγαπάμε και χρηστικά θέματα που αλλάζουν την καθημερινότητά μας. Προτάσεις για μόδα και ομορφιά. Συνεντεύξεις αλλά.</desc>
+    <desc lang="el">Η Ιωάννα Μαλέσκου και η παρέα της αλλάζει τα μεσημέρια μας ΣΙΓΜΑ και γίνονται η καθημερινή μας συνήθεια. Αποκλειστικές ειδήσεις, πρόσωπα που αγαπάμε και χρηστικά θέματα που αλλάζουν την καθημερινότητά μας. Προτάσεις για μόδα και ομορφιά. Συνεντεύξεις αλλά.(c)</desc>
   </programme>
-  <programme start="20220918064500 +0300" stop="20220918093000 +0300" channel="BBC World">
+  <programme start="20220919064500 +0300" stop="20220919093000 +0300" channel="BBC World">
     <title lang="el">ΠΡΩΤΟΣΕΛΙΔΟ ΜΕ ΤΟΝ ΑΝΔΡΕΑ ΔΗΜΗΤΡΟΠΟΥΛΟ</title>
-    <desc lang="el">Η πρώτη είδηση της ημέρας είναι «ΠΡΩΤΟΣΕΛΙΔΟ». O Ανδρέας Δημητρόπουλος ρίχνεται για άλλη μια σεζόν στη μάχη της πρωινής ενημέρωσης, με σεβασμό στον Κύπριο τηλεθεατή, με εγκυρότητα και αντικειμενικότητα. Στο «ΠΡΩΤΟΣΕΛΙΔΟ», καθημερινά από τις 6:45 μέχρι τι.</desc>
+    <desc lang="el">Η πρώτη είδηση της ημέρας είναι «ΠΡΩΤΟΣΕΛΙΔΟ». O Ανδρέας Δημητρόπουλος ρίχνεται για άλλη μια σεζόν στη μάχη της πρωινής ενημέρωσης, με σεβασμό στον Κύπριο τηλεθεατή, με εγκυρότητα και αντικειμενικότητα. Στο «ΠΡΩΤΟΣΕΛΙΔΟ», καθημερινά από τις 6:45 μέχρι τι.(c)</desc>
   </programme>
-  <programme start="20220918093000 +0300" stop="20220918110000 +0300" channel="BBC World">
+  <programme start="20220919093000 +0300" stop="20220919110000 +0300" channel="BBC World">
     <title lang="el">ΗΡΘΕ ΚΙ ΕΔΕΣΕ</title>
-    <desc lang="el">Ο Ανδρέας Δημητρόπουλος και η Γιώτα Δαμιανού σε ένα νέο πρωινό μαγκαζίνο που... έρχεται για να δέσει! Μία εκπομπή γεμάτη ενέργεια, χρηστικά θέματα, ψυχαγωγία αλλά και θέματα που αφορούν το παιδί και τη μητέρα.</desc>
+    <desc lang="el">Ο Ανδρέας Δημητρόπουλος και η Γιώτα Δαμιανού σε ένα νέο πρωινό μαγκαζίνο που... έρχεται για να δέσει! Μία εκπομπή γεμάτη ενέργεια, χρηστικά θέματα, ψυχαγωγία αλλά και θέματα που αφορούν το παιδί και τη μητέρα.(c)</desc>
   </programme>
-  <programme start="20220918110000 +0300" stop="20220918133000 +0300" channel="BBC World">
+  <programme start="20220919110000 +0300" stop="20220919133000 +0300" channel="BBC World">
     <title lang="el">ΜΕΣΗΜΕΡΙ ΚΑΙ ΚΑΤΙ ΜΕ ΤΟΝ ΧΡΗΣΤΟ ΜΙΧΑΛΑΡΟ</title>
-    <desc lang="el">Ειδήσεις, αναλύσεις, συζητήσεις δυναμικές παρεμβάσεις και αποκαλύψεις, δίνουν τον τόνο στην μεσημβρινή ενημέρωση. Ο Χρήστος Μιχάλαρος δίνει για άλλη μια χρονιά ραντεβού με την κοινωνία, την πολιτική, την οικονομία, την τοπική και τη διεθνή επικαιρότητα.</desc>
+    <desc lang="el">Ειδήσεις, αναλύσεις, συζητήσεις δυναμικές παρεμβάσεις και αποκαλύψεις, δίνουν τον τόνο στην μεσημβρινή ενημέρωση. Ο Χρήστος Μιχάλαρος δίνει για άλλη μια χρονιά ραντεβού με την κοινωνία, την πολιτική, την οικονομία, την τοπική και τη διεθνή επικαιρότητα.(c)</desc>
   </programme>
-  <programme start="20220918133000 +0300" stop="20220918150000 +0300" channel="BBC World">
-    <title lang="el">Η ΠΕΘΕΡΑ (E)</title>
-    <desc lang="el">30/12/21.</desc>
+  <programme start="20220919133000 +0300" stop="20220919150000 +0300" channel="BBC World">
+    <title lang="el">ΓΛΥΚΑΝΙΣΟΣ (E)</title>
+    <desc lang="el">Δύο κόσμοι διαφορετικοί, δύο ξένοι που θα έρθουν και θα αλλάξουν ό,τι πιστεύουμε πως χωρίζει αλλά και ενώνει δύο ανθρώπους. Ο Στρατής και η Ραζάν θα ζήσουν έναν δυνατό έρωτα κάτω από τις πιο αντίξοες συνθήκες. Θα καταφέρουν να ξεπεράσουν το ναυάγιο της ζω.(c)</desc>
   </programme>
-  <programme start="20220918150000 +0300" stop="20220918172000 +0300" channel="BBC World">
+  <programme start="20220919150000 +0300" stop="20220919172000 +0300" channel="BBC World">
     <title lang="el">ΠΡΩΙΝΟ ΜΑΣ ΜΕ ΤΗ ΦΑΙΗ ΣΚΟΡΔΑ</title>
-    <desc lang="el">Η Φαίη Σκορδά, η γυναίκα... των πρωινών μας, κάνει το επόμενο βήμα. Η Φαίη προχωρά, τολμά, συνεχίζει να κάνει αυτό που γνωρίζει τόσα χρόνια με τον δικό της, αυθεντικό, τρόπο... να μιλάει στις καρδιές μας!Μια δυνατή σχέση συνεχίζεται, εκεί όπου όλα λέγονται ανοιχτά, εκεί όπου... «ladies run the world», εκεί όπου ο καθένας μας μπορεί να τολμήσει την ανατροπή του... στο ΠΡΩΙΝΟ ΜΑΣ.</desc>
+    <desc lang="el">Η Φαίη Σκορδά, η γυναίκα... των πρωινών μας, κάνει το επόμενο βήμα. Η Φαίη προχωρά, τολμά, συνεχίζει να κάνει αυτό που γνωρίζει τόσα χρόνια με τον δικό της, αυθεντικό, τρόπο... να μιλάει στις καρδιές μας!Μια δυνατή σχέση συνεχίζεται, εκεί όπου όλα λέγονται ανοιχτά, εκεί όπου... «ladies run the world», εκεί όπου ο καθένας μας μπορεί να τολμήσει την ανατροπή του... στο ΠΡΩΙΝΟ ΜΑΣ.(c)</desc>
   </programme>
-  <programme start="20220918172000 +0300" stop="20220918180000 +0300" channel="BBC World">
+  <programme start="20220919172000 +0300" stop="20220919180000 +0300" channel="BBC World">
     <title lang="el">ΚΑΛΟ ΜΕΣΗΜΕΡΑΚΙ ΜΕ ΤΟΝ ΝΙΚΟ ΜΟΥΤΣΙΝΑ</title>
-    <desc lang="el">Ο αγαπημένος παρουσιαστής Νίκος Μουτσινάς μαζί με τη Ματίνα Νικολάου, αλλά και το μουσικό συγκρότημα Alcatrash, κάθε μέρα θα μας λένε «Καλό Μεσημεράκι».</desc>
+    <desc lang="el">Ο αγαπημένος παρουσιαστής Νίκος Μουτσινάς μαζί με τη Ματίνα Νικολάου, αλλά και το μουσικό συγκρότημα Alcatrash, κάθε μέρα θα μας λένε «Καλό Μεσημεράκι».(c)</desc>
   </programme>
-  <programme start="20220918180000 +0300" stop="20220918181000 +0300" channel="BBC World">
+  <programme start="20220919180000 +0300" stop="20220919181000 +0300" channel="BBC World">
     <title lang="el">ΓΕΓΟΝΟΤΑ ΣΕ ΣΥΝΤΟΜΙΑ</title>
-    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας σε 10΄.</desc>
+    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας σε 10΄.(c)</desc>
   </programme>
-  <programme start="20220918181000 +0300" stop="20220918190000 +0300" channel="BBC World">
+  <programme start="20220919181000 +0300" stop="20220919190000 +0300" channel="BBC World">
     <title lang="el">ΚΑΛΟ ΜΕΣΗΜΕΡΑΚΙ ΜΕ ΤΟΝ ΝΙΚΟ ΜΟΥΤΣΙΝΑ</title>
-    <desc lang="el">Ο αγαπημένος παρουσιαστής Νίκος Μουτσινάς μαζί με τη Ματίνα Νικολάου, αλλά και το μουσικό συγκρότημα Alcatrash, κάθε μέρα θα μας λένε «Καλό Μεσημεράκι».</desc>
+    <desc lang="el">Ο αγαπημένος παρουσιαστής Νίκος Μουτσινάς μαζί με τη Ματίνα Νικολάου, αλλά και το μουσικό συγκρότημα Alcatrash, κάθε μέρα θα μας λένε «Καλό Μεσημεράκι».(c)</desc>
   </programme>
-  <programme start="20220918190000 +0300" stop="20220918200000 +0300" channel="BBC World">
+  <programme start="20220919190000 +0300" stop="20220919200000 +0300" channel="BBC World">
     <title lang="el">ΑΓΡΙΑ ΓΗ</title>
-    <desc lang="el">Ανθρώπινες σχέσεις, συμφέροντα, πάθη και ακραίες καταστάσεις δοκιμάζουν καθημερινούς ανθρώπους στη δραματική καθημερινή σειρά του ΣΙΓΜΑ. Σε μια επαρχιακή πόλη, η ζωή κοντά στη γη κάνει τα πράγματα πιο απλά, πιο ουσιαστικά. Τα πρόσωπα είναι ευαίσθητα και ταυτόχρονα σκληρά σαν τη γη που τους θρέφει. Καλό και κακό συνυπάρχει και οδηγεί τις ζωές τους σε ένα πόλεμο που δεν τελειώνει ποτέ.</desc>
+    <desc lang="el">Ανθρώπινες σχέσεις, συμφέροντα, πάθη και ακραίες καταστάσεις δοκιμάζουν καθημερινούς ανθρώπους στη δραματική καθημερινή σειρά του ΣΙΓΜΑ. Σε μια επαρχιακή πόλη, η ζωή κοντά στη γη κάνει τα πράγματα πιο απλά, πιο ουσιαστικά. Τα πρόσωπα είναι ευαίσθητα και ταυτόχρονα σκληρά σαν τη γη που τους θρέφει. Καλό και κακό συνυπάρχει και οδηγεί τις ζωές τους σε ένα πόλεμο που δεν τελειώνει ποτέ.(c)</desc>
   </programme>
-  <programme start="20220918200000 +0300" stop="20220918210000 +0300" channel="BBC World">
+  <programme start="20220919200000 +0300" stop="20220919210000 +0300" channel="BBC World">
     <title lang="el">ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
-    <desc lang="el">Το αναλυτικό δελτίο ειδήσεων του ΣΙΓΜΑ προσεγγίζει καθημερινά την επικαιρότητα έγκυρα, έγκαιρα, χωρίς φόβο και συμβιβασμούς αλλά με πάθος. Ο Χρύσανθος Τσουρούλλης στην πρώτη γραμμή της ενημέρωσης κάθε βράδυ στις 20:15. Μαζί του η αρτιότερη δημοσιογραφική ομάδα και το πληρέστερο ειδησεογραφικό επιτελείο.</desc>
+    <desc lang="el">Το αναλυτικό δελτίο ειδήσεων του ΣΙΓΜΑ προσεγγίζει καθημερινά την επικαιρότητα έγκυρα, έγκαιρα, χωρίς φόβο και συμβιβασμούς αλλά με πάθος. Ο Χρύσανθος Τσουρούλλης στην πρώτη γραμμή της ενημέρωσης κάθε βράδυ στις 20:15. Μαζί του η αρτιότερη δημοσιογραφική ομάδα και το πληρέστερο ειδησεογραφικό επιτελείο.(c)</desc>
   </programme>
-  <programme start="20220918210000 +0300" stop="20220918224000 +0300" channel="BBC World">
+  <programme start="20220919210000 +0300" stop="20220919221500 +0300" channel="BBC World">
     <title lang="el">ΓΛΥΚΑΝΙΣΟΣ</title>
-    <desc lang="el">Δύο κόσμοι διαφορετικοί, δύο ξένοι που θα έρθουν και θα αλλάξουν ό,τι πιστεύουμε πως χωρίζει αλλά και ενώνει δύο ανθρώπους. Ο Στρατής και η Ραζάν θα ζήσουν έναν δυνατό έρωτα κάτω από τις πιο αντίξοες συνθήκες. Θα καταφέρουν να ξεπεράσουν το ναυάγιο της ζωής τους ή θα ζήσουν ως πρωταγωνιστές σε ένα παράλογο θρίλερ; Ο «Γλυκάνισος» ήρθε στο ΣΙΓΜΑ και η γεύση του θα μείνει ανεξίτηλη.</desc>
+    <desc lang="el">Δύο κόσμοι διαφορετικοί, δύο ξένοι που θα έρθουν και θα αλλάξουν ό,τι πιστεύουμε πως χωρίζει αλλά και ενώνει δύο ανθρώπους. Ο Στρατής και η Ραζάν θα ζήσουν έναν δυνατό έρωτα κάτω από τις πιο αντίξοες συνθήκες. Θα καταφέρουν να ξεπεράσουν το ναυάγιο της ζωής τους ή θα ζήσουν ως πρωταγωνιστές σε ένα παράλογο θρίλερ; Ο «Γλυκάνισος» ήρθε στο ΣΙΓΜΑ και η γεύση του θα μείνει ανεξίτηλη.(c)</desc>
   </programme>
-  <programme start="20220918224000 +0300" stop="20220919000000 +0300" channel="BBC World">
-    <title lang="el">ΑΓΡΙΑ ΓΗ (E)</title>
-    <desc lang="el">ΑΓΡΙΑ ΓΗ (E).</desc>
+  <programme start="20220919221500 +0300" stop="20220920000000 +0300" channel="BBC World">
+    <title lang="el">Olympus Has Fallen</title>
+    <desc lang="el">Mια τολμηρή περιπέτεια με κεντρικό πρόσωπο τον Μάικ Μπάνινγκ, έναν μυστικό πράκτορα της προεδρικής φρουράς, ο οποίος καταφέρνει να σώσει τον Αμερικανό Πρόεδρο, όταν η λιμουζίνα, που τον μεταφέρει, πέφτει από μια γέφυρα και σκοτώνεται η Πρώτη Κυρία. Καθώς όμως τα γεγονότα ξετυλίγονται, η ζωή του Προέδρου βρίσκεται για ακόμη μια φορά στα χέρια του Μάικ.(c)</desc>
   </programme>
-  <programme start="20220919000000 +0300" stop="20220919010000 +0300" channel="BBC World">
+  <programme start="20220920000000 +0300" stop="20220920010000 +0300" channel="BBC World">
     <title lang="el">BHE Scenes</title>
-    <desc lang="el">BHE Scenes.</desc>
+    <desc lang="el">BHE Scenes.(c)</desc>
   </programme>
-  <programme start="20220919010000 +0300" stop="20220919020300 +0300" channel="BBC World">
-    <title lang="el">PREMIERE- 18YO Stepsister Rides Me!</title>
-    <desc lang="el">PREMIERE- 18YO Stepsister Rides Me!</desc>
+  <programme start="20220920010000 +0300" stop="20220920020700 +0300" channel="BBC World">
+    <title lang="el">Cheating Wives Climax</title>
+    <desc lang="el">Cheating Wives Climax.(c)</desc>
   </programme>
-  <programme start="20220919020300 +0300" stop="20220919033100 +0300" channel="BBC World">
-    <title lang="el">Intimate Couples</title>
-    <desc lang="el">Intimate Couples.</desc>
+  <programme start="20220920020700 +0300" stop="20220920033300 +0300" channel="BBC World">
+    <title lang="el">Barely Legal #173: Bad Coeds</title>
+    <desc lang="el">Barely Legal #173: Bad Coeds.(c)</desc>
   </programme>
-  <programme start="20220919033100 +0300" stop="20220919043700 +0300" channel="BBC World">
-    <title lang="el">Sensual 19YO SchoolGirl Seductions</title>
-    <desc lang="el">Sensual 19YO SchoolGirl Seductions.</desc>
+  <programme start="20220920033300 +0300" stop="20220920045400 +0300" channel="BBC World">
+    <title lang="el">Busty Blonde MILF Lovers 2</title>
+    <desc lang="el">Busty Blonde MILF Lovers 2.(c)</desc>
   </programme>
-  <programme start="20220919043700 +0300" stop="20220919053000 +0300" channel="BBC World">
-    <title lang="el">Petite Housewives Bang!</title>
-    <desc lang="el">Petite Housewives Bang!</desc>
+  <programme start="20220920045400 +0300" stop="20220920053000 +0300" channel="BBC World">
+    <title lang="el">19YO Lesbian Stepsister Ate Me Out!</title>
+    <desc lang="el">19YO Lesbian Stepsister Ate Me Out!(c)</desc>
   </programme>
-  <programme start="20220919053000 +0300" stop="20220919180000 +0300" channel="BBC World">
+  <programme start="20220920053000 +0300" stop="20220920180000 +0300" channel="BBC World">
     <title lang="el">Transmission time: 0:00-5:30</title>
-    <desc lang="el">Transmission time: 0:00-5:30.</desc>
-  </programme>
-  <programme start="20220919180000 +0300" stop="20220920060000 +0300" channel="BBC World">
-    <title lang="el">Novasports5</title>
-    <desc lang="el">Ενα κανάλι αφιερωμένο στο μπάσκετ! Ολοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της Euroleague, αγώνες του Eurocup και του ιταλικού πρωταθλήματος Lega Basket Serie A, καθώς και αγώνες εθνικών ομάδων στις διοργανώσεις της FIBA.</desc>
-  </programme>
-  <programme start="20220920060000 +0300" stop="20220920180000 +0300" channel="BBC World">
-    <title lang="el">Novasports5</title>
-    <desc lang="el">Ενα κανάλι αφιερωμένο στο μπάσκετ! Ολοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της Euroleague, αγώνες του Eurocup και του ιταλικού πρωταθλήματος Lega Basket Serie A, καθώς και αγώνες εθνικών ομάδων στις διοργανώσεις της FIBA.</desc>
+    <desc lang="el">Transmission time: 0:00-5:30.(c)</desc>
   </programme>
   <programme start="20220913000000 +0100" stop="20220913235900 +0100" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
