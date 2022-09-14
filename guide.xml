@@ -107,22 +107,27 @@
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -32445,9 +32450,9 @@
     <title lang="el">Απαγορευμένη Ιστορία Κ7 ΕΠ5</title>
     <desc lang="el">Τα λείψανα 7.000 ανθρώπων ανακαλύφθηκαν στο Υπόγειο Χαλ Σαφλιενί, τον νεολιθικό ναό στη Μάλτα. Θα μπορούσε ο ναός να λύσει το μυστήριο σχετικά με τους ιδιοκτήτες του και την τύχη που είχαν; Σκηνοθεσία: Steve Gillham. Πρωταγωνιστούν: Jamie Theakston.</desc>
   </programme>
-  <programme start="20220916215500 +0300" stop="20220916225500 +0300" channel="BBC World">
-    <title lang="el">Ο πλανήτης των θησαυρών Κ1 ΕΠ1</title>
-    <desc lang="el">Ο ιστορικός Κρίστοφερ Κλαρκ ταξιδεύει στην Αφρική. Το ταξίδι του τον οδηγεί στην Αίγυπτο, Αιθιοπία, Τανζανία με το συγκλονιστικό Εθνικό Πάρκο Σερενγκέτι, και στη νήσο Λάμου ανοιχτά της Κένυας. Σκηνοθεσία: Gero von Boehm. Πρωταγωνιστούν: Christopher Clark.</desc>
+  <programme start="20220916223000 +0300" stop="20220917001500 +0300" channel="BBC World">
+    <title lang="el">Mermaids</title>
+    <desc lang="el">Η Σάρλοτ είναι ένα έφηβο κορίτσι που διχάζεται μεταξύ του πάθους που αρχίζει να τρέφει για έναν όμορφο επιστάτη και την επιθυμία της να γίνει καλόγρια. Σκηνοθεσία: Patrick Palmer,Richard Benjamin,. Πρωταγωνιστούν: Bob Rogerson, Cher, Betsy Townsend, Bob Hoskins, Bill Mcdonald, Winona Ryder. (1990).(c)</desc>
   </programme>
   <programme start="20220917001500 +0300" stop="20220917021000 +0300" channel="BBC World">
     <title lang="el">Edtv</title>
