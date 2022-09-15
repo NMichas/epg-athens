@@ -27,107 +27,86 @@
   </channel>
   <channel id="STAR">
     <display-name lang="el">STAR</display-name>
-    <icon src="https://www.star.gr/tv/images/640x360/jpg/files/star1200x630n.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ART TV">
     <display-name lang="el">ART TV</display-name>
-    <icon src="https://i0.wp.com/www.livetvgr.com/wp-content/uploads/2018/12/art1-e1552571192350.png?fit=310%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ETV">
     <display-name lang="el">ETV</display-name>
-    <icon src="https://www.newsit.gr/wp-content/uploads/2017n/07/etv_logo.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ART">
     <display-name lang="el">ART</display-name>
-    <icon src="https://i0.wp.com/www.livetvgr.com/wp-content/uploads/2018/12/art1-e1552571192350.png?fit=310%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="EXTRA">
     <display-name lang="el">EXTRA</display-name>
-    <icon src="https://www.zappit.gr/wp-content/uploads/2016n/05/zp_36971_extra.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ACTION24">
     <display-name lang="el">ACTION24</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Action_24_new_logo.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ATTICA TV">
     <display-name lang="el">ATTICA TV</display-name>
-    <icon src="https://www.radiotvlink.com/images/amydv/atticatv_logo_900.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="BLUE SKY">
     <display-name lang="el">BLUE SKY</display-name>
-    <icon src="https://i0.wp.com/travelgirl.s3.eu-central-1.amazonaws.com/2021/01/bluesky10genari.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="CHANNEL 9">
     <display-name lang="el">CHANNEL 9</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/el/0/0a/Channel9.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="AE CHANNEL">
     <display-name lang="el">A.EPSILON</display-name>
-    <icon src="https://www.nicepng.com/png/detail/223-2235783_apps-a-e-channel-logo.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="HIGH TV">
     <display-name lang="el">HIGH TV</display-name>
-    <icon src="https://i37.servimg.com/u/f37/16/92/15/82/logo_h10.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="KONTRA CHANNEL">
     <display-name lang="el">KONTRA CHANNEL</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/el/b/b8/Kontra_channel_new_logo.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="MAD">
     <display-name lang="el">MAD</display-name>
-    <icon src="https://mad.tv/wp-content/uploads/2018/02/mad_logo_yellow.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="RISE TV">
     <display-name lang="el">RISE TV</display-name>
-    <icon src="https://i0.wp.com/typologies.gr/wp-content/uploads/2018/09/Rice-TV2.png?resize=350%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
-    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
-    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
-    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
-    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
-    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
-    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -7739,14 +7718,6 @@
       <value>9</value>
     </rating>
   </programme>
-  <programme start="20220917121500 +0300" stop="20220917123000 +0300" channel="STAR">
-    <title lang="el">[K] Be Cool Scooby-Doo!</title>
-    <desc lang="el">Το πρόγραμμα μεταδίδεται μεταγλωττισμένο στα ελληνικά. Παιδική σειρά αμερικανικής παραγωγής 20152017. Ένας αγαπημένος κλασικός ήρωας με σύγχρονη ματιά! Μια σειρά κινούμενων σχεδίων με πρωταγωνιστές τον Σκούμπι Ντου και την απίθανη παρέα του! Αποφοιτώντας από το λύκειο, ο Φρεντ, η Βίλμα, η Δάφνη και ο Σάγκι με τον ΣκούμπιΝτου, γνωρίζουν πολύ καλά πως αυτό ίσως είναι το τελευταίο καλοκαίρι, που θα περάσουν όλοι μαζί, αφού μετά ο καθένας θα χαράξει το δικό του δρόμο. Η παρέα αποφασίζει να μην αφήσει αυτό τον χρόνο απλά να κάνει αυτό, που της ταιριάζει καλύτερα. Να κυνηγήσει τη διασκέδαση και την περιπέτεια σε ένα ταξίδι! Αλλά τα τέρατα και το χάος συνεχίζουν να παρεμποδίζουν τα σχέδια τους. Αυτή τη φορά, η παρέα εργάζεται σκληρά τόσο για να λύσει τα δικά της προσωπικά προβλήματα όσο και για να επιλύσει ατέλειωτα, πολύπλοκα μυστήρια! Ο πιο αστείος ΣκούμπιΝτου έρχεται στην οθόνη του Star! Ετοιμαστείτε για οικογενειακή έκρηξη γέλιου.(r)</desc>
-    <date>2015</date>
-    <rating system="GR">
-      <value>0</value>
-    </rating>
-  </programme>
   <programme start="20220917123000 +0300" stop="20220917150000 +0300" channel="STAR">
     <title lang="el">[K8] Ο Αστερίξ Στους Ολυμπιακούς Αγώνες (Asterix At The Olympic Games)</title>
     <desc lang="el">Το πρόγραμμα μεταδίδεται με υπότιτλους. Κωμική περιπέτεια, γαλλικής παραγωγής 2008. Τυφλά ερωτευμένος με την πανέμορφη Ειρήνη, πριγκίπισσα της Ελλάδας, ο νεαρός Γαλάτης Καψουρίξ δεν επιθυμεί τίποτε άλλο παρά να κερδίσει την καρδιά της. Όμως, προς το παρόν, ο Καψουρίξ ταλαιπωρεί τους συγχωριανούς του με τους αναστεναγμούς του και την.. υπέρβαρη θλίψη του. Ο Αστερίξ και ο Οβελίξ, που δεν αντέχουν να τον βλέπουν στεναχωρημένο, αποφασίζουν να τον βοηθήσουν να διεκδικήσει την Ειρήνη. Έτσι, όταν η κοπέλα ανακοινώνει πως θα παντρευτεί όποιον νικήσει στους Ολυμπιακούς Αγώνες, στρώνονται αμέσως στη δουλειά για να προπονήσουν τον Καψουρίξ, καθώς ο τελευταίος δεν φημίζεται για τις αθλητικές του επιδόσεις. Ο Καψουρίξ, παρέα με τον Αστερίξ, τον Οβελίξ και τον δρυίδη Πανοραμίξ, παρασκευαστή του μαγικού φίλτρου, καταφθάνουν στην αρχαία Ολυμπία για να συμμετάσχουν στους αγώνες. Εκεί, αθλητές συγκεντρωμένοι απ' όλο τον κόσμο, προπονούνται μανιωδώς, αποφασισμένοι να διεκδικήσουν την καρδιά της Ελληνίδας πριγκίπισσας. Τα πράγματα μπλέκονται όμως ακόμη περισσότερο καθώς την πανέμορφη Ειρήνη έχει «βάλει στο μάτι» και ο Βρούτος, ο δολοπλόκος γιος του Καίσαρα. Χωρίς ενδοιασμούς και λάτρης των... βρόμικων και στημένων παιχνιδιών, ο Βρούτος «επιστρατεύει» την πονηριά και την εμπειρία του στις σκευωρίες για να καρπωθεί τις δάφνες του νικητή. Όμως ο Αστερίξ και ο Οβελίξ δεν είναι διατεθειμένοι να μείνουν με σταυρωμένα χέρια... Παίζουν: Ζεράρ Ντεπαρντιέ, Κλόβις Κορνιγιάκ, Αλέν Ντελόν, Βανέσα Χέσλερ, Ζαν Πιέρ Κασέλ, Ερίκ Τομά. Σκηνοθεσία: Φρεντερίκ Φορεστιέ, Τόμας Λάνγκμαν. Διάρκεια: 110'.</desc>
@@ -9320,13 +9291,6 @@
   <programme start="20220919234500 +0300" stop="20220919000000 +0300" channel="ART TV">
     <title lang="el">[K] Βραδινό Δελτίο Ειδήσεων</title>
     <desc lang="el">Δελτίο ειδήσεων με έγκριτους και καταξιωμένους δημοσιογράφους και σχολιαστές που φωτίζει κάθε πτυχή της επικαιρότητας.</desc>
-    <rating system="GR">
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20220919000000 +0300" stop="20220919005000 +0300" channel="ART TV">
-    <title lang="el">[K] Βραδινό Δελτίο Ειδήσεων</title>
-    <desc lang="el">Δελτίο ειδήσεων με έγκριτους και καταξιωμένους δημοσιογράφους και σχολιαστές που φωτίζει κάθε πτυχή της επικαιρότητας.(r)</desc>
     <rating system="GR">
       <value>0</value>
     </rating>
@@ -15469,14 +15433,6 @@
       <value>0</value>
     </rating>
   </programme>
-  <programme start="20220919000000 +0300" stop="20220919003000 +0300" channel="CHANNEL 9">
-    <title lang="el">[K8] Άστρα Εν Τάξει</title>
-    <desc lang="el">Εβδομαδιαία αστρολογική εκπομπή με τη Βάσια Κόντη.(r)</desc>
-    <episode-num system="onscreen">S7</episode-num>
-    <rating system="GR">
-      <value>5</value>
-    </rating>
-  </programme>
   <programme start="20220919003000 +0300" stop="20220919030000 +0300" channel="CHANNEL 9">
     <title lang="el">[K8] Ζώνη Τηλεπωλήσεων</title>
     <desc lang="el">Παρακολουθήστε τον πιο έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές.</desc>
@@ -16939,13 +16895,6 @@
   <programme start="20220919231500 +0300" stop="20220919000000 +0300" channel="KONTRA CHANNEL">
     <title lang="el">[K8] Kontra 24</title>
     <desc lang="el">Η μοναδική βραδινή πολιτική εκπομπή της ελληνικής τηλεόρασης, άκρως παρεμβατική, εναλλακτική και απαλλαγμένη από τα στερεότυπα. Κάθε βράδυ στις 23:15 με την Αναστασία Γιάμαλη.</desc>
-    <rating system="GR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20220919000000 +0300" stop="20220919060000 +0300" channel="KONTRA CHANNEL">
-    <title lang="el">[K8] Εκπομπές Τηλεοπτικών Αγορών</title>
-    <desc lang="el">Παρακολουθήστε τον πιο έγκυρο και αναλυτικό τηλεοπτικό οδηγό αγορών. Πρωτοποριακά, καινοτόμα προϊόντα οικιακής χρήσης και προσωπικής φροντίδας, στις πιο προσιτές τιμές, υπόσχονται να αλλάξουν τη ζωή σας.(r)</desc>
     <rating system="GR">
       <value>5</value>
     </rating>
@@ -30891,14 +30840,6 @@
     <title lang="el">Αθλητικά Ντοκιμαντέρ Michael Vick (Part B) (E)</title>
     <desc lang="el">Αθλητικά Ντοκιμαντέρ.</desc>
   </programme>
-  <programme start="20220917230000 +0300" stop="20220918004500 +0300" channel="RIK">
-    <title lang="el">Игра</title>
-    <desc lang="el">Юрий Степанов, Даниил Страхов, Алексей Булдаков в фильме.(r)</desc>
-  </programme>
-  <programme start="20220917230000 +0300" stop="20220917233000 +0300" channel="RIK">
-    <title lang="el">Αντίστροφη Μέτρηση Για Το Κατάρ 2022 # 30 Αυστραλία (E)</title>
-    <desc lang="el">Αντίστροφη Μέτρηση Για Το Κατάρ 2022.(r)</desc>
-  </programme>
   <programme start="20220918004500 +0300" stop="20220918021500 +0300" channel="RIK">
     <title lang="el">Космос как предчувствие</title>
     <desc lang="el">Фильм.</desc>
@@ -32053,7 +31994,7 @@
   </programme>
   <programme start="20220916230500 +0300" stop="20220917001000 +0300" channel="BBC World">
     <title lang="el">Τάφοι της Αιγύπτου: η υπέρτατη αποστολή Κ1 ΕΠ1</title>
-    <desc lang="el">Ο Ζάχι και η ομάδα του ανακαλύπτουν σαρκοφάγους του Νέου Βασιλείου και της ύστερης περιόδου της αρχ. Αιγύπτου που θα σκαναριστούν και ίσως και να ανοιχτούν, όμως τους περιμένουν κι άλλες εκπλήξεις... Σκηνοθεσία: François Pomès, Anne-Fleur Delaistre.(c)</desc>
+    <desc lang="el">Ο Ζάχι και η ομάδα του ανακαλύπτουν σαρκοφάγους του Νέου Βασιλείου και της ύστερης περιόδου της αρχ. Αιγύπτου που θα σκαναριστούν και ίσως και να ανοιχτούν, όμως τους περιμένουν κι άλλες εκπλήξεις... Σκηνοθεσία: François Pomès, Anne-Fleur Delaistre.</desc>
   </programme>
   <programme start="20220917001000 +0300" stop="20220917011000 +0300" channel="BBC World">
     <title lang="el">Θησαυροί με την Μπέτανι Χιουζ Κ1 ΕΠ5</title>
