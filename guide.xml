@@ -107,22 +107,27 @@
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -30886,6 +30891,14 @@
     <title lang="el">Αθλητικά Ντοκιμαντέρ Michael Vick (Part B) (E)</title>
     <desc lang="el">Αθλητικά Ντοκιμαντέρ.</desc>
   </programme>
+  <programme start="20220917230000 +0300" stop="20220918004500 +0300" channel="RIK">
+    <title lang="el">Игра</title>
+    <desc lang="el">Юрий Степанов, Даниил Страхов, Алексей Булдаков в фильме.(r)</desc>
+  </programme>
+  <programme start="20220917230000 +0300" stop="20220917233000 +0300" channel="RIK">
+    <title lang="el">Αντίστροφη Μέτρηση Για Το Κατάρ 2022 # 30 Αυστραλία (E)</title>
+    <desc lang="el">Αντίστροφη Μέτρηση Για Το Κατάρ 2022.(r)</desc>
+  </programme>
   <programme start="20220918004500 +0300" stop="20220918021500 +0300" channel="RIK">
     <title lang="el">Космос как предчувствие</title>
     <desc lang="el">Фильм.</desc>
@@ -32038,9 +32051,9 @@
     <title lang="el">Quebec a vol d'oiseau - saison 12 ΕΠ1</title>
     <desc lang="el">L’équipe se rend en Gaspésie pour rencontrer les bécasses pour la chasse et le saumon pour la pêche. Le groupe Monde Sauvage, qui gère plusieurs destinations dans cette région, assure l'encadrement de ces activités. (2021).</desc>
   </programme>
-  <programme start="20220916213000 +0300" stop="20220916233000 +0300" channel="BBC World">
-    <title lang="el">Quebec a vol d'oiseau - saison 12 ΕΠ2</title>
-    <desc lang="el">Après plusieurs années à chasser l’orignal dans Charlevoix, QVO livre sa dernière aventure à la Pourvoirie Bataram. Le grand cervidé anime ce rendez-vous nature dans un décor des plus fabuleux. (2021).</desc>
+  <programme start="20220916230500 +0300" stop="20220917001000 +0300" channel="BBC World">
+    <title lang="el">Τάφοι της Αιγύπτου: η υπέρτατη αποστολή Κ1 ΕΠ1</title>
+    <desc lang="el">Ο Ζάχι και η ομάδα του ανακαλύπτουν σαρκοφάγους του Νέου Βασιλείου και της ύστερης περιόδου της αρχ. Αιγύπτου που θα σκαναριστούν και ίσως και να ανοιχτούν, όμως τους περιμένουν κι άλλες εκπλήξεις... Σκηνοθεσία: François Pomès, Anne-Fleur Delaistre.(c)</desc>
   </programme>
   <programme start="20220917001000 +0300" stop="20220917011000 +0300" channel="BBC World">
     <title lang="el">Θησαυροί με την Μπέτανι Χιουζ Κ1 ΕΠ5</title>
