@@ -97,30 +97,37 @@
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -30945,9 +30952,9 @@
     <title lang="el">ALL SPORTS</title>
     <desc lang="el">ALL SPORTS.</desc>
   </programme>
-  <programme start="20220916223000 +0300" stop="20220916235500 +0300" channel="RIK">
-    <title lang="el">Αντοχή Μοτοσικλετών</title>
-    <desc lang="el">Αντοχή Μοτοσικλετών.</desc>
+  <programme start="20220916233000 +0300" stop="20220917013000 +0300" channel="RIK">
+    <title lang="el">Φράιμπουργκ - Γκλάντμπαχ</title>
+    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις! Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο.(c)</desc>
   </programme>
   <programme start="20220917013000 +0300" stop="20220917060000 +0300" channel="RIK">
     <title lang="el">Novasports3</title>
@@ -31065,9 +31072,9 @@
     <title lang="el">Πάφος FC - ΑΕΚ 18/9/22 (LIVE) (Z)</title>
     <desc lang="el">Πρωτάθλημα Α' Κατηγορίας 2022-23.</desc>
   </programme>
-  <programme start="20220918220000 +0300" stop="20220918230000 +0300" channel="RIK">
-    <title lang="el">MatchDay 2022-23 MatchDay 18/9/22 (LIVE) (Z)</title>
-    <desc lang="el">MatchDay 2022-23.</desc>
+  <programme start="20220918223500 +0300" stop="20220919004000 +0300" channel="RIK">
+    <title lang="el">Женщина под грифом</title>
+    <desc lang="el">Женщина под грифом.(c)</desc>
   </programme>
   <programme start="20220919004000 +0300" stop="20220919021000 +0300" channel="RIK">
     <title lang="el">Константин Циолковский. Космический пророк</title>
@@ -31845,9 +31852,9 @@
     <title lang="el">Ελλάς χωρίς κολώνες</title>
     <desc lang="el">Free of limitations imposed by censorship, the multi-awarded documentarian shares with us an original work of social observation that addresses in a pioneering mode several crucial problems of contemporary Greece in the 1960s. Σκηνοθεσία: Βασίλης Μάρος. (1964).</desc>
   </programme>
-  <programme start="20220922220000 +0300" stop="20220922230000 +0300" channel="RIK">
-    <title lang="el">Η Γενιά του ‘30 ΕΠ5</title>
-    <desc lang="el">Μέσα σε ένα σκοτεινό τοπίο εικόνων και προβολών, ο ποιητής και πρώτος ψυχαναλυτής της Αθήνας Άνδρεας Εμπειρίκος θυμάται τα πρόσωπα που τον σημάδεψαν, την πορεία του, τις αγωνίες του, αλλά και το καλλιτεχνικό του όραμα. Παραγωγή: COSMOTE TV Σκηνοθεσία: Γιώργος Γκικαπέππας. (2022).</desc>
+  <programme start="20220922225000 +0300" stop="20220923004000 +0300" channel="RIK">
+    <title lang="el">An Acceptable Loss</title>
+    <desc lang="el">Η Λίμπι είναι πρώην βοηθός της Αντιπροέδρου των Ηνωμένων Πολιτειών. Βρισκόμενη σε δυσμένεια λόγω κακού χειρισμού μιας στρατιωτικής επιχείρησης, πηγαίνει να διδάξει σε ένα Πανεπιστήμιο. Εκεί αρχίζει να την κατασκοπεύει ένας φοιτητής πολιτικών επιστημών. Δράμα παραγωγής 2018 σε σκηνοθεσία Τζο Σαπέλ με τους: Τίκα Σάμπτερ, Μπεν Ταβασόλι, Τζεφ Χέφνερ, Τζέιμι Λι Κέρτις.(c)</desc>
   </programme>
   <programme start="20220923004000 +0300" stop="20220923030000 +0300" channel="RIK">
     <title lang="el">Grace A Dieu (By The Grace Of God)</title>
@@ -32209,9 +32216,9 @@
     <title lang="el">Quebec a vol d'oiseau - saison 12 ΕΠ3</title>
     <desc lang="el">La Saskatchewan est un rendez-vous obligatoire pour un bon début de saison de chasse à la sauvagine. Découvrez la Pourvoirie Western Trophy Outfitters pour une aventure où les oies et les canards se donnent en spectacle au-dessus des caches! (2021).</desc>
   </programme>
-  <programme start="20220917225000 +0300" stop="20220917231300 +0300" channel="BBC World">
-    <title lang="el">Quebec a vol d'oiseau - saison 12 ΕΠ4</title>
-    <desc lang="el">Après quelques années sans cibler le dindon, l’équipe de QVO est de retour en Estrie avec la relève pour cette chasse au dindon sauvage. Grâce à la participation de Yves Fortin, le duo d’animateurs redouble d’ardeur pour faire vivre cette chasse printanière à de jeunes sportifs. (2021).</desc>
+  <programme start="20220917230500 +0300" stop="20220918001000 +0300" channel="BBC World">
+    <title lang="el">Βιέννη: Αυτοκρατορία, δυναστεία και όνειρο Κ1 ΕΠ2</title>
+    <desc lang="el">Ο Σάιμον Σίμπαγκ Μοντεφιόρι εξερευνά μια πόλη που επαναπροσδιορίστηκε από την ιστορία κι ακολουθεί τα ίχνη των Ναπολέοντα, Χίτλερ, Μπετόβεν και Μότσαρτ, οι οποίοι διαμόρφωσαν τους δρόμους της Βιέννης. Σκηνοθεσία: Dominic Ozanne. Πρωταγωνιστούν: Simon Sebag Montefiore.(c)</desc>
   </programme>
   <programme start="20220918001000 +0300" stop="20220918011000 +0300" channel="BBC World">
     <title lang="el">Βιέννη: Αυτοκρατορία, δυναστεία και όνειρο Κ1 ΕΠ3</title>
@@ -32305,9 +32312,9 @@
     <title lang="el">Γαλαζοαίματοι: έτσι διατήρησαν το στέμμα Κ1 ΕΠ6</title>
     <desc lang="el">Ως συνεχιστές της κληρονομιάς που άφησε η Νταϊάνα, η Βασίλισσα ελπίζει ότι ο Γουίλιαμ και ο Χάρι θα αναλάβουν τη μοναρχία τον 21ο αιώνα, όμως πόσο "φυσιολογική" μπορεί να είναι αυτή η γενιά; Σκηνοθεσία: Patrick Dickinson. Πρωταγωνιστούν: Derek Jacobi.</desc>
   </programme>
-  <programme start="20220918222000 +0300" stop="20220918232000 +0300" channel="BBC World">
-    <title lang="el">Βασιλική οικογένεια: οι χαμένες επιστολές Κ1 ΕΠ1</title>
-    <desc lang="el">Αυτές είναι οι ιστορίες των πρώτων νεαρών Ουίνδσορ. Άγνωστες επιστολές της βασιλικής οικογένειας αποκαλύπτουν την κρυφή ιστορία με φόντο κοινωνικές και πολιτικές εξελίξεις το 1920, '30 και '40. Σκηνοθεσία: Kelly Close.</desc>
+  <programme start="20220918224500 +0300" stop="20220919003000 +0300" channel="BBC World">
+    <title lang="el">The 40-Year-Old Virgin</title>
+    <desc lang="el">Ο σαραντάχρονος Άντι Στίτζερ έχει μια καλοπληρωμένη δουλειά, μια συλλογή από φιγούρες δράσης για την οποία καμαρώνει και καλούς φίλους. Υπάρχει όμως ένα πράγμα που δεν έχει καταφέρει να κάνει ακόμα... Σκηνοθεσία: Judd Apatow,. Πρωταγωνιστούν: Siena Goines, Steve Carell,. (2005).(c)</desc>
   </programme>
   <programme start="20220919003000 +0300" stop="20220919024500 +0300" channel="BBC World">
     <title lang="el">Apocalypto</title>
@@ -32357,9 +32364,9 @@
     <title lang="el">Stargate</title>
     <desc lang="el">Stargate Σκηνοθεσία: Roland Emmerich,. Πρωταγωνιστούν: Erick Avari, Mili Avital, Roger Til, David Pressman, Cecil Hoffmann, Nick Wilder. (1994).</desc>
   </programme>
-  <programme start="20220919210000 +0300" stop="20220919230500 +0300" channel="BBC World">
-    <title lang="el">Mr. Nobody</title>
-    <desc lang="el">Μια πολυεπίπεδη ιστορία αγάπης εμπνευσμένη από το “φαινόμενο της πεταλούδας”, δηλαδή την έννοια που εισήγαγε η θεωρία του χάους ότι το κούνημα των φτερών μιας πεταλούδας μπορεί να προκαλέσει καταιγίδα χιλιάδες χιλιόμετρα μακριά. Σκηνοθεσία: Jaco Van Dormael,. Πρωταγωνιστούν: Jared Leto, Diane Kruger. (2009).</desc>
+  <programme start="20220919220000 +0300" stop="20220920001000 +0300" channel="BBC World">
+    <title lang="el">Ο Αρχηγός της Μαφίας</title>
+    <desc lang="el">Με το FBI να διεξάγει έρευνα για τα χρήματα που έχει αποκτήσει, ο γηραιός πλέον γκάνγκστερ Μέιερ Λάνσκι, διαβόητο αφεντικό μιας μαφιόζικης φαμίλιας, εξιστορεί τη ζωή του σε έναν συγγραφέα. Αληθινή ιστορία, 2021. Σκηνοθεσία: Εϊτάν Ροκαγουέι. Πρωταγωνιστές: Σαμ Γουόρθινγκτον, Χάρβεϊ Καϊτέλ, Τζον Μαγκάρο.(c)</desc>
   </programme>
   <programme start="20220920001000 +0300" stop="20220920014500 +0300" channel="BBC World">
     <title lang="el">Remember Me</title>
@@ -32537,9 +32544,9 @@
     <title lang="el">TRAVEL GUIDE</title>
     <desc lang="el">Tαξιδιωτική εκπομπή γαστρονομικού πολιτισμού με τηλεοπτικό "πλατό" τα πιο ξεχωριστά σημεία του πλανήτη.</desc>
   </programme>
-  <programme start="20220921210000 +0300" stop="20220921224500 +0300" channel="BBC World">
-    <title lang="el">ΛΙΓΚ ΚΑΠ ΑΓΓΛΙΑΣ</title>
-    <desc lang="el">15/09/22.</desc>
+  <programme start="20220921221500 +0300" stop="20220922001500 +0300" channel="BBC World">
+    <title lang="el">London Has Fallen</title>
+    <desc lang="el">Οι σημαντικότεροι ηγέτες του δυτικού κόσμου ταξιδεύουν στο Λονδίνο για την κηδεία του Βρετανού πρωθυπουργού που πέθανε υπό μυστηριώδεις συνθήκες και το θανάσιμο σχέδιο εναντίον τους ξεκινά. Τρεις άνθρωποι θα προσπαθήσουν να το ανατρέψουν. Πηγή: www.lifo.gr.(c)</desc>
   </programme>
   <programme start="20220922001500 +0300" stop="20220922002000 +0300" channel="BBC World">
     <title lang="el">ΓΕΓΟΝΟΤΑ ΣΕ ΣΥΝΤΟΜΙΑ</title>
