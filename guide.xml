@@ -117,14 +117,17 @@
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -32780,6 +32783,18 @@
     <title lang="el">Fashion Week</title>
     <desc lang="el">FashionTV brings you the latest coverage of the world's biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews.</desc>
   </programme>
+  <programme start="20220922230000 +0300" stop="20220923001000 +0300" channel="RIK">
+    <title lang="el">Από τη Μεγάλη Ελλάδα στη Μικρασιατική Καταστροφή</title>
+    <desc lang="el">Σχεδόν 100 χρόνια από το 1821, το όραμα της Μεγάλης Ιδέας, της ανάκτησης των αλύτρωτων ελληνικών εδαφών, έπαιρνε σάρκα και οστά. Ωστόσο, τα γεγονότα γρήγορα πήραν δυσάρεστη τροπή, οδηγώντας τελικά στη Μικρασιατική Καταστροφή. Παραγωγή: Σταμάτης Τσαρουχάς Σκηνοθεσία: Σταμάτης Τσαρουχάς. (2013).(r)</desc>
+  </programme>
+  <programme start="20220922230000 +0300" stop="20220922233000 +0300" channel="RIK">
+    <title lang="el">Top Models</title>
+    <desc lang="el">An unique chance to get to know everything you've ever wanted to know about the world's most famous beauties. Hear what they have to say about the world of fashion, modeling and what it's like to be a runway model.(r)</desc>
+  </programme>
+  <programme start="20220922233000 +0300" stop="20220922235500 +0300" channel="RIK">
+    <title lang="el">Top Models</title>
+    <desc lang="el">An unique chance to get to know everything you've ever wanted to know about the world's most famous beauties. Hear what they have to say about the world of fashion, modeling and what it's like to be a runway model.(r)</desc>
+  </programme>
   <programme start="20220923001000 +0300" stop="20220923011000 +0300" channel="RIK">
     <title lang="el">Τέχνη και πολιτισμοί ΕΠ4</title>
     <desc lang="el">Το θέμα της σχέσης τέχνης και θρησκείας υπήρξε ανέκαθεν επίμαχο. Η κάμερα μάς καλεί σε ένα ταξίδι σε ναούς, εκκλησίες, τζαμιά και αρχαίους τόπους λατρείας σε όλο τον κόσμο για να εξερευνήσουμε τη θρησκευτική τέχνη ανά τους αιώνες. Σκηνοθεσία: Μάθιου Χιλ. (2018).</desc>
@@ -33112,9 +33127,9 @@
     <title lang="el">Sky News</title>
     <desc lang="el">News reports on the big stories from the UK and around the world.</desc>
   </programme>
-  <programme start="20220917230000 +0300" stop="20220917233000 +0300" channel="BBC World">
-    <title lang="el">Sky News</title>
-    <desc lang="el">News reports on the big stories from the UK and around the world.</desc>
+  <programme start="20220917231300 +0300" stop="20220918000100 +0300" channel="BBC World">
+    <title lang="el">Chasse Entre Amis Saison 4 ΕΠ4</title>
+    <desc lang="el">Alors qu’ils chassent des canards, Anto et Blair se lancent mutuellement des défis afin de retrouver le plaisir de la chasse. (2018).(c)</desc>
   </programme>
   <programme start="20220918000100 +0300" stop="20220918003900 +0300" channel="BBC World">
     <title lang="el">Monstres d'eau douce S5 ΕΠ5</title>
@@ -33236,9 +33251,9 @@
     <title lang="el">Monster Carp S1 ΕΠ3</title>
     <desc lang="el">Ali Hamidi se rend en Italie en compagnie de Tom Dove et Danny Fairbass afin d’y pêcher une carpe de 27 kg et le plus grand silure au monde. (2019).</desc>
   </programme>
-  <programme start="20220918230300 +0300" stop="20220918234800 +0300" channel="BBC World">
-    <title lang="el">Monster Carp S1 ΕΠ4</title>
-    <desc lang="el">Ali Hamidi se rend en Autriche en compagnie de Darrell Peck et Danny Fairbass afin d’y pêcher une carpe de 22 kg. (2019).</desc>
+  <programme start="20220918232000 +0300" stop="20220919002000 +0300" channel="BBC World">
+    <title lang="el">Βασιλική οικογένεια: οι χαμένες επιστολές Κ1 ΕΠ2</title>
+    <desc lang="el">Αυτές είναι οι ιστορίες των πρώτων νεαρών Ουίνδσορ. Άγνωστες επιστολές της βασιλικής οικογένειας αποκαλύπτουν την κρυφή ιστορία με φόντο κοινωνικές και πολιτικές εξελίξεις το 1920, '30 και '40. Σκηνοθεσία: Kelly Close.(c)</desc>
   </programme>
   <programme start="20220919002000 +0300" stop="20220919012000 +0300" channel="BBC World">
     <title lang="el">Βασιλική οικογένεια: οι χαμένες επιστολές Κ1 ΕΠ3</title>
@@ -33332,9 +33347,9 @@
     <title lang="el">Γαλαζοαίματοι: έτσι διατήρησαν το στέμμα Κ1 ΕΠ5</title>
     <desc lang="el">Η Ελισάβετ παρέμενε στην εξουσία αλλά η θέση των γαλαζοαίματων ήταν όλο και πιο επισφαλής καθώς οι αντικαθεστωτικές φωνές του τύπου απειλούσαν να δώσουν τέλος στην εποχή της υποταγής στους βασιλιάδες. Σκηνοθεσία: Sam Berrigan Taplin. Πρωταγωνιστούν: Derek Jacobi.</desc>
   </programme>
-  <programme start="20220919221000 +0300" stop="20220919231000 +0300" channel="BBC World">
-    <title lang="el">Γαλαζοαίματοι: έτσι διατήρησαν το στέμμα Κ1 ΕΠ6</title>
-    <desc lang="el">Ως συνεχιστές της κληρονομιάς που άφησε η Νταϊάνα, η Βασίλισσα ελπίζει ότι ο Γουίλιαμ και ο Χάρι θα αναλάβουν τη μοναρχία τον 21ο αιώνα, όμως πόσο "φυσιολογική" μπορεί να είναι αυτή η γενιά; Σκηνοθεσία: Patrick Dickinson. Πρωταγωνιστούν: Derek Jacobi.</desc>
+  <programme start="20220919230500 +0300" stop="20220920010000 +0300" channel="BBC World">
+    <title lang="el">Natural Born Killers</title>
+    <desc lang="el">Δύο έφηβοι φυγάδες διασχίζουν τις ΗΠΑ αποδυόμενοι σε ένα όργιο δολοφονιών και, καθώς ο αριθμός των θυμάτων αυξάνεται, τα κίτρινα ΜΜΕ τούς αντιμετωπίζουν ως διασημότητες. (1994) Σκηνοθεσία: Philip C Pfeiffer,Oliver Stone,. Πρωταγωνιστούν: Eddie Conna, Woody Harrelson, Robert Downey Jr., Marshall Bell, Jerry Gardner, Juliette Lewis. (1994).(c)</desc>
   </programme>
   <programme start="20220920010000 +0300" stop="20220920023500 +0300" channel="BBC World">
     <title lang="el">Requiem for a Dream</title>
@@ -33380,9 +33395,9 @@
     <title lang="el">The Man in the Iron Mask</title>
     <desc lang="el">The Man in the Iron Mask Σκηνοθεσία: Randall Wallace,. Πρωταγωνιστούν: Leonardo DiCaprio, Jeremy Irons,. (1998).</desc>
   </programme>
-  <programme start="20220920210000 +0300" stop="20220920225000 +0300" channel="BBC World">
-    <title lang="el">Runaway Bride</title>
-    <desc lang="el">Ένας δημοσιογράφος που απολύθηκε επειδή ήταν πολύ σοβινιστής προσπαθεί να αποκαταστήσει το όνομά του κυνηγώντας μια είδηση για μια γυναίκα που συνηθίζει να εγκαταλείπει τους αρραβωνιαστικούς της. Σκηνοθεσία: Scott Marshall,Garry Marshall,. Πρωταγωνιστούν: James Richardson, Julia Roberts,. (1999).</desc>
+  <programme start="20220920220000 +0300" stop="20220921000500 +0300" channel="BBC World">
+    <title lang="el">Η Αναζήτηση</title>
+    <desc lang="el">Χρόνια μετά την εξαφάνιση του καλύτερου του φίλου και δεξιοτέχνη του βιολιού, ο οποίος εξαφανίστηκε μυστηριωδώς πριν το πρώτο του κονσέρτο, ένας άντρας αποφασίζει να διασχίσει την Ευρώπη για να τον βρει. Μυστηρίου, 2019. Σκηνοθεσία: Φρανσουά Ζιράρ. Πρωταγωνιστές: Κλάιβ Οουεν, Τιμ Ροθ, Εντι Ιζαρντ.(c)</desc>
   </programme>
   <programme start="20220921000500 +0300" stop="20220921015500 +0300" channel="BBC World">
     <title lang="el">After 3: Μετά την Πτώση</title>
@@ -33556,9 +33571,9 @@
     <title lang="el">TRAVEL GUIDE</title>
     <desc lang="el">Tαξιδιωτική εκπομπή γαστρονομικού πολιτισμού με τηλεοπτικό "πλατό" τα πιο ξεχωριστά σημεία του πλανήτη.</desc>
   </programme>
-  <programme start="20220922210000 +0300" stop="20220922224500 +0300" channel="BBC World">
-    <title lang="el">ΛΙΓΚ ΚΑΠ ΑΓΓΛΙΑΣ</title>
-    <desc lang="el">15/09/22.</desc>
+  <programme start="20220922221500 +0300" stop="20220923001500 +0300" channel="BBC World">
+    <title lang="el">Angel Has Fallen</title>
+    <desc lang="el">Έπειτα από μια απόπειρα δολοφονίας εναντίον του Αμερικανού προέδρου, ο οποίος βρίσκεται σε κώμα, ο έμπιστός του πράκτορας Μάικ Μπάνινγκ ενοχοποιείται και συλλαμβάνεται. Προκειμένου να αποδείξει την αθωότητά του, δραπετεύει και, με το FBI στο κατόπι του, αναζητά αυτόν που τον παγίδευσε.(c)</desc>
   </programme>
   <programme start="20220923001500 +0300" stop="20220923002000 +0300" channel="BBC World">
     <title lang="el">ΓΕΓΟΝΟΤΑ ΣΕ ΣΥΝΤΟΜΙΑ</title>
