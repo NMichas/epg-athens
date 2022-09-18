@@ -122,10 +122,12 @@
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -31449,13 +31451,9 @@
     <title lang="el">ΠΟΔΗΛΑΣΙΑ: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΓΟΥΟΛΟΝΓΚΟΝΓΚ</title>
     <desc lang="el">ΠΟΔΗΛΑΣΙΑ: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΓΟΥΟΛΟΝΓΚΟΝΓΚ.</desc>
   </programme>
-  <programme start="20220918220000 +0300" stop="20220918232500 +0300" channel="RIK">
-    <title lang="el">ΠΟΔΗΛΑΣΙΑ</title>
-    <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.</desc>
-  </programme>
-  <programme start="20220918232500 +0300" stop="20220918233000 +0300" channel="RIK">
-    <title lang="el">*</title>
-    <desc lang="el">N/A.</desc>
+  <programme start="20220918223000 +0300" stop="20220919003000 +0300" channel="RIK">
+    <title lang="el">Άουγκσμπουργκ - Μπάγερν Μονάχου</title>
+    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις! Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο.(c)</desc>
   </programme>
   <programme start="20220919003000 +0300" stop="20220919060000 +0300" channel="RIK">
     <title lang="el">Novasports3</title>
@@ -32721,9 +32719,9 @@
     <title lang="el">Au pays des Mitchifs - saison 1 &amp; 2 ΕΠ4</title>
     <desc lang="el">Norbert Langelier est l'un des premiers pêcheurs à s'aventurer sur la glace du lac Manitoba au début décembre. À ce moment de la saison, les pêcheurs avancent prudemment avec un pic pour mesurer l'épaisseur de la glace. Trois pouces leur suffisent pour étendre leurs filets, mais ils traînent un bateau avec eux, juste au cas où. Les Mitchifs peuvent prendre dans la nature tout ce qu'ils veulent pour nourrir leurs familles, mais pour vendre leur poisson, ils doivent déternir un permis commercial. (2017).</desc>
   </programme>
-  <programme start="20220919222800 +0300" stop="20220919232100 +0300" channel="BBC World">
-    <title lang="el">1000 pays en un ΕΠ14</title>
-    <desc lang="el">La Bretagne, son air marin et ses côtes sauvages sont bien connus des touristes. Mais le pays des Abers reste méconnu. Découvrez la Bretagne gastronomique, avec son incontournable fraise de Plougastel et ses inégalables produits du terroir. (2015).</desc>
+  <programme start="20220919231000 +0300" stop="20220920001000 +0300" channel="BBC World">
+    <title lang="el">Βασιλική οικογένεια: οι χαμένες επιστολές Κ1 ΕΠ1</title>
+    <desc lang="el">Αυτές είναι οι ιστορίες των πρώτων νεαρών Ουίνδσορ. Άγνωστες επιστολές της βασιλικής οικογένειας αποκαλύπτουν την κρυφή ιστορία με φόντο κοινωνικές και πολιτικές εξελίξεις το 1920, '30 και '40. Σκηνοθεσία: Kelly Close.(c)</desc>
   </programme>
   <programme start="20220920001000 +0300" stop="20220920010500 +0300" channel="BBC World">
     <title lang="el">Βασιλική οικογένεια: οι χαμένες επιστολές Κ1 ΕΠ2</title>
@@ -32821,6 +32819,14 @@
     <title lang="el">Λονδίνο: 2000 χρόνια ιστορίας Κ1 ΕΠ2</title>
     <desc lang="el">Νταν Τζόουνς, Σουζάνα Λίπσκομπ και Ρομπ Μπελ αφηγούνται πώς το Λονδίνο εξελίχθηκε από μικρή ρωμαϊκή εμπορική πόλη σε πρωτεύουσα της Βρετ. Αυτοκρατορίας και τελικά στη σημερινή ακμάζουσα μεγαλούπολη. Σκηνοθεσία: Sarah Jobling, Paul Nelson. Πρωταγωνιστούν: Dan Jones, Suzannah Lipscomb, Rob Bell.</desc>
   </programme>
+  <programme start="20220920225000 +0300" stop="20220921005000 +0300" channel="BBC World">
+    <title lang="el">Hart's War</title>
+    <desc lang="el">Ένας φοιτητής της νομικής επιστρατεύεται κατά τη διάρκεια του Παγκοσμίου Πολέμου και πρέπει να αποδείξει την αξία του υπερασπιζόμενος έναν μαύρο αιχμάλωτο πολέμου. Σκηνοθεσία: Gregory Hoblit,. Πρωταγωνιστούν: Bruce Willis, Colin Farrell, Terrence Howard, Cole Hauser, Marcel Iures,. (2002).(r)</desc>
+  </programme>
+  <programme start="20220920225000 +0300" stop="20220920234500 +0300" channel="BBC World">
+    <title lang="el">Οι χαμένες πόλεις των Τρώων Κ1 ΕΠ2</title>
+    <desc lang="el">Συνέβη αλήθεια ο Τρωικός Πόλεμος; Στο Άμστερνταμ εξετάζονται το έργο παλαιότερων εξερευνητών και νέα στοιχεία. Στην Ελλάδα αρχαιολόγοι αποκαλύπτουν τα ερείπια πόλης που ίσως σχετίζεται με την Τροία. Σκηνοθεσία: Laurent Portes. Πρωταγωνιστούν: Douglas Rand.(r)</desc>
+  </programme>
   <programme start="20220921005000 +0300" stop="20220921024500 +0300" channel="BBC World">
     <title lang="el">Mermaids</title>
     <desc lang="el">Η Σάρλοτ είναι ένα έφηβο κορίτσι που διχάζεται μεταξύ του πάθους που αρχίζει να τρέφει για έναν όμορφο επιστάτη και την επιθυμία της να γίνει καλόγρια. Σκηνοθεσία: Patrick Palmer,Richard Benjamin,. Πρωταγωνιστούν: Bob Rogerson, Cher, Betsy Townsend, Bob Hoskins, Bill Mcdonald, Winona Ryder. (1990).</desc>
@@ -32869,9 +32875,9 @@
     <title lang="el">The Pink Panther</title>
     <desc lang="el">Όταν ένας κορυφαίος προπονητής ποδοσφαίρου δολοφονείται και του κλέβουν το ανεκτίμητο διαμάντι “Pοζ Πάνθηρας”, ολόκληρη η Γαλλία αναστατώνεται. Ευτυχώς, την υπόθεση αναλαμβάνει ο επιθεωρητής Ζακ Κλουζό μαζί με τον πιστό συνεργάτη του, Ζιλμπέρ Ποντόν. Σκηνοθεσία: Shawn Levy. Πρωταγωνιστούν: Steve Martin, Kevin Kline, Jean Reno, Beyoncé Knowles, Kristin Chenoweth, Emily Mortimer. (2006).</desc>
   </programme>
-  <programme start="20220921210000 +0300" stop="20220921230500 +0300" channel="BBC World">
-    <title lang="el">The Game</title>
-    <desc lang="el">Ένας τραπεζίτης παίρνει ένα περίεργο δώρο γενεθλίων από τον αδερφό του, ένα κουπόνι για να συμμετάσχει σ’ ένα παιχνίδι. Όταν όμως πείθεται να κάνει χρήση του κουπονιού, αρχίζουν οι μπελάδες. Σκηνοθεσία: David Fincher,. Πρωταγωνιστούν: James Rebhorn,. (1997).</desc>
+  <programme start="20220921220000 +0300" stop="20220922002000 +0300" channel="BBC World">
+    <title lang="el">Μικρά Αθώα Ψέματα 2</title>
+    <desc lang="el">Μία παρέα συγκεντρώνεται για να γιορτάσει τα γενέθλια ενός μέλους της, ο οποίος, όμως, υποφέρει από κατάθλιψη. Στην προσπάθειά τους να σταθούν στο πλευρό του, κρυμμένα μυστικά αποκαλύπτονται. Δραματική Κομεντί, 2019. Σκηνοθεσία: Γκιγιόμ Κανέ. Πρωταγωνιστές: Μαριόν Κοτιγιάρ, Φρανσουά Κλουζέ, Ζιλ Λελούς, Μπενουά Μαζιμέλ.(c)</desc>
   </programme>
   <programme start="20220922002000 +0300" stop="20220922020000 +0300" channel="BBC World">
     <title lang="el">Κανένας</title>
@@ -32925,9 +32931,9 @@
     <title lang="el">Εκρηκτικό Κοκτέιλ</title>
     <desc lang="el">Μία νεαρή εκτελέστρια, που έχει ακολουθήσει τα βήματα της αποξενωμένης μητέρας της, μπαίνει η ίδια στο στόχαστρο των εργοδοτών της όταν αποφασίζει να προστατέψει ένα 8χρονο κορίτσι. Δράση, 2021. Σκηνοθεσία: Ναβότ Παπουσάντο. Πρωταγωνιστές: Λίνα Χέντεϊ, Πολ Τζιαμάτι, Κάρλα Γκουτζίνο, Κάρεν Γκίλαν.</desc>
   </programme>
-  <programme start="20220922220000 +0300" stop="20220922234500 +0300" channel="BBC World">
-    <title lang="el">Brian Wilson: Long Promised Road</title>
-    <desc lang="el">Ένα απόλυτα προσωπικό ντοκιμαντέρ που εξερευνά τη ζωή και την καριέρα του θρυλικού τραγουδοποιού, συνθέτη και παραγωγού, μέσα από ένα κυριολεκτικό και μεταφορικό οδοιπορικό στην πόλη που μεγάλωσε. Ντοκιμαντέρ, 2021. Σκηνοθεσία: Μπρεντ Γουίλσον.</desc>
+  <programme start="20220922224500 +0300" stop="20220923010000 +0300" channel="BBC World">
+    <title lang="el">ΞΕΝΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΞΕΝΗ ΤΑΙΝΙΑ: ΕΓΚΛΗΜΑ, ΔΡΑΣΗ, ΘΡΙΛΕΡ, ΑΓΩΝΙΑ.(c)</desc>
   </programme>
   <programme start="20220923010000 +0300" stop="20220923020000 +0300" channel="BBC World">
     <title lang="el">TRAVEL GUIDE [Ε]</title>
