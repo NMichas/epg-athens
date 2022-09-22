@@ -92,34 +92,42 @@
   </channel>
   <channel id="RISE TV">
     <display-name lang="el">RISE TV</display-name>
+    <icon src="https://i0.wp.com/typologies.gr/wp-content/uploads/2018/09/Rice-TV2.png?resize=350%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -30097,9 +30105,9 @@
     <title lang="el">O Απίθανος Δρ. Pol Κ5 ΕΠ8</title>
     <desc lang="el">Η κλινική περνά άλλη μια δύσκολη εβδομάδα. Θα αποτελέσουν ο Dr. Pol και οι άλλοι κτηνίατροι τους σωτήρες των άρρωστων ζώων; Στην άλλη άκρη της πόλης, ένας τοκετός έχει διακοπεί στη φάρμα McConnell και η κατάσταση είναι διπλά περίπλοκη.</desc>
   </programme>
-  <programme start="20220925231500 +0300" stop="20220926010000 +0300" channel="BBC World">
-    <title lang="el">Fete De Famille (Happy Birthday)</title>
-    <desc lang="el">ΜΑΝΤΕΨΕ ΠΟΙΟΣ ΗΡΘΕ ΓΙΑ ΤΑ ΓΕΝΕΘΛΙΑ ΣΟΥ; Μια οικογένεια μαζεύεται για να γιορτάσει τα 70 α γενέθλια της μητέρας. Τα πράγματα είναι ήρεμα και χαρούμενα μέχρι την αναπάντεχη άφιξη της μικρότερης κόρης που είχε εξαφανιστεί τρία χρόνια πριν. Δραματική κωμωδία παραγωγής 2019 σε σκηνοθεσία Σεντρίκ Καν με τους: Κατρίν Ντενέβ, Εμανουέλ Μπερκό, Βενσάν Μακέν, Σεντρίκ Καν.</desc>
+  <programme start="20220925230000 +0300" stop="20220925235000 +0300" channel="BBC World">
+    <title lang="el">O Απίθανος Δρ. Pol Κ5 ΕΠ9</title>
+    <desc lang="el">Είναι τα γενέθλια του Dr. Pol, αλλά πριν το γιορτάσουν, οι κτηνίατροι της κλινικής έχουν να αντιμετωπίσουν διάφορες υποθέσεις. Από χρωματιστούς παπαγάλους μέχρι μια άρρωστη ζέβρα, ο Dr. Pol είναι πολύ απασχολημένος!(c)</desc>
   </programme>
   <programme start="20220926010000 +0300" stop="20220926023500 +0300" channel="BBC World">
     <title lang="el">Dead Reckoning</title>
@@ -30365,17 +30373,9 @@
     <title lang="el">Τομ και Τζέρι Κ3</title>
     <desc lang="el">Μια ολοκαίνουρια εκδοχή των κλασικών χαρακτήρων, με όλη την τρέλα και το πανδαιμόνιο να παραμένουν απαράλλαχτα. Παρακολουθήστε τον Τομ και τον Τζέρι να οργανώνουν τη μια μηχανορραφία μετά την άλλη. Σκηνοθεσία: Darrell Van Citters,. (2019).</desc>
   </programme>
-  <programme start="20220928223000 +0300" stop="20220928230500 +0300" channel="BBC World">
-    <title lang="el">Ο Γκρίζι και τα λέμινγκ Κ2</title>
-    <desc lang="el">Ακόμα και μια γιγάντια δίμετρη αρκούδα δεν είναι εύκολο να απαλλαγεί από τα ενοχλητικά λέμινγκς, όμως έχει πλάκα να τους παρακολουθεί κανείς να προσπαθούν να τη φέρουν ο ένας στον άλλον, καταστρώνοντας πονηρά σχέδια. Σκηνοθεσία: Victor Moulin,. Πρωταγωνιστούν: Pierre-Alain de Garrigues, Josselin Charier,. (2018).</desc>
-  </programme>
-  <programme start="20220928230500 +0300" stop="20220928232500 +0300" channel="BBC World">
-    <title lang="el">Ψυχραιμία, Σκούμπι-Ντου! Κ1 ΕΠ14</title>
-    <desc lang="el">Η κλασική αγαπημένη παρέα του Σκούμπι επιστρέφει με σύγχρονη κωμική διάθεση. Το σχολείο έχει τελειώσει και, έχοντας μπροστά της ένα τελευταίο καλοκαίρι για να ξεφαντώσει, η παρέα αποφασίζει να ταξιδέψει με τη Μυστηριομηχανή, αλλά τέρατα και χάος μπαίνουν στον δρόμο τους. Σκηνοθεσία: James Krenzke,. Πρωταγωνιστούν: Grey Griffin, Matthew Lillard, Kate Micucci,. (2015).</desc>
-  </programme>
-  <programme start="20220928232500 +0300" stop="20220928235000 +0300" channel="BBC World">
-    <title lang="el">Ψυχραιμία, Σκούμπι-Ντου! Κ1 ΕΠ15</title>
-    <desc lang="el">Η κλασική αγαπημένη παρέα του Σκούμπι επιστρέφει με σύγχρονη κωμική διάθεση. Το σχολείο έχει τελειώσει και, έχοντας μπροστά της ένα τελευταίο καλοκαίρι για να ξεφαντώσει, η παρέα αποφασίζει να ταξιδέψει με τη Μυστηριομηχανή, αλλά τέρατα και χάος μπαίνουν στον δρόμο τους. Σκηνοθεσία: Jeff Mednikow,. Πρωταγωνιστούν: Frank Welker, Grey Griffin, Kate Micucci, Matthew Lillard. (2015).</desc>
+  <programme start="20220928230000 +0300" stop="20220929010000 +0300" channel="BBC World">
+    <title lang="el">ΜΟΥΣΙΚΟ ΚΟΥΤΙ (E)</title>
+    <desc lang="el">Το πιο μελωδικό «Μουσικό κουτί» ανοίγουν στην ΕΡΤ ο Νίκος Πορτοκάλογλου και η Ρένα Μόρφη, μέσα από τη νέα πρωτότυπη εκπομπή που θα ενταχθεί στο πρόγραμμα της ΕΡΤ1, με καλεσμένους από διαφορετικούς μουσικούς χώρους, οι οποίοι μέσα από απροσδόκητες συνεντεύξεις θα αποκαλύπτουν την playlist της ζωής τους.(c)</desc>
   </programme>
   <programme start="20220929010000 +0300" stop="20220929020000 +0300" channel="BBC World">
     <title lang="el">ΚΛΕΙΝΟΝ ΑΣΤΥ - Ιστορίες της πόλης (E)</title>
