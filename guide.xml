@@ -102,26 +102,32 @@
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -29387,13 +29393,9 @@
     <title lang="el">Sky News Tonight</title>
     <desc lang="el">All the day's news followed by all the day's sport.</desc>
   </programme>
-  <programme start="20220923223000 +0300" stop="20220923230000 +0300" channel="BBC World">
-    <title lang="el">Sky News Tonight</title>
-    <desc lang="el">All the day's news followed by all the day's sport.</desc>
-  </programme>
-  <programme start="20220923230000 +0300" stop="20220923233000 +0300" channel="BBC World">
-    <title lang="el">Sky News at 9</title>
-    <desc lang="el">An hour of news and analysis from Sky News correspondents in the UK and around the world.</desc>
+  <programme start="20220923223100 +0300" stop="20220924000200 +0300" channel="BBC World">
+    <title lang="el">HD Hits</title>
+    <desc lang="el">We've got big hits and they're even bigger in high def baby!(c)</desc>
   </programme>
   <programme start="20220924000200 +0300" stop="20220924010200 +0300" channel="BBC World">
     <title lang="el">MTV Rewind: 2010</title>
@@ -29771,9 +29773,9 @@
     <title lang="el">O Απίθανος Δρ. Πολ: Ειδική Έκδοση Κ11 ΕΠ4</title>
     <desc lang="el">Το προσωπικό στην κλινική τα έχει δει όλα, αλλά υπάρχουν ακόμα πελάτες που κάνουν την ανατροπή. Αυτά τα θαυμαστά ζώα, αψηφώντας τον θάνατο με το σθένος τους, δίνουν έμπνευση στον Δρ. Pol και την ομάδα του για να μην τα παρατάνε ποτέ!</desc>
   </programme>
-  <programme start="20220926230000 +0300" stop="20220926235000 +0300" channel="BBC World">
-    <title lang="el">Critter Fixers: Κτηνίατροι στην Ύπαιρθο Κ1 ΕΠ3</title>
-    <desc lang="el">Οι Δρ. Hodges και Ferguson είναι απασχολημένοι με ένα νοσοκομείο γεμάτο ζώα και με το να φροντίζουν τους πελάτες τους σε όλη την αγροτική Τζόρτζια. Φροντίζουν όλες τις περιπτώσεις ζώων, από αλπακά που κυοφορούν μέχρι τις οπλές γουρουνιών.</desc>
+  <programme start="20220926232500 +0300" stop="20220927010000 +0300" channel="BBC World">
+    <title lang="el">A Tale Of Two Coreys</title>
+    <desc lang="el">Οι έφηβοι Κόρι Χέιμ και Κόρι Φέλντμαν ήταν δύο αστέρια του Χόλιγουντ τη δεκαετία του ’80 που έγιναν οι καλύτεροι φίλοι. H λάμψη αλλά και η σκοτεινή πλευρά της σόουμπιζ, άλλαξαν για πάντα τις ζωές τους. Δράμα παραγωγής 2018 σε σκηνοθεσία Στίβεν Χάφακερ με τους: Ιλάιτζα Μαρκάνο, Τζάστιν Έλινγκς, Σκοτ Μπόζλι, Κέισι Λιτς.(c)</desc>
   </programme>
   <programme start="20220927010000 +0300" stop="20220927022500 +0300" channel="BBC World">
     <title lang="el">Baking Spirits Bright</title>
@@ -29823,9 +29825,9 @@
     <title lang="el">How To Train Your Husband</title>
     <desc lang="el">Η Τζίλιαν, μια πετυχημένη σύμβουλος γάμου, πιστεύει ότι μπορεί να σώσει τον δικό της γάμο εκπαιδεύοντας τον άντρα της. Kωμωδία παραγωγής 2018 σε σκηνοθεσία Σάντρα Λ. Μάρτιν με τους: Τζούλι Γκονζάλο, Τζόναθαν Τσέις, Πέρι Τζίλπιν, Κάρλα Μόσλι.</desc>
   </programme>
-  <programme start="20220927210000 +0300" stop="20220927230000 +0300" channel="BBC World">
-    <title lang="el">Six Degrees Of Separation</title>
-    <desc lang="el">ΑΠΡΟΣΚΛΗΤΟΣ ΕΠΙΣΚΕΠΤΗΣ. Οι Νεοϋορκέζοι Λουίζα και Φλαν Κίτρετζ είναι έμποροι τέχνης που ανήκουν στην υψηλή κοινωνία. Η γνωριμία τους με ένα νεαρό άγνωστο που έρχεται στο σπίτι τους ένα βράδυ, θα τους αλλάξει τη ζωή. Κωμωδία παραγωγής 1993 σε σκηνοθεσία Φρεντ Σκέπισι με τους: Γουίλ Σμιθ, Στόκαρντ Τσάνινγκ, Ντόναλντ Σάδερλαντ, Ίαν ΜακΚέλεν.</desc>
+  <programme start="20220927220000 +0300" stop="20220928003000 +0300" channel="BBC World">
+    <title lang="el">Αναμνήσεις μιας Γκέισας</title>
+    <desc lang="el">Με φόντο την προπολεμική Ιαπωνία, η Τσίγιο ξεπερνά όλα τα εμπόδια και γίνεται η πιο περιζήτητη γκέισα της χώρας, στη βραβευμένη με Οσκαρ κινηματογραφική μεταφορά του μπεστ σέλερ του Αρθουρ Γκόλντεν. Δράμα, 2005. Σκηνοθεσία: Ρομπ Μάρσαλ. Πρωταγωνιστές: Κεν Γουατανάμπε, Ζιγί Τζανγκ, Μισέλ Γιο.(c)</desc>
   </programme>
   <programme start="20220928003000 +0300" stop="20220928030000 +0300" channel="BBC World">
     <title lang="el">Υπόθεση Καρλίτο</title>
@@ -30051,9 +30053,17 @@
     <title lang="el">Τομ και Τζέρι Κ3</title>
     <desc lang="el">Μια ολοκαίνουρια εκδοχή των κλασικών χαρακτήρων, με όλη την τρέλα και το πανδαιμόνιο να παραμένουν απαράλλαχτα. Παρακολουθήστε τον Τομ και τον Τζέρι να οργανώνουν τη μια μηχανορραφία μετά την άλλη. Σκηνοθεσία: Darrell Van Citters,. (2019).</desc>
   </programme>
-  <programme start="20220929230000 +0300" stop="20220930000500 +0300" channel="BBC World">
-    <title lang="el">ΣΥΜΦΩΝΙΚΟ ΡΕΜΠΕΤΙΚΟ - ΑΠΟ ΤΗ ΣΜΥΡΝΗ ΚΑΙ ΤΗΝ ΠΟΛΗ ΣΤΟΝ ΠΕΙΡΑΙΑ</title>
-    <desc lang="el">Έτος παραγωγής: 2022 Ορχήστρα Σύγχρονης Μουσικής ΕΡΤ 100 χρόνια από τη Μικρασιατική Καταστροφή, η Ορχήστρα Σύγχρονης Μουσικής της ΕΡΤ, υπό τη διεύθυνση του μαέστρου της Γιώργου Αραβίδη, συναντά τους πρόσφυγες συνθέτες του ρεμπέτικου, σε μια μουσική διαδρομή από την Πόλη και τα παράλια της Μικράς Ασίας στον Πειραιά με ήχο συμφωνικό. Την προσαρμογή και την επεξεργασία έκανε ο μουσικολόγος και ενορχηστρωτής Γιάννης Μπελώνης.</desc>
+  <programme start="20220929222000 +0300" stop="20220929230500 +0300" channel="BBC World">
+    <title lang="el">Ο Γκρίζι και τα λέμινγκ Κ2</title>
+    <desc lang="el">Ακόμα και μια γιγάντια δίμετρη αρκούδα δεν είναι εύκολο να απαλλαγεί από τα ενοχλητικά λέμινγκς, όμως έχει πλάκα να τους παρακολουθεί κανείς να προσπαθούν να τη φέρουν ο ένας στον άλλον, καταστρώνοντας πονηρά σχέδια. Σκηνοθεσία: Victor Moulin,. Πρωταγωνιστούν: Pierre-Alain de Garrigues, Josselin Charier,. (2018).(c)</desc>
+  </programme>
+  <programme start="20220929230500 +0300" stop="20220929232500 +0300" channel="BBC World">
+    <title lang="el">Ψυχραιμία, Σκούμπι-Ντου! Κ1 ΕΠ16</title>
+    <desc lang="el">Η κλασική αγαπημένη παρέα του Σκούμπι επιστρέφει με σύγχρονη κωμική διάθεση. Το σχολείο έχει τελειώσει και, έχοντας μπροστά της ένα τελευταίο καλοκαίρι για να ξεφαντώσει, η παρέα αποφασίζει να ταξιδέψει με τη Μυστηριομηχανή, αλλά τέρατα και χάος μπαίνουν στον δρόμο τους. Σκηνοθεσία: Shaunt Nigoghossian,Andy Thom,. Πρωταγωνιστούν: Grey Griffin, Matthew Lillard, Kate Micucci,. (2015).(c)</desc>
+  </programme>
+  <programme start="20220929232500 +0300" stop="20220929235000 +0300" channel="BBC World">
+    <title lang="el">Ψυχραιμία, Σκούμπι-Ντου! Κ1 ΕΠ17</title>
+    <desc lang="el">Η κλασική αγαπημένη παρέα του Σκούμπι επιστρέφει με σύγχρονη κωμική διάθεση. Το σχολείο έχει τελειώσει και, έχοντας μπροστά της ένα τελευταίο καλοκαίρι για να ξεφαντώσει, η παρέα αποφασίζει να ταξιδέψει με τη Μυστηριομηχανή, αλλά τέρατα και χάος μπαίνουν στον δρόμο τους. Σκηνοθεσία: James Krenzke,. Πρωταγωνιστούν: Grey Griffin, Matthew Lillard, Kate Micucci,. (2015).(c)</desc>
   </programme>
   <programme start="20220930000500 +0300" stop="20220930010500 +0300" channel="BBC World">
     <title lang="el">24 ΩΡΕΣ ΣΤΗΝ ΕΛΛΑΔΑ (E)</title>
