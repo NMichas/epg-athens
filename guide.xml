@@ -102,26 +102,32 @@
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -32750,17 +32756,9 @@
     <title lang="el">The Climate Show With Tom Heap</title>
     <desc lang="el">Tom Heap presents a special weekly programme looking at how climate change is impacting the way we live, and talks to those who are working hard to find solutions to the crisis.</desc>
   </programme>
-  <programme start="20220924220000 +0300" stop="20220924223000 +0300" channel="BBC World">
-    <title lang="el">Sky News</title>
-    <desc lang="el">News reports on the big stories from the UK and around the world.</desc>
-  </programme>
-  <programme start="20220924223000 +0300" stop="20220924230000 +0300" channel="BBC World">
-    <title lang="el">Sky News</title>
-    <desc lang="el">News reports on the big stories from the UK and around the world.</desc>
-  </programme>
-  <programme start="20220924230000 +0300" stop="20220924233000 +0300" channel="BBC World">
-    <title lang="el">Sky News</title>
-    <desc lang="el">News reports on the big stories from the UK and around the world.</desc>
+  <programme start="20220924222800 +0300" stop="20220925000100 +0300" channel="BBC World">
+    <title lang="el">HD Hits</title>
+    <desc lang="el">We've got big hits and they're even bigger in high def baby!(c)</desc>
   </programme>
   <programme start="20220925000100 +0300" stop="20220925010000 +0300" channel="BBC World">
     <title lang="el">MTV Rewind: 2011</title>
@@ -33198,6 +33196,18 @@
     <title lang="el">Τα πιο Φονικά Ζώα στον Κόσμο Κ3 ΕΠ3</title>
     <desc lang="el">Μπορούν τα άγρια πλάσματα να επιβιώσουν στην καρδιά της πόλης; Δείτε τα αραχνοειδή, τα θηλαστικά και τα ερπετά που έχουν μάθει να ζουν ανάμεσα σε ανθρώπους.</desc>
   </programme>
+  <programme start="20220927230000 +0300" stop="20220928005000 +0300" channel="BBC World">
+    <title lang="el">The Big Fat Stone</title>
+    <desc lang="el">ΤΥΧΗ ΒΟΥΝΟ. Ο Έντουαρντ Ρίτσο είναι ένας άστεγος άντρας που του δίνεται η ευκαιρία για μια καινούρια ζωή απλά επειδή έτυχε να βρίσκεται στον σωστό τόπο τη σωστή στιγμή. Δράμα παραγωγής 2014 σε σκηνοθεσία Φρανκ Ντ’ Άντζελο με τους: Φρανκ Ντ’ Άντζελο, Νικ Μανκούσο, Τόνι Νάρντι, Ρόμπερτ Λότζια.(r)</desc>
+  </programme>
+  <programme start="20220927230000 +0300" stop="20220927231000 +0300" channel="BBC World">
+    <title lang="el">Critter Fixers: Κτηνίατροι στην Ύπαιρθο Κ1 ΕΠ4</title>
+    <desc lang="el">Οι Δρ. Hodges και Ferguson φροντίζουν ένα πίτμπουλ που χρειάζεται εγχείρηση στο αυτί, έναν αφυδατωμένο γενειοφόρο δράκο και μια ατίθαση καμήλα.(r)</desc>
+  </programme>
+  <programme start="20220927231000 +0300" stop="20220927235000 +0300" channel="BBC World">
+    <title lang="el">Μυστικά του Ζωολογικού Κήπου Κ5 ΕΠ8</title>
+    <desc lang="el">Δείτε τη Spike, τον φιλικό σκίγκο, ένα σπάνιο είδος σαύρας που προβληματίζει την ομάδα με τα κιλά που χάνει. Ένα δόντι με απόστημα μετατρέπεται σε κρίση για ένα αγαπημένο πρόβατο, τη Fiona. Και, η Lulu, η καμηλοπάρδαλη, κάνει μωρό!(r)</desc>
+  </programme>
   <programme start="20220928005000 +0300" stop="20220928024000 +0300" channel="BBC World">
     <title lang="el">Waiting For The Barbarians</title>
     <desc lang="el">Ένας δικαστικός λειτουργός που υπηρετεί στα σύνορα ανυπομονεί να αφυπηρετήσει. Τα πράγματα αλλάζουν με την άφιξη του Συνταγματάρχη Τζολ καθήκον του οποίου είναι να δίνει αναφορά για την ασφάλεια των συνόρων αλλά και για τις δραστηριότητες των ‘βαρβάρων’. Δράμα παραγωγής 2019 σε σκηνοθεσία Τσίρο Γκουέρα με τους: Μαρκ Ράιλανς, Τζόνι Ντεπ, Ρόμπερτ Πάτινσον, Γκάνα Μπαγιαρσαϊκάν.</desc>
@@ -33242,9 +33252,9 @@
     <title lang="el">Brazil</title>
     <desc lang="el">ΜΠΡΑΖΙΛ. Ο Σαμ Λόρι είναι ένας πειθήνιος, απελπισμένος άντρας που ζει μια βαρετή ζωή. Η μόνη του διέξοδος είναι η φαντασίωση του για μια όμορφη γυναίκα. Κάποια στιγμή συναντά τη γυναίκα των ονείρων του και στην προσπάθεια του να την κερδίσει, γίνεται εχθρός του κράτους. Ταινία φαντασίας παραγωγής 1985 σε σκηνοθεσία Τέρι Γκίλιαμ με τους: Τζόναθαν Πράις, Ρόμπερτ Ντε Νίρο, Ίαν Χολμ, Κιμ Γκριστ.</desc>
   </programme>
-  <programme start="20220928210000 +0300" stop="20220928231500 +0300" channel="BBC World">
-    <title lang="el">Pajaros De Verano (Birds Of Passage)</title>
-    <desc lang="el">ΑΠΟΔΗΜΗΤΙΚΑ ΠΟΥΛΙΑ. Διχασμένος ανάμεσα στην επιθυμία του να καταστεί ισχυρός και στο καθήκον του να κρατήσει τις αξίες της φυλής του, ο Ραπαγιέτ μπλέκεται με τη διακίνηση ναρκωτικών, παρά τις αντιρρήσεις της αρχηγού της μητριαρχικής κοινότητας στην οποία ζει. Δράμα παραγωγής 2018 σε σκηνοθεσία Κριστίνα Γκαγιέγο &amp;Σίρο Γκέρα με τους: Καρμίνια Μαρτίνεζ, Χοζέ Ακόστα, Νατάλια Ρέγιες, Τζον Ναρβάεζ.</desc>
+  <programme start="20220928220000 +0300" stop="20220929001000 +0300" channel="BBC World">
+    <title lang="el">Ο Ιούδας και ο Μαύρος Μεσσίας</title>
+    <desc lang="el">Το 1968, ο Γουίλιαμ Ο'Νιλ πέφτει στα δίχτυα του FBI και συμφωνεί να εισχωρήσει στο κόμμα 'Μαύροι Πάνθηρες'για να συγκεντρώσει πληροφορίες για τον αρχηγό του. Ο Ντάνιελ Καλούγια κέρδισε Όσκαρ. Αληθινή ιστορία, 2021. Σκηνοθεσία: Σάκα Κινγκ. Πρωταγωνιστές: Ντάνιελ Καλούγια, ΛαΚίθ Στάνφιλντ, Τζέσι Πλέμονς, Ντομινίκ Φίσμπακ.(c)</desc>
   </programme>
   <programme start="20220929001000 +0300" stop="20220929021000 +0300" channel="BBC World">
     <title lang="el">Ψυχώ 2: Η Επιστροφή</title>
