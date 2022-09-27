@@ -112,18 +112,22 @@
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -30385,9 +30389,9 @@
     <title lang="el">Κολυμπώντας με τέρατα: Στιβ Μπάκσαλ Κ1 ΕΠ1</title>
     <desc lang="el">Ο Στιβ ταξιδεύει στο Παντανάλ της Βραζιλίας για να μελετήσει τα τερατώδη ανακόντα που κατοικούν στην περιοχή και να κολυμπήσει μαζί τους. Μήπως, όμως, η παρουσία του στο νερό προκαλέσει επίθεση; (2012).</desc>
   </programme>
-  <programme start="20221001220000 +0300" stop="20221001230000 +0300" channel="BBC World">
-    <title lang="el">Σκληρή δικαιοσύνη Κ2 ΕΠ1</title>
-    <desc lang="el">Η Θηροφυλακή αναλαμβάνει δράση για να απελευθερώσει μια άγρια αρκούδα στο φυσικό της περιβάλλον. Στο μεταξύ, συλλαμβάνεται ένας μεθυσμένος οδηγός. (2015).</desc>
+  <programme start="20221001223500 +0300" stop="20221002005000 +0300" channel="BBC World">
+    <title lang="el">Machine Gun Preacher</title>
+    <desc lang="el">Ο Σαμ Τσίλντερς είχε διατελέσει σκληρός μηχανόβιος και έμπορος ναρκωτικών πριν ανακαλύψει τον Θεό και ξεκινήσει τη σταυροφορία του για εκατοντάδες παιδιά του Σουδάν που επιστρατεύονταν δια της βίας. Σκηνοθεσία: Marc Forster. Πρωταγωνιστούν: Gerard Butler, Michelle Monaghan, Michael Shannon. (USA).(c)</desc>
   </programme>
   <programme start="20221002005000 +0300" stop="20221002031500 +0300" channel="BBC World">
     <title lang="el">Joan of Arc</title>
@@ -30433,9 +30437,9 @@
     <title lang="el">Sherlock Holmes</title>
     <desc lang="el">Ο ντετέκτιβ Σέρλοκ Χολμς και ο αφοσιωμένος συνεργάτης του, Γουάτσον, εμπλέκονται σε μια αναμέτρηση ευφυΐας και δύναμης με έναν άσπονδο εχθρό με σχέδια που αποτελούν απειλή για ολόκληρη την Αγγλία. Παίζουν: Robert Downey Jr., Jude Law, Rachel Mc Adams. Σκηνοθεσία: Guy Ritchie (2009) Σκηνοθεσία: Guy Ritchie. Πρωταγωνιστούν: Robert Downey Jr., Jude Law, Rachel Mc Adams. (2009).</desc>
   </programme>
-  <programme start="20221002210000 +0300" stop="20221002223000 +0300" channel="BBC World">
-    <title lang="el">Precious Cargo</title>
-    <desc lang="el">Ένα αφεντικό του οργανωμένου εγκλήματος προσπαθεί να το σκάσει με λάφυρα που ανήκουν σε έναν άλλον κλέφτη. Σκηνοθεσία: Max Adams. Πρωταγωνιστούν: Bruce Willis, Mark-Paul Gosselaar, Claire Forlani. (2016).</desc>
+  <programme start="20221002220000 +0300" stop="20221003002000 +0300" channel="BBC World">
+    <title lang="el">Θρύλοι του Πάθους</title>
+    <desc lang="el">Μια τραγική ιστορία ξετυλίγεται στην Αμερική λίγο πριν τον Α'Παγκόσμιο Πόλεμο, όταν μια γυναίκα μπαίνει στη ζωή τριών αδελφών και ξυπνά τις πιο βαθιές τους επιθυμίες... Η ταινία βραβεύτηκε με Οσκαρ. Δράμα, 1994. Σκηνοθεσία: Εντουαρντ Ζούικ. Πρωταγωνιστές: Μπραντ Πιτ, Αντονι Χόπκινς, Τζούλια Ορμοντ, Εϊνταν Κουίν.(c)</desc>
   </programme>
   <programme start="20221003002000 +0300" stop="20221003020500 +0300" channel="BBC World">
     <title lang="el">Το Οχυρό</title>
