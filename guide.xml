@@ -97,30 +97,37 @@
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -29212,9 +29219,9 @@
     <title lang="el">Ζόλταν, ο γητευτής των λύκων Κ1 ΕΠ1</title>
     <desc lang="el">Μια νέα σειρά περιπέτειας που επικεντρώνεται στον Ζόλταν Χορκάι, έναν ειδικό στα άγρια ζώα, που εκπαιδεύει ζώα για τον κινηματογράφο και την τηλεόραση. (2014).</desc>
   </programme>
-  <programme start="20221002220000 +0300" stop="20221002230000 +0300" channel="BBC World">
-    <title lang="el">Έρχεται η οικογένεια Έργουιν! Κ4 ΕΠ1</title>
-    <desc lang="el">Καθώς η μικρή Γκρέις ανακαλύπτει τον κόσμο, ο Ρόμπερτ επιχειρεί τη μεγαλύτερη μετακίνηση αλιγάτορα στην ιστορία του Australia Zoo. Στο μεταξύ, η Τέρι βοηθάει τους ελέφαντες της Σουμάτρας. (2022).</desc>
+  <programme start="20221002223000 +0300" stop="20221003002000 +0300" channel="BBC World">
+    <title lang="el">The Bachelor</title>
+    <desc lang="el">Η κόρη του πιο διάσημου καρδιοχειρουργού της Ελλάδας, η πανέμορφη Κατερίνα (Κατερίνα Γερονικολού), πρόκειται να παντρευτεί τον έρωτα της ζωής της, τον Αντώνη (Γιάννης Τσιμιτσέλης). Το μόνο πρόβλημα: Ο Αντώνης είναι ένας παρακατιανός νεκροθάφτης και ο Αριστείδης (Γιάννης Ζουγανέλης), ο ελιτιστής πατέρας της Κατερίνας, έχει βαλθεί να μην φτάσει το ζευγάρι στην εκκλησία. Σκηνοθεσία: Antonis Sotiropoulos. Πρωταγωνιστούν: Yannis Zouganelis, Yannis Tsimitselis, Katerina Geronikolou. (2016).(c)</desc>
   </programme>
   <programme start="20221003002000 +0300" stop="20221003030000 +0300" channel="BBC World">
     <title lang="el">Dog Eat Dog</title>
@@ -29240,9 +29247,9 @@
     <title lang="el">Sex and the City 2</title>
     <desc lang="el">Ενώ παλεύουν με τις πιέσεις της ζωής, του έρωτα και της δουλειάς στο Μανχάταν, η Κάρι, η Μιράντα και η Σάρλοτ συνοδεύουν τη Σαμάνθα σε ένα ταξίδι στο Άμπου Ντάμπι (Ηνωμένα Αραβικά Εμιράτα), όπου ο πρώην της Σαμάνθα γυρίζει μια νέα ταινία. Σκηνοθεσία: Michael Patrick King. Πρωταγωνιστούν: Sarah Jessica Parker, Cynthia Nixon, Kristin Davis. (2010).</desc>
   </programme>
-  <programme start="20221003210000 +0300" stop="20221003224000 +0300" channel="BBC World">
-    <title lang="el">Perfect Nanny</title>
-    <desc lang="el">Όταν η Μίριαμ, μητέρα δύο μικρών παιδιών, αποφασίζει – παρά τη διστακτικότητα του συζύγου της – να συνεχίσει τη δουλειά της σε μια νομική εταιρεία, το ζευγάρι αρχίζει να ψάχνει για νταντά. Σκηνοθεσία: Lucie Borleteau. Πρωταγωνιστούν: Karin Viard, Leïla Bekhti, Antoine Reinartz. (2019).</desc>
+  <programme start="20221003220000 +0300" stop="20221004001000 +0300" channel="BBC World">
+    <title lang="el">Warcraft: Η Σύγκρουση Δυο Κόσμων</title>
+    <desc lang="el">Το ειρηνικό βασίλειο Άζεροθ βρίσκεται στα πρόθυρα πολέμου καθώς είναι αντιμέτωπο με τρομακτικούς εισβολείς: πολεμιστές Ορκ εγκαταλείπουν την ετοιμοθάνατη πατρίδα τους για να δημιουργήσουν νέα αποικία. Περιπέτεια, 2016. Σκηνοθεσία: Ντάνκαν Τζόουνς. Πρωταγωνιστές: Τράβις Φίμελ, Μπεν Φόστερ, Πόλα Πάτον, Ντόμινικ Κούπερ.(c)</desc>
   </programme>
   <programme start="20221004001000 +0300" stop="20221004015000 +0300" channel="BBC World">
     <title lang="el">Η Παγίδα</title>
