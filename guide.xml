@@ -102,26 +102,32 @@
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -30264,9 +30270,9 @@
     <title lang="el">ΕΚΠΟΜΠΗ UCL (Συνέχεια) (Z)</title>
     <desc lang="el">ΕΚΠΟΜΠΗ UCL 2022-23.</desc>
   </programme>
-  <programme start="20221004220000 +0300" stop="20221004235000 +0300" channel="RIK">
-    <title lang="el">INTER - BARCELONA (Z)</title>
-    <desc lang="el">UEFA CHAMPIONS LEAGUE 2022-23.</desc>
+  <programme start="20221004230000 +0300" stop="20221005003200 +0300" channel="RIK">
+    <title lang="el">Les Petits Meurtres d'Agatha Christie</title>
+    <desc lang="el">Τηλεταινία.(c)</desc>
   </programme>
   <programme start="20221005003200 +0300" stop="20221005005900 +0300" channel="RIK">
     <title lang="el">Le Journal De La RTS</title>
@@ -31632,9 +31638,9 @@
     <title lang="el">Source Code</title>
     <desc lang="el">Ένας στρατιώτης ξυπνά στο σώμα κάποιου άλλου μέσα σε ένα αστικό τρένο που θα δεχτεί βομβιστική επίθεση σε 8 λεπτά. Κάθε φορά που δεν καταφέρνει να ανακαλύψει τον βομβιστή, πηγαίνει 8 λεπτά πίσω για να ξαναπροσπαθήσει άλλη μια φορά. Σκηνοθεσία: Duncan Jones. Πρωταγωνιστούν: Jake Gyllenhaal, Michelle Monaghan, Vera Farmiga. (2011).</desc>
   </programme>
-  <programme start="20221005210000 +0300" stop="20221005230000 +0300" channel="BBC World">
-    <title lang="el">Sicario: Day of the Soldado</title>
-    <desc lang="el">Ο πόλεμος των ναρκωτικών στη μεθόριο ΗΠΑ-Μεξικού έχει κλιμακωθεί, επειδή τα καρτέλ άρχισαν να διακινούν τρομοκράτες πέρα από τα αμερικανικά σύνορα. Για να αντιμετωπίσει την κρίση, ο ομοσπονδιακός πράκτορας Ματ Γκρέιβερ ενώνει και πάλι τις δυνάμεις του με τον σπιρτάτο αλλά ευμετάβλητο Αλεχάντρο. Παίζουν: Benicio Del Toro, Josh Brolin, Isabela Moner . Σκηνοθεσία: Stefano Sollima (2018) Σκηνοθεσία: Stefano Sollima. Πρωταγωνιστούν: Benicio Del Toro, Josh Brolin, Isabela Moner . (2018).</desc>
+  <programme start="20221005220000 +0300" stop="20221006002500 +0300" channel="BBC World">
+    <title lang="el">Μακρινός Ορίζοντας</title>
+    <desc lang="el">Με φόντο τις ΗΠΑ του 19ου αιώνα, ο Ρον Χάουαρντ, ένας από τους κορυφαίους σκηνοθέτες του Χόλιγουντ, παρουσιάζει με ρεαλισμό τον επίμονο αγώνα ενός άντρα να κατακτήσει το περίφημο 'αμερικανικό όνειρο'. Ρομαντική, 1992. Σκηνοθεσία: Ρον Χάουαρντ. Πρωταγωνιστές: Τομ Κρουζ, Νικόλ Κίντμαν, Τζάρεντ Χάρις.(c)</desc>
   </programme>
   <programme start="20221006002500 +0300" stop="20221006022500 +0300" channel="BBC World">
     <title lang="el">White as Snow</title>
