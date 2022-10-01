@@ -97,30 +97,37 @@
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -31311,9 +31318,9 @@
     <title lang="el">ΕΚΠΟΜΠΗ UCL (Συνέχεια) (Z)</title>
     <desc lang="el">ΕΚΠΟΜΠΗ UCL 2022-23.</desc>
   </programme>
-  <programme start="20221005220000 +0300" stop="20221005235000 +0300" channel="RIK">
-    <title lang="el">CHELSEA - MILAN (Z)</title>
-    <desc lang="el">UEFA CHAMPIONS LEAGUE 2022-23.</desc>
+  <programme start="20221005230100 +0300" stop="20221006003200 +0300" channel="RIK">
+    <title lang="el">Objectif Monde</title>
+    <desc lang="el">Objectif Monde.(c)</desc>
   </programme>
   <programme start="20221006003200 +0300" stop="20221006005900 +0300" channel="RIK">
     <title lang="el">Le Journal De La RTS</title>
@@ -32727,9 +32734,9 @@
     <title lang="el">Grace of Monaco</title>
     <desc lang="el">Η ιστορία της κρίσης γάμου και ταυτότητας της πρώην σταρ του Χόλιγουντ, Γκρέις Κέλι, κατά τη διάρκεια μιας πολιτικής διαμάχης μεταξύ του Πρίγκιπα Ρενιέ Γ' του Μονακό και του Γάλλου Σαρλ Ντε Γκωλ και μιας επικείμενης γαλλικής εισβολής στο Μονακό στις αρχές της δεκαετίας του 1960. Σκηνοθεσία: Olivier Dahan. Πρωταγωνιστούν: Nicole Kidman, Tim Roth, André Penvern. (2014).</desc>
   </programme>
-  <programme start="20221006210000 +0300" stop="20221006225000 +0300" channel="BBC World">
-    <title lang="el">Indignation</title>
-    <desc lang="el">Ο Μάρκους είναι ένας νεαρός ιδεαλιστής, εβραϊκής καταγωγής που ζει στη συντηρητική κοινωνία των ΗΠΑ στις αρχές την δεκαετίας του ’50. Θα εγκαταλείψει την πόλη του για να σπουδάσει με υποτροφία σε ένα έγκριτο Κολέγιο του Οχάιο ενώ ταυτόχρονα θα αποφύγει και την στρατολόγηση του καθώς και το ενδεχόμενο να βρεθεί σε κάποια εμπόλεμη ζώνη της Κορέας. Σκηνοθεσία: James Schamus. Πρωταγωνιστούν: Logan Lerman, Sarah Gadon, Tijuana Ricks. (2016).</desc>
+  <programme start="20221006220000 +0300" stop="20221007002000 +0300" channel="BBC World">
+    <title lang="el">The Amazing Spider-Man</title>
+    <desc lang="el">Στην προσπάθειά του να ανακαλύψει το παρελθόν του, ένας μοναχικός έφηβος έρχεται αντιμέτωπος με μια θανάσιμη απειλή και παίρνει τη μοιραία απόφαση να χρησιμοποιήσει τις μυστηριώδεις δυνάμεις του! Περιπέτεια, 2012. Σκηνοθεσία: Μαρκ Γουέμπ. Πρωταγωνιστές: Αντριου Γκάρφιλντ, Εμα Στόουν, Μάρτιν Σιν, Ρις Ιφανς.(c)</desc>
   </programme>
   <programme start="20221007002000 +0300" stop="20221007025000 +0300" channel="BBC World">
     <title lang="el">Spider-Man: No Way Home</title>
