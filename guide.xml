@@ -97,30 +97,37 @@
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -31029,9 +31036,9 @@
     <title lang="el">Αποκλειστικά στην Cablenet</title>
     <desc lang="el">Αποκλειστικά στην Cablenet.</desc>
   </programme>
-  <programme start="20221005220000 +0300" stop="20221005235000 +0300" channel="RIK">
-    <title lang="el">Αποκλειστικά στην Cablenet</title>
-    <desc lang="el">Αποκλειστικά στην Cablenet.</desc>
+  <programme start="20221005230000 +0300" stop="20221006003200 +0300" channel="RIK">
+    <title lang="el">NOUS TOUS</title>
+    <desc lang="el">Ταινία.(c)</desc>
   </programme>
   <programme start="20221006003200 +0300" stop="20221006005900 +0300" channel="RIK">
     <title lang="el">Le Journal De La RTS</title>
@@ -32385,9 +32392,9 @@
     <title lang="el">Οι Άγγελοι των Διασώσεων Κ1 ΕΠ1</title>
     <desc lang="el">Ο Ρομπ, ο ιδρυτής της ομάδας, και οι ερευνητές Μαρσελίν, Μπιλ και Ελ προσπαθούν να ξεσκεπάσουν έναν παράνομο έμπορο κουταβιών. Ακόμα, οι Μπράιαν και Φέις ψάχνουν έναν σκύλο στη συλλογή ενός μηχανικού. (2016).</desc>
   </programme>
-  <programme start="20221006220000 +0300" stop="20221006230000 +0300" channel="BBC World">
-    <title lang="el">Οι Άγγελοι των Διασώσεων Κ1 ΕΠ2</title>
-    <desc lang="el">Ο Ρομπ και ο κτηνίατρος Μους ερευνούν φήμες για κυνομαχίες, ενώ οι Μπράιαν και Φέις προσπαθούν να βοηθήσουν έναν επιθετικό αλυσοδεμένο σκύλο. Ακόμα, η Ντόρι βοηθά έναν άστεγο βετεράνο και τις γάτες του. (2016).</desc>
+  <programme start="20221006225000 +0300" stop="20221007005000 +0300" channel="BBC World">
+    <title lang="el">Skin</title>
+    <desc lang="el">Ένας άπορος νεαρός, μεγαλωμένος από ρατσιστές σκίνχεντ και πασίγνωστος στους κύκλους των υπέρμαχων της λευκής κυριαρχίας, γυρίζει την πλάτη στο μίσος και τη βία για να αλλάξει τη ζωή του με τη βοήθεια ενός μαύρου ακτιβιστή και της γυναίκας που αγαπά. Σκηνοθεσία: Guy Nattiv. Πρωταγωνιστούν: Jamie Bell, Danielle Macdonald, Daniel Henshall. (2018).(c)</desc>
   </programme>
   <programme start="20221007005000 +0300" stop="20221007030000 +0300" channel="BBC World">
     <title lang="el">Taking Lives</title>
@@ -32413,9 +32420,9 @@
     <title lang="el">The Zookeeper's Wife</title>
     <desc lang="el">Η ταινία “Η Γυναίκα του Ζωολογικού Κήπου” αφηγείται την ιστορία των Αντονίνα και Ζαν Ζαμπίνσκι, φυλάκων του ζωολογικού κήπου της Βαρσοβίας, οι οποίοι βοήθησαν να σωθούν εκατοντάδες άνθρωποι και ζώα κατά τη διάρκεια της γερμανικής εισβολής. Σκηνοθεσία: Niki Caro. Πρωταγωνιστούν: Jessica Chastain, Johan Heldenbergh,  Daniel Brühl . (2017).</desc>
   </programme>
-  <programme start="20221007210000 +0300" stop="20221007223500 +0300" channel="BBC World">
-    <title lang="el">Come Away</title>
-    <desc lang="el">Όταν ο μεγαλύτερος αδερφός τους πεθαίνει, ο Πίτερ και η Άλις προσπαθούν να σώσουν τους γονείς τους από την απόγνωση, μέχρι που αναγκάζονται να διαλέξουν ανάμεσα στο σπίτι και τη φαντασία, γεγονός που βάζει τα θεμέλια για τα εμβληματικά ταξίδια τους στη Χώρα των Θαυμάτων και τη Χώρα του Ποτέ. Σκηνοθεσία: Brenda Chapman. Πρωταγωνιστούν: Gugu Mbatha-Raw, Carter Thomas, Ava Fillery. (2020).</desc>
+  <programme start="20221007220000 +0300" stop="20221008000500 +0300" channel="BBC World">
+    <title lang="el">Δικαιοσύνη για Όλους</title>
+    <desc lang="el">Ένας νεαρός δικηγόρος αντιμετωπίζει ηθικό δίλημμα, όταν καλείται να υπερασπιστεί έναν δικαστή, κατηγορούμενο για βιασμό, με τον οποίο είχε συγκρουστεί στο παρελθόν... Η ταινία προτάθηκε για 2 Όσκαρ. Αστυνομική, 1979. Σκηνοθεσία: Νόρμαν Τζούισον. Πρωταγωνιστές: Αλ Πατσίνο, Τζον Φορσάιθ, Τζακ Γουόρντεν.(c)</desc>
   </programme>
   <programme start="20221008000500 +0300" stop="20221008014500 +0300" channel="BBC World">
     <title lang="el">Μαντ Ντογκ και Γκλόρια</title>
@@ -32469,9 +32476,9 @@
     <title lang="el">Ο Βασιλιάς της Μοναξιάς</title>
     <desc lang="el">Στη σύγχρονη Νέα Υόρκη, ένας πρώην καθηγητής ιστορίας κι ένας ραδιοφωνικός παραγωγός αναζητούν το Αγιο Δισκοπότηρο και τον ίδιο τον εαυτό τους. Η ταινία απέσπασε ένα Οσκαρ και 2 Χρυσές Σφαίρες. Κωμωδία, 1991. Σκηνοθεσία: Τέρι Γκίλιαμ. Πρωταγωνιστές: Ρόμπιν Γουίλιαμς, Τζεφ Μπρίτζες, Μερσέντες Ρούελ.</desc>
   </programme>
-  <programme start="20221008230000 +0300" stop="20221009002000 +0300" channel="BBC World">
-    <title lang="el">Adventure Time - Arabic Only Κ1</title>
-    <desc lang="el">- / - / - / - / - / - / - / -  (2009).</desc>
+  <programme start="20221008221000 +0300" stop="20221008235500 +0300" channel="BBC World">
+    <title lang="el">Βρέχει Κεφτέδες 2</title>
+    <desc lang="el">Ο ενθουσιώδης εφευρέτης Φλιντ βρίσκει τη δουλειά των ονείρων του. Η δαιμόνια μηχανή του, όμως, εξακολουθεί να 'γεννά'μεταλλαγμένα φαγητά, και είναι ο μόνος που μπορεί να τη σταματήσει! Κινούμενα Σχέδια, 2013. Σκηνοθεσία: Κόντι Κάμερον, Κρις Περν.(c)</desc>
   </programme>
   <programme start="20221009002000 +0300" stop="20221009014500 +0300" channel="BBC World">
     <title lang="el">Regular Show Κ2</title>
