@@ -67,54 +67,67 @@
   </channel>
   <channel id="CHANNEL 9">
     <display-name lang="el">CHANNEL 9</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/el/0/0a/Channel9.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="AE CHANNEL">
     <display-name lang="el">A.EPSILON</display-name>
+    <icon src="https://www.nicepng.com/png/detail/223-2235783_apps-a-e-channel-logo.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="HIGH TV">
     <display-name lang="el">HIGH TV</display-name>
+    <icon src="https://i37.servimg.com/u/f37/16/92/15/82/logo_h10.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="KONTRA CHANNEL">
     <display-name lang="el">KONTRA CHANNEL</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/el/b/b8/Kontra_channel_new_logo.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="MAD">
     <display-name lang="el">MAD</display-name>
+    <icon src="https://mad.tv/wp-content/uploads/2018/02/mad_logo_yellow.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="RISE TV">
     <display-name lang="el">RISE TV</display-name>
+    <icon src="https://i0.wp.com/typologies.gr/wp-content/uploads/2018/09/Rice-TV2.png?resize=350%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -30558,9 +30571,13 @@
     <title lang="el">Novasports2</title>
     <desc lang="el">Ενα κανάλι αφιερωμένο στο ευρωπαϊκό και το παγκόσμιο ποδόσφαιρο με συνεχή δράση από την Παρασκευή μέχρι τη Δευτέρα, αλλά και τις υπόλοιπες μέρες της εβδομάδας όταν πραγματοποιούνται εμβόλιμες αγωνιστικές και παιχνίδια κυπέλλων.</desc>
   </programme>
-  <programme start="20221006213000 +0300" stop="20221006233000 +0300" channel="RIK">
-    <title lang="el">Μπάγερν Μονάχου - Φενέρμπαχτσε (Ζ)</title>
-    <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'. Μπάσκετ.</desc>
+  <programme start="20221006223000 +0300" stop="20221006230000 +0300" channel="RIK">
+    <title lang="el">Αποκλειστικά στην Cablenet</title>
+    <desc lang="el">Αποκλειστικά στην Cablenet.(c)</desc>
+  </programme>
+  <programme start="20221006230000 +0300" stop="20221007002000 +0300" channel="RIK">
+    <title lang="el">MY TINY RESTAURANT</title>
+    <desc lang="el">Ψυχαγωγικό μαγκαζίνο.(c)</desc>
   </programme>
   <programme start="20221007002000 +0300" stop="20221007004600 +0300" channel="RIK">
     <title lang="el">Le Journal De La RTS</title>
@@ -31930,9 +31947,9 @@
     <title lang="el">Κολυμπώντας με τέρατα: Στιβ Μπάκσαλ Κ1 ΕΠ2</title>
     <desc lang="el">Ο Στιβ επιχειρεί να κολυμπήσει με το πιο επικίνδυνο ζώο της Αφρικής, τον ιπποπόταμο. Μπορεί να πλησιάσει αρκετά, ώστε να μελετήσει την κρυφή υποβρύχια συμπεριφορά τους; (2012).</desc>
   </programme>
-  <programme start="20221008220000 +0300" stop="20221008230000 +0300" channel="BBC World">
-    <title lang="el">Σκληρή δικαιοσύνη Κ2 ΕΠ2</title>
-    <desc lang="el">Θηροφύλακες αντιμετωπίζουν λαθροκυνηγούς αρκούδας, καθώς ένας μεθυσμένος ύποπτος κατευθύνεται στη φυλακή. Επίσης, ένας καταζητούμενος άνδρας συλλαμβάνεται καθώς ερωτοτροπεί με μια γυναίκα. (2015).</desc>
+  <programme start="20221008223500 +0300" stop="20221009013500 +0300" channel="BBC World">
+    <title lang="el">The Wolf of Wall Street</title>
+    <desc lang="el">Ταινία βασισμένη στην αληθινή ιστορία του Τζόρνταν Μπέλφορτ, από την ανάδειξή του σε πλούσιο χρηματιστή που ζούσε βασιλικά, μέχρι την πτώση του που περιλάμβανε έγκλημα, διαφθορά και την επέμβαση της ομοσπονδιακής κυβέρνησης. Σκηνοθεσία: Martin Scorsese. Πρωταγωνιστούν: Leonardo DiCaprio, Jonah Hill, Margot Robbie. (2013).(c)</desc>
   </programme>
   <programme start="20221009013500 +0300" stop="20221009031000 +0300" channel="BBC World">
     <title lang="el">Ghost Ship</title>
@@ -32038,9 +32055,9 @@
     <title lang="el">Joe Bell</title>
     <desc lang="el">Για να τιμήσει τον γιο του, ένας άνδρας ξεκινά μία πεζοπορία από το Όρεγκον  μέχρι τη Νέα Υόρκη, στη διάρκεια της οποίας προσπαθεί να ευαισθητοποιήσει τον κόσμο για τις συνέπειες του μπούλινγκ. Αληθινή ιστορία, 2020. Σκηνοθεσία: Ρεϊνάλντο Μάρκους Γκριν. Πρωταγωνιστές: Μαρκ Γουόλμπεργκ, Κόνι Μπρίτον, Γκάρι Σινίζ.</desc>
   </programme>
-  <programme start="20221010230000 +0300" stop="20221011002000 +0300" channel="BBC World">
-    <title lang="el">Adventure Time - Arabic Only Κ1</title>
-    <desc lang="el">- / - / - / - / - / - / - / -  (2009).</desc>
+  <programme start="20221010220000 +0300" stop="20221010234000 +0300" channel="BBC World">
+    <title lang="el">Ψυχώ Νο 3: Στον Τόπο του Εγκλήματος</title>
+    <desc lang="el">Ο Νόρμαν διευθύνει το μικρό του μοτέλ με τη βοήθεια ενός νεαρού βοηθού που έχει προσλάβει και προσπαθεί να ξαναφτιάξει τη ζωή του. Τελικά μπορεί ένας άνθρωπος να ελευθερωθεί από τα πάθη του; Τρόμου, 1986. Σκηνοθεσία: Αντονι Πέρκινς. Πρωταγωνιστές: Αντονι Πέρκινς, Νταϊάνα Σκάργουϊντ, Ρομπέρτα Μάξουελ, Τζεφ Φάχι.(c)</desc>
   </programme>
   <programme start="20221011002000 +0300" stop="20221011014500 +0300" channel="BBC World">
     <title lang="el">Regular Show Κ3</title>
