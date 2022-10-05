@@ -92,34 +92,42 @@
   </channel>
   <channel id="RISE TV">
     <display-name lang="el">RISE TV</display-name>
+    <icon src="https://i0.wp.com/typologies.gr/wp-content/uploads/2018/09/Rice-TV2.png?resize=350%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -31714,9 +31722,9 @@
     <title lang="el">Ζόλταν, ο γητευτής των λύκων Κ1 ΕΠ2</title>
     <desc lang="el">Μια νέα σειρά περιπέτειας που επικεντρώνεται στον Ζόλταν Χορκάι, έναν ειδικό στα άγρια ζώα, που εκπαιδεύει ζώα για τον κινηματογράφο και την τηλεόραση. (2014).</desc>
   </programme>
-  <programme start="20221009220000 +0300" stop="20221009230000 +0300" channel="BBC World">
-    <title lang="el">Έρχεται η οικογένεια Έργουιν! Κ4 ΕΠ2</title>
-    <desc lang="el">Ο Ρόμπερτ αντιμετωπίζει έναν επιθετικό φασκολώμυ, ενώ για τη Νίκι, ένα γιγάντιο ανακόντα, είναι μέρα μετακόμισης. Η Τέρι βοηθάει με τη φροντίδα εκατοντάδων πουλιών λόρι που τραυματίστηκαν από χαλάζι. (2022).</desc>
+  <programme start="20221009224000 +0300" stop="20221010001000 +0300" channel="BBC World">
+    <title lang="el">Shut In</title>
+    <desc lang="el">Ένα συγκλονιστικό θρίλερ με ηρωίδα μια χήρα παιδοψυχολόγο που ζει αποτραβηγμένη στην επαρχία της Νέας Αγγλίας. Παγιδευμένη σε μια φονική θύελλα κάποιον χειμώνα, πρέπει να βρει τρόπο να σώσει ένα νεαρό αγόρι πριν αυτό εξαφανιστεί για πάντα. Σκηνοθεσία: Farren Blackburn. Πρωταγωνιστούν: Naomi Watts, Charlie Heaton, Oliver Platt. (2016).(c)</desc>
   </programme>
   <programme start="20221010001000 +0300" stop="20221010030000 +0300" channel="BBC World">
     <title lang="el">Guns Akimbo</title>
@@ -31810,9 +31818,9 @@
     <title lang="el">Ghostbusters: Afterlife</title>
     <desc lang="el">Μία μητέρα φτάνει με τα δύο της παιδιά σε μία μικρή πόλη και γρήγορα οι τρεις τους ανακαλύπτουν τη σχέση τους με τους αρχικούς Ghostbusters και την κληρονομιά που άφησε πίσω ο παππούς τους. Περιπέτεια, 2021. Σκηνοθεσία: Τζέισον Ράιτμαν. Πρωταγωνιστές: Μπιλ Μάρεϊ, Σιγκούρνι Γουίβερ, Τζέι Κέι Σίμονς, Πολ Ραντ.</desc>
   </programme>
-  <programme start="20221011220000 +0300" stop="20221011235000 +0300" channel="BBC World">
-    <title lang="el">Every Breath You Take</title>
-    <desc lang="el">Μετά την αυτοκτονία μίας ασθενούς του, ένας ψυχίατρος στηρίζει τον καταρρακωμένο αδελφό της και τον υποδέχεται στο σπίτι του. Σύντομα, όμως, η καριέρα και η οικογένειά του βρίσκονται σε κίνδυνο. Μυστηρίου, 2021. Σκηνοθεσία: Βον Στάιν. Πρωταγωνιστές: Κέισι Αφλεκ, Μισέλ Μόναχαν, Σαμ Κλάφλιν.</desc>
+  <programme start="20221011230000 +0300" stop="20221012002000 +0300" channel="BBC World">
+    <title lang="el">Adventure Time - Arabic Only Κ1</title>
+    <desc lang="el">- / - / - / - / - / - / - / -  (2009).(c)</desc>
   </programme>
   <programme start="20221012002000 +0300" stop="20221012014500 +0300" channel="BBC World">
     <title lang="el">Regular Show Κ3</title>
