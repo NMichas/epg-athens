@@ -87,38 +87,47 @@
   </channel>
   <channel id="MAD">
     <display-name lang="el">MAD</display-name>
+    <icon src="https://mad.tv/wp-content/uploads/2018/02/mad_logo_yellow.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="RISE TV">
     <display-name lang="el">RISE TV</display-name>
+    <icon src="https://i0.wp.com/typologies.gr/wp-content/uploads/2018/09/Rice-TV2.png?resize=350%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -31680,9 +31689,9 @@
     <title lang="el">Εισβολείς Κ1 ΕΠ3</title>
     <desc lang="el">Στο Ντιτρόιτ, ένας βρόμικος γείτονας μετατρέπει ένα ονειρεμένο διαμέρισμα σε εφιάλτη. Στην Καλιφόρνια, μια μητέρα προστατεύει τον γιο της, που είναι άτομο με ειδικές ανάγκες, από δηλητηριώδη φίδια. (2017).</desc>
   </programme>
-  <programme start="20221014220000 +0300" stop="20221014230000 +0300" channel="BBC World">
-    <title lang="el">Έχω τέρατα μέσα μου Κ6 ΕΠ5</title>
-    <desc lang="el">Ένα μωρό που αναμένεται να γεννηθεί τα Χριστούγεννα μολύνεται στη μήτρα, το Χάνουκα ματαιώνεται εξαιτίας μόλυνσης, και η Γιορτή των Ευχαριστιών παίρνει άλλη τροπή για έναν δάσκαλο. (2015).</desc>
+  <programme start="20221014225000 +0300" stop="20221015003500 +0300" channel="BBC World">
+    <title lang="el">Dans LA Foret</title>
+    <desc lang="el">Τα νεαρά αδέρφια Τομ και Μπέντζαμιν ταξιδεύουν στη Σουηδία για να περάσουν τις καλοκαιρινές τους διακοπές με τον αποξενωμένο πατέρα τους, έναν μυστηριώδη και μοναχικό άντρα που επιμένει να πάνε και οι τρεις σε ένα απόμερο σπίτι σε ένα τρομακτικό απέραντο δάσος. Σκηνοθεσία: Gilles Marchand. Πρωταγωνιστούν: Jeremie Elkaim, Timothe Vom Dorp, Theo Van de Voorde. (2016).(c)</desc>
   </programme>
   <programme start="20221015003500 +0300" stop="20221015024000 +0300" channel="BBC World">
     <title lang="el">Wild tales aka Relatos Salvajes</title>
