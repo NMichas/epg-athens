@@ -27,30 +27,37 @@
   </channel>
   <channel id="STAR">
     <display-name lang="el">STAR</display-name>
+    <icon src="https://www.star.gr/tv/images/640x360/jpg/files/star1200x630n.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ART TV">
     <display-name lang="el">ART TV</display-name>
+    <icon src="https://i0.wp.com/www.livetvgr.com/wp-content/uploads/2018/12/art1-e1552571192350.png?fit=310%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ETV">
     <display-name lang="el">ETV</display-name>
+    <icon src="https://www.newsit.gr/wp-content/uploads/2017n/07/etv_logo.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ART">
     <display-name lang="el">ART</display-name>
+    <icon src="https://i0.wp.com/www.livetvgr.com/wp-content/uploads/2018/12/art1-e1552571192350.png?fit=310%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="EXTRA">
     <display-name lang="el">EXTRA</display-name>
+    <icon src="https://www.zappit.gr/wp-content/uploads/2016n/05/zp_36971_extra.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ACTION24">
     <display-name lang="el">ACTION24</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Action_24_new_logo.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ATTICA TV">
     <display-name lang="el">ATTICA TV</display-name>
+    <icon src="https://www.radiotvlink.com/images/amydv/atticatv_logo_900.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="BLUE SKY">
@@ -9392,6 +9399,13 @@
       <value>5</value>
     </rating>
   </programme>
+  <programme start="20221017000000 +0300" stop="20221017003000 +0300" channel="ETV">
+    <title lang="el">[K8] Νυχτερινή Ζώνη Τηλεπωλήσεων Α'</title>
+    <desc lang="el">Εκπομπή τηλεπωλήσεων.(r)</desc>
+    <rating system="GR">
+      <value>5</value>
+    </rating>
+  </programme>
   <programme start="20221017003000 +0300" stop="20221017013000 +0300" channel="ETV">
     <title lang="el">[K18] Ζώδια Και Ωροσκόποι</title>
     <desc lang="el">Εκπομπή αστρολογίας.</desc>
@@ -10088,6 +10102,13 @@
   <programme start="20221017220000 +0300" stop="20221017000000 +0300" channel="ART">
     <title lang="el">[K8] Χωρίς Χρώμα</title>
     <desc lang="el">Ενημερωτική εκπομπή με τον Γιώργο Βαθιώτη.</desc>
+    <rating system="GR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20221017000000 +0300" stop="20221017010000 +0300" channel="ART">
+    <title lang="el">[K8] Εγέρθητι</title>
+    <desc lang="el">Πολιτική εκπομπή με τον Κωστή Αϊβαλιώτη.(r)</desc>
     <rating system="GR">
       <value>5</value>
     </rating>
@@ -25979,31 +26000,49 @@
     <category lang="el">Special</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040035870112000800.jpg/334b3775-77b0-e251-c320-937531482c14?version=1.0&amp;t=1628097014684"/>
   </programme>
-  <programme start="20221017050000 +0300" stop="20221017090000 +0300" channel="VOULI">
+  <programme start="20221017050000 +0300" stop="20221017083000 +0300" channel="VOULI">
     <title lang="el">Επανάληψη Προγράμματος</title>
     <desc lang="el">Παρακολουθήστε πρόγραμμα σε επανάληψη.</desc>
     <category lang="el">Special</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040035870112000800.jpg/334b3775-77b0-e251-c320-937531482c14?version=1.0&amp;t=1628097014684"/>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040035870012000800.jpg/e48259f9-4083-e96e-c239-0d3542c5eded?version=1.0&amp;t=1664313871556"/>
   </programme>
-  <programme start="20221017090000 +0300" stop="20221017090500 +0300" channel="VOULI">
+  <programme start="20221017083000 +0300" stop="20221017085500 +0300" channel="VOULI">
+    <title lang="el">Έλληνες Αειναύτες</title>
+    <desc lang="el">H ιστορία, η παράδοση και η εξέλιξη της ελληνικής ναυτιλίας, οι άνθρωποι που την διαμόρφωσαν, οι τόποι που πρωτοστάτησαν στην ανάπτυξή της, οι λόγοι και οι αιτίες που την οδήγησαν στην πρωτοκαθεδρία της παγκόσμιας ναυτιλιακής βιομηχανίας.</desc>
+    <category lang="el">Ιστορικό - Πολεμικό</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040015086412000800.jpg/96cdf704-88ab-1678-f96e-450853edd34e?version=1.0&amp;t=1655241986300"/>
+  </programme>
+  <programme start="20221017085500 +0300" stop="20221017090000 +0300" channel="VOULI">
     <title lang="el">Σαν Σήμερα στην Πολιτική</title>
     <desc lang="el">Ανασκόπηση των σημαντικότερων πολιτικών γεγονότων που συνέβησαν σαν σήμερα.</desc>
     <category lang="el">Other</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040026819312000800.jpg/7fd495ac-04f5-4325-e679-5f84982d1749?version=1.0&amp;t=1613428875856"/>
   </programme>
-  <programme start="20221017090500 +0300" stop="20221017100000 +0300" channel="VOULI">
+  <programme start="20221017090000 +0300" stop="20221017100000 +0300" channel="VOULI">
     <title lang="el">Πρωινή Επισκόπηση</title>
-    <desc lang="el">Καθημερινή ενημερωτική εκπομπή με τον Λάμπρο Πέγκο.</desc>
+    <desc lang="el">Καθημερινή ενημερωτική εκπομπή με τον Λάμπρο Πέγγο και τη Λουκία Γκάτσου.</desc>
     <category lang="el">Εκπομπή - Μαγκαζίνο</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040026319612000800.jpg/0f867e29-87b5-fba1-c6d2-35f7b3cbd32e?version=1.0&amp;t=1661895078761"/>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040032055612000800.jpg/56b7a43e-d9af-0637-bf16-eaa371effd99?version=1.0&amp;t=1662153652993"/>
   </programme>
-  <programme start="20221017100000 +0300" stop="20221017180000 +0300" channel="VOULI">
+  <programme start="20221017100000 +0300" stop="20221017130000 +0300" channel="VOULI">
     <title lang="el">Κοινοβουλευτικό Έργο</title>
     <desc lang="el">Κοινοβουλευτικό έργο.</desc>
     <category lang="el">Εκπομπή - Μαγκαζίνο</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040006841112000800.jpg/4a6894f1-c9d4-2d2c-9646-f6f32ff1b0bd?version=1.0&amp;t=1661895079062"/>
   </programme>
-  <programme start="20221017180000 +0300" stop="20221017220000 +0300" channel="VOULI">
+  <programme start="20221017130000 +0300" stop="20221017160000 +0300" channel="VOULI">
+    <title lang="el">Κοινοβουλευτικό Έργο</title>
+    <desc lang="el">Κοινοβουλευτικό έργο.</desc>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040006841112000800.jpg/4a6894f1-c9d4-2d2c-9646-f6f32ff1b0bd?version=1.0&amp;t=1661895079062"/>
+  </programme>
+  <programme start="20221017160000 +0300" stop="20221017190000 +0300" channel="VOULI">
+    <title lang="el">Κοινοβουλευτικό Έργο</title>
+    <desc lang="el">Κοινοβουλευτικό έργο.</desc>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040006841112000800.jpg/4a6894f1-c9d4-2d2c-9646-f6f32ff1b0bd?version=1.0&amp;t=1661895079062"/>
+  </programme>
+  <programme start="20221017190000 +0300" stop="20221017220000 +0300" channel="VOULI">
     <title lang="el">Κοινοβουλευτικό Έργο</title>
     <desc lang="el">Κοινοβουλευτικό έργο.</desc>
     <category lang="el">Εκπομπή - Μαγκαζίνο</category>
@@ -26015,11 +26054,81 @@
     <category lang="el">Ψυχαγωγική εκπομπή</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040007480212000800.jpg/81ea1957-1570-989a-6d0b-99248454da54?version=1.0&amp;t=1660598944648"/>
   </programme>
-  <programme start="20221017230000 +0300" stop="20221018004500 +0300" channel="VOULI">
-    <title lang="el">Ντοκιμαντέρ</title>
-    <desc lang="el">Το Κανάλι της Βουλής σας παρουσιάζει μια ευρεία γκάμα από επιλεγμένα ντοκιμαντέρ.</desc>
+  <programme start="20221017230000 +0300" stop="20221018003000 +0300" channel="VOULI">
+    <title lang="el">Η Δυναστεία των Τσιρκολάνων</title>
+    <desc lang="el">Ο Μπένι Μπερντίνο, ιδιοκτήτης ενός από τα μεγαλύτερα τσίρκο στην Ευρώπη, έχει ένα όνειρο: να εξασφαλίσει τη συνέχεια της δυναστείας του μέσω του γάμου του εγγόνου του Πάτρικ Μπερντίνο με την αρτίστα του τσίρκου Μεριλού Κάσελι.</desc>
+    <date>2014</date>
+    <category lang="el">Ντοκιμαντέρ</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040035903112000800.jpg/73e691d4-5145-1f40-427d-a9bdcce452be?version=1.0&amp;t=1665523552741"/>
+  </programme>
+  <programme start="20221018003000 +0300" stop="20221018010000 +0300" channel="VOULI">
+    <title lang="el">Μαγικός Φανός</title>
+    <desc lang="el">Επεισόδιο: Δημήτρης Τάρλοου. Σημαντικοί Έλληνες μιλούν για τη σχέση τους με τις τέχνες, τα γράμματα και τον αθλητισμό.</desc>
+    <credits>
+      <director>Κώστας Αριστόπουλος</director>
+    </credits>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040006755412000800.jpg/9b9827fc-ad60-16d9-0dfe-d2e99a0a72f3?version=1.0&amp;t=1657833742805"/>
+  </programme>
+  <programme start="20221018010000 +0300" stop="20221018020000 +0300" channel="VOULI">
+    <title lang="el">Πρωινή Επισκόπηση</title>
+    <desc lang="el">Καθημερινή ενημερωτική εκπομπή με τον Λάμπρο Πέγκο.</desc>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040026319612000800.jpg/0f867e29-87b5-fba1-c6d2-35f7b3cbd32e?version=1.0&amp;t=1661895078761"/>
+  </programme>
+  <programme start="20221018020000 +0300" stop="20221018060000 +0300" channel="VOULI">
+    <title lang="el">Επανάληψη Προγράμματος</title>
+    <desc lang="el">Παρακολουθήστε πρόγραμμα σε επανάληψη.</desc>
+    <category lang="el">Special</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040035870112000800.jpg/334b3775-77b0-e251-c320-937531482c14?version=1.0&amp;t=1628097014684"/>
+  </programme>
+  <programme start="20221018060000 +0300" stop="20221018083000 +0300" channel="VOULI">
+    <title lang="el">Επανάληψη Προγράμματος</title>
+    <desc lang="el">Παρακολουθήστε πρόγραμμα σε επανάληψη.</desc>
+    <category lang="el">Special</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040035870112000800.jpg/334b3775-77b0-e251-c320-937531482c14?version=1.0&amp;t=1628097014684"/>
+  </programme>
+  <programme start="20221018083000 +0300" stop="20221018085500 +0300" channel="VOULI">
+    <title lang="el">Τα Νέα της Ε.Σ.Α.μεΑ</title>
+    <desc lang="el">Η θεματολογία της εκπομπής αφορά τα ζητήματα που αντιμετωπίζουν τα άτομα με αναπηρία, χρόνιες παθήσεις και οι οικογένειές τους στη χώρα μας.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040026899812000800.jpg/f3257306-2c74-20d0-cfd6-ffbdf6849ea6?version=1.0&amp;t=1580839878992"/>
+  </programme>
+  <programme start="20221018085500 +0300" stop="20221018090000 +0300" channel="VOULI">
+    <title lang="el">Σαν Σήμερα στην Πολιτική</title>
+    <desc lang="el">Ανασκόπηση των σημαντικότερων πολιτικών γεγονότων που συνέβησαν σαν σήμερα.</desc>
     <category lang="el">Other</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034580412000800.jpg?version=1.0&amp;t=1665437636171"/>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040026819312000800.jpg/7fd495ac-04f5-4325-e679-5f84982d1749?version=1.0&amp;t=1613428875856"/>
+  </programme>
+  <programme start="20221018090000 +0300" stop="20221018100000 +0300" channel="VOULI">
+    <title lang="el">Πρωινή Επισκόπηση</title>
+    <desc lang="el">Καθημερινή ενημερωτική εκπομπή με τον Λάμπρο Πέγγο και τη Λουκία Γκάτσου.</desc>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040032055612000800.jpg/56b7a43e-d9af-0637-bf16-eaa371effd99?version=1.0&amp;t=1662153652993"/>
+  </programme>
+  <programme start="20221018100000 +0300" stop="20221018210000 +0300" channel="VOULI">
+    <title lang="el">Κοινοβουλευτικό Έργο</title>
+    <desc lang="el">Κοινοβουλευτικό έργο.</desc>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040006841112000800.jpg/4a6894f1-c9d4-2d2c-9646-f6f32ff1b0bd?version=1.0&amp;t=1661895079062"/>
+  </programme>
+  <programme start="20221018210000 +0300" stop="20221018220000 +0300" channel="VOULI">
+    <title lang="el">Μουσικοί Διάλογοι</title>
+    <desc lang="el">Επεισόδιο: Πέτρος Κλαμπάνης. Μουσική σειρά εκπομπών του Αλέξανδρου - Δράκου Κτιστάκη, στις οποίες σκιαγραφεί τις προσωπικότητες των μουσικών της ελληνικής τζαζ σκηνής μέσα από μια δημιουργική αλλά και βιωματική σκοπιά.</desc>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040024080712000800.jpg/0b4fc616-6028-0509-36c5-5a6fba8098c3?version=1.0&amp;t=1650403797583"/>
+  </programme>
+  <programme start="20221018220000 +0300" stop="20221018230000 +0300" channel="VOULI">
+    <title lang="el">Αυτοδιοίκηση</title>
+    <desc lang="el">Με την Κέλλυ Κοντογεώργη. Η εκπομπή έχει ως στόχο να ανοίξει έναν κανάλι επικοινωνίας ανάμεσα στους αιρετούς εκπροσώπους των ΟΤΑ και τους εκπροσώπους της κεντρικής πολιτικής σκηνής αλλά και της κεντρικής δημόσιας διοίκησης.</desc>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034546012000800.jpg/131df513-203f-ba6a-2ac3-6ca8d0c3a956?version=1.0&amp;t=1662326949480"/>
+  </programme>
+  <programme start="20221018230000 +0300" stop="20221019000000 +0300" channel="VOULI">
+    <title lang="el">Η Ιστορία της Αμερικής σε Χρώμα Κ3</title>
+    <desc lang="el">Επεισόδιο: Καταστροφές. Η σειρά ντοκιμαντέρ παρουσιάζει σημαντικές στιγμές από το 1920 μέχρι το 1960 σε βελτιωμένη εικόνα σε high definition.</desc>
+    <category lang="el">Ντοκιμαντέρ</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036407812000800.jpg/9d272e4a-d206-7848-3c50-ea4e580dce9f?version=1.0&amp;t=1664314168927"/>
   </programme>
   <programme start="20221012000000 +0300" stop="20221012010000 +0300" channel="ERT 1">
     <title lang="el">Στο Κέντρο</title>
@@ -26828,6 +26937,132 @@
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037769212000800.jpg/635a2668-6e85-b032-63da-aee9cfc74376?version=1.0&amp;t=1662743435848"/>
     <episode-num system="onscreen">E11</episode-num>
   </programme>
+  <programme start="20221018000000 +0300" stop="20221018010000 +0300" channel="ERT 1">
+    <title lang="el">Κεραία (Ε)</title>
+    <desc lang="el">Επεισόδιο: Το καλό μου διαζύγιο. Μπορεί όμως ένα διαζύγιο να είναι καλό; Να συμφιλιώνει και να διδάσκει μέσα από την πικρία; Κεντρικός συνομιλητής της δημοσιογράφου, ο συγγραφέας Στέφανος Ξενάκης μιλά με ειλικρίνεια και ευθύτητα για το δικό του διαζύγιο.</desc>
+    <date>2021</date>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040035512312000800.jpg/a8b5a1a9-a39d-ee06-f2f0-c6fb9d79a2ca?version=1.0&amp;t=1663105421724"/>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20221018010000 +0300" stop="20221018034000 +0300" channel="ERT 1">
+    <title lang="el">Στούντιο 4</title>
+    <desc lang="el">H Νάνσυ Ζαμπέτογλου και ο Θανάσης Αναγνωστόπουλος, συνεχίζουν για δεύτερη σεζόν στο ανανεωμένο και ακόμη πιο πλούσιο σε θεματολογία καθημερινό μαγκαζίνο.</desc>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040035877412000800.jpg/7d873502-e0a9-76dd-af69-750c1b96f51e?version=1.0&amp;t=1630445801100"/>
+  </programme>
+  <programme start="20221018034000 +0300" stop="20221018040000 +0300" channel="ERT 1">
+    <title lang="el">Σαν Σήμερα τον 20ό Αιώνα</title>
+    <desc lang="el">Καθημερινή ανασκόπηση των γεγονότων που σημάδεψαν και καθόρισαν την ιστορική εξέλιξη του σύντομου 20ού αιώνα.</desc>
+    <category lang="el">Παρουσίαση - Ανασκόπηση</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040029636212000800.jpg/6a50c39b-6ef4-f40c-e403-c8974d1d847d?version=1.0&amp;t=1607985244639"/>
+  </programme>
+  <programme start="20221018040000 +0300" stop="20221018050000 +0300" channel="ERT 1">
+    <title lang="el">Ο Πιο Αδύναμος Κρίκος</title>
+    <desc lang="el">Το δημοφιλές σε όλο τον κόσμο παιχνίδι γνώσεων του BBC έρχεται καθημερινά στην ΕΡΤ1, με παρουσιαστή τον Τάσο Τρύφωνος.</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037777112000800.jpg/ece8aba3-d7f5-614c-48ed-d1bac4e66c85?version=1.0&amp;t=1663002650544"/>
+  </programme>
+  <programme start="20221018050000 +0300" stop="20221018050500 +0300" channel="ERT 1">
+    <title lang="el">ΕΡΤ Ειδήσεις</title>
+    <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα της ΕΡΤ.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037731712000800.jpg/25c62861-5c09-49d8-cc5a-ccae9aff12e2?version=1.0&amp;t=1662671430261"/>
+  </programme>
+  <programme start="20221018050500 +0300" stop="20221018060000 +0300" channel="ERT 1">
+    <title lang="el">Ενημερωτική Εκπομπή</title>
+    <desc lang="el">Από Δευτέρα έως Παρασκευή, ο Διονύσης Μποτώνης και η Εύα Περώνα παρουσιάζουν και σχολιάζουν την επικαιρότητα. Η εκπομπή δίνει το στίγμα της ημέρας που έρχεται και αποτιμά ειδησεογραφικά, το 24ωρο που πέρασε.</desc>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040027340512000800.jpg/200c338c-0c51-c5af-dd73-fd6cadd0d80d?version=1.0&amp;t=1603576449559"/>
+  </programme>
+  <programme start="20221018060000 +0300" stop="20221018060500 +0300" channel="ERT 1">
+    <title lang="el">ΕΡΤ Ειδήσεις</title>
+    <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα της ΕΡΤ.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037731712000800.jpg/25c62861-5c09-49d8-cc5a-ccae9aff12e2?version=1.0&amp;t=1662671430261"/>
+  </programme>
+  <programme start="20221018060500 +0300" stop="20221018100000 +0300" channel="ERT 1">
+    <title lang="el">Συνδέσεις</title>
+    <desc lang="el">Η Χριστίνα Βίδου και ο Κώστας Παπαχλιμίντζος δημιουργούν μια πραγματικά νέα ενημερωτική πρόταση και παρουσιάζουν ένα πρωτότυπο μαγκαζίνο, που διακρίνεται για τη νηφαλιότητα, την αντικειμενικότητα, την πρωτοτυπία, αλλά και το χιούμορ των δύο παρουσιαστών.</desc>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040027020712000800.jpg/852e1746-88a1-63c7-8902-0863de0a4bb7?version=1.0&amp;t=1627940215463"/>
+  </programme>
+  <programme start="20221018100000 +0300" stop="20221018103000 +0300" channel="ERT 1">
+    <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
+    <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα της ΕΡΤ.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040029848212000800.jpg/70ddb9e5-51bd-c72f-8cc8-90175f2c5585?version=1.0&amp;t=1612303854584"/>
+  </programme>
+  <programme start="20221018103000 +0300" stop="20221018120000 +0300" channel="ERT 1">
+    <title lang="el">Ενημερωτική Εκπομπή</title>
+    <desc lang="el">Εκπομπή με τις προεκτάσεις των θεμάτων της επικαιρότητας.</desc>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040027340512000800.jpg/200c338c-0c51-c5af-dd73-fd6cadd0d80d?version=1.0&amp;t=1603576449559"/>
+  </programme>
+  <programme start="20221018120000 +0300" stop="20221018130000 +0300" channel="ERT 1">
+    <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
+    <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα της ΕΡΤ.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040029848212000800.jpg/70ddb9e5-51bd-c72f-8cc8-90175f2c5585?version=1.0&amp;t=1612303854584"/>
+  </programme>
+  <programme start="20221018130000 +0300" stop="20221018150000 +0300" channel="ERT 1">
+    <title lang="el">Πρωίαν σε Είδον τη Μεσημβρίαν</title>
+    <desc lang="el">Ο Φώτης Σεργουλόπουλος και η Τζένη Μελιτά μάς κρατούν συντροφιά καθημερινά από Δευτέρα έως Παρασκευή, στο νέο ψυχαγωγικό μαγκαζίνο της ΕΡΤ1.</desc>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037882212000800.jpg/0739278c-7924-7064-9723-9bc0e6ed1b1e?version=1.0&amp;t=1665162610467"/>
+  </programme>
+  <programme start="20221018150000 +0300" stop="20221018160000 +0300" channel="ERT 1">
+    <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
+    <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα της ΕΡΤ.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040029848212000800.jpg/70ddb9e5-51bd-c72f-8cc8-90175f2c5585?version=1.0&amp;t=1612303854584"/>
+  </programme>
+  <programme start="20221018160000 +0300" stop="20221018190000 +0300" channel="ERT 1">
+    <title lang="el">Στούντιο 4</title>
+    <desc lang="el">H Νάνσυ Ζαμπέτογλου και ο Θανάσης Αναγνωστόπουλος, συνεχίζουν για δεύτερη σεζόν στο ανανεωμένο και ακόμη πιο πλούσιο σε θεματολογία καθημερινό μαγκαζίνο.</desc>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040035877412000800.jpg/7d873502-e0a9-76dd-af69-750c1b96f51e?version=1.0&amp;t=1630445801100"/>
+  </programme>
+  <programme start="20221018190000 +0300" stop="20221018200000 +0300" channel="ERT 1">
+    <title lang="el">Ο Πιο Αδύναμος Κρίκος</title>
+    <desc lang="el">Το δημοφιλές σε όλο τον κόσμο παιχνίδι γνώσεων του BBC έρχεται καθημερινά στην ΕΡΤ1, με παρουσιαστή τον Τάσο Τρύφωνος.</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037777112000800.jpg/ece8aba3-d7f5-614c-48ed-d1bac4e66c85?version=1.0&amp;t=1663002650544"/>
+  </programme>
+  <programme start="20221018200000 +0300" stop="20221018210000 +0300" channel="ERT 1">
+    <title lang="el">Χαιρέτα μου τον Πλάτανο</title>
+    <desc lang="el">Η απογοήτευση του Ηλία μετατρέπεται σε θυμό, όταν όλο το χωριό στρέφεται εναντίον του. Κανείς δεν έχει διάθεση να ακούσει εξηγήσεις για την κατά φαντασίαν αρρώστια του και πρώτη και καλύτερη η Φιλιώ, που αποφασίζει να φύγει από το σπίτι. Παραγωγή: Ελλάδα.</desc>
+    <credits>
+      <director>Αντρέας Μορφονιός</director>
+      <actor>Πηνελόπη Πλάκα</actor>
+      <actor>Θανάσης Κουρλαμπάς</actor>
+      <actor>Τάσος Κωστής</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="el">Κομεντί</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040035061812000800.jpg/7516d778-e51f-8aba-49d7-37d0405ff9cc?version=1.0&amp;t=1661809456918"/>
+    <episode-num system="onscreen">S2 E32</episode-num>
+  </programme>
+  <programme start="20221018210000 +0300" stop="20221018220000 +0300" channel="ERT 1">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων - Αθλητικά - Καιρός</title>
+    <desc lang="el">Με ανταποκριτές σε κάθε γωνιά της Ελλάδας και σε όλο τον κόσμο το κεντρικό δελτίο ειδήσεων της ΕΡΤ μεταφέρει σε κάθε σπίτι το καθημερινό ρεπορτάζ, τις έκτακτες ειδήσεις, αλλά και όσα επηρεάζουν τη ζωή μας.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040030999412000800.jpg/4bc032e3-c2cb-aa47-c14c-16e51b7747da?version=1.0&amp;t=1612303851415"/>
+  </programme>
+  <programme start="20221018220000 +0300" stop="20221019000000 +0300" channel="ERT 1">
+    <title lang="el">Τα Καλύτερά μας Χρόνια</title>
+    <desc lang="el">Επεισόδιο: Κωσταλέξι. Τέλη δεκαετίας του '60: η τηλεόραση εισβάλλει δυναμικά στη ζωή μας. Γύρω από αυτήν μαζεύονται κάθε απόγευμα οι οικογένειες και οι παρέες σε μια Ελλάδα που ζει σε καθεστώς δικτατορίας, ονειρεύεται ένα καλύτερο μέλλον, αλλά δεν ξέρει ακόμη πότε θα έρθει αυτό. Παραγωγή: Ελλάδα.</desc>
+    <credits>
+      <director>Όλγα Μαλέα</director>
+      <actor>Κατερίνα Παπουτσάκη</actor>
+      <actor>Μελέτης Ηλίας</actor>
+      <actor>Υβόννη Μαλτέζου</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="el">Οικογενειακή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037814012000800.jpg/0cfd784b-9aa2-0fe3-5bb2-bd3a4dbf6750?version=1.0&amp;t=1663607441920"/>
+    <episode-num system="onscreen">S3 E48</episode-num>
+  </programme>
   <programme start="20221012003500 +0300" stop="20221012012500 +0300" channel="ERT 2">
     <title lang="el">Δες &amp; Βρες (Ε)</title>
     <desc lang="el">Το αγαπημένο τηλεπαιχνίδι της ΕΡΤ, με παρουσιαστή τον Νίκο Κουρή, δεν θα τεστάρει μόνο τις γνώσεις και τη μνήμη μας, αλλά κυρίως την παρατηρητικότητα, την αυτοσυγκέντρωση και την ψυχραιμία μας.</desc>
@@ -27505,135 +27740,119 @@
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040031571312000800.jpg/55fecb09-0135-258d-ccb0-7fe368b33c4c?version=1.0&amp;t=1665091386322"/>
   </programme>
   <programme start="20221015053000 +0300" stop="20221015070000 +0300" channel="ERT 2">
-    <title lang="el">Μις Μαρπλ Κ5</title>
-    <desc lang="el">Σειρά μυστηρίου αυτοτελών επεισοδίων, συμπαραγωγής ΗΠΑ-Αγγλίας 2004-2013. Βασισμένη στην ομότιτλη σειρά αστυνομικών μυθιστορημάτων και διηγημάτων της Άγκαθα Κρίστι, η σειρά παρουσιάζει τις περιπέτειες της Τζέιν Μαρπλ, μίας ηλικιωμένης γεροντοκόρης που συχνά πέφτει σε περιπτώσεις μυστηριωδών φόνων.</desc>
+    <title lang="el">Μαρία Δημάδη (Ε)</title>
+    <desc lang="el">Ελληνική κοινωνική σειρά παραγωγής 1987. Η ζωή της ηρωίδας της εθνικής αντίστασης Μαρίας Δημάδη, που δούλευε ως διερμηνέας στο γερμανικό φρουραρχείο του Αγρινίου κι έδινε χρήσιμες πληροφορίες για τις μετακινήσεις των γερμανικών στρατευμάτων στο ΕΑΜ.</desc>
     <credits>
-      <actor>Τζούλια Μακένζι</actor>
-      <actor>Ρόουζ Χάινι</actor>
-      <actor>Λόρα Χάντοκ</actor>
+      <director>Γιώργος Πετρίδης</director>
+      <actor>Ελένη Σάνιου</actor>
+      <actor>Χρήστος Πάρλας</actor>
+      <actor>Βασίλης Κολοβός</actor>
     </credits>
-    <category lang="el">Μυστηρίου</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040015943112000800.jpg/a5dea037-ca29-2910-9f82-8586a67517f6?version=1.0&amp;t=1665264733816"/>
+    <category lang="el">Κοινωνική</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040007023412000800.jpg/6a82dc92-b35e-ed6c-f2a2-7c691f2273b6?version=1.0&amp;t=1665178797786"/>
   </programme>
-  <programme start="20221015070000 +0300" stop="20221015071500 +0300" channel="ERT 2">
-    <title lang="el">Υδρόγειος</title>
-    <desc lang="el">Μέσα από τη συναρπαστική σειρά ντοκιμαντέρ, γνωρίζουμε τη ζωή, τις περιπέτειες και τα ενδιαφέροντα παιδιών και εφήβων από όλο τον κόσμο, αλλά και συναρπαστικές πληροφορίες για ζώα υπό προστασία, υπό εξαφάνιση ή που απλώς είναι υπέροχα. Παραγωγή: Γαλλία, Γερμανία.</desc>
+  <programme start="20221015070000 +0300" stop="20221015080000 +0300" channel="ERT 2">
+    <title lang="el">Κατάσκοπος στο Χιόνι</title>
+    <desc lang="el">Οι κατάσκοποι φορούν τα χειμωνιάτικά τους και πηγαίνουν στο χιόνι για μια διασκεδαστική περιπέτεια, και για να αποκαλύψουν πώς καταφέρνουν να επιβιώνουν και να προοδεύουν μερικά από τα πιο αξιαγάπητα ζώα της Αρκτικής, στα μαγικά χειμωνιάτικα τοπία των θαυμάτων της φύσης.</desc>
+    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040032016612000800.jpg/ae3b308c-fe18-a432-c555-630dd9cb09a8?version=1.0&amp;t=1665523200705"/>
+  </programme>
+  <programme start="20221015080000 +0300" stop="20221015081500 +0300" channel="ERT 2">
+    <title lang="el">Υδρόγειος (Ε)</title>
+    <desc lang="el">Επεισόδιο: Σουμάτρα. Οι τελευταίοι ουρακοτάγκοι. Μέσα από τη συναρπαστική σειρά ντοκιμαντέρ, γνωρίζουμε τη ζωή, τις περιπέτειες και τα ενδιαφέροντα παιδιών και εφήβων από όλο τον κόσμο, αλλά και συναρπαστικές πληροφορίες για ζώα υπό προστασία, υπό εξαφάνιση ή που απλώς είναι υπέροχα. Παραγωγή: Γαλλία, Γερμανία.</desc>
     <date>2016</date>
     <category lang="el">Σειρές</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037082612000800.jpg/66c15c61-3248-412d-6b23-e2f9b3b07183?version=1.0&amp;t=1663017824437"/>
+    <episode-num system="onscreen">E27</episode-num>
   </programme>
-  <programme start="20221015071500 +0300" stop="20221015072500 +0300" channel="ERT 2">
-    <title lang="el">Υδρόγειος</title>
-    <desc lang="el">Μέσα από τη συναρπαστική σειρά ντοκιμαντέρ, γνωρίζουμε τη ζωή, τις περιπέτειες και τα ενδιαφέροντα παιδιών και εφήβων από όλο τον κόσμο, αλλά και συναρπαστικές πληροφορίες για ζώα υπό προστασία, υπό εξαφάνιση ή που απλώς είναι υπέροχα. Παραγωγή: Γαλλία, Γερμανία.</desc>
-    <date>2016</date>
-    <category lang="el">Σειρές</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037082612000800.jpg/66c15c61-3248-412d-6b23-e2f9b3b07183?version=1.0&amp;t=1663017824437"/>
+  <programme start="20221015081500 +0300" stop="20221015084500 +0300" channel="ERT 2">
+    <title lang="el">Πάφιν Ροκ (Ε)</title>
+    <desc lang="el">Επεισόδιο: Η καινούργια φίλη της Σίλκι. Παραγωγή Ιρλανδίας, 2015. Μέσα από την καθημερινή περιπλάνηση στην άγρια φύση του απομονωμένου βιότοπου, δύο θαλασσοπούλια, η Ούνα και ο αδερφός της Μπάμπα, διδάσκονται τα μυστικά της επιβίωσης και την αξία της φιλίας.</desc>
+    <category lang="el">Κιν. Σχέδια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040018222212000800.jpg/b371a813-4c80-d5f9-d767-86cf86d04417?version=1.0&amp;t=1665523203870"/>
+    <episode-num system="onscreen">E58</episode-num>
   </programme>
-  <programme start="20221015072500 +0300" stop="20221015075000 +0300" channel="ERT 2">
-    <title lang="el">Η Καλύτερη Τούρτα Κερδίζει</title>
-    <desc lang="el">Οι καλύτεροι αμερικανοί ζαχαροπλάστες φτιάχνουν τούρτες γενεθλίων και διαγωνίζονται μεταξύ τους, για να εντυπωσιάσουν τους πιο αυστηρούς κριτές. Παραγωγή: ΗΠΑ, Καναδάς.</desc>
-    <date>2019</date>
-    <category lang="el">Other</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034721612000800.jpg/7ef4acf0-53e0-ee29-270a-ccbed8ba86c7?version=1.0&amp;t=1665264730625"/>
-  </programme>
-  <programme start="20221015075000 +0300" stop="20221015081500 +0300" channel="ERT 2">
-    <title lang="el">Μια Φορά κι Έναν Καιρό Ήταν... η Ζωή</title>
-    <desc lang="el">Ένα ταξίδι στον θαυμαστό κόσμο του ανθρώπινου σώματος. Ο σοφός Μαέστρο μας αναλύει τη δομή και τη λειτουργία των οργάνων και του μεταβολισμού. Παραγωγή: Γαλλία.</desc>
-    <date>1986</date>
+  <programme start="20221015084500 +0300" stop="20221015090000 +0300" channel="ERT 2">
+    <title lang="el">Μπλούι (Ε)</title>
+    <desc lang="el">Επεισόδιο: To μαγικό ξυλόφωνο. Απολαύστε τις περιπέτειες ενός υπέροχου 6χρονου κουταβιού που ζει με τον μπαμπά, τη μαμά του και την 4χρονη αδελφή του, την Bingo. Η Bluey παίζει παιχνίδια που εξελίσσονται με απρόβλεπτο και ξεκαρδιστικό τρόπο.</desc>
     <category lang="el">Παιδική</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034722012000800.jpg/bf672ebb-e7cb-c0fa-74c0-3c0eb2a79ee2?version=1.0&amp;t=1662674116161"/>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040026025012000800.jpg/018748e2-a40a-e7aa-912a-378cee7a7661?version=1.0&amp;t=1665523204371"/>
+    <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20221015081500 +0300" stop="20221015083000 +0300" channel="ERT 2">
-    <title lang="el">Οι Αναμνήσεις της Νανέτ</title>
-    <desc lang="el">Η μικρή Νανέτ αντικρίζει την εξοχή πρώτη φορά, όταν πηγαίνει να ζήσει με τον παππού της, τη γιαγιά της και τη θεία της. Μαζί με τους καινούργιους της φίλους, απολαμβάνει την ύπαιθρο και πρέπει να εξερευνήσει κάθε γωνιά. Τα πάντα μεταμορφώνονται σε μια νέα περιπέτεια στον καινούργιο κόσμο της Νανέτ.</desc>
+  <programme start="20221015090000 +0300" stop="20221015094500 +0300" channel="ERT 2">
+    <title lang="el">Λάχανα και Χάχανα - Κλικ στη Λαχανοχαχανοχώρα</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Μια παιδική εκπομπή βασισμένη στην σειρά έργων 'Λάχανα και Χάχανα' του δημιουργού Τάσου Ιωαννίδη. Οι αγαπημένοι χαρακτήρες της Λαχανοχαχανοχώρας, πρωταγωνιστούν σε μία εκπομπή με κινούμενα σχέδια ελληνικής παραγωγής για παιδιά 4-7 ετών. Παραγωγή: Ελλάδα.</desc>
+    <date>2022</date>
+    <category lang="el">Κιν. σχεδίων</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037893612000800.jpg/944a3c47-e375-d6fc-fb47-0c900753330c?version=1.0&amp;t=1665523204691"/>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20221015094500 +0300" stop="20221015100000 +0300" channel="ERT 2">
+    <title lang="el">Γέγονε - Μέσα στο μουσείο</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Επεισόδιο: Βυζαντινό και Χριστιανικό Μουσείο. Ελληνική παιδική σειρά stop motion animation που απευθύνεται σε παιδιά ηλικίας 6 έως 9 ετών και έχει σκοπό να δημιουργήσει μια πρώτη επαφή των παιδιών με τα μουσεία, μέσα από μια ψυχαγωγική αφήγηση.</desc>
     <category lang="el">Κιν. Σχέδια</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034427712000800.jpg/ad1b0330-6994-524f-2804-a9f77402cbf6?version=1.0&amp;t=1664919385569"/>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037893512000800.jpg/81207c9e-3eb0-e33e-c948-f1cd4c29d7df?version=1.0&amp;t=1665523205001"/>
+    <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20221015083000 +0300" stop="20221015085000 +0300" channel="ERT 2">
-    <title lang="el">Ιστορίες με το Γέτι</title>
-    <desc lang="el">Ένα ζεστό και χνουδωτό λούτρινο Γέτι είναι η μασκότ του τοπικού βιβλιοπωλείου. Όταν και ο τελευταίος πελάτης φεύγει το Γέτι ζωντανεύει για να διαβάσει στους φίλους του τα αγαπημένα του βιβλία.</desc>
+  <programme start="20221015100000 +0300" stop="20221015104000 +0300" channel="ERT 2">
+    <title lang="el">Ώρα για Παραμύθι (Ε)</title>
+    <desc lang="el">Επεισόδιο: Λίβανος: Ο κέδρος και το περιστέρι. Πανέμορφες ιστορίες, διαλεγμένες από τις τέσσερις γωνιές της γης. Παραγωγή: Γαλλία.</desc>
+    <date>2017</date>
     <category lang="el">Κιν. Σχέδια</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036622912000800.jpg/dc19781f-96df-6a25-a2d3-3e28b433c6dd?version=1.0&amp;t=1665264731344"/>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037751012000800.jpg/bed93f23-1a10-65c2-10f2-28b69dfd596e?version=1.0&amp;t=1662672555279"/>
+    <episode-num system="onscreen">E21</episode-num>
   </programme>
-  <programme start="20221015085000 +0300" stop="20221015091500 +0300" channel="ERT 2">
-    <title lang="el">Πάφιν Ροκ</title>
-    <desc lang="el">Παραγωγή Ιρλανδίας, 2015. Μέσα από την καθημερινή περιπλάνηση στην άγρια φύση του απομονωμένου βιότοπου, δύο θαλασσοπούλια, η Ούνα και ο αδερφός της Μπάμπα, διδάσκονται τα μυστικά της επιβίωσης και την αξία της φιλίας.</desc>
-    <category lang="el">Κιν. Σχέδια</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040033881212000800.jpg/d8d50b6d-439f-a1b4-b8b7-7628475c35c1?version=1.0&amp;t=1610405287401"/>
-  </programme>
-  <programme start="20221015091500 +0300" stop="20221015095000 +0300" channel="ERT 2">
-    <title lang="el">Μπλούι</title>
-    <desc lang="el">Απολαύστε τις περιπέτειες ενός υπέροχου 6χρονου κουταβιού που ζει με τον μπαμπά, τη μαμά του και την 4χρονη αδελφή του, την Bingo. Η Bluey παίζει παιχνίδια που εξελίσσονται με απρόβλεπτο και ξεκαρδιστικό τρόπο.</desc>
-    <category lang="el">Παιδική</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040031495712000800.jpg/7646607c-f0ac-e625-b3ae-eeb0409492fe?version=1.0&amp;t=1645396463574"/>
-  </programme>
-  <programme start="20221015095000 +0300" stop="20221015102500 +0300" channel="ERT 2">
-    <title lang="el">Ντίγκμπι. ο Μικρός Δράκος</title>
+  <programme start="20221015104000 +0300" stop="20221015111500 +0300" channel="ERT 2">
+    <title lang="el">Ντίγκμπι. ο Μικρός Δράκος Κ2 (Ε)</title>
     <desc lang="el">Ο Ντίγκμπι, ένας μικρός δράκος με μεγάλη καρδιά, ζει σε ένα δάσος ονειρικής ομορφιάς. Μπορεί να μην ξέρει ακόμα να βγάζει φωτιές ή να πετάει, έχει όμως ξεχωριστή προσωπικότητα και αστείρευτη ενέργεια.</desc>
     <category lang="el">Κιν. Σχέδια</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036558712000800.jpg/01bed78b-5be7-b6ca-e423-30a5dd4f1066?version=1.0&amp;t=1662240990713"/>
   </programme>
-  <programme start="20221015102500 +0300" stop="20221015103500 +0300" channel="ERT 2">
-    <title lang="el">Ώρα για Παραμύθι</title>
-    <desc lang="el">Πανέμορφες ιστορίες, διαλεγμένες από τις τέσσερις γωνιές της γης. Παραγωγή: Γαλλία.</desc>
-    <date>2017</date>
-    <category lang="el">Κιν. Σχέδια</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037751012000800.jpg/bed93f23-1a10-65c2-10f2-28b69dfd596e?version=1.0&amp;t=1662672555279"/>
-  </programme>
-  <programme start="20221015103500 +0300" stop="20221015104500 +0300" channel="ERT 2">
-    <title lang="el">Ώρα για Παραμύθι</title>
-    <desc lang="el">Πανέμορφες ιστορίες, διαλεγμένες από τις τέσσερις γωνιές της γης. Παραγωγή: Γαλλία.</desc>
-    <date>2017</date>
-    <category lang="el">Κιν. Σχέδια</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037751012000800.jpg/bed93f23-1a10-65c2-10f2-28b69dfd596e?version=1.0&amp;t=1662672555279"/>
-  </programme>
-  <programme start="20221015104500 +0300" stop="20221015110000 +0300" channel="ERT 2">
-    <title lang="el">Ώρα για Παραμύθι</title>
-    <desc lang="el">Πανέμορφες ιστορίες, διαλεγμένες από τις τέσσερις γωνιές της γης. Παραγωγή: Γαλλία.</desc>
-    <date>2017</date>
-    <category lang="el">Κιν. Σχέδια</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037751012000800.jpg/bed93f23-1a10-65c2-10f2-28b69dfd596e?version=1.0&amp;t=1662672555279"/>
-  </programme>
-  <programme start="20221015110000 +0300" stop="20221015113000 +0300" channel="ERT 2">
-    <title lang="el">Γάτος Σπιρουνάτος Κ2</title>
-    <desc lang="el">Ο διάσημος γάτος προστατεύει την πόλη του Σαν Λορέντζο, μια μυθική τοποθεσία αόρατη στον έξω κόσμο.</desc>
-    <date>2016</date>
-    <category lang="el">Κιν. Σχέδια</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040026895812000800.jpg/2d97a86a-a6f0-6563-9f7b-904d2a205dbe?version=1.0&amp;t=1662672554985"/>
-  </programme>
-  <programme start="20221015113000 +0300" stop="20221015114500 +0300" channel="ERT 2">
-    <title lang="el">Οι Περιπέτειες Σαφάρι του Άντι</title>
-    <desc lang="el">Ο Άντι είναι ένας απίθανος τύπος που δουλεύει στον Κόσμο του Σαφάρι, το μεγαλύτερο πάρκο με άγρια ζώα που υπάρχει στον κόσμο.</desc>
+  <programme start="20221015111500 +0300" stop="20221015114500 +0300" channel="ERT 2">
+    <title lang="el">Οι Περιπέτειες Σαφάρι του Άντι (Ε)</title>
+    <desc lang="el">Επεισόδιο: Μαύρα Σκαθάρια. Ο Άντι είναι ένας απίθανος τύπος που δουλεύει στον Κόσμο του Σαφάρι, το μεγαλύτερο πάρκο με άγρια ζώα που υπάρχει στον κόσμο.</desc>
     <category lang="el">Κιν. Σχέδια</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036053812000800.jpg/0f404b0a-9dff-1784-73b2-a75ede7d0f67?version=1.0&amp;t=1664660050194"/>
+    <episode-num system="onscreen">E37</episode-num>
   </programme>
   <programme start="20221015114500 +0300" stop="20221015120000 +0300" channel="ERT 2">
-    <title lang="el">Οι Περιπέτειες Σαφάρι του Άντι</title>
-    <desc lang="el">Ο Άντι είναι ένας απίθανος τύπος που δουλεύει στον Κόσμο του Σαφάρι, το μεγαλύτερο πάρκο με άγρια ζώα που υπάρχει στον κόσμο.</desc>
-    <category lang="el">Κιν. Σχέδια</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036053812000800.jpg/0f404b0a-9dff-1784-73b2-a75ede7d0f67?version=1.0&amp;t=1664660050194"/>
+    <title lang="el">Μπορώ κι Εγώ</title>
+    <desc lang="el">Η 11χρονη Κερένε βρέθηκε από το Κονγκό στην Τήλο, μέσω Τουρκίας. Στη νέα της -και πιθανόν προσωρινή πατρίδα- το προσφυγόπουλο προσπαθεί να μάθει ελληνικά και να κάνει νέους φίλους.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037893812000800.jpg/a68c7fec-e4b2-4be7-1179-2861ce57a8ac?version=1.0&amp;t=1665523202934"/>
   </programme>
-  <programme start="20221015120000 +0300" stop="20221015123000 +0300" channel="ERT 2">
-    <title lang="el">Mr. Bean Cartoons</title>
-    <desc lang="el">Ο γνωστός, τρελός Μίστερ Μπιν που αγαπήθηκε από όλες τις ηλικίες σε όσες χώρες και αν προβλήθηκε, τώρα και σε κόμικ!</desc>
-    <category lang="el">Κωμωδία</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040029363112000800.jpg/44a94ada-812c-49ec-2c01-7de6e1bba45b?version=1.0&amp;t=1665264734632"/>
+  <programme start="20221015120000 +0300" stop="20221015130000 +0300" channel="ERT 2">
+    <title lang="el">Πλάνα με Ουρά (Ε)</title>
+    <desc lang="el">Ταξιδεύουμε στην Κοπεγχάγη για να συναντήσουμε εκατοντάδες τετράποδα ελληνόπουλα, πρώην αδεσποτάκια, που υιοθετήθηκαν στη Δανία. Συμμετέχουμε στην ετήσια γιορτή την οποία πραγματοποιεί η οργάνωση Graeske Hunde στα περίχωρα της Κοπεγχάγης. Παραγωγή: Ελλάδα.</desc>
+    <date>2022</date>
+    <category lang="el">Ψυχαγωγική εκπομπή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040028720712000800.jpg/2e6f5196-4d0c-d70d-1fa7-31f9e9b1b718?version=1.0&amp;t=1647987814378"/>
+    <episode-num system="onscreen">S3 E12</episode-num>
   </programme>
-  <programme start="20221015123000 +0300" stop="20221015130000 +0300" channel="ERT 2">
-    <title lang="el">Mr. Bean Cartoons</title>
-    <desc lang="el">Ο γνωστός, τρελός Μίστερ Μπιν που αγαπήθηκε από όλες τις ηλικίες σε όσες χώρες και αν προβλήθηκε, τώρα και σε κόμικ!</desc>
-    <category lang="el">Κωμωδία</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040029363112000800.jpg/44a94ada-812c-49ec-2c01-7de6e1bba45b?version=1.0&amp;t=1665264734632"/>
-  </programme>
-  <programme start="20221015130000 +0300" stop="20221015153000 +0300" channel="ERT 2">
-    <title lang="el">ΠΟΠ Μαγειρική Κ4</title>
-    <desc lang="el">Ο chef Ανδρέας Λαγός μαγειρεύει με πιστοποιημένα ελληνικά προϊόντα και μαζί με παράγωγους, διατροφολόγους και εξειδικευμένους επιστήμονες, μας μαθαίνουν τα μυστικά της σωστής διατροφής. Παραγωγή: Ελλάδα.</desc>
+  <programme start="20221015130000 +0300" stop="20221015140000 +0300" channel="ERT 2">
+    <title lang="el">ΠΟΠ Μαγειρική</title>
+    <desc lang="el">Επεισόδιο: Μαρία Παναγοπούλου. Το μενού περιλαμβάνει: 'Ελιολουκουμάδες' με κονσερβολιά Άμφισσας γιαούρτι και φέτα, καραμελωμένο συκώτι στο τηγάνι με Βατικιώτικα κρεμμύδια και για το τέλος, γιαουρτογλυκό με μπισκότα και γλυκό τριαντάφυλλο αγρού. Παραγωγή: Ελλάδα.</desc>
+    <date>2022</date>
     <category lang="el">Μαγειρική</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040027904012000800.jpg/fc1f7e48-9498-1bf8-b9d2-a6c123857ff7?version=1.0&amp;t=1591967421151"/>
+    <episode-num system="onscreen">S5 E25</episode-num>
   </programme>
-  <programme start="20221015153000 +0300" stop="20221015161500 +0300" channel="ERT 2">
-    <title lang="el">Το Μικρό Σπίτι στο Λιβάδι Κ4</title>
-    <desc lang="el">Οικογενειακή σειρά παραγωγής ΗΠΑ 1974-1983. Η σειρά, βασισμένη στα ομώνυμα αυτοβιογραφικά βιβλία της Λόρα Ίνγκαλς Ουάιλντερ και γυρισμένη στην αμερικανική Δύση, καταγράφει την καθημερινότητα μιας πολυμελούς αγροτικής οικογένειας του 1880.</desc>
+  <programme start="20221015140000 +0300" stop="20221015153000 +0300" channel="ERT 2">
+    <title lang="el">Τρίτη και 13</title>
+    <desc lang="el">Ένας προληπτικός νομίζει ότι βρήκε το γούρι του στο πρόσωπο ενός φουκαρατζίκου και προσπαθεί να εξασφαλίσει την εύνοιά του. (94') Παραγωγή: Ελλάδα.</desc>
+    <credits>
+      <director>Ορέστης Λάσκος</director>
+      <actor>Νίκος Σταυρίδης</actor>
+      <actor>Γιάννης Γκιωνάκης</actor>
+      <actor>Μπεάτα Ασημακοπούλου</actor>
+    </credits>
+    <date>1963</date>
+    <category lang="el">Κωμωδία</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040005549112000800.jpg/86ee9a26-8e83-fe24-73a3-b1bb252f511b?version=1.0&amp;t=1665523206469"/>
+  </programme>
+  <programme start="20221015153000 +0300" stop="20221015170000 +0300" channel="ERT 2">
+    <title lang="el">Το Μικρό Σπίτι στο Λιβάδι (Ε)</title>
+    <desc lang="el">Επεισόδιο: Θυμάμαι... θυμάμαι... Ο Τζο Ίνγκαλς προσπαθεί να επιστρέψει στο Γουόλνατ Γκρόουβ για την επέτειο του γάμου του με την Καρολάιν. Η κακοκαιρία και η σπασμένη ρόδα της άμαξας δυσκολεύουν το ταξίδι. Στο μεταξύ, η Καρολάιν προσπαθεί να μην ανησυχεί και διηγείται στις κόρες της πώς γνωρίστηκε με τον Τζο.</desc>
     <credits>
       <director>Γουίλιαμ Κλάξτον</director>
       <director>Μόρι Ντέξτερ</director>
@@ -27644,27 +27863,15 @@
     </credits>
     <category lang="el">Οικογενειακή</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040016578512000800.jpg/b870a898-9ec8-78e7-260f-b51493ff4b75?version=1.0&amp;t=1664660052622"/>
-  </programme>
-  <programme start="20221015161500 +0300" stop="20221015170000 +0300" channel="ERT 2">
-    <title lang="el">Το Μικρό Σπίτι στο Λιβάδι Κ4</title>
-    <desc lang="el">Οικογενειακή σειρά παραγωγής ΗΠΑ 1974-1983. Η σειρά, βασισμένη στα ομώνυμα αυτοβιογραφικά βιβλία της Λόρα Ίνγκαλς Ουάιλντερ και γυρισμένη στην αμερικανική Δύση, καταγράφει την καθημερινότητα μιας πολυμελούς αγροτικής οικογένειας του 1880.</desc>
-    <credits>
-      <director>Γουίλιαμ Κλάξτον</director>
-      <director>Μόρι Ντέξτερ</director>
-      <director>Βίκτορ Φρεντς</director>
-      <actor>Μελίσα Γκίλμπερτ</actor>
-      <actor>Μάικλ Λάντον</actor>
-      <actor>Κάρεν Γκρασλ</actor>
-    </credits>
-    <category lang="el">Οικογενειακή</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040016578512000800.jpg/b870a898-9ec8-78e7-260f-b51493ff4b75?version=1.0&amp;t=1664660052622"/>
+    <episode-num system="onscreen">S4 E16</episode-num>
   </programme>
   <programme start="20221015170000 +0300" stop="20221015180000 +0300" channel="ERT 2">
-    <title lang="el">Μαμά-δες Κ4</title>
-    <desc lang="el">Η Ζωή Κρονάκη συναντάει γνωστές -και όχι μόνο- μαμάδες, αλλά και μπαμπάδες, που θα μοιράζονται μαζί μας ιστορίες μητρότητας και πατρότητας.</desc>
+    <title lang="el">Μαμά-δες</title>
+    <desc lang="el">Οι 'Μαμα-δες' έρχονται ανανεωμένες, αλλά πάντα ευαισθητοποιημένες για να μας παρουσιάσουν συγκινητικές αφηγήσεις από γνωστές μαμάδες και από μαμάδες της διπλανής πόρτας, που έκαναν το όνειρό τους πραγματικότητα.</desc>
     <date>2022</date>
     <category lang="el">Ψυχαγωγική εκπομπή</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037689712000800.jpg/045ab68f-d3e1-264a-a3bf-783ca2030bea?version=1.0&amp;t=1664471418432"/>
+    <episode-num system="onscreen">S4 E13</episode-num>
   </programme>
   <programme start="20221015180000 +0300" stop="20221015190000 +0300" channel="ERT 2">
     <title lang="el">Κάτι Γλυκό</title>
@@ -27672,7 +27879,7 @@
     <category lang="el">Μαγειρική</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036287312000800.jpg/e9452ba9-0562-734d-c049-3532f43b01fc?version=1.0&amp;t=1650663021308"/>
   </programme>
-  <programme start="20221015190000 +0300" stop="20221015203000 +0300" channel="ERT 2">
+  <programme start="20221015190000 +0300" stop="20221015205500 +0300" channel="ERT 2">
     <title lang="el">Το Γατοξόρκι</title>
     <desc lang="el">Ο άτυχος Λίνο εργάζεται ως διασκεδαστής σε παιδικά πάρτι. Αποφασισμένος να αλλάξει τη ζωή του και να ξεφορτωθεί τη γατοστολή του, θα ζητήσει τη βοήθεια ενός μάγου, ο οποίος, όμως, θα τον μεταμορφώσει με ένα ξόρκι σε αληθινό γάτο. (90') (Μεταγλ.) Παραγωγή: Βραζιλία.</desc>
     <credits>
@@ -27682,11 +27889,12 @@
     <category lang="el">Κιν. σχεδίων</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040025167512000800.jpg/9109a78d-90d6-0b01-96ed-6fa0165a123a?version=1.0&amp;t=1665437104627"/>
   </programme>
-  <programme start="20221015203000 +0300" stop="20221015210000 +0300" channel="ERT 2">
-    <title lang="el">Mr. Bean Cartoons</title>
-    <desc lang="el">Ο γνωστός, τρελός Μίστερ Μπιν που αγαπήθηκε από όλες τις ηλικίες σε όσες χώρες και αν προβλήθηκε, τώρα και σε κόμικ!</desc>
-    <category lang="el">Κωμωδία</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040029363112000800.jpg/44a94ada-812c-49ec-2c01-7de6e1bba45b?version=1.0&amp;t=1665264734632"/>
+  <programme start="20221015205500 +0300" stop="20221015210000 +0300" channel="ERT 2">
+    <title lang="el">Η Λέσχη του Βιβλίου</title>
+    <desc lang="el">Η εκπομπή που επιμελείται και παρουσιάζει ο Γιώργος Αρχιμανδρίτης συνιστά έναν οδηγό ανάγνωσης με κλασικά έργα που σφράγισαν την ιστορία του ανθρώπινου πνεύματος με τον αφηγηματικό τους κόσμο, τη γλώσσα και την αισθητική τους.</desc>
+    <category lang="el">Ψυχαγωγική εκπομπή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037865812000800.jpg/61b9c01a-864f-3af7-3399-921a83f62bf6?version=1.0&amp;t=1665523207506"/>
+    <episode-num system="onscreen">E3</episode-num>
   </programme>
   <programme start="20221015210000 +0300" stop="20221015220000 +0300" channel="ERT 2">
     <title lang="el">Art Week Κ8</title>
@@ -27695,10 +27903,12 @@
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040032094712000800.jpg/6cf7b618-b484-cd4f-4996-d4eb26b3280a?version=1.0&amp;t=1664660053235"/>
   </programme>
   <programme start="20221015220000 +0300" stop="20221016000000 +0300" channel="ERT 2">
-    <title lang="el">Η Αυλή των Χρωμάτων Κ4</title>
-    <desc lang="el">Η εκπομπή με την Αθηνά Καμπάκογλου φιλοδοξεί να ομορφύνει τα απογεύματα του Σαββάτου, παρουσιάζοντας ενδιαφέροντες ανθρώπους από το χώρο του πολιτισμού, ανθρώπους με κύρος, αλλά και νεότερους καλλιτέχνες, τους πρωταγωνιστές του αύριο.</desc>
+    <title lang="el">Η Αυλή των Χρωμάτων</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Επεισόδιο: Σε λαϊκούς δρόμους με τον Θέμη Αδαμαντίδη. Η εκπομπή με την Αθηνά Καμπάκογλου φιλοδοξεί να ομορφύνει τα απογεύματα του Σαββάτου, παρουσιάζοντας ενδιαφέροντες ανθρώπους από το χώρο του πολιτισμού, ανθρώπους με κύρος, αλλά και νεότερους καλλιτέχνες, τους πρωταγωνιστές του αύριο.</desc>
+    <date>2022</date>
     <category lang="el">Ψυχαγωγική εκπομπή</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036624412000800.jpg/a2e7091e-9308-0e8b-efad-93fd85ced2ee?version=1.0&amp;t=1649798435468"/>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037880212000800.jpg/99f15157-b1c4-c609-186a-02cf4a494c00?version=1.0&amp;t=1665523208134"/>
+    <episode-num system="onscreen">S5 E2</episode-num>
   </programme>
   <programme start="20221016000000 +0300" stop="20221016010000 +0300" channel="ERT 2">
     <title lang="el">Η Ζωή Είναι Στιγμές Κ5</title>
@@ -27706,24 +27916,24 @@
     <category lang="el">Ψυχαγωγική εκπομπή</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040031439012000800.jpg/cb0fb4f6-e5f0-8eca-f7b5-29c309824946?version=1.0&amp;t=1641248866586"/>
   </programme>
-  <programme start="20221016010000 +0300" stop="20221016021000 +0300" channel="ERT 2">
-    <title lang="el">Ξένη Ταινία</title>
-    <desc lang="el">Παρακολουθήστε επιλεγμένες, ξένες ταινίες.</desc>
+  <programme start="20221016010000 +0300" stop="20221016020000 +0300" channel="ERT 2">
+    <title lang="el">Ρόμπι Γουίλιαμς: Μια Νύχτα στο Παλάντιουμ (Ε)</title>
+    <desc lang="el">Μέσα από 60 λεπτά ξεσηκωτικού σόου, με ντουέτα έκπληξη αλλά και παλιές και νέες επιτυχίες, το λαμπερό Palladium του Λονδίνου, έρχεται στο σαλόνι σας.</desc>
+    <date>2013</date>
     <category lang="el">Ψυχαγωγική εκπομπή</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034892112000800.jpg/24069103-23ce-bb71-513f-7aad12bb84ec?version=1.0&amp;t=1611960842047"/>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037893912000800.jpg/c6ae42b8-c567-d200-db52-f92dd9e2128f?version=1.0&amp;t=1665523386438"/>
   </programme>
-  <programme start="20221016021000 +0300" stop="20221016031000 +0300" channel="ERT 2">
+  <programme start="20221016020000 +0300" stop="20221016030000 +0300" channel="ERT 2">
     <title lang="el">Art Week</title>
     <desc lang="el">Η εκπομπή παρακολουθεί ό,τι συμβαίνει στο θέατρο, στη λογοτεχνία και την ποίηση, στη μουσική, στα εικαστικά, στο χορό και τον κινηματογράφο στην Ελλάδα σήμερα. Η Λένα Αρώνη συναντά δημιουργικούς και καταξιωμένους καλλιτέχνες και συζητά μαζί τους για τον τρόπο έκφρασής τους.</desc>
     <category lang="el">Ψυχαγωγική εκπομπή</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040032094712000800.jpg/6cf7b618-b484-cd4f-4996-d4eb26b3280a?version=1.0&amp;t=1664660053235"/>
   </programme>
-  <programme start="20221016031000 +0300" stop="20221016040000 +0300" channel="ERT 2">
-    <title lang="el">Μαμά-δες</title>
-    <desc lang="el">Η Ζωή Κρονάκη συναντάει γνωστές -και όχι μόνο- μαμάδες, αλλά και μπαμπάδες, που θα μοιράζονται μαζί μας ιστορίες μητρότητας και πατρότητας.</desc>
-    <date>2020</date>
-    <category lang="el">Ψυχαγωγική εκπομπή</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037689712000800.jpg/045ab68f-d3e1-264a-a3bf-783ca2030bea?version=1.0&amp;t=1664471418432"/>
+  <programme start="20221016030000 +0300" stop="20221016040000 +0300" channel="ERT 2">
+    <title lang="el">Κατάσκοπος στο Χιόνι</title>
+    <desc lang="el">Οι κατάσκοποι φορούν τα χειμωνιάτικά τους και πηγαίνουν στο χιόνι για μια διασκεδαστική περιπέτεια, και για να αποκαλύψουν πώς καταφέρνουν να επιβιώνουν και να προοδεύουν μερικά από τα πιο αξιαγάπητα ζώα της Αρκτικής, στα μαγικά χειμωνιάτικα τοπία των θαυμάτων της φύσης.</desc>
+    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040032016612000800.jpg/ae3b308c-fe18-a432-c555-630dd9cb09a8?version=1.0&amp;t=1665523200705"/>
   </programme>
   <programme start="20221016040000 +0300" stop="20221016050000 +0300" channel="ERT 2">
     <title lang="el">Η Ζωή Είναι Στιγμές</title>
@@ -27738,51 +27948,42 @@
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040027904012000800.jpg/fc1f7e48-9498-1bf8-b9d2-a6c123857ff7?version=1.0&amp;t=1591967421151"/>
   </programme>
   <programme start="20221016060000 +0300" stop="20221016070000 +0300" channel="ERT 2">
-    <title lang="el">Κάτι Γλυκό</title>
-    <desc lang="el">Πρωτότυπες συνταγές, γρήγορες λιχουδιές, υγιεινές εκδοχές γνωστών γλυκών και λαχταριστές δημιουργίες από τον pastry chef Κρίτωνα Πουλή.</desc>
-    <category lang="el">Μαγειρική</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036287312000800.jpg/e9452ba9-0562-734d-c049-3532f43b01fc?version=1.0&amp;t=1650663021308"/>
+    <title lang="el">Γλυκό Δηλητήριο</title>
+    <desc lang="el">Ντοκιμαντέρ παραγωγής Γερμανίας 2012. Τελευταία, όλο και περισσότεροι ειδικοί αμφισβητούν τους τρόπους που κινείται η βιομηχανία βοήθειας προς τον Τρίτο Κόσμο και κάποιες δύσκολες αλήθειες βγαίνουν στην επιφάνεια. Η Βοήθεια προς τον Τρίτο Κόσμο έχει και μια πολύ σκοτεινή όψη.</desc>
+    <credits>
+      <director>Πίτερ Χέλερ</director>
+    </credits>
+    <category lang="el">Ντοκιμαντέρ</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040031401912000800.jpg/a7e8b1b5-9810-53b8-f07d-d5664ab6c085?version=1.0&amp;t=1665523387770"/>
   </programme>
   <programme start="20221016070000 +0300" stop="20221016080000 +0300" channel="ERT 2">
-    <title lang="el">Οι Εκπομπές που Αγάπησα</title>
-    <desc lang="el">Σειρά όπου ο Φρέντυ Γερμανός παρουσιάζει μια ανθολογία από τις εκπομπές του, συμπληρώνοντας πορεία 25 χρόνων στην ελληνική τηλεόραση.</desc>
-    <category lang="el">Τέχνες - Πολιτισμός</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040029422712000800.jpg/aa402e9a-a939-e8ea-f78c-2d9450afca2a?version=1.0&amp;t=1665351183566"/>
+    <title lang="el">Κατασκοπεύοντας Άγρια Είδη: Γνωρίστε τους Κατασκόπους</title>
+    <desc lang="el">Μια ματιά στα παρασκήνια της εκπληκτικής ιστορίας που αφηγούνται τα Ζώα-κατάσκοποι, η οποία εξηγεί πώς ξεκίνησε η σύλληψη μιας τέτοιας ιδέας και πώς ενέπνευσε τη δημιουργία αυτών των μηχανοκίνητων ζώων της σειράς.</desc>
+    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040033113112000800.jpg/cd4b0203-8ca4-adda-5b13-4c1b76a646c8?version=1.0&amp;t=1665523388180"/>
   </programme>
-  <programme start="20221016080000 +0300" stop="20221016103000 +0300" channel="ERT 2">
-    <title lang="el">Θεία Λειτουργία</title>
-    <desc lang="el">Παρακολουθήστε σε απευθείας μετάδοση τη Θεία Λειτουργία.</desc>
-    <category lang="el">Θρησκευτικό</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040029600512000800.jpg/ed2adcae-a279-e717-3622-0b114bef4aa8?version=1.0&amp;t=1665351183928"/>
-  </programme>
-  <programme start="20221016103000 +0300" stop="20221016113000 +0300" channel="ERT 2">
-    <title lang="el">Φωτεινά Μονοπάτια Κ3</title>
-    <desc lang="el">Η σειρά συνεχίζει, για τρίτη χρονιά, το οδοιπορικό της στα ιερά προσκυνήματα της Ορθοδοξίας, σε Ελλάδα και εξωτερικό.</desc>
-    <credits>
-      <director>Κώστας Παπαδήμας</director>
-    </credits>
-    <category lang="el">Τέχνες - Πολιτισμός</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040024256212000800.jpg/a5c04449-d2d0-aef9-1ce7-c61a5b5cb247?version=1.0&amp;t=1665351184242"/>
-  </programme>
-  <programme start="20221016113000 +0300" stop="20221016120000 +0300" channel="ERT 2">
-    <title lang="el">Με Αρετή και Τόλμη</title>
-    <desc lang="el">Ενημέρωση για τις δραστηριότητες του Υπουργείου Εθνικής Άμυνας και των Ένοπλων Δυνάμεων.</desc>
-    <category lang="el">Ψυχαγωγική εκπομπή</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040029608812000800.jpg/d5ba8800-5dad-1562-f0f7-bcb6ca0d1fed?version=1.0&amp;t=1612304942553"/>
+  <programme start="20221016080000 +0300" stop="20221016120000 +0300" channel="ERT 2">
+    <title lang="el">Πολυαρχιερατικό Συλλείτουργο</title>
+    <desc lang="el">Παρακολουθήστε ζωντανά το Πολυαρχιερατικό Συλλείτουργο.</desc>
+    <category lang="el">Special</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040018467212000800.jpg/144b723e-8846-0e4a-81dd-f5930b9dded3?version=1.0&amp;t=1580080609630"/>
   </programme>
   <programme start="20221016120000 +0300" stop="20221016130000 +0300" channel="ERT 2">
-    <title lang="el">Χωρίς Πυξίδα</title>
-    <desc lang="el">O Άρης Τσάπης και ο Γιάννης Φραγκίσκος καταγράφουν τις εικόνες και τα βιώματα που αποκόμισαν από τα ταξίδια τους κατά τη διάρκεια των θεατρικών περιοδειών τους.</desc>
+    <title lang="el">Μαμά-δες</title>
+    <desc lang="el">Η Ζωή Κρονάκη συναντάει γνωστές -και όχι μόνο- μαμάδες, αλλά και μπαμπάδες, που θα μοιράζονται μαζί μας ιστορίες μητρότητας και πατρότητας.</desc>
+    <date>2020</date>
     <category lang="el">Ψυχαγωγική εκπομπή</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040035588212000800.jpg/045760cb-d316-c5be-957d-51f35b2f600f?version=1.0&amp;t=1658784430035"/>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037689712000800.jpg/045ab68f-d3e1-264a-a3bf-783ca2030bea?version=1.0&amp;t=1664471418432"/>
   </programme>
   <programme start="20221016130000 +0300" stop="20221016140000 +0300" channel="ERT 2">
-    <title lang="el">ΠΟΠ Μαγειρική Κ4</title>
-    <desc lang="el">Ο chef Ανδρέας Λαγός μαγειρεύει με πιστοποιημένα ελληνικά προϊόντα και μαζί με παράγωγους, διατροφολόγους και εξειδικευμένους επιστήμονες, μας μαθαίνουν τα μυστικά της σωστής διατροφής. Παραγωγή: Ελλάδα.</desc>
+    <title lang="el">ΠΟΠ Μαγειρική</title>
+    <desc lang="el">Επεισόδιο: Αντώνης Σελέκος. Το μενού περιλαμβάνει: Φασόλια Κοινά Μεσόσπερμα Κάτω Νευροκοπίου ταμπουλέ με μαριναρισμένη σουπιά, σελινόριζα ψητή με Τυρί της Μπουρνιάς Άνδρου και φασκόμηλο και τέλος, καζάν ντιπί με Μαστίχα Χίου. Παραγωγή: Ελλάδα.</desc>
+    <date>2022</date>
     <category lang="el">Μαγειρική</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040027904012000800.jpg/fc1f7e48-9498-1bf8-b9d2-a6c123857ff7?version=1.0&amp;t=1591967421151"/>
+    <episode-num system="onscreen">S5 E26</episode-num>
   </programme>
-  <programme start="20221016140000 +0300" stop="20221016154000 +0300" channel="ERT 2">
+  <programme start="20221016140000 +0300" stop="20221016153000 +0300" channel="ERT 2">
     <title lang="el">Τρεις Κούκλες κι Εγώ</title>
     <desc lang="el">Ο λογιστής ενός οίκου μόδας αναλαμβάνει να συνοδεύσει τρία από τα μανεκέν σε ένα νησί, για προώθηση των ρούχων του οίκου. Κατά τη διάρκεια του ταξιδιού, ένας εφοπλιστής, ένας καταφερτζής κοντός και ο λογιστής, θα ερωτευτούν τις τρεις καλλονές. (77') Παραγωγή: Ελλάδα.</desc>
     <credits>
@@ -27795,9 +27996,9 @@
     <category lang="el">Κωμωδία</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040005778012000800.jpg/bfbdaac7-d349-673b-bdc0-29466632b251?version=1.0&amp;t=1665437304991"/>
   </programme>
-  <programme start="20221016154000 +0300" stop="20221016162500 +0300" channel="ERT 2">
-    <title lang="el">Το Μικρό Σπίτι στο Λιβάδι Κ4</title>
-    <desc lang="el">Οικογενειακή σειρά παραγωγής ΗΠΑ 1974-1983. Η σειρά, βασισμένη στα ομώνυμα αυτοβιογραφικά βιβλία της Λόρα Ίνγκαλς Ουάιλντερ και γυρισμένη στην αμερικανική Δύση, καταγράφει την καθημερινότητα μιας πολυμελούς αγροτικής οικογένειας του 1880.</desc>
+  <programme start="20221016153000 +0300" stop="20221016170000 +0300" channel="ERT 2">
+    <title lang="el">Το Μικρό Σπίτι στο Λιβάδι (Ε)</title>
+    <desc lang="el">Επεισόδιο: Γίνε φίλη μου, Μέρος Β'. Η Λόρα βρίσκει μερικά άδεια μπουκάλια με μηνύματα. Σε ένα από αυτά, βρίσκει τη φωτογραφία ενός κοριτσιού. Στη συνέχεια, ανακαλύπτει ένα εγκαταλελειμμένο μωρό. Αναλαμβάνει να το φροντίσει σαν δικό της, αγνοώντας ότι ανήκει σε μία κοπέλα, την οποία κακομεταχειρίζεται ο πατέρας της.</desc>
     <credits>
       <director>Γουίλιαμ Κλάξτον</director>
       <director>Μόρι Ντέξτερ</director>
@@ -27808,219 +28009,445 @@
     </credits>
     <category lang="el">Οικογενειακή</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040016578512000800.jpg/b870a898-9ec8-78e7-260f-b51493ff4b75?version=1.0&amp;t=1664660052622"/>
-  </programme>
-  <programme start="20221016162500 +0300" stop="20221016170000 +0300" channel="ERT 2">
-    <title lang="el">Το Μικρό Σπίτι στο Λιβάδι Κ4</title>
-    <desc lang="el">Οικογενειακή σειρά παραγωγής ΗΠΑ 1974-1983. Η σειρά, βασισμένη στα ομώνυμα αυτοβιογραφικά βιβλία της Λόρα Ίνγκαλς Ουάιλντερ και γυρισμένη στην αμερικανική Δύση, καταγράφει την καθημερινότητα μιας πολυμελούς αγροτικής οικογένειας του 1880.</desc>
-    <credits>
-      <director>Γουίλιαμ Κλάξτον</director>
-      <director>Μόρι Ντέξτερ</director>
-      <director>Βίκτορ Φρεντς</director>
-      <actor>Μελίσα Γκίλμπερτ</actor>
-      <actor>Μάικλ Λάντον</actor>
-      <actor>Κάρεν Γκρασλ</actor>
-    </credits>
-    <category lang="el">Οικογενειακή</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040016578512000800.jpg/b870a898-9ec8-78e7-260f-b51493ff4b75?version=1.0&amp;t=1664660052622"/>
+    <episode-num system="onscreen">S4 E17</episode-num>
   </programme>
   <programme start="20221016170000 +0300" stop="20221016180000 +0300" channel="ERT 2">
-    <title lang="el">Ράλι Ακρόπολις</title>
-    <desc lang="el">Παρακολουθήστε τους συναρπαστικούς αγώνες.</desc>
-    <category lang="el">Μηχανοκίνητα</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037786412000800.jpg/582c0d86-ca08-2b13-f727-34ee2b1f0c76?version=1.0&amp;t=1665351186258"/>
+    <title lang="el">Εκπομπή</title>
+    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
+    <category lang="el">Ψυχαγωγική εκπομπή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034546812000800.jpg/df9875a2-94e2-2e55-1951-edb1f9b8fc39?version=1.0&amp;t=1606258084330"/>
   </programme>
   <programme start="20221016180000 +0300" stop="20221016190000 +0300" channel="ERT 2">
-    <title lang="el">Πλάνα με Ουρά Κ2</title>
-    <desc lang="el">Στα Πλάνα με ουρά, η Τασούλα Επτακοίλη αφηγείται ιστορίες ανθρώπων και ζώων. Παραγωγή: Ελλάδα.</desc>
-    <date>2020</date>
-    <category lang="el">Ψυχαγωγική εκπομπή</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040028720712000800.jpg/2e6f5196-4d0c-d70d-1fa7-31f9e9b1b718?version=1.0&amp;t=1647987814378"/>
-  </programme>
-  <programme start="20221016190000 +0300" stop="20221016210000 +0300" channel="ERT 2">
-    <title lang="el">Η Αυλή των Χρωμάτων Κ4</title>
-    <desc lang="el">Η εκπομπή με την Αθηνά Καμπάκογλου φιλοδοξεί να ομορφύνει τα απογεύματα του Σαββάτου, παρουσιάζοντας ενδιαφέροντες ανθρώπους από το χώρο του πολιτισμού, ανθρώπους με κύρος, αλλά και νεότερους καλλιτέχνες, τους πρωταγωνιστές του αύριο.</desc>
-    <category lang="el">Ψυχαγωγική εκπομπή</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036624412000800.jpg/a2e7091e-9308-0e8b-efad-93fd85ced2ee?version=1.0&amp;t=1649798435468"/>
-  </programme>
-  <programme start="20221016210000 +0300" stop="20221017004000 +0300" channel="ERT 2">
-    <title lang="el">Ξένη Σειρά</title>
-    <desc lang="el">Η ΕΡΤ σας παρουσιάζει μια ευρεία γκάμα από επιλεγμένες, ξένες σειρές.</desc>
-    <category lang="el">Other</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034890612000800.jpg/5920e425-4b65-2a0d-4366-2c444df602b7?version=1.0&amp;t=1665351187196"/>
-  </programme>
-  <programme start="20221017004000 +0300" stop="20221017023000 +0300" channel="ERT 2">
-    <title lang="el">Close Up</title>
-    <desc lang="el">Ντοκιμαντέρ που αναφέρονται στο έργο και τη ζωή Ελλήνων δημιουργών, καλλιτεχνών, επιστημόνων και απλών ανθρώπων που συμβάλλουν στη συγκρότηση της συλλογικής ταυτότητας. Πέρα από πρόσωπα, παρουσιάζονται δημιουργικές συλλογικότητες και δράσεις, κοινωνικές, οικολογικές, επιστημονικές.</desc>
-    <category lang="el">Ντοκιμαντέρ</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040033617412000800.jpg/027166f4-6350-125e-b5e7-591d06cda8da?version=1.0&amp;t=1665350963504"/>
-  </programme>
-  <programme start="20221017023000 +0300" stop="20221017033000 +0300" channel="ERT 2">
-    <title lang="el">Οι Εκπομπές που Αγάπησα</title>
-    <desc lang="el">Σειρά όπου ο Φρέντυ Γερμανός παρουσιάζει μια ανθολογία από τις εκπομπές του, συμπληρώνοντας πορεία 25 χρόνων στην ελληνική τηλεόραση.</desc>
-    <category lang="el">Τέχνες - Πολιτισμός</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040029422712000800.jpg/aa402e9a-a939-e8ea-f78c-2d9450afca2a?version=1.0&amp;t=1665351183566"/>
-  </programme>
-  <programme start="20221017033000 +0300" stop="20221017042000 +0300" channel="ERT 2">
-    <title lang="el">Φωτεινά Μονοπάτια</title>
-    <desc lang="el">Η νέα σειρά ντοκιμαντέρ αποτελεί ένα οδοιπορικό στους πιο σημαντικούς θρησκευτικούς προορισμούς της Ελλάδας και όχι μόνο. Οι προορισμοί του εξωτερικού αφορούν τόπους και μοναστήρια που συνδέονται με το Ελληνορθόδοξο στοιχείο και αποτελούν σημαντικά θρησκευτικά μνημεία.</desc>
-    <credits>
-      <director>Κώστας Παπαδήμας</director>
-    </credits>
-    <category lang="el">Τέχνες - Πολιτισμός</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036976312000800.jpg/b2a49f1b-c9fb-dd24-85d2-d28512825393?version=1.0&amp;t=1665437848824"/>
-  </programme>
-  <programme start="20221017042000 +0300" stop="20221017051000 +0300" channel="ERT 2">
-    <title lang="el">Πλάνα με Ουρά Κ3</title>
-    <desc lang="el">Στα Πλάνα με ουρά, η Τασούλα Επτακοίλη αφηγείται ιστορίες ανθρώπων και ζώων. Παραγωγή: Ελλάδα.</desc>
+    <title lang="el">Πλάνα με Ουρά</title>
+    <desc lang="el">Γιάννης Λαζαρίδης, 'Ζεστή Αγκαλιά', VIPet, Ελένη Κοκκίδου. Παραγωγή: Ελλάδα.</desc>
     <date>2022</date>
     <category lang="el">Ψυχαγωγική εκπομπή</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040028720712000800.jpg/2e6f5196-4d0c-d70d-1fa7-31f9e9b1b718?version=1.0&amp;t=1647987814378"/>
+    <episode-num system="onscreen">S3 E13</episode-num>
   </programme>
-  <programme start="20221017051000 +0300" stop="20221017060500 +0300" channel="ERT 2">
-    <title lang="el">ΠΟΠ Μαγειρική Κ4</title>
-    <desc lang="el">Ο chef Ανδρέας Λαγός μαγειρεύει με πιστοποιημένα ελληνικά προϊόντα και μαζί με παράγωγους, διατροφολόγους και εξειδικευμένους επιστήμονες, μας μαθαίνουν τα μυστικά της σωστής διατροφής. Παραγωγή: Ελλάδα.</desc>
-    <category lang="el">Μαγειρική</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040027904012000800.jpg/fc1f7e48-9498-1bf8-b9d2-a6c123857ff7?version=1.0&amp;t=1591967421151"/>
-  </programme>
-  <programme start="20221017060500 +0300" stop="20221017070000 +0300" channel="ERT 2">
-    <title lang="el">Χωρίς Πυξίδα</title>
-    <desc lang="el">O Άρης Τσάπης και ο Γιάννης Φραγκίσκος καταγράφουν τις εικόνες και τα βιώματα που αποκόμισαν από τα ταξίδια τους κατά τη διάρκεια των θεατρικών περιοδειών τους.</desc>
+  <programme start="20221016190000 +0300" stop="20221016205500 +0300" channel="ERT 2">
+    <title lang="el">Η Αυλή των Χρωμάτων (Ε)</title>
+    <desc lang="el">Επεισόδιο: Σε λαϊκούς δρόμους με τον Θέμη Αδαμαντίδη. Η εκπομπή με την Αθηνά Καμπάκογλου φιλοδοξεί να ομορφύνει τα απογεύματα του Σαββάτου, παρουσιάζοντας ενδιαφέροντες ανθρώπους από το χώρο του πολιτισμού, ανθρώπους με κύρος, αλλά και νεότερους καλλιτέχνες, τους πρωταγωνιστές του αύριο.</desc>
+    <date>2022</date>
     <category lang="el">Ψυχαγωγική εκπομπή</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040035588212000800.jpg/045760cb-d316-c5be-957d-51f35b2f600f?version=1.0&amp;t=1658784430035"/>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037880212000800.jpg/99f15157-b1c4-c609-186a-02cf4a494c00?version=1.0&amp;t=1665523208134"/>
+    <episode-num system="onscreen">S5 E2</episode-num>
+  </programme>
+  <programme start="20221016205500 +0300" stop="20221016210000 +0300" channel="ERT 2">
+    <title lang="el">Η Λέσχη του Βιβλίου</title>
+    <desc lang="el">Η εκπομπή που επιμελείται και παρουσιάζει ο Γιώργος Αρχιμανδρίτης συνιστά έναν οδηγό ανάγνωσης με κλασικά έργα που σφράγισαν την ιστορία του ανθρώπινου πνεύματος με τον αφηγηματικό τους κόσμο, τη γλώσσα και την αισθητική τους.</desc>
+    <category lang="el">Ψυχαγωγική εκπομπή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037865812000800.jpg/61b9c01a-864f-3af7-3399-921a83f62bf6?version=1.0&amp;t=1665523207506"/>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20221016210000 +0300" stop="20221017000000 +0300" channel="ERT 2">
+    <title lang="el">Ό,τι Λάμπει</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Επεισόδιο: Το άλλο μισό. Μια περίπλοκη, γεμάτη σασπένς ιστορία αγάπης, δολοφονίας, μαγείας και εκδίκησης που διαδραματίζεται στη Νέα Ζηλανδία στο απόγειο του 'πυρετού του χρυσού της δεκαετίας του 1860, βασισμένη στο βραβευμένο με Βραβείο Man Booker μυθιστόρημα.</desc>
+    <credits>
+      <actor>Ιβ Χιούσον</actor>
+      <actor>Εύα Γκριν</actor>
+      <actor>Χιμς Πατέλ</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="el">Περιπέτεια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037874312000800.jpg/6f85af26-fbce-9d5e-5142-99a83473413a?version=1.0&amp;t=1665523391571"/>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20221017000000 +0300" stop="20221017010000 +0300" channel="ERT 2">
+    <title lang="el">Ρόμπι Γουίλιαμς: Μια Νύχτα στο Παλάντιουμ (Ε)</title>
+    <desc lang="el">Μέσα από 60 λεπτά ξεσηκωτικού σόου, με ντουέτα έκπληξη αλλά και παλιές και νέες επιτυχίες, το λαμπερό Palladium του Λονδίνου, έρχεται στο σαλόνι σας.</desc>
+    <date>2013</date>
+    <category lang="el">Ψυχαγωγική εκπομπή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037893912000800.jpg/c6ae42b8-c567-d200-db52-f92dd9e2128f?version=1.0&amp;t=1665523386438"/>
+  </programme>
+  <programme start="20221017010000 +0300" stop="20221017020000 +0300" channel="ERT 2">
+    <title lang="el">Εκπομπή</title>
+    <desc lang="el">Η ΕΡΤ σας παρουσιάζει επιλεγμένες εκπομπές.</desc>
+    <category lang="el">Ψυχαγωγική εκπομπή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034546812000800.jpg/df9875a2-94e2-2e55-1951-edb1f9b8fc39?version=1.0&amp;t=1606258084330"/>
+  </programme>
+  <programme start="20221017020000 +0300" stop="20221017030000 +0300" channel="ERT 2">
+    <title lang="el">Κατασκοπεύοντας Άγρια Είδη: Γνωρίστε τους Κατασκόπους</title>
+    <desc lang="el">Μια ματιά στα παρασκήνια της εκπληκτικής ιστορίας που αφηγούνται τα Ζώα-κατάσκοποι, η οποία εξηγεί πώς ξεκίνησε η σύλληψη μιας τέτοιας ιδέας και πώς ενέπνευσε τη δημιουργία αυτών των μηχανοκίνητων ζώων της σειράς.</desc>
+    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040033113112000800.jpg/cd4b0203-8ca4-adda-5b13-4c1b76a646c8?version=1.0&amp;t=1665523388180"/>
+  </programme>
+  <programme start="20221017030000 +0300" stop="20221017043000 +0300" channel="ERT 2">
+    <title lang="el">Το Μικρό Σπίτι στο Λιβάδι Κ4</title>
+    <desc lang="el">Οικογενειακή σειρά παραγωγής ΗΠΑ 1974-1983. Η σειρά, βασισμένη στα ομώνυμα αυτοβιογραφικά βιβλία της Λόρα Ίνγκαλς Ουάιλντερ και γυρισμένη στην αμερικανική Δύση, καταγράφει την καθημερινότητα μιας πολυμελούς αγροτικής οικογένειας του 1880.</desc>
+    <credits>
+      <director>Γουίλιαμ Κλάξτον</director>
+      <director>Μόρι Ντέξτερ</director>
+      <director>Βίκτορ Φρεντς</director>
+      <actor>Μελίσα Γκίλμπερτ</actor>
+      <actor>Μάικλ Λάντον</actor>
+      <actor>Κάρεν Γκρασλ</actor>
+    </credits>
+    <category lang="el">Οικογενειακή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040016578512000800.jpg/b870a898-9ec8-78e7-260f-b51493ff4b75?version=1.0&amp;t=1664660052622"/>
+  </programme>
+  <programme start="20221017043000 +0300" stop="20221017070000 +0300" channel="ERT 2">
+    <title lang="el">Ό,τι Λάμπει</title>
+    <desc lang="el">Μια περίπλοκη, γεμάτη σασπένς ιστορία αγάπης, δολοφονίας, μαγείας και εκδίκησης που διαδραματίζεται στη Νέα Ζηλανδία στο απόγειο του 'πυρετού του χρυσού της δεκαετίας του 1860, βασισμένη στο βραβευμένο με Βραβείο Man Booker μυθιστόρημα.</desc>
+    <credits>
+      <actor>Ιβ Χιούσον</actor>
+      <actor>Εύα Γκριν</actor>
+      <actor>Χιμς Πατέλ</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="el">Περιπέτεια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037874312000800.jpg/6f85af26-fbce-9d5e-5142-99a83473413a?version=1.0&amp;t=1665523391571"/>
   </programme>
   <programme start="20221017070000 +0300" stop="20221017072500 +0300" channel="ERT 2">
-    <title lang="el">Γάτος Σπιρουνάτος Κ2</title>
-    <desc lang="el">Ο διάσημος γάτος προστατεύει την πόλη του Σαν Λορέντζο, μια μυθική τοποθεσία αόρατη στον έξω κόσμο.</desc>
-    <date>2016</date>
+    <title lang="el">Ώρα για Παραμύθι</title>
+    <desc lang="el">Επεισόδιο: Πολυνησία: Η Τουπάι και το μυστικό του μαργαριταριού. Πανέμορφες ιστορίες, διαλεγμένες από τις τέσσερις γωνιές της γης. Παραγωγή: Γαλλία.</desc>
+    <date>2017</date>
     <category lang="el">Κιν. Σχέδια</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040026895812000800.jpg/2d97a86a-a6f0-6563-9f7b-904d2a205dbe?version=1.0&amp;t=1662672554985"/>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037751012000800.jpg/bed93f23-1a10-65c2-10f2-28b69dfd596e?version=1.0&amp;t=1662672555279"/>
+    <episode-num system="onscreen">E25</episode-num>
   </programme>
   <programme start="20221017072500 +0300" stop="20221017075000 +0300" channel="ERT 2">
-    <title lang="el">Ντίγκμπι. ο Μικρός Δράκος</title>
+    <title lang="el">Ντίγκμπι. ο Μικρός Δράκος Κ2 (Ε)</title>
     <desc lang="el">Ο Ντίγκμπι, ένας μικρός δράκος με μεγάλη καρδιά, ζει σε ένα δάσος ονειρικής ομορφιάς. Μπορεί να μην ξέρει ακόμα να βγάζει φωτιές ή να πετάει, έχει όμως ξεχωριστή προσωπικότητα και αστείρευτη ενέργεια.</desc>
     <category lang="el">Κιν. Σχέδια</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036558712000800.jpg/01bed78b-5be7-b6ca-e423-30a5dd4f1066?version=1.0&amp;t=1662240990713"/>
   </programme>
-  <programme start="20221017075000 +0300" stop="20221017080500 +0300" channel="ERT 2">
-    <title lang="el">Ώρα για Παραμύθι</title>
-    <desc lang="el">Πανέμορφες ιστορίες, διαλεγμένες από τις τέσσερις γωνιές της γης. Παραγωγή: Γαλλία.</desc>
-    <date>2017</date>
+  <programme start="20221017075000 +0300" stop="20221017080000 +0300" channel="ERT 2">
+    <title lang="el">Αριθμοκυβάκια (Ε)</title>
+    <desc lang="el">Είναι αριθμοί ή κυβάκια; Και τα δύο. Αφού κάθε αριθμός αποτελείται από αντίστοιχα κυβάκια, αν βγάλεις ένα και το βάλεις σε ένα άλλο, τότε η πρόσθεση και η αφαίρεση γίνεται παιχνιδάκι.</desc>
     <category lang="el">Κιν. Σχέδια</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037751012000800.jpg/bed93f23-1a10-65c2-10f2-28b69dfd596e?version=1.0&amp;t=1662672555279"/>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036054112000800.jpg/6404375c-001c-22ad-af48-a21483f2e39c?version=1.0&amp;t=1665523586474"/>
   </programme>
-  <programme start="20221017080500 +0300" stop="20221017083000 +0300" channel="ERT 2">
-    <title lang="el">Το Σχολείο της Έλεν</title>
-    <desc lang="el">Η πεντάχρονη Έλεν ονειρεύεται να γίνει δασκάλα και κάνει μάθημα στα παιχνίδια της. Παρά το γεγονός ότι οι μαθητές της είναι αρκετά άτακτοι, ανακαλύπτουν πως ακούγοντας και βοηθώντας τους άλλους, είναι ο καλύτερος τρόπος για να μάθουν. Παραγωγή: Γαλλία, Καναδάς.</desc>
-    <date>2017</date>
+  <programme start="20221017080000 +0300" stop="20221017083000 +0300" channel="ERT 2">
+    <title lang="el">Οι Αναμνήσεις της Νανέτ</title>
+    <desc lang="el">Η μικρή Νανέτ αντικρίζει την εξοχή πρώτη φορά, όταν πηγαίνει να ζήσει με τον παππού της, τη γιαγιά της και τη θεία της. Μαζί με τους καινούργιους της φίλους, απολαμβάνει την ύπαιθρο και πρέπει να εξερευνήσει κάθε γωνιά. Τα πάντα μεταμορφώνονται σε μια νέα περιπέτεια στον καινούργιο κόσμο της Νανέτ.</desc>
     <category lang="el">Κιν. Σχέδια</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040032748612000800.jpg/37043896-96ca-d4ef-395a-ea463965ebd6?version=1.0&amp;t=1665437850908"/>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034427712000800.jpg/ad1b0330-6994-524f-2804-a9f77402cbf6?version=1.0&amp;t=1664919385569"/>
   </programme>
   <programme start="20221017083000 +0300" stop="20221017093000 +0300" channel="ERT 2">
-    <title lang="el">Τόποι των Μουσώνων Κ1</title>
-    <desc lang="el">Αυτό το συναρπαστικό ντοκιμαντέρ εξερευνά πώς ο ταραχώδης καιρός της νοτιοανατολικής Ασίας διαμορφώνει τις κουλτούρες και τα πλάσματα που ζουν σε αυτό το εξωτικό και θελκτικό μέρος του κόσμου.</desc>
+    <title lang="el">Άγρια Ζωή (Ε)</title>
+    <desc lang="el">Επεισόδιο: Οι κέφαλοι της Φλόριντα. Η σειρά αποκαλύπτει πώς τα ένστικτα διαφορετικών ζώων διαμορφώνουν τα έξυπνα, υπέροχα και μερικές φορές περίεργα μοτίβα συμπεριφοράς τους.</desc>
     <category lang="el">Φύση - Ανθρωπολογία</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040018506112000800.jpg/4ad52f3f-ac32-05bc-14bc-1fccf975add3?version=1.0&amp;t=1665437851206"/>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037125012000800.jpg/17d2c796-19c4-4ab9-1304-d8f29a83ae21?version=1.0&amp;t=1665005149249"/>
+    <episode-num system="onscreen">E6</episode-num>
   </programme>
   <programme start="20221017093000 +0300" stop="20221017103000 +0300" channel="ERT 2">
-    <title lang="el">Μυστικά των Πόλεων Κ1</title>
-    <desc lang="el">Οι ιστορικοί τέχνης Janina Ramirez και Alastair Sooke εμβαθύνουν στα κρυμμένα πολιτιστικά αξιοθέατα μεγάλων πόλεων του κόσμου, για να αποκαλύψουν την τέχνη, τη λογοτεχνία και τη μουσική τους.</desc>
-    <category lang="el">Τέχνες - Πολιτισμός</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037107012000800.jpg/687ef7da-c6dc-a644-713d-78b1dec123da?version=1.0&amp;t=1665437851642"/>
+    <title lang="el">Τροφή: Γευστική Επιστήμη (Ε)</title>
+    <desc lang="el">Επεισόδιο: Είμαστε ό,τι τρώμε. Σειρά ντοκιμαντέρ, που αποκαλύπτει πώς η κρυμμένη χημεία του φαγητού διατηρεί το σώμα μας υγιές, κάνει το φαγητό τόσο νόστιμο και πώς επηρεάζει τον εγκέφαλό μας και τις επιθυμίες μας!</desc>
+    <category lang="el">Επιστήμη - Μηχανική</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036930112000800.jpg/3f35c097-487a-751f-81d4-be562c598baf?version=1.0&amp;t=1665523587589"/>
+    <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20221017103000 +0300" stop="20221017110000 +0300" channel="ERT 2">
-    <title lang="el">Chef Exchange Κ1</title>
-    <desc lang="el">Αυτή η σειρά ακολουθεί το γαστρονομικό ταξίδι δύο διάσημων σεφ, του Jianmin Qu από την Κίνα και του Jock Zonfrillo από την Αυστραλία, καθώς ταξιδεύουν ο ένας στη χώρα του άλλου για να εξερευνήσουν τον πολιτισμό και την κουζίνα.</desc>
-    <category lang="el">Μαγειρική</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037270712000800.jpg/841cf30e-f62b-b581-2f8b-63cb16dcd2ab?version=1.0&amp;t=1665437851970"/>
-  </programme>
-  <programme start="20221017110000 +0300" stop="20221017113000 +0300" channel="ERT 2">
-    <title lang="el">Chef Exchange Κ1</title>
-    <desc lang="el">Αυτή η σειρά ακολουθεί το γαστρονομικό ταξίδι δύο διάσημων σεφ, του Jianmin Qu από την Κίνα και του Jock Zonfrillo από την Αυστραλία, καθώς ταξιδεύουν ο ένας στη χώρα του άλλου για να εξερευνήσουν τον πολιτισμό και την κουζίνα.</desc>
-    <category lang="el">Μαγειρική</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037270712000800.jpg/841cf30e-f62b-b581-2f8b-63cb16dcd2ab?version=1.0&amp;t=1665437851970"/>
+  <programme start="20221017103000 +0300" stop="20221017113000 +0300" channel="ERT 2">
+    <title lang="el">Κεντρική Αγορά: Γεύσεις της πόλης Κ3 (Ε)</title>
+    <desc lang="el">Επεισόδιο: Ελσίνκι. Βραβευμένη σειρά ντοκιμαντέρ, παραγωγής Γαλλίας 2013-2015. Η σειρά μας ξεναγεί στις κεντρικές αγορές τροφίμων μεγάλων Ευρωπαϊκών πόλεων. Με χρήση γραφικών εξερευνά τις αγορές και ανακαλύπτει τα προϊόντα τους και τους τοπικούς παραγωγούς μέσα από μια εντελώς νέα προσέγγιση.</desc>
+    <category lang="el">Τουριστικά - Ταξίδια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040018409212000800.jpg/32f8315c-6fd9-4d3c-e993-7ec2421da79c?version=1.0&amp;t=1665523588487"/>
   </programme>
   <programme start="20221017113000 +0300" stop="20221017120000 +0300" channel="ERT 2">
-    <title lang="el">Φάκελος Διατροφή Κ3</title>
-    <desc lang="el">Αγγλική σειρά ντοκιμαντέρ 2012-2015. Η γκουρού της υγιεινής διατροφής Nikki Muller ερευνά τα οφέλη αλλά και τους κινδύνους των αγαπημένων μας τροφών, αναζητώντας τις ρίζες του κάθε τροφίμου και καταρρίπτοντας πολλούς διατροφικούς μύθους.</desc>
-    <category lang="el">Other</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040016398012000800.jpg/1df6c967-5e23-267c-e9ca-9866e438561d?version=1.0&amp;t=1665437852524"/>
+    <title lang="el">Στα Χνάρια των Τροφών (Ε)</title>
+    <desc lang="el">Επεισόδιο: Στρείδια και Τηγανητά Ψάρια. Η Κέλλυ Κοξ ταξιδεύει σε όλο τον κόσμο, αναζητώντας τις γεύσεις εκείνες που είναι αυθεντικές σε κάθε γωνιά του πλανήτη και συνδέονται με τον ντόπιο πληθυσμό, τη ζωή και την ευημερία του.</desc>
+    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037435612000800.jpg/ca362646-e419-6c9c-008c-6618fe403ee7?version=1.0&amp;t=1665523589078"/>
+    <episode-num system="onscreen">E6</episode-num>
   </programme>
   <programme start="20221017120000 +0300" stop="20221017130000 +0300" channel="ERT 2">
-    <title lang="el">ΠΟΠ Μαγειρική Κ2</title>
-    <desc lang="el">Ο chef Μανώλης Παπουτσάκης μαγειρεύει με πιστοποιημένα ελληνικά προϊόντα και μαζί με παραγωγούς, διατροφολόγους και εξειδικευμένους επιστήμονες, μας μαθαίνουν τα μυστικά της σωστής διατροφής. Παραγωγή: Ελλάδα.</desc>
+    <title lang="el">ΠΟΠ Μαγειρική (Ε)</title>
+    <desc lang="el">Επεισόδιο: Jean-Marie Hoffmann. Ο chef Ανδρέας Λαγός μαγειρεύει με πιστοποιημένα ελληνικά προϊόντα και μαζί με παράγωγους, διατροφολόγους και εξειδικευμένους επιστήμονες, μας μαθαίνουν τα μυστικά της σωστής διατροφής. Παραγωγή: Ελλάδα.</desc>
     <category lang="el">Μαγειρική</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040027904012000800.jpg/fc1f7e48-9498-1bf8-b9d2-a6c123857ff7?version=1.0&amp;t=1591967421151"/>
+    <episode-num system="onscreen">S4 E30</episode-num>
   </programme>
-  <programme start="20221017130000 +0300" stop="20221017143000 +0300" channel="ERT 2">
-    <title lang="el">Ελληνική Ταινία</title>
-    <desc lang="el">Απολαύστε ταινίες του ελληνικού κινηματογράφου. (90').</desc>
-    <category lang="el">Δραματική</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034892012000800.jpg/95894114-c776-a7e9-84b7-c523077bd1a5?version=1.0&amp;t=1621028309373"/>
+  <programme start="20221017130000 +0300" stop="20221017140000 +0300" channel="ERT 2">
+    <title lang="el">Δες &amp; Βρες</title>
+    <desc lang="el">Το αγαπημένο τηλεπαιχνίδι της ΕΡΤ, με παρουσιαστή τον Νίκο Κουρή, δεν θα τεστάρει μόνο τις γνώσεις και τη μνήμη μας, αλλά κυρίως την παρατηρητικότητα, την αυτοσυγκέντρωση και την ψυχραιμία μας.</desc>
+    <category lang="el">Ψυχαγωγική εκπομπή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040027854512000800.jpg/6cf0feef-a4c1-02e9-3ac7-d3527d2992aa?version=1.0&amp;t=1627940216349"/>
   </programme>
-  <programme start="20221017143000 +0300" stop="20221017150000 +0300" channel="ERT 2">
+  <programme start="20221017140000 +0300" stop="20221017160000 +0300" channel="ERT 2">
+    <title lang="el">Μπετόβεν και Μπουζούκι</title>
+    <desc lang="el">Σε μία λαϊκή αυλή κάπου στην Αθήνα συγκατοικούν δύο φτωχοί μουσικοί με διαφορετικές αντιλήψεις. Ο ένας υπηρετεί την κλασική μουσική αλλά αντιμετωπίζει δυσκολίες, και ο άλλος παίζει σε λαϊκά κέντρα, γνωρίζοντας ολοένα και μεγαλύτερη επιτυχία. (103') Παραγωγή: Ελλάδα.</desc>
+    <credits>
+      <director>Ορέστης Λάσκος</director>
+      <actor>Μίμης Φωτόπουλος</actor>
+      <actor>Νίκος Σταυρίδης</actor>
+      <actor>Γιάννης Γκιωνάκης</actor>
+    </credits>
+    <date>1965</date>
+    <category lang="el">Κωμωδία</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040005754712000800.jpg/d2adddd1-8d6f-8faa-75ab-da8473868c10?version=1.0&amp;t=1665523591021"/>
+  </programme>
+  <programme start="20221017160000 +0300" stop="20221017163000 +0300" channel="ERT 2">
+    <title lang="el">1.000 Χρώματα του Χρήστου (Ε)</title>
+    <desc lang="el">Ο Χρήστος Δημόπουλος, παρέα με τα παιδιά, κάνει κατασκευές, προτείνει ποιοτικά βιβλία για τους μικρούς αναγνώστες, διαβάζει γράμματα και e-mail, δείχνει μικρά βίντεο που του στέλνουν και συνδέεται με τον καθηγητή Ήπιο Θερμοκήπιο.</desc>
+    <category lang="el">Παιδική</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040027118312000800.jpg/c3477dd2-5f94-7bdf-eb9d-97bebc0765ca?version=1.0&amp;t=1665005152489"/>
+  </programme>
+  <programme start="20221017163000 +0300" stop="20221017170000 +0300" channel="ERT 2">
     <title lang="el">Μια Φορά κι Έναν Καιρό Ήταν... η Ζωή</title>
     <desc lang="el">Ένα ταξίδι στον θαυμαστό κόσμο του ανθρώπινου σώματος. Ο σοφός Μαέστρο μας αναλύει τη δομή και τη λειτουργία των οργάνων και του μεταβολισμού. Παραγωγή: Γαλλία.</desc>
     <date>1986</date>
     <category lang="el">Παιδική</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034722012000800.jpg/bf672ebb-e7cb-c0fa-74c0-3c0eb2a79ee2?version=1.0&amp;t=1662674116161"/>
-  </programme>
-  <programme start="20221017150000 +0300" stop="20221017153000 +0300" channel="ERT 2">
-    <title lang="el">1.000 Χρώματα του Χρήστου</title>
-    <desc lang="el">Ο Χρήστος Δημόπουλος, παρέα με τα παιδιά, κάνει κατασκευές, προτείνει ποιοτικά βιβλία για τους μικρούς αναγνώστες, διαβάζει γράμματα και e-mail, δείχνει μικρά βίντεο που του στέλνουν και συνδέεται με τον καθηγητή Ήπιο Θερμοκήπιο.</desc>
-    <category lang="el">Παιδική</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034466612000800.jpg/929ed233-e3dd-810d-0471-cb84d86a2fb0?version=1.0&amp;t=1665437853902"/>
-  </programme>
-  <programme start="20221017153000 +0300" stop="20221017160000 +0300" channel="ERT 2">
-    <title lang="el">Γάτος Σπιρουνάτος Κ2</title>
-    <desc lang="el">Ο διάσημος γάτος προστατεύει την πόλη του Σαν Λορέντζο, μια μυθική τοποθεσία αόρατη στον έξω κόσμο.</desc>
-    <date>2016</date>
-    <category lang="el">Κιν. Σχέδια</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040026895812000800.jpg/2d97a86a-a6f0-6563-9f7b-904d2a205dbe?version=1.0&amp;t=1662672554985"/>
-  </programme>
-  <programme start="20221017160000 +0300" stop="20221017170000 +0300" channel="ERT 2">
-    <title lang="el">Τζοάνα Λάμλεϊ Υπερσιβηρική Περιπέτεια</title>
-    <desc lang="el">Η Τζοάνα Λάμλεϊ ξεκινά το 10.000 χιλιομέτρων ταξίδι της με τρένο, με προορισμό τη Μόσχα από το Χονγκ Κονγκ.</desc>
-    <date>2015</date>
-    <category lang="el">Τουριστικά - Ταξίδια</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040035716912000800.jpg/49d4208a-0134-2909-d6f3-05598b09e949?version=1.0&amp;t=1665437854449"/>
+    <episode-num system="onscreen">E22</episode-num>
   </programme>
   <programme start="20221017170000 +0300" stop="20221017190000 +0300" channel="ERT 2">
-    <title lang="el">Μις Μαρπλ Κ3</title>
-    <desc lang="el">Σειρά μυστηρίου συμπαραγωγής ΗΠΑ-Αγγλίας 2004-2013. Βασισμένη στην ομότιτλη σειρά αστυνομικών μυθιστορημάτων και διηγημάτων της Άγκαθα Κρίστι, η σειρά παρουσιάζει τις περιπέτειες της Τζέιν Μαρπλ, μίας ηλικιωμένης γεροντοκόρης που συχνά πέφτει σε περιπτώσεις μυστηριωδών φόνων.</desc>
-    <category lang="el">Μυστηρίου</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040014992812000800.jpg/70f07b20-391a-2977-f397-577a2cdb0c39?version=1.0&amp;t=1665437854755"/>
+    <title lang="el">Μαρία Δημάδη (Ε)</title>
+    <desc lang="el">Ελληνική κοινωνική σειρά παραγωγής 1987. Η ζωή της ηρωίδας της εθνικής αντίστασης Μαρίας Δημάδη, που δούλευε ως διερμηνέας στο γερμανικό φρουραρχείο του Αγρινίου κι έδινε χρήσιμες πληροφορίες για τις μετακινήσεις των γερμανικών στρατευμάτων στο ΕΑΜ.</desc>
+    <credits>
+      <director>Γιώργος Πετρίδης</director>
+      <actor>Ελένη Σάνιου</actor>
+      <actor>Χρήστος Πάρλας</actor>
+      <actor>Βασίλης Κολοβός</actor>
+    </credits>
+    <category lang="el">Κοινωνική</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040007023412000800.jpg/6a82dc92-b35e-ed6c-f2a2-7c691f2273b6?version=1.0&amp;t=1665178797786"/>
+    <episode-num system="onscreen">E3</episode-num>
   </programme>
-  <programme start="20221017190000 +0300" stop="20221017200000 +0300" channel="ERT 2">
-    <title lang="el">Μαμά-δες Κ3</title>
-    <desc lang="el">Η Ζωή Κρονάκη συναντάει γνωστές -και όχι μόνο- μαμάδες, αλλά και μπαμπάδες, που θα μοιράζονται μαζί μας ιστορίες μητρότητας και πατρότητας.</desc>
-    <date>2020</date>
-    <category lang="el">Ψυχαγωγική εκπομπή</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037689712000800.jpg/045ab68f-d3e1-264a-a3bf-783ca2030bea?version=1.0&amp;t=1664471418432"/>
+  <programme start="20221017190000 +0300" stop="20221017193000 +0300" channel="ERT 2">
+    <title lang="el">Ήταν ο Δικός μας Πόλεμος: Η Ιστορία του Γιώργου Οικονόμου (Ε)</title>
+    <desc lang="el">Ένα ντοκιμαντέρ για τη δράση των κατοίκων της υπαίθρου κατά τη διάρκεια του Ελληνοϊταλικού πολέμου. Κατά τις πρώτες μέρες της ιταλικής εισβολής, οι κάτοικοι των ορεινών χωριών της Ηπείρου αντιμετώπισαν αποτελεσματικά τα εχθρικά στρατεύματα.</desc>
+    <credits>
+      <director>Άγγελος Κοβότσος</director>
+    </credits>
+    <category lang="el">Ιστορικό - Πολεμικό</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036274712000800.jpg/f9c64fae-ceba-9487-405e-cff39096b02f?version=1.0&amp;t=1665523591981"/>
+  </programme>
+  <programme start="20221017193000 +0300" stop="20221017200000 +0300" channel="ERT 2">
+    <title lang="el">Αναζητώντας τη Χαμένη Εικόνα (Ε)</title>
+    <desc lang="el">Ελληνικό ντοκιμαντέρ πολιτιστικού περιεχομένου.</desc>
+    <credits>
+      <director>Λάκης Παπαστάθης</director>
+    </credits>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040028929112000800.jpg/ddd92de7-65bf-50df-4208-de18a5a254fb?version=1.0&amp;t=1665523589819"/>
   </programme>
   <programme start="20221017200000 +0300" stop="20221017210000 +0300" channel="ERT 2">
-    <title lang="el">Υστερόγραφο Κ2</title>
-    <desc lang="el">Σκοπός αυτής της σειράς ντοκιμαντέρ είναι να αναδείξει αξίες που είναι ακόμη ζωντανές στον τόπο μας, μέσα από μία φιλμική γραφή που θα επιδιώξει να αποκαλύψει την αλήθεια και την ποίηση της πραγματικότητας. Παραγωγή: Ελλάδα.</desc>
-    <date>2021</date>
-    <category lang="el">Σειρά ντοκιμαντέρ</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040035092812000800.jpg/1d748aec-bb3b-dbfd-96bc-c5db7284ed3f?version=1.0&amp;t=1665437599937"/>
+    <title lang="el">Επικίνδυνες</title>
+    <desc lang="el">Επεισόδιο: Εμπόλεμα Επικίνδυνες. Οι παρουσιάστριες της εκπομπής, Μαριάννα Σκυλακάκη, Μαρία Γιαννιού και Στέλλα Κάσδαγλη, έρχονται στην ΕΡΤ2, για να μας μιλήσουν για τις έμφυλες ανισότητες και τη θέση των γυναικών στην Ελλάδα σήμερα.</desc>
+    <date>2022</date>
+    <category lang="el">Ψυχαγωγική εκπομπή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036284512000800.jpg/e94df650-d683-192b-81ef-a0ea26cb937a?version=1.0&amp;t=1665005153704"/>
+    <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
-  <programme start="20221017210000 +0300" stop="20221017233000 +0300" channel="ERT 2">
-    <title lang="el">Επικίνδυνες Κατασκευές</title>
-    <desc lang="el">Ακολουθήστε μια νέα γενιά νέων project μηχανικής που θεωρούνταν αδύνατα πριν μερικά χρόνια. Κάθε επεισόδιο παρουσιάζει διαφορετικές ιστορίες τεχνητών project που είναι κρίσιμες για το μέλλον μας.</desc>
-    <category lang="el">Ριάλιτι</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040033170912000800.jpg/5eacdb69-778a-2c1d-7f1e-8894c342a147?version=1.0&amp;t=1665437855627"/>
+  <programme start="20221017210000 +0300" stop="20221017220000 +0300" channel="ERT 2">
+    <title lang="el">Ο Εντ Μπολς Ταξιδεύει στην Ευρώπη</title>
+    <desc lang="el">Ο Εντ Μπολς ταξιδεύει στην Ευρώπη για να ανακαλύψει πώς εκφράζονται στην υπόλοιπη Ε.Ε. οι διχασμοί που έφερε στην επιφάνεια το Brexit.</desc>
+    <category lang="el">Ψυχαγωγική εκπομπή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037883712000800.jpg/54e6841b-89f8-a86b-915e-322855b82a30?version=1.0&amp;t=1665178794439"/>
+    <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20221017233000 +0300" stop="20221018002000 +0300" channel="ERT 2">
-    <title lang="el">Όταν Έπεσε η Σκόνη</title>
-    <desc lang="el">Oκτώ πολύ διαφορετικές ιστορίες καθημερινών ανθρώπων, πριν και μετά την τρομοκρατική επίθεση που σόκαρε την Κοπεγχάγη. Παραγωγή: Δανία.</desc>
+  <programme start="20221017220000 +0300" stop="20221018000000 +0300" channel="ERT 2">
+    <title lang="el">Ακρότητες</title>
+    <desc lang="el">Ο ιερέας μίας μικρής ενορίας στη βόρεια Νέα Υόρκη παλεύει για να αντιμετωπίσει τη θλίψη που του προκάλεσε μια προσωπική τραγωδία και το τραυματικό παρελθόν του. (120') Παραγωγή: ΗΠΑ, Βρετανία, Αυστραλία.</desc>
     <credits>
-      <actor>Κάρεν-Λίζε Μίνστερ</actor>
-      <actor>Γιάκομπ Λόμαν</actor>
-      <actor>Μάλιν Κρέπιν</actor>
+      <director>Πολ Σρέιντερ</director>
+      <actor>Σέντρικ δε Εντερτέινερ</actor>
+      <actor>Ίθαν Χοκ</actor>
+      <actor>Αμάντα Σέιφριντ</actor>
     </credits>
-    <date>2020</date>
+    <date>2017</date>
+    <category lang="el">Δραματική</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040028510712000800.jpg/ffe4b140-aef6-fd59-006d-2a47251a42bd?version=1.0&amp;t=1665523592588"/>
+  </programme>
+  <programme start="20221018000000 +0300" stop="20221018004000 +0300" channel="ERT 2">
+    <title lang="el">Ξένη Σειρά</title>
+    <desc lang="el">Η ΕΡΤ σας παρουσιάζει μια ευρεία γκάμα από επιλεγμένες, ξένες σειρές.</desc>
+    <category lang="el">Other</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034890612000800.jpg/5920e425-4b65-2a0d-4366-2c444df602b7?version=1.0&amp;t=1665351187196"/>
+  </programme>
+  <programme start="20221018004000 +0300" stop="20221018013000 +0300" channel="ERT 2">
+    <title lang="el">Δες &amp; Βρες</title>
+    <desc lang="el">Το αγαπημένο τηλεπαιχνίδι της ΕΡΤ, με παρουσιαστή τον Νίκο Κουρή, δεν θα τεστάρει μόνο τις γνώσεις και τη μνήμη μας, αλλά κυρίως την παρατηρητικότητα, την αυτοσυγκέντρωση και την ψυχραιμία μας.</desc>
+    <category lang="el">Ψυχαγωγική εκπομπή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040027854512000800.jpg/6cf0feef-a4c1-02e9-3ac7-d3527d2992aa?version=1.0&amp;t=1627940216349"/>
+  </programme>
+  <programme start="20221018013000 +0300" stop="20221018022000 +0300" channel="ERT 2">
+    <title lang="el">Επικίνδυνες</title>
+    <desc lang="el">Οι παρουσιάστριες της εκπομπής, Μαριάννα Σκυλακάκη, Μαρία Γιαννιού και Στέλλα Κάσδαγλη, έρχονται στην ΕΡΤ2, για να μας μιλήσουν για τις έμφυλες ανισότητες και τη θέση των γυναικών στην Ελλάδα σήμερα.</desc>
+    <category lang="el">Ψυχαγωγική εκπομπή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036284512000800.jpg/e94df650-d683-192b-81ef-a0ea26cb937a?version=1.0&amp;t=1665005153704"/>
+  </programme>
+  <programme start="20221018022000 +0300" stop="20221018031000 +0300" channel="ERT 2">
+    <title lang="el">Άγρια Ζωή</title>
+    <desc lang="el">Η σειρά αποκαλύπτει πώς τα ένστικτα διαφορετικών ζώων διαμορφώνουν τα έξυπνα, υπέροχα και μερικές φορές περίεργα μοτίβα συμπεριφοράς τους.</desc>
+    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037125012000800.jpg/17d2c796-19c4-4ab9-1304-d8f29a83ae21?version=1.0&amp;t=1665005149249"/>
+  </programme>
+  <programme start="20221018031000 +0300" stop="20221018040000 +0300" channel="ERT 2">
+    <title lang="el">Τροφή: Γευστική Επιστήμη (Ε)</title>
+    <desc lang="el">Σειρά ντοκιμαντέρ.</desc>
+    <category lang="el">Επιστήμη - Μηχανική</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036930112000800.jpg/3f35c097-487a-751f-81d4-be562c598baf?version=1.0&amp;t=1665523587589"/>
+  </programme>
+  <programme start="20221018040000 +0300" stop="20221018043000 +0300" channel="ERT 2">
+    <title lang="el">Στα Χνάρια των Τροφών</title>
+    <desc lang="el">Η Κέλλυ Κοξ ταξιδεύει σε όλο τον κόσμο, αναζητώντας τις γεύσεις εκείνες που είναι αυθεντικές σε κάθε γωνιά του πλανήτη και συνδέονται με τον ντόπιο πληθυσμό, τη ζωή και την ευημερία του.</desc>
+    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037435612000800.jpg/ca362646-e419-6c9c-008c-6618fe403ee7?version=1.0&amp;t=1665523589078"/>
+  </programme>
+  <programme start="20221018043000 +0300" stop="20221018053000 +0300" channel="ERT 2">
+    <title lang="el">Κεντρική Αγορά: Γεύσεις της πόλης</title>
+    <desc lang="el">Βραβευμένη σειρά ντοκιμαντέρ, παραγωγής Γαλλίας 2013-2015. Η σειρά μας ξεναγεί στις κεντρικές αγορές τροφίμων μεγάλων Ευρωπαϊκών πόλεων. Με χρήση γραφικών εξερευνά τις αγορές και ανακαλύπτει τα προϊόντα τους και τους τοπικούς παραγωγούς μέσα από μια εντελώς νέα προσέγγιση.</desc>
+    <category lang="el">Τουριστικά - Ταξίδια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040031571312000800.jpg/55fecb09-0135-258d-ccb0-7fe368b33c4c?version=1.0&amp;t=1665091386322"/>
+  </programme>
+  <programme start="20221018053000 +0300" stop="20221018070000 +0300" channel="ERT 2">
+    <title lang="el">Μαρία Δημάδη (Ε)</title>
+    <desc lang="el">Ελληνική κοινωνική σειρά παραγωγής 1987. Η ζωή της ηρωίδας της εθνικής αντίστασης Μαρίας Δημάδη, που δούλευε ως διερμηνέας στο γερμανικό φρουραρχείο του Αγρινίου κι έδινε χρήσιμες πληροφορίες για τις μετακινήσεις των γερμανικών στρατευμάτων στο ΕΑΜ.</desc>
+    <credits>
+      <director>Γιώργος Πετρίδης</director>
+      <actor>Ελένη Σάνιου</actor>
+      <actor>Χρήστος Πάρλας</actor>
+      <actor>Βασίλης Κολοβός</actor>
+    </credits>
     <category lang="el">Κοινωνική</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036438112000800.jpg/7ef6b827-52d7-06bc-3a36-b77bfa3903b7?version=1.0&amp;t=1665437855905"/>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040007023412000800.jpg/6a82dc92-b35e-ed6c-f2a2-7c691f2273b6?version=1.0&amp;t=1665178797786"/>
+  </programme>
+  <programme start="20221018070000 +0300" stop="20221018072500 +0300" channel="ERT 2">
+    <title lang="el">Ώρα για Παραμύθι (Ε)</title>
+    <desc lang="el">Επεισόδιο: Ιρλανδία: Οι κύκνοι της θάλασσας. Πανέμορφες ιστορίες, διαλεγμένες από τις τέσσερις γωνιές της γης. Παραγωγή: Γαλλία.</desc>
+    <date>2017</date>
+    <category lang="el">Κιν. Σχέδια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037751012000800.jpg/bed93f23-1a10-65c2-10f2-28b69dfd596e?version=1.0&amp;t=1662672555279"/>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20221018072500 +0300" stop="20221018075000 +0300" channel="ERT 2">
+    <title lang="el">Ντίγκμπι. ο Μικρός Δράκος</title>
+    <desc lang="el">Ο Ντίγκμπι, ένας μικρός δράκος με μεγάλη καρδιά, ζει σε ένα δάσος ονειρικής ομορφιάς. Μπορεί να μην ξέρει ακόμα να βγάζει φωτιές ή να πετάει, έχει όμως ξεχωριστή προσωπικότητα και αστείρευτη ενέργεια.</desc>
+    <category lang="el">Κιν. Σχέδια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036558712000800.jpg/01bed78b-5be7-b6ca-e423-30a5dd4f1066?version=1.0&amp;t=1662240990713"/>
+  </programme>
+  <programme start="20221018075000 +0300" stop="20221018080000 +0300" channel="ERT 2">
+    <title lang="el">Αριθμοκυβάκια (Ε)</title>
+    <desc lang="el">Είναι αριθμοί ή κυβάκια; Και τα δύο. Αφού κάθε αριθμός αποτελείται από αντίστοιχα κυβάκια, αν βγάλεις ένα και το βάλεις σε ένα άλλο, τότε η πρόσθεση και η αφαίρεση γίνεται παιχνιδάκι.</desc>
+    <category lang="el">Κιν. Σχέδια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036054112000800.jpg/6404375c-001c-22ad-af48-a21483f2e39c?version=1.0&amp;t=1665523586474"/>
+  </programme>
+  <programme start="20221018080000 +0300" stop="20221018083000 +0300" channel="ERT 2">
+    <title lang="el">Οι Αναμνήσεις της Νανέτ</title>
+    <desc lang="el">Η μικρή Νανέτ αντικρίζει την εξοχή πρώτη φορά, όταν πηγαίνει να ζήσει με τον παππού της, τη γιαγιά της και τη θεία της. Μαζί με τους καινούργιους της φίλους, απολαμβάνει την ύπαιθρο και πρέπει να εξερευνήσει κάθε γωνιά. Τα πάντα μεταμορφώνονται σε μια νέα περιπέτεια στον καινούργιο κόσμο της Νανέτ.</desc>
+    <category lang="el">Κιν. Σχέδια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034427712000800.jpg/ad1b0330-6994-524f-2804-a9f77402cbf6?version=1.0&amp;t=1664919385569"/>
+  </programme>
+  <programme start="20221018083000 +0300" stop="20221018093000 +0300" channel="ERT 2">
+    <title lang="el">Άγρια Ζωή (Ε)</title>
+    <desc lang="el">Επεισόδιο: Τεχνικές επιβίωσης. Η σειρά αποκαλύπτει πώς τα ένστικτα διαφορετικών ζώων διαμορφώνουν τα έξυπνα, υπέροχα και μερικές φορές περίεργα μοτίβα συμπεριφοράς τους.</desc>
+    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037125012000800.jpg/17d2c796-19c4-4ab9-1304-d8f29a83ae21?version=1.0&amp;t=1665005149249"/>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20221018093000 +0300" stop="20221018103000 +0300" channel="ERT 2">
+    <title lang="el">Τροφή: Γευστική Επιστήμη (Ε)</title>
+    <desc lang="el">Επεισόδιο: Ζήτημα Γεύσης. Στο επεισόδιο αυτό αποκαλύπτουμε την επιστήμη που χαρίζει στην τροφή μας την ωραία γεύση της και την έντονη επίδρασή της στη γλώσσα και στη μύτη μας, με τις οποίες αντιλαμβανόμαστε τη γευστική εμπειρία.</desc>
+    <category lang="el">Επιστήμη - Μηχανική</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036930112000800.jpg/3f35c097-487a-751f-81d4-be562c598baf?version=1.0&amp;t=1665523587589"/>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20221018103000 +0300" stop="20221018113000 +0300" channel="ERT 2">
+    <title lang="el">Κεντρική Αγορά: Γεύσεις της πόλης Κ3 (Ε)</title>
+    <desc lang="el">Επεισόδιο: Παλέρμο. Βραβευμένη σειρά ντοκιμαντέρ, παραγωγής Γαλλίας 2013-2015. Η σειρά μας ξεναγεί στις κεντρικές αγορές τροφίμων μεγάλων Ευρωπαϊκών πόλεων. Με χρήση γραφικών εξερευνά τις αγορές και ανακαλύπτει τα προϊόντα τους και τους τοπικούς παραγωγούς μέσα από μια εντελώς νέα προσέγγιση.</desc>
+    <category lang="el">Τουριστικά - Ταξίδια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040018409212000800.jpg/32f8315c-6fd9-4d3c-e993-7ec2421da79c?version=1.0&amp;t=1665523588487"/>
+  </programme>
+  <programme start="20221018113000 +0300" stop="20221018120000 +0300" channel="ERT 2">
+    <title lang="el">Στα Χνάρια των Τροφών (Ε)</title>
+    <desc lang="el">Επεισόδιο: Τρούφες. Σε αυτό το επεισόδιο θα δούμε την προέλευση μιας από τις πλέον ακριβές τροφές του κόσμου: της τρούφας. Αυτό το μανιτάρι που κοστίζει μέχρι και 10.000 δολάρια το μισό κιλό, είναι χόμπι και πάθος για πολλούς.</desc>
+    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037435612000800.jpg/ca362646-e419-6c9c-008c-6618fe403ee7?version=1.0&amp;t=1665523589078"/>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20221018120000 +0300" stop="20221018130000 +0300" channel="ERT 2">
+    <title lang="el">ΠΟΠ Μαγειρική</title>
+    <desc lang="el">Επεισόδιο: Κώστας Λασκαράτος. Το γευστικό ταξίδι του δημιουργικού σεφ Ανδρέα Λαγού περιλαμβάνει: Σαλάτα με ψητή κολοκύθα, φακές και Ξινομυζήθρα Κρήτης, μπέργκερ με παφίτικο λουκάνικο και κεφτέδες Σάμου με ελληνικά ρεβίθια. Παραγωγή: Ελλάδα.</desc>
+    <category lang="el">Μαγειρική</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040027904012000800.jpg/fc1f7e48-9498-1bf8-b9d2-a6c123857ff7?version=1.0&amp;t=1591967421151"/>
+    <episode-num system="onscreen">S4 E31</episode-num>
+  </programme>
+  <programme start="20221018130000 +0300" stop="20221018140000 +0300" channel="ERT 2">
+    <title lang="el">Δες &amp; Βρες</title>
+    <desc lang="el">Το αγαπημένο τηλεπαιχνίδι της ΕΡΤ, με παρουσιαστή τον Νίκο Κουρή, δεν θα τεστάρει μόνο τις γνώσεις και τη μνήμη μας, αλλά κυρίως την παρατηρητικότητα, την αυτοσυγκέντρωση και την ψυχραιμία μας.</desc>
+    <category lang="el">Ψυχαγωγική εκπομπή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040027854512000800.jpg/6cf0feef-a4c1-02e9-3ac7-d3527d2992aa?version=1.0&amp;t=1627940216349"/>
+  </programme>
+  <programme start="20221018140000 +0300" stop="20221018160000 +0300" channel="ERT 2">
+    <title lang="el">Γλέντι, Λεφτά και Αγάπη</title>
+    <desc lang="el">Ένας νεαρός υποδέχεται μαζί με τους φίλους του τον εύπορο αλλά βαριά άρρωστο θείο του. Κι ενώ ελπίζει πως σύντομα θα τον κληρονομήσει και θα βγει από το οικονομικό αδιέξοδο που βρίσκεται, τα πράγματα παίρνουν διαφορετική τροπή... (80') Παραγωγή: Ελλάδα.</desc>
+    <credits>
+      <director>Νίκος Τσιφόρος</director>
+      <actor>Βασίλης Αυλωνίτης</actor>
+      <actor>Σπεράντζα Βρανά</actor>
+      <actor>Ντίνος Ηλιόπουλος</actor>
+    </credits>
+    <date>1955</date>
+    <category lang="el">Κωμωδία</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040005780412000800.jpg/88ecc3c6-93a5-a448-d1c3-ba1655e64a06?version=1.0&amp;t=1664314112856"/>
+  </programme>
+  <programme start="20221018160000 +0300" stop="20221018163000 +0300" channel="ERT 2">
+    <title lang="el">1.000 Χρώματα του Χρήστου (Ε)</title>
+    <desc lang="el">Ο Χρήστος Δημόπουλος, παρέα με τα παιδιά, κάνει κατασκευές, προτείνει ποιοτικά βιβλία για τους μικρούς αναγνώστες, διαβάζει γράμματα και e-mail, δείχνει μικρά βίντεο που του στέλνουν και συνδέεται με τον καθηγητή Ήπιο Θερμοκήπιο.</desc>
+    <category lang="el">Παιδική</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040027118312000800.jpg/c3477dd2-5f94-7bdf-eb9d-97bebc0765ca?version=1.0&amp;t=1665005152489"/>
+  </programme>
+  <programme start="20221018163000 +0300" stop="20221018170000 +0300" channel="ERT 2">
+    <title lang="el">Μια Φορά κι Έναν Καιρό Ήταν... η Ζωή</title>
+    <desc lang="el">Ένα ταξίδι στον θαυμαστό κόσμο του ανθρώπινου σώματος. Ο σοφός Μαέστρο μας αναλύει τη δομή και τη λειτουργία των οργάνων και του μεταβολισμού. Παραγωγή: Γαλλία.</desc>
+    <date>1986</date>
+    <category lang="el">Παιδική</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034722012000800.jpg/bf672ebb-e7cb-c0fa-74c0-3c0eb2a79ee2?version=1.0&amp;t=1662674116161"/>
+    <episode-num system="onscreen">E24</episode-num>
+  </programme>
+  <programme start="20221018170000 +0300" stop="20221018190000 +0300" channel="ERT 2">
+    <title lang="el">Μαρία Δημάδη (Ε)</title>
+    <desc lang="el">Ελληνική κοινωνική σειρά παραγωγής 1987. Η ζωή της ηρωίδας της εθνικής αντίστασης Μαρίας Δημάδη, που δούλευε ως διερμηνέας στο γερμανικό φρουραρχείο του Αγρινίου κι έδινε χρήσιμες πληροφορίες για τις μετακινήσεις των γερμανικών στρατευμάτων στο ΕΑΜ.</desc>
+    <credits>
+      <director>Γιώργος Πετρίδης</director>
+      <actor>Ελένη Σάνιου</actor>
+      <actor>Χρήστος Πάρλας</actor>
+      <actor>Βασίλης Κολοβός</actor>
+    </credits>
+    <category lang="el">Κοινωνική</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040007023412000800.jpg/6a82dc92-b35e-ed6c-f2a2-7c691f2273b6?version=1.0&amp;t=1665178797786"/>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20221018190000 +0300" stop="20221018193000 +0300" channel="ERT 2">
+    <title lang="el">Γεννήθηκα Γυναίκα (Ε)</title>
+    <desc lang="el">Γυναίκα στην Αντίσταση. Ντοκιμαντέρ παραγωγής 1982, αφιερωμένο στις γυναίκες που έλαβαν μέρος στην Εθνική Αντίσταση. Αγωνίστριες του ΕΑΜ και της ΕΠΟΝ περιγράφουν την εμπειρία της συμμετοχής τους στον αντιστασιακό αγώνα κατά τη διάρκεια της Κατοχής. Μιλούν για την απόφασή τους να αγωνιστούν και περιγράφουν τη δράση τους.</desc>
+    <credits>
+      <director>Άννα Κεσίσογλου</director>
+    </credits>
+    <category lang="el">Ιστορικό - Πολεμικό</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040012467812000800.jpg/036b49f2-12fa-df4c-4cba-761cb1e5c832?version=1.0&amp;t=1665524086171"/>
+  </programme>
+  <programme start="20221018193000 +0300" stop="20221018200000 +0300" channel="ERT 2">
+    <title lang="el">Αναζητώντας τη Χαμένη Εικόνα (Ε)</title>
+    <desc lang="el">Επεισόδιο: Ημέρες Γερμανικής Κατοχής. Το ντοκιμαντέρ παρουσιάζει οπτικοακουστικό αρχειακό υλικό από την περίοδο της Κατοχής: από την είσοδο των γερμανικών στρατευμάτων στη Θεσσαλονίκη και την Αθήνα και την καθημερινότητα έως τις απεργίες, την ασιτία και τις εκτελέσεις Ελλήνων αγωνιστών.</desc>
+    <credits>
+      <director>Λάκης Παπαστάθης</director>
+    </credits>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040006619012000800.jpg/0dd29a0a-067f-d3e5-09a0-13f79dd5bc74?version=1.0&amp;t=1665524086459"/>
+  </programme>
+  <programme start="20221018200000 +0300" stop="20221018210000 +0300" channel="ERT 2">
+    <title lang="el">Η Εποχή των Εικόνων</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Επεισόδιο: 59η Μπιενάλε Βενετίας: Β' μέρος. Η μοναδική εκπομπή για τη σύγχρονη τέχνη παρουσιάζει μερικές από τις καλύτερες και σημαντικότερες εκθέσεις.</desc>
+    <date>2022</date>
+    <category lang="el">Ψυχαγωγική εκπομπή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040028946912000800.jpg/26b6e90f-39db-8482-d323-8a6f9415dc9b?version=1.0&amp;t=1665091381345"/>
+    <episode-num system="onscreen">S5 E3</episode-num>
+  </programme>
+  <programme start="20221018210000 +0300" stop="20221018220000 +0300" channel="ERT 2">
+    <title lang="el">Ο Εντ Μπολς Ταξιδεύει στην Ευρώπη</title>
+    <desc lang="el">Ο Εντ Μπολς ταξιδεύει στην Ευρώπη για να ανακαλύψει πώς εκφράζονται στην υπόλοιπη Ε.Ε. οι διχασμοί που έφερε στην επιφάνεια το Brexit.</desc>
+    <category lang="el">Ψυχαγωγική εκπομπή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037883712000800.jpg/54e6841b-89f8-a86b-915e-322855b82a30?version=1.0&amp;t=1665178794439"/>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20221018220000 +0300" stop="20221019001500 +0300" channel="ERT 2">
+    <title lang="el">Ξένη Ταινία</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένες, ξένες ταινίες.</desc>
+    <category lang="el">Ψυχαγωγική εκπομπή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034892112000800.jpg/24069103-23ce-bb71-513f-7aad12bb84ec?version=1.0&amp;t=1611960842047"/>
   </programme>
   <programme start="20221012001000 +0300" stop="20221012010000 +0300" channel="ERT 3">
     <title lang="el">Είναι στο Μυαλό μας</title>
@@ -29140,6 +29567,206 @@
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037715912000800.jpg/1f880f4d-112b-782e-e55f-04aae35823ea?version=1.0&amp;t=1662672594813"/>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
+  <programme start="20221018001000 +0300" stop="20221018010000 +0300" channel="ERT 3">
+    <title lang="el">Οι Τρεις Μάγοι (Ε)</title>
+    <desc lang="el">Ευγενείς προσκυνητές πρωταγωνιστούν σε ένα από τα πλέον αμφιλεγόμενα επεισόδια του Ευαγγελίου.</desc>
+    <category lang="el">Ιστορικό - Πολεμικό</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034721812000800.jpg/38544021-bb6c-86f3-dd3f-8e09362e1433?version=1.0&amp;t=1665524111435"/>
+  </programme>
+  <programme start="20221018010000 +0300" stop="20221018020000 +0300" channel="ERT 3">
+    <title lang="el">Επιστροφή στο Τσερνομπίλ (Ε)</title>
+    <desc lang="el">Η πυρηνική καταστροφή του Τσερνομπίλ ήταν το μεγαλύτερο τεχνολογικό ατύχημα στην ανθρώπινη ιστορία. Σχεδόν 35 χρόνια αργότερα επιστρέφουμε στην πόλη-φάντασμα Pripyat στη βόρεια Ουκρανία με τους επιζώντες της καταστροφής.</desc>
+    <date>2020</date>
+    <category lang="el">Ιστορικό - Πολεμικό</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037212212000800.jpg/c0bf788a-b038-82b5-594a-a91ac3dd8646?version=1.0&amp;t=1665437891344"/>
+  </programme>
+  <programme start="20221018020000 +0300" stop="20221018030000 +0300" channel="ERT 3">
+    <title lang="el">Περίμετρος (Ε)</title>
+    <desc lang="el">Ενημερωτική εκπομπή η οποία επικεντρώνει καθημερινά στην επικαιρότητα και σε ειδικά θέματα, σε ομόκεντρους κύκλους, με έμφαση τη Θεσσαλονίκη, τις περιφέρειες της χώρας, τις γειτονικές μας χώρες και την Ομογένεια.</desc>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034699812000800.jpg/3fd1a717-d24f-523a-fe03-07c9c2716b31?version=1.0&amp;t=1661809104571"/>
+  </programme>
+  <programme start="20221018030000 +0300" stop="20221018040000 +0300" channel="ERT 3">
+    <title lang="el">Κυνηγοί της Περιπέτειας (Ε)</title>
+    <desc lang="el">Επεισόδιο: Μεξικό: Στη Γη των Μάγια. Οι Laetitia, Issa, Sandra και Maxime δημιουργούν πρωτότυπα ταξίδια για τουρίστες που αναζητούν την περιπέτεια. Σήμερα γνωρίζουν τη χερσόνησο του Γιουκατάν και έρχονται σε επαφή με Μάγια κοινότητες.</desc>
+    <category lang="el">Τουριστικά - Ταξίδια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037879112000800.jpg/a4deb6fe-6b53-cfe4-1dda-35148e87f120?version=1.0&amp;t=1665437888592"/>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20221018040000 +0300" stop="20221018050000 +0300" channel="ERT 3">
+    <title lang="el">Η Ζωή με τα Ρομπότ (Ε)</title>
+    <desc lang="el">Επεισόδιο: Κώδικες Ηθικής. Θα έπρεπε μια μηχανή να ξεχωρίζει το σωστό απ' το λάθος; Ο Ενλάι ερευνά πώς οι νόμοι, οι ηθικές αρχές και η πνευματικότητα διαμορφώνουν την τεχνητή νοημοσύνη.</desc>
+    <category lang="el">Επιστήμη - Μηχανική</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040035318712000800.jpg/373f4bf4-d6cf-90d0-edc7-21e606648d0b?version=1.0&amp;t=1665437886000"/>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20221018050000 +0300" stop="20221018060000 +0300" channel="ERT 3">
+    <title lang="el">Στα Χνάρια των Προσκυνητών (Ε)</title>
+    <desc lang="el">Επεισόδιο: Οσούν, Νιγηρία. Ακολουθούμε τον διάσημο συγγραφέα και λάτρη της περιπέτειας, Μπρους Φάιλερ, σε ένα επικό ταξίδι σε σύγχρονα προσκυνήματα σε όλον τον κόσμο καθώς εξερευνά πώς τα ιερά τοπία και οι διαδρομές προς αυτά αλλάζουν την έννοια της πίστης.</desc>
+    <date>2014</date>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037715912000800.jpg/1f880f4d-112b-782e-e55f-04aae35823ea?version=1.0&amp;t=1662672594813"/>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20221018060000 +0300" stop="20221018070000 +0300" channel="ERT 3">
+    <title lang="el">Οίνος ο Αγαπητός (Ε)</title>
+    <desc lang="el">Επεισόδιο: Δράμα. Ταξιδεύουμε στη Δράμα και εκεί γνωρίζουμε το Merlot και το Syrah. Επισκεπτόμαστε τα κτήματα Παυλίδη, Κώστα Λαζαρίδη και Τέχνη Οίνου και συνομιλούμε με τους οινολόγους τους. Καταρρίπτουμε το μύθο για την 'αξία του παλαιού βαρελιού' στη ζύμωση του κρασιού.</desc>
+    <category lang="el">Ψυχαγωγική εκπομπή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040016464812000800.jpg/0a6bf2ac-7c74-b8b8-16bf-63b249319aac?version=1.0&amp;t=1600120045256"/>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20221018070000 +0300" stop="20221018073000 +0300" channel="ERT 3">
+    <title lang="el">Άνθρωποι με Ποδήλατα (Ε)</title>
+    <desc lang="el">Επεισόδιο: Στις Άγριες Ακτές. Ο Τζάστιν βιώνει καθοριστικές εμπειρίες κατά τη διαδρομή. Η Κάρολιν πείθει την Άμπερ Πιμπλς να πάρει ηλεκτρικό ποδήλατο. Ο Τζάστιν δοκιμάζει μια ντόπια καινοτομία στο νερό.</desc>
+    <category lang="el">Τουριστικά - Ταξίδια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037278912000800.jpg/d45d12f9-3e8e-e156-7e3e-a2e536d19537?version=1.0&amp;t=1665005910986"/>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20221018073000 +0300" stop="20221018080000 +0300" channel="ERT 3">
+    <title lang="el">Ήρεμος Κόσμος</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Επεισόδιο: Ζώντας Ανάμεσα στα Δέντρα. Ακολουθούμε τον Λετονό ξυλουργό Ρίχαρντ Βιντζίκις καθώς εκπληρώνει το παιδικό του όνειρο να φτιάξει ένα κανό από έναν μόνο κορμό δέντρο. Η διαδικασία κρατά μήνες ολόκληρους μέσα στον μαγικό κόσμο του δάσους. Παραγωγή: ΗΠΑ.</desc>
+    <date>2020</date>
+    <category lang="el">Τουριστικά - Ταξίδια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037847312000800.jpg/fe10a454-7800-2ec5-2d41-1fb0a78c31f4?version=1.0&amp;t=1665005913304"/>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20221018080000 +0300" stop="20221018090000 +0300" channel="ERT 3">
+    <title lang="el">Απίθανα Ταξίδια με Τρένο (Ε)</title>
+    <desc lang="el">Επεισόδιο: Ρωσία: Από τη Μόσχα στη λίμνη Βαϊκάλη. Σε αυτό το επεισόδιο ταξιδεύουμε από τα δυτικά στα ανατολικά της Ρωσίας, από τη Μόσχα στη λίμνη Βαϊκάλη. Πρώτος σταθμός η Μόσχα, η ρωσική πρωτεύουσα, γνωστή για την Κόκκινη Πλατεία και το Κρεμλίνο, αλλά όχι μόνο.</desc>
+    <category lang="el">Τουριστικά - Ταξίδια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040026917012000800.jpg/bc73e913-2688-e40b-1b13-a5d59c9c1561?version=1.0&amp;t=1665005913670"/>
+    <episode-num system="onscreen">S7 E7</episode-num>
+  </programme>
+  <programme start="20221018090000 +0300" stop="20221018100000 +0300" channel="ERT 3">
+    <title lang="el">Κυνηγοί της Περιπέτειας</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Επεισόδιο: Μαδαγασκάρη: χαμένος παράδεισος. Οι Laetitia, Issa, Sandra και Maxime δημιουργούν πρωτότυπα ταξίδια για τουρίστες που αναζητούν την περιπέτεια. Εδώ, ξεκινάει μία εξερεύνηση στο οροπέδιο Μακάι της Μαδαγασκάρης, ένα από τα τελευταία ανεξερεύνητα μέρη του πλανήτη.</desc>
+    <category lang="el">Τουριστικά - Ταξίδια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037879112000800.jpg/a4deb6fe-6b53-cfe4-1dda-35148e87f120?version=1.0&amp;t=1665437888592"/>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20221018100000 +0300" stop="20221018113000 +0300" channel="ERT 3">
+    <title lang="el">Μέρα με Χρώμα</title>
+    <desc lang="el">Ενημερωτικό μαγκαζίνο με έμφαση στον πολιτισμό, τις επιστήμες, το περιβάλλον και την επιχειρηματικότητα. Με απευθείας συνδέσεις, προσκεκλημένους και ρεπορτάζ, η εκπομπή αναδεικνύει θέματα που απασχολούν τους πολίτες της Θεσσαλονίκης.</desc>
+    <category lang="el">Ψυχαγωγική εκπομπή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037888712000800.jpg?version=1.0&amp;t=1665437888898"/>
+  </programme>
+  <programme start="20221018113000 +0300" stop="20221018120000 +0300" channel="ERT 3">
+    <title lang="el">Άξονες Ανάπτυξης (Ε)</title>
+    <desc lang="el">Επεισόδιο: Λάρισα: Γεωπονία - Αγροτεχνολογία. Η εκπομπή επισκέπτεται το Πανεπιστήμιο Θεσσαλίας και παρουσιάζει την πρωτοποριακή έρευνα του τμήματος Γεωπονίας - Αγροτεχνολογίας σχετικά με τα γεωθερμικά θερμοκήπια και τα γεωργικά ρομποτικά συστήματα.</desc>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034565912000800.jpg/ecdef063-a8c4-5a30-4066-7a774af2aaf5?version=1.0&amp;t=1661030932093"/>
+    <episode-num system="onscreen">S2 E10</episode-num>
+  </programme>
+  <programme start="20221018120000 +0300" stop="20221018123000 +0300" channel="ERT 3">
+    <title lang="el">Άνθρωποι με Ποδήλατα (Ε)</title>
+    <desc lang="el">Επεισόδιο: Στις Άγριες Ακτές. Ο Τζάστιν βιώνει καθοριστικές εμπειρίες κατά τη διαδρομή. Η Κάρολιν πείθει την Άμπερ Πιμπλς να πάρει ηλεκτρικό ποδήλατο. Ο Τζάστιν δοκιμάζει μια ντόπια καινοτομία στο νερό.</desc>
+    <category lang="el">Τουριστικά - Ταξίδια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037278912000800.jpg/d45d12f9-3e8e-e156-7e3e-a2e536d19537?version=1.0&amp;t=1665005910986"/>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20221018123000 +0300" stop="20221018130000 +0300" channel="ERT 3">
+    <title lang="el">Ήρεμος Κόσμος (Ε)</title>
+    <desc lang="el">Επεισόδιο: Ζώντας Ανάμεσα στα Δέντρα. Ακολουθούμε τον Λετονό ξυλουργό Ρίχαρντ Βιντζίκις καθώς εκπληρώνει το παιδικό του όνειρο να φτιάξει ένα κανό από έναν μόνο κορμό δέντρο. Η διαδικασία κρατά μήνες ολόκληρους μέσα στον μαγικό κόσμο του δάσους. Παραγωγή: ΗΠΑ.</desc>
+    <date>2020</date>
+    <category lang="el">Τουριστικά - Ταξίδια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037847312000800.jpg/fe10a454-7800-2ec5-2d41-1fb0a78c31f4?version=1.0&amp;t=1665005913304"/>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20221018130000 +0300" stop="20221018140000 +0300" channel="ERT 3">
+    <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
+    <desc lang="el">Παρακολουθήστε τις τελευταίες εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο και ενημερωθείτε έγκαιρα και αντικειμενικά για τα σημαντικά ζητήματα της επικαιρότητας από την ειδησεογραφική ομάδα της ΕΡΤ.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040029848212000800.jpg/70ddb9e5-51bd-c72f-8cc8-90175f2c5585?version=1.0&amp;t=1612303854584"/>
+  </programme>
+  <programme start="20221018140000 +0300" stop="20221018150000 +0300" channel="ERT 3">
+    <title lang="el">Περίμετρος</title>
+    <desc lang="el">Ενημερωτική εκπομπή η οποία επικεντρώνει καθημερινά στην επικαιρότητα και σε ειδικά θέματα, σε ομόκεντρους κύκλους, με έμφαση τη Θεσσαλονίκη, τις περιφέρειες της χώρας, τις γειτονικές μας χώρες και την Ομογένεια.</desc>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034699812000800.jpg/3fd1a717-d24f-523a-fe03-07c9c2716b31?version=1.0&amp;t=1661809104571"/>
+  </programme>
+  <programme start="20221018150000 +0300" stop="20221018160000 +0300" channel="ERT 3">
+    <title lang="el">Απίθανα Ταξίδια με Τρένο (Ε)</title>
+    <desc lang="el">Επεισόδιο: Ρωσία: Από τη Μόσχα στη λίμνη Βαϊκάλη. Σε αυτό το επεισόδιο ταξιδεύουμε από τα δυτικά στα ανατολικά της Ρωσίας, από τη Μόσχα στη λίμνη Βαϊκάλη. Πρώτος σταθμός η Μόσχα, η ρωσική πρωτεύουσα, γνωστή για την Κόκκινη Πλατεία και το Κρεμλίνο, αλλά όχι μόνο.</desc>
+    <category lang="el">Τουριστικά - Ταξίδια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040026917012000800.jpg/bc73e913-2688-e40b-1b13-a5d59c9c1561?version=1.0&amp;t=1665005913670"/>
+    <episode-num system="onscreen">S7 E7</episode-num>
+  </programme>
+  <programme start="20221018160000 +0300" stop="20221018164500 +0300" channel="ERT 3">
+    <title lang="el">Ο Κόσμος των Σπορ</title>
+    <desc lang="el">H εκπομπή μας μεταφέρει τον παλμό της αθλητικής επικαιρότητας με τις πιο φρέσκες ειδήσεις, σχολιασμό της ειδησεογραφίας, αναλύσεις, καλεσμένους στο στούντιο και απευθείας συνδέσεις.</desc>
+    <category lang="el">Διάφορα Σπορ</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040029620512000800.jpg/14ea2b1e-0f23-eff4-8de3-2928d16f7758?version=1.0&amp;t=1662155914824"/>
+  </programme>
+  <programme start="20221018164500 +0300" stop="20221018170000 +0300" channel="ERT 3">
+    <title lang="el">Δελτίο Καιρού</title>
+    <desc lang="el">Παρακολουθήστε τις προβλέψεις για τον καιρό με τον Σάκη Αρναούτογλου.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040029582112000800.jpg/1798932c-3b52-d9b3-b47b-c08865b3874c?version=1.0&amp;t=1660943905468"/>
+  </programme>
+  <programme start="20221018170000 +0300" stop="20221018180000 +0300" channel="ERT 3">
+    <title lang="el">Κυνηγοί της Περιπέτειας (Ε)</title>
+    <desc lang="el">Επεισόδιο: Μαδαγασκάρη: χαμένος παράδεισος. Οι Laetitia, Issa, Sandra και Maxime δημιουργούν πρωτότυπα ταξίδια για τουρίστες που αναζητούν την περιπέτεια. Εδώ, ξεκινάει μία εξερεύνηση στο οροπέδιο Μακάι της Μαδαγασκάρης, ένα από τα τελευταία ανεξερεύνητα μέρη του πλανήτη.</desc>
+    <category lang="el">Τουριστικά - Ταξίδια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037879112000800.jpg/a4deb6fe-6b53-cfe4-1dda-35148e87f120?version=1.0&amp;t=1665437888592"/>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20221018180000 +0300" stop="20221018190000 +0300" channel="ERT 3">
+    <title lang="el">ΕΡΤ Ειδήσεις - Δελτίο στη Νοηματική - Αθλητικά - Καιρός</title>
+    <desc lang="el">Παρακολουθήστε το απογευματινό Δελτίο Ειδήσεων με όλες τις εξελίξεις από την Ελλάδα και τον κόσμο. Περιλαμβάνει πλήρες Αθλητικό Δελτίο, Ενημέρωση για τον Καιρό και το Δελτίο στη Νοηματική.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037731912000800.jpg/35d9d41e-9fa0-6a8f-d3cd-0a8ef47961c8?version=1.0&amp;t=1662657048172"/>
+  </programme>
+  <programme start="20221018190000 +0300" stop="20221018200000 +0300" channel="ERT 3">
+    <title lang="el">Balkan Express (Ε)</title>
+    <desc lang="el">Επεισόδιο: Βουλγαρία. Με κινηματογραφική αισθητική, η εκπομπή ξεδιπλώνει τις πτυχές μιας βαλκανικής πραγματικότητας με προεκτάσεις στο παρελθόν και το μέλλον.</desc>
+    <credits>
+      <director>Θεόδωρος Καλέσης</director>
+    </credits>
+    <category lang="el">Τουριστικά - Ταξίδια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040025782312000800.jpg/d13cd468-d6ca-15ee-1d43-02f8771527ff?version=1.0&amp;t=1600724881992"/>
+  </programme>
+  <programme start="20221018200000 +0300" stop="20221018210000 +0300" channel="ERT 3">
+    <title lang="el">100 Τοις Εκατό Ηλιακή Ενέργεια</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Τρεις απομονωμένες ατόλες του Ειρηνικού Ωκεανού ξεπέρασαν την εξάρτησή τους από γεννήτριες ντίζελ και έγιναν το πρώτο έθνος που βασίζεται εξ ολοκλήρου στην ηλιακή ενέργεια, αποδεικνύοντας ότι είναι δυνατή η μείωση των ορυκτών καυσίμων.</desc>
+    <category lang="el">Επιστήμη - Μηχανική</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037874912000800.jpg/68470ec7-bf34-3b51-870e-709e2fe4b744?version=1.0&amp;t=1665524117870"/>
+  </programme>
+  <programme start="20221018210000 +0300" stop="20221018220000 +0300" channel="ERT 3">
+    <title lang="el">Αγώνες στην Αρχαία Ολυμπία (Ε)</title>
+    <desc lang="el">Είναι καλοκαίρι του 2016 και η Βραζιλία ετοιμάζεται να φιλοξενήσει τους 31ους Ολυμπιακούς Αγώνες. Ποια είναι η ιστορία του κορυφαίου αυτού αθλητικού γεγονότος και τι σχέση έχουν οι σημερινοί Αγώνες με εκείνους της αρχαιότητας; (50') Παραγωγή: Γαλλία.</desc>
+    <credits>
+      <director>Ολιβιέ Λεμέτρ</director>
+    </credits>
+    <date>2016</date>
+    <category lang="el">Ντοκιμαντέρ</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040026915112000800.jpg/e32a81bb-b4ea-3d82-29f2-daf8ae831891?version=1.0&amp;t=1665524118188"/>
+  </programme>
+  <programme start="20221018220000 +0300" stop="20221018221500 +0300" channel="ERT 3">
+    <title lang="el">Δελτίο Καιρού</title>
+    <desc lang="el">Παρακολουθήστε τις προβλέψεις για τον καιρό με τον Σάκη Αρναούτογλου.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040029582112000800.jpg/1798932c-3b52-d9b3-b47b-c08865b3874c?version=1.0&amp;t=1660943905468"/>
+  </programme>
+  <programme start="20221018221500 +0300" stop="20221018231500 +0300" channel="ERT 3">
+    <title lang="el">Αλυσοδεμένη Αγάπη</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Η Κατερίνα συμπαραστέκεται στη νονά της Άννα που ανησυχεί για τον γιο της Γκριγκόρι που έχει πάει στον πόλεμο και δεν έχει νέα του εδώ και καιρό. Εν τω μεταξύ, ο Πιοτρ, ο πατέρας του Γκριγκόρι, συνεχίζει να διευθύνει το κτήμα. Παραγωγή: Ουκρανία.</desc>
+    <credits>
+      <actor>Κατερίνα Κοβάλτσικ</actor>
+      <actor>Μίκαϊλ Γκαβρίλοφ</actor>
+      <actor>Άννα Σαγκαϊντάτσναγια</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="el">Δραματική</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037875212000800.jpg/78da2315-dde1-9eb0-607a-5b4b4eb721be?version=1.0&amp;t=1665524118511"/>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20221018231500 +0300" stop="20221019001000 +0300" channel="ERT 3">
+    <title lang="el">Το Σκάνδαλο της Ευγονικής (Ε)</title>
+    <desc lang="el">Η ευγονική είναι μία 'βρώμικη' λέξη που στοίχειωσε τον 20ο αιώνα. Μας φέρνει στον νου τις εξαναγκασμένες στειρώσεις, τα ναζιστικά στρατόπεδα θανάτου και την εθνική γενοκτονία. Σήμερα θεωρούμε πως αυτή η αντίληψη έχει παρέλθει, αλλά η αλήθεια είναι πιο περίπλοκη.</desc>
+    <category lang="el">Επιστήμη - Μηχανική</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040035001112000800.jpg/7c757795-334a-143b-044e-17c44c7b2475?version=1.0&amp;t=1665524118824"/>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
   <programme start="20221012003500 +0300" stop="20221012010000 +0300" channel="RIK">
     <title lang="el">Μια υπέροχη βόλτα Κ5 ΕΠ64</title>
     <desc lang="el">Ιστορίες για καινούργια αυτοκίνητα, περίεργα γκάτζετ, συγκριτικές δοκιμές αυτοκινήτων, δοκιμασίες, εξτρίμ πίστες αγώνων ταχύτητας και πανέμορφες τοποθεσίες.</desc>
@@ -29839,6 +30466,54 @@
   <programme start="20221017223000 +0300" stop="20221017230000 +0300" channel="RIK">
     <title lang="el">Sky News Tonight</title>
     <desc lang="el">All the day's news followed by all the day's sport.</desc>
+  </programme>
+  <programme start="20221017230000 +0300" stop="20221018000000 +0300" channel="RIK">
+    <title lang="el">Common Ground</title>
+    <desc lang="el">An hour of lively discussion and debate as Trevor Phillips tries to find common ground between two people who hold radically opposing views on a current topic in the news.</desc>
+  </programme>
+  <programme start="20221018000000 +0300" stop="20221018020000 +0300" channel="RIK">
+    <title lang="el">MAD Cy</title>
+    <desc lang="el">Mουσικό κανάλι γενικού ρεπερτορίου που μεταδίδει τις μεγαλύτερες επιτυχίες, ελληνικές και ξένες, από όλα τα μουσικά είδη και εκπέμπει 24 ώρες το 24ωρο.</desc>
+  </programme>
+  <programme start="20221018020000 +0300" stop="20221018040000 +0300" channel="RIK">
+    <title lang="el">MAD Cy</title>
+    <desc lang="el">Mουσικό κανάλι γενικού ρεπερτορίου που μεταδίδει τις μεγαλύτερες επιτυχίες, ελληνικές και ξένες, από όλα τα μουσικά είδη και εκπέμπει 24 ώρες το 24ωρο.</desc>
+  </programme>
+  <programme start="20221018040000 +0300" stop="20221018060000 +0300" channel="RIK">
+    <title lang="el">MAD Cy</title>
+    <desc lang="el">Mουσικό κανάλι γενικού ρεπερτορίου που μεταδίδει τις μεγαλύτερες επιτυχίες, ελληνικές και ξένες, από όλα τα μουσικά είδη και εκπέμπει 24 ώρες το 24ωρο.</desc>
+  </programme>
+  <programme start="20221018060000 +0300" stop="20221018080000 +0300" channel="RIK">
+    <title lang="el">MAD Cy</title>
+    <desc lang="el">Mουσικό κανάλι γενικού ρεπερτορίου που μεταδίδει τις μεγαλύτερες επιτυχίες, ελληνικές και ξένες, από όλα τα μουσικά είδη και εκπέμπει 24 ώρες το 24ωρο.</desc>
+  </programme>
+  <programme start="20221018080000 +0300" stop="20221018100000 +0300" channel="RIK">
+    <title lang="el">MAD Cy</title>
+    <desc lang="el">Mουσικό κανάλι γενικού ρεπερτορίου που μεταδίδει τις μεγαλύτερες επιτυχίες, ελληνικές και ξένες, από όλα τα μουσικά είδη και εκπέμπει 24 ώρες το 24ωρο.</desc>
+  </programme>
+  <programme start="20221018100000 +0300" stop="20221018120000 +0300" channel="RIK">
+    <title lang="el">MAD Cy</title>
+    <desc lang="el">Mουσικό κανάλι γενικού ρεπερτορίου που μεταδίδει τις μεγαλύτερες επιτυχίες, ελληνικές και ξένες, από όλα τα μουσικά είδη και εκπέμπει 24 ώρες το 24ωρο.</desc>
+  </programme>
+  <programme start="20221018120000 +0300" stop="20221018140000 +0300" channel="RIK">
+    <title lang="el">MAD Cy</title>
+    <desc lang="el">Mουσικό κανάλι γενικού ρεπερτορίου που μεταδίδει τις μεγαλύτερες επιτυχίες, ελληνικές και ξένες, από όλα τα μουσικά είδη και εκπέμπει 24 ώρες το 24ωρο.</desc>
+  </programme>
+  <programme start="20221018140000 +0300" stop="20221018160000 +0300" channel="RIK">
+    <title lang="el">MAD Cy</title>
+    <desc lang="el">Mουσικό κανάλι γενικού ρεπερτορίου που μεταδίδει τις μεγαλύτερες επιτυχίες, ελληνικές και ξένες, από όλα τα μουσικά είδη και εκπέμπει 24 ώρες το 24ωρο.</desc>
+  </programme>
+  <programme start="20221018160000 +0300" stop="20221018180000 +0300" channel="RIK">
+    <title lang="el">MAD Cy</title>
+    <desc lang="el">Mουσικό κανάλι γενικού ρεπερτορίου που μεταδίδει τις μεγαλύτερες επιτυχίες, ελληνικές και ξένες, από όλα τα μουσικά είδη και εκπέμπει 24 ώρες το 24ωρο.</desc>
+  </programme>
+  <programme start="20221018180000 +0300" stop="20221018200000 +0300" channel="RIK">
+    <title lang="el">MAD Cy</title>
+    <desc lang="el">Mουσικό κανάλι γενικού ρεπερτορίου που μεταδίδει τις μεγαλύτερες επιτυχίες, ελληνικές και ξένες, από όλα τα μουσικά είδη και εκπέμπει 24 ώρες το 24ωρο.</desc>
+  </programme>
+  <programme start="20221018200000 +0300" stop="20221018220000 +0300" channel="RIK">
+    <title lang="el">MAD Cy</title>
+    <desc lang="el">Mουσικό κανάλι γενικού ρεπερτορίου που μεταδίδει τις μεγαλύτερες επιτυχίες, ελληνικές και ξένες, από όλα τα μουσικά είδη και εκπέμπει 24 ώρες το 24ωρο.</desc>
   </programme>
   <programme start="20221012000000 +0300" stop="20221012003000 +0300" channel="BBC World">
     <title lang="el">LATE NIGHT</title>
@@ -30760,9 +31435,9 @@
     <title lang="el">Ζόλταν, ο γητευτής των λύκων Κ1 ΕΠ3</title>
     <desc lang="el">Μια νέα σειρά περιπέτειας που επικεντρώνεται στον Ζόλταν Χορκάι, έναν ειδικό στα άγρια ζώα, που εκπαιδεύει ζώα για τον κινηματογράφο και την τηλεόραση. (2014).</desc>
   </programme>
-  <programme start="20221016223500 +0300" stop="20221017001000 +0300" channel="BBC World">
-    <title lang="el">The Cured</title>
-    <desc lang="el">Ένας ιός που θα μετέτρεπε τους ανθρώπους σε ζόμπι επιτέλους τιθασεύεται και ξεκινά η μακρά διαδικασία επανένταξης των μολυσμένων. Η κοινωνία όμως δεν είναι τόσο δεκτική ή επιεικής και αναγκάζει την κυβέρνηση να λάβει δραστικά μέτρα. Σκηνοθεσία: David Freyne. Πρωταγωνιστούν: Elliot Page, Sam Keeley, Tom Vaughan-Lawlor. (2017).</desc>
+  <programme start="20221016220000 +0300" stop="20221016230000 +0300" channel="BBC World">
+    <title lang="el">Έρχεται η οικογένεια Έργουιν! Κ4 ΕΠ3</title>
+    <desc lang="el">Η Τέρι σπεύδει όταν ο Ντάνιελ το γουαλάμπι τραυματίζεται σοβαρά και δεν μπορεί να περπατήσει. Οι Ρόμπερτ και Τσάντλερ κάνουν σέρφινγκ πριν φύγουν για να πάρουν έναν δράκο του Κομόντο. (2022).</desc>
   </programme>
   <programme start="20221017001000 +0300" stop="20221017030000 +0300" channel="BBC World">
     <title lang="el">Five</title>
@@ -30852,9 +31527,153 @@
     <title lang="el">Τα Απομεινάρια μιας Μέρας</title>
     <desc lang="el">Ο κύριος Στίβενς αποτελεί υπόδειγμα Βρετανού μπάτλερ. Είναι τόσο αφοσιωμένος στη δουλειά του, που αφήνει το μεγάλο έρωτα της ζωής του να φύγει... Αριστουργηματική ταινία που προτάθηκε για οκτώ Οσκαρ. Δράμα, 1993. Σκηνοθεσία: Τζέιμς Αϊβορι. Πρωταγωνιστές: Αντονι Χόπκινς, Εμα Τόμσον, Χιου Γκραντ, Μπεν Τσάπλιν.</desc>
   </programme>
-  <programme start="20221011000000 +0100" stop="20221011235900 +0100" channel="ERT NEWS">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
+  <programme start="20221018230000 +0300" stop="20221019002000 +0300" channel="BBC World">
+    <title lang="el">Adventure Time Κ9</title>
+    <desc lang="el">As Jake goes through some personal changes, he's haunted by a sinister dream encounter with his brother Jermaine. / An unexpected critic shows up at Ice King’s latest Fionna and Cake book reading. / While safeguarding a frightened Sweet P, Finn is led into a confrontation with an old foe. / BMO and Marceline swap stories about their recent adventures. / Finn and Fern's carefree visit to some old ruins turns disastrous. Σκηνοθεσία: Larry Leichliter. Πρωταγωνιστούν: Jeremy Shada, John DiMaggio, Jhon Di Maggio, Tom Kenny,. (2016).</desc>
+  </programme>
+  <programme start="20221019002000 +0300" stop="20221019014500 +0300" channel="BBC World">
+    <title lang="el">Regular Show Κ1</title>
+    <desc lang="el">When Mordecai and Rigby bust a hole in the wall they must fix it before anyone finds out. They decide to do this using a mysterious keyboard that allows them to do anything. / Mordecai and Rigby try to set up the chairs for a party to prove that they aren't slackers, but they find a video game called 'Destroyer of Worlds / After Rigby eats an excessive amount of junk food, his body quits on him, leaving him a ghost-like consciousness. Mordecai and Skips must find his body before the day is over. Σκηνοθεσία: J.G. Quintel,John Davis Infantino,. Πρωταγωνιστούν: J.G. Quintel, William Salyers, Sam Marin, Mark Hamill,. (2010).</desc>
+  </programme>
+  <programme start="20221019014500 +0300" stop="20221019031500 +0300" channel="BBC World">
+    <title lang="el">Ben 10 Κ4</title>
+    <desc lang="el">Ben learns about the possible existence of a mythical creature, the Quetzalcoatl, and takes it upon himself to find the feathered serpent on his own. / Team Tennyson help transport a caged Quetzalcoatl through the Yucatan jungle only to encounter a saboteur, LaGrange, who hijacks the precious cargo. / Ben, Gwen and Grandpa Max find themselves killing time at the local town library but soon scramble to out manoeuvre Hex as he searches for a hidden ancient artefact. Σκηνοθεσία: Colin Heck,. Πρωταγωνιστούν: Tara Strong, Montse Hernandez,. (2019).</desc>
+  </programme>
+  <programme start="20221019031500 +0300" stop="20221019050000 +0300" channel="BBC World">
+    <title lang="el">The Amazing World of Gumball Κ6</title>
+    <desc lang="el">Richard Watterson gets mistaken for the founder of Chanax and destroys the company. / Gumball and Darwin spend a day in Larry's shoes, doing all the menial jobs in Elmore. / Gumball and Darwin argue with the Internet. / The kids find out Dad has been dressing as a woman. / Rob creates a variety of spinoff Elmore shows and formats in order to replace Gumball. / Penny's decided to come out of her shell. / Dad misses a package and is forced into an escalating feud with the delivery guy. Σκηνοθεσία: Mic Graves. (2018).</desc>
+  </programme>
+  <programme start="20221019050000 +0300" stop="20221019054500 +0300" channel="BBC World">
+    <title lang="el">The Powerpuff Girls Κ1</title>
+    <desc lang="el">Blossom neglects her promise to Bubbles when she takes on too many things leaving Buttercup and Bubbles to fend for themselves. / When volunteering at a retirement home Buttercup meets an old woman who claims she used to be a superhero. / While visiting the lake Buttercup vows to capture a legendary uncatchable crawdad. / When Bubbles gets the lead in the school play Blossom's jealousy consumes her. Σκηνοθεσία: Nick Jennings,. Πρωταγωνιστούν: Craig McCracken, Amanda Leighton, Kristen Li, Natalie Palamides. (2016).</desc>
+  </programme>
+  <programme start="20221019054500 +0300" stop="20221019071000 +0300" channel="BBC World">
+    <title lang="el">The Amazing World of Gumball Κ6</title>
+    <desc lang="el">Nicole has decided it's time to throw out the family's refrigerator. / Mr Robinson tries and repeatedly fails to win back Gumball and Darwin's friendship. / Halloween isn't what it used to be. Can Gumball and Darwin help the ghouls get their "scare" back? / Gumball's old BFF Fuzzy turns up on his doorstep. Darwin struggles to accept that there was someone before him and fails to contain his jealousy. / Darwin has finally had enough of Gumball's advice and seeks a new mentor. Σκηνοθεσία: Mic Graves. (2018).</desc>
+  </programme>
+  <programme start="20221019071000 +0300" stop="20221019080000 +0300" channel="BBC World">
+    <title lang="el">Apple &amp; Onion Κ1</title>
+    <desc lang="el">Apple and Onion invent a new game that attracts some unexpected attention. / Apple and Onion go on a guided bus tour as part of their plan to get Apple's shoe back. / Apple and Onion have to outwit a mean duck who's taken over their building's roof. / Apple helps Onion achieve his dream of competing on a baking show. Σκηνοθεσία: George Gendi,Benton Connor,. Πρωταγωνιστούν: George Gendi, Richard Ayoade, Kevin Michael Richardson. (2018).</desc>
+  </programme>
+  <programme start="20221019080000 +0300" stop="20221019082000 +0300" channel="BBC World">
+    <title lang="el">Jellystone! Κ2</title>
+    <desc lang="el">To get their own space at the beach, Jabberjaw and Loopy De Loop decide to dress up like sea monsters. / Augie starts her own business – just like her hero, Bobbie Looey. (2021).</desc>
+  </programme>
+  <programme start="20221019082000 +0300" stop="20221019084500 +0300" channel="BBC World">
+    <title lang="el">NEW Ninjago Κ4</title>
+    <desc lang="el">Skylor rescues Kai and Cole from Pythor using elemental powers borrowed from both Ninja. They take shelter in an arcade and find Jake, separated from his parents. They head for the warehouse through the sewers to avoid the crystal-infected zombies and reunite Jake with his parents. Elsewhere in the sewers, Lloyd and Garmadon discover their potential Serpentine allies have already evacuated. / Master Wu parachutes from the Crystal Temple and is found by paperkids Nelson and Antonia. Σκηνοθεσία: Rich Johnson,. Πρωταγωνιστούν: Kelly Metzger, Michael Adamthwaite,. (2022).</desc>
+  </programme>
+  <programme start="20221019084500 +0300" stop="20221019093000 +0300" channel="BBC World">
+    <title lang="el">Craig of the Creek Κ2</title>
+    <desc lang="el">Craig and his sister, Jessica, try their hand at running the daycare at the Creek. / Craig, Kelsey and JP become smugglers to sneak candy to kids in need. / Craig rescues a tadpole and decides to raise him into a level 100 frog! / Craig and his friends stumble upon a mysterious bunker made of Cardboard beneath the Creek. Σκηνοθεσία: Eddy Houchins,Martin Ansolabehere,Stu Livingston,. Πρωταγωνιστούν: Philip Solomon, Michael Croner,. (2019).</desc>
+  </programme>
+  <programme start="20221019093000 +0300" stop="20221019102500 +0300" channel="BBC World">
+    <title lang="el">We Baby Bears Κ1</title>
+    <desc lang="el">The Bears accidentally clone Ice Bear and Ice Bear has a hard time adjusting. / Squatter Otter tries to win Panda’s trust and convince the Bears to live in a mysterious house. / Baby geniuses want Ice Bear to attend their prestigious school, but without Grizz and Panda. / The Bears work as short-order cooks in a giant’s diner. Σκηνοθεσία: Manny Hernandez,. Πρωταγωνιστούν: Connor Andrade, Max Mitchell, Amari Mccoy,. (2021).</desc>
+  </programme>
+  <programme start="20221019102500 +0300" stop="20221019110000 +0300" channel="BBC World">
+    <title lang="el">Looney Tunes Cartoons Κ1</title>
+    <desc lang="el">Elmer visits Daffy./Wile E. Coyote clones himself./Porky looks for parking space. / Bugs races Cecil the Turtle for a title./Daffy the dentist removes a sore tooth for Porky. / Bug’s relaxing afternoon is interrupted by a hungry Puma looking for a “hare-y” snack. Daffy meets his match with an office photocopier. / Daffy helps Porky find his keys./Taz makes a splash in the forest looking for a drink. Σκηνοθεσία: David Gemmill,Ryan Kramer,. (2021).</desc>
+  </programme>
+  <programme start="20221019110000 +0300" stop="20221019112000 +0300" channel="BBC World">
+    <title lang="el">Jellystone! Κ2</title>
+    <desc lang="el">To get their own space at the beach, Jabberjaw and Loopy De Loop decide to dress up like sea monsters. / Augie starts her own business – just like her hero, Bobbie Looey. (2021).</desc>
+  </programme>
+  <programme start="20221019112000 +0300" stop="20221019114500 +0300" channel="BBC World">
+    <title lang="el">NEW Ninjago Κ4</title>
+    <desc lang="el">Skylor rescues Kai and Cole from Pythor using elemental powers borrowed from both Ninja. They take shelter in an arcade and find Jake, separated from his parents. They head for the warehouse through the sewers to avoid the crystal-infected zombies and reunite Jake with his parents. Elsewhere in the sewers, Lloyd and Garmadon discover their potential Serpentine allies have already evacuated. / Master Wu parachutes from the Crystal Temple and is found by paperkids Nelson and Antonia. Σκηνοθεσία: Rich Johnson,. Πρωταγωνιστούν: Kelly Metzger, Michael Adamthwaite,. (2022).</desc>
+  </programme>
+  <programme start="20221019114500 +0300" stop="20221019131000 +0300" channel="BBC World">
+    <title lang="el">The Amazing World of Gumball Κ5</title>
+    <desc lang="el">When Carmen's nitpicking gets out of hand, Gumball decides to be the nitpickiEST. / The Wattersons compete over who has the worst life / When the kids find out that Mom's life hasn't panned out exactly as she'd hoped they try to make her day a bit easier by taking on her chores. / Richard decides that his work around the house is underappreciated by Nicole and goes on strike to prove it. (2017).</desc>
+  </programme>
+  <programme start="20221019131000 +0300" stop="20221019135000 +0300" channel="BBC World">
+    <title lang="el">Teen Titans Go! Κ6</title>
+    <desc lang="el">After Starfire buys an ugly painting, the Titans take her to the museum so she can experience real art. / Robin tries to teach the other Titans to have patience. / Four of the Titans' greatest villains reminisce about past incidents and recall how the Titans wronged them. / When the Halloween Spirit is kidnapped, the Titans must team with Beetlejuice to save the holiday. Σκηνοθεσία: Ken McIntyre,. (2021).</desc>
+  </programme>
+  <programme start="20221019135000 +0300" stop="20221019144000 +0300" channel="BBC World">
+    <title lang="el">Looney Tunes Cartoons Κ2</title>
+    <desc lang="el">Bugs meets a very old, very cranky mummy. / Tweety spies a puddy from his perch. / Wile E. Coyote gets stuck in asphalt. / Porky pretends Daffy is his emotional support duck. Foghorn plays a painful game of tennis. Charlie Dog lets everyone know he’s the greatest dog ever. / Marvin the Martian proves no match for NASA’s Mars Rover. Taz learns about bees... the hard way. Porky and Daffy can’t agree on a radio station. / A dog uncovers trouble when he buries a bone in Bugs Bunny’s hole. Σκηνοθεσία: David Gemmill. Πρωταγωνιστούν: Eric Bauza, Jeff Bergman, Bob Bergen,. (2021).</desc>
+  </programme>
+  <programme start="20221019144000 +0300" stop="20221019151000 +0300" channel="BBC World">
+    <title lang="el">Apple &amp; Onion Κ2</title>
+    <desc lang="el">Can there exist such a thing as drone shoes? It sounds like they would need a huge power capacity. / Apple &amp; Onion know exactly what gifts they want this Christmas but all their money has been squandered. Luckily they find a suitably festive way to make back that money. / Apple's curiosity of what it would be like to walk upside down like a spider should be ignored and given no further thought. It is not. Πρωταγωνιστούν: George Gendi. (2020).</desc>
+  </programme>
+  <programme start="20221019151000 +0300" stop="20221019152000 +0300" channel="BBC World">
+    <title lang="el">Apple &amp; Onion Κ2</title>
+    <desc lang="el">It's Apple's turn to buy this months' groceries again meaning that the risk of starvation is at hand. Σκηνοθεσία: George Gendi,Benton Connor,Nick Edwards,. Πρωταγωνιστούν: Richard Ayoade, George Gendi,. (2020).</desc>
+  </programme>
+  <programme start="20221019152000 +0300" stop="20221019153500 +0300" channel="BBC World">
+    <title lang="el">Apple &amp; Onion Κ2</title>
+    <desc lang="el">Apple and Onion must adopt unorthodox measures if they are to see this special animal at the zoo. Σκηνοθεσία: George Gendi,Benton Connor,Nick Edwards,. Πρωταγωνιστούν: Richard Ayoade, George Gendi,. (2021).</desc>
+  </programme>
+  <programme start="20221019153500 +0300" stop="20221019154000 +0300" channel="BBC World">
+    <title lang="el">Jellystone! Κ2</title>
+    <desc lang="el">To get their own space at the beach, Jabberjaw and Loopy De Loop decide to dress up like sea monsters. (2021).</desc>
+  </programme>
+  <programme start="20221019154000 +0300" stop="20221019155000 +0300" channel="BBC World">
+    <title lang="el">Jellystone! Κ2 ΕΠ18</title>
+    <desc lang="el">Welcome to the town of Jellystone - a charming place where your favorite Hanna-Barbera characters live, work and play together... (2021).</desc>
+  </programme>
+  <programme start="20221019155000 +0300" stop="20221019160000 +0300" channel="BBC World">
+    <title lang="el">Jellystone! Κ2</title>
+    <desc lang="el">Augie starts her own business – just like her hero, Bobbie Looey. (2021).</desc>
+  </programme>
+  <programme start="20221019160000 +0300" stop="20221019162000 +0300" channel="BBC World">
+    <title lang="el">NEW Ninjago Κ4</title>
+    <desc lang="el">Kai and Skylor bond over cooking for refugees. Master Wu and Misako struggle to decypher the Dragon Form scroll. Cole uses the paperkid dispatch to contact the rest of the Ninja and coordinate outreach to their allies. Cyrus Borg repairs Zane, and Pixal brings him back online with an emotional outreach. She summons her new mech from the Samurai X Cave. Borg outfits Ronin's fugitives with mechs. Σκηνοθεσία: Rich Johnson,. Πρωταγωνιστούν: Kelly Metzger, Michael Adamthwaite,. (2022).</desc>
+  </programme>
+  <programme start="20221019162000 +0300" stop="20221019170000 +0300" channel="BBC World">
+    <title lang="el">Ben 10 Κ4</title>
+    <desc lang="el">Ben learns about the possible existence of a mythical creature, the Quetzalcoatl, and takes it upon himself to find the feathered serpent on his own. / Ben, Gwen and Grandpa Max find themselves killing time at the local town library but soon scramble to out manoeuvre Hex as he searches for a hidden ancient artefact. / Team Tennyson enjoy a convention in town but when a costume store employee finds a familiar-looking helmet and tries it on, Ben is faced with the return of Forever Knight! Σκηνοθεσία: Colin Heck,. Πρωταγωνιστούν: Tara Strong, Montse Hernandez,. (2019).</desc>
+  </programme>
+  <programme start="20221019170000 +0300" stop="20221019172500 +0300" channel="BBC World">
+    <title lang="el">What's New Scooby-Doo? Κ1 ΕΠ3</title>
+    <desc lang="el">Mystery solving adventures with Fred, Velma, Daphne, Shaggy and Scooby as they attempt to uncover some ghostly and ghoulish goings-on. Σκηνοθεσία: Swinton O. Scott III,. (2002).</desc>
+  </programme>
+  <programme start="20221019172500 +0300" stop="20221019175000 +0300" channel="BBC World">
+    <title lang="el">Be Cool, Scooby-Doo! Κ2 ΕΠ13</title>
+    <desc lang="el">The gang hits the road in the Mystery Machine, chasing fun and adventure. But monsters and mayhem keep getting in the way. Σκηνοθεσία: Ronald Rubio,. (2016).</desc>
+  </programme>
+  <programme start="20221019175000 +0300" stop="20221019181500 +0300" channel="BBC World">
+    <title lang="el">Scooby Doo! And Guess Who? Κ2 ΕΠ8</title>
+    <desc lang="el">Fred, Daphne, Velma, Shaggy and Scooby-Doo join forces with some of the biggest names in celebrity and pop culture. Πρωταγωνιστούν: Frank Welker, Matthew Lillard, Grey DeLisle Griffin, Kate Micucci. (2020).</desc>
+  </programme>
+  <programme start="20221019181500 +0300" stop="20221019184000 +0300" channel="BBC World">
+    <title lang="el">What's New Scooby-Doo? Κ1 ΕΠ2</title>
+    <desc lang="el">Mystery solving adventures with Fred, Velma, Daphne, Shaggy and Scooby as they attempt to uncover some ghostly and ghoulish goings-on. Σκηνοθεσία: Tim Maltby,. (2002).</desc>
+  </programme>
+  <programme start="20221019184000 +0300" stop="20221019190500 +0300" channel="BBC World">
+    <title lang="el">Be Cool, Scooby-Doo! Κ2 ΕΠ17</title>
+    <desc lang="el">The gang hits the road in the Mystery Machine, chasing fun and adventure. But monsters and mayhem keep getting in the way. Σκηνοθεσία: Ronald Rubio,. (2016).</desc>
+  </programme>
+  <programme start="20221019190500 +0300" stop="20221019193000 +0300" channel="BBC World">
+    <title lang="el">Scooby Doo! And Guess Who? Κ2 ΕΠ9</title>
+    <desc lang="el">Fred, Daphne, Velma, Shaggy and Scooby-Doo join forces with some of the biggest names in celebrity and pop culture. Πρωταγωνιστούν: Frank Welker, Matthew Lillard, Grey DeLisle Griffin, Kate Micucci. (2020).</desc>
+  </programme>
+  <programme start="20221019193000 +0300" stop="20221019195000 +0300" channel="BBC World">
+    <title lang="el">NEW Ninjago Κ4</title>
+    <desc lang="el">Kai and Skylor bond over cooking for refugees. Master Wu and Misako struggle to decypher the Dragon Form scroll. Cole uses the paperkid dispatch to contact the rest of the Ninja and coordinate outreach to their allies. Cyrus Borg repairs Zane, and Pixal brings him back online with an emotional outreach. She summons her new mech from the Samurai X Cave. Borg outfits Ronin's fugitives with mechs. Σκηνοθεσία: Rich Johnson,. Πρωταγωνιστούν: Kelly Metzger, Michael Adamthwaite,. (2022).</desc>
+  </programme>
+  <programme start="20221019195000 +0300" stop="20221019201000 +0300" channel="BBC World">
+    <title lang="el">Looney Tunes Cartoons Κ2</title>
+    <desc lang="el">After stuffing himself with carrots, a big, round Bugs rolls over Elmer. Porky Pig takes a very painful trip through an automated car wash. / Daffy Duck learns he’s a truly terrible tailor. Sylvester is a fan of great food. Wile E. Coyote’s new machine can make roads, but can it also make dinner? Σκηνοθεσία: David Gemmill. Πρωταγωνιστούν: Eric Bauza, Jeff Bergman, Bob Bergen,. (2021).</desc>
+  </programme>
+  <programme start="20221019201000 +0300" stop="20221019205000 +0300" channel="BBC World">
+    <title lang="el">Apple &amp; Onion Κ2</title>
+    <desc lang="el">Can there exist such a thing as drone shoes? It sounds like they would need a huge power capacity. / Apple &amp; Onion know exactly what gifts they want this Christmas but all their money has been squandered. Luckily they find a suitably festive way to make back that money. / Apple's curiosity of what it would be like to walk upside down like a spider should be ignored and given no further thought. It is not. Πρωταγωνιστούν: George Gendi. (2020).</desc>
+  </programme>
+  <programme start="20221019205000 +0300" stop="20221019213000 +0300" channel="BBC World">
+    <title lang="el">We Bare Bears Κ2</title>
+    <desc lang="el">Fed up with sharing, Panda forbids his brothers from using his cell phone. But when the brothers get their own super-advanced smartphones, Panda succumbs to crippling jealousy. / While trying to sail to Japan, the Baby Bears get stranded on an island. Luckily, they meet Dave and Karla, who help with survival on the island, while looking for an escape. / The Baby Bears have an adventure in the sky while aboard a plane to Sweden. Σκηνοθεσία: Manny Hernandez,Daniel Chong,. Πρωταγωνιστούν: Eric Edelstein,. (2016).</desc>
+  </programme>
+  <programme start="20221019213000 +0300" stop="20221019221000 +0300" channel="BBC World">
+    <title lang="el">Looney Tunes Cartoons Κ1</title>
+    <desc lang="el">Bugs wakes up to find Earth has been conquered by Martians and now must become Marvin’s loyal servant. Ralph Wolf tries on a myriad of disguises to catch sheep. / Bugs has a detour on his test drive with a self-driving vehicle./Taz tries quenching his thirst with a coconut. / Petunia Pig's photo shoot goes a little nutty./Wile E. gets inspiration from a hawk. / Porky and Daffy wash the windows of a sky-high building. Yosemite Sam is tamed by a horse. Σκηνοθεσία: Ryan Kramer,David Gemmill,. (2021).</desc>
+  </programme>
+  <programme start="20221019221000 +0300" stop="20221019230000 +0300" channel="BBC World">
+    <title lang="el">Clarence Κ1</title>
+    <desc lang="el">Clarence and Belson make a true odd couple when they're paired up during a field trip to the zooand find themselves locked inside after hours. / A glimpse at the wild, secret adventures Clarence undertakes each day before the rest of us, and the sun, get up! Σκηνοθεσία: Martin Ansolabehere,Nelson Boles. Πρωταγωνιστούν: Spencer Rothbell, Tom Kenny, Skyler Page, Sean Giambrone,. (2014).</desc>
   </programme>
   <programme start="20221012000000 +0100" stop="20221012235900 +0100" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
@@ -30884,7 +31703,7 @@
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
-  <programme start="20221011000000 +0100" stop="20221011235900 +0100" channel="ERT1.">
+  <programme start="20221019000000 +0100" stop="20221019235900 +0100" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
@@ -30913,6 +31732,10 @@
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
   <programme start="20221018000000 +0100" stop="20221018235900 +0100" channel="ERT1.">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
+  </programme>
+  <programme start="20221019000000 +0100" stop="20221019235900 +0100" channel="ERT1.">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
