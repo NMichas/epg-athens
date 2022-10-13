@@ -107,22 +107,27 @@
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -30907,6 +30912,14 @@
     <title lang="el">Οι Οικογενειακές Υποθέσεις των Μάθις Κ1 ΕΠ2</title>
     <desc lang="el">Η Λίντα προσπαθεί να αναθερμάνει τον 36χρονο γάμο της με τον Γκρεγκ. Τα αδέρφια λένε στον Αμίρ ότι προχωράει πολύ γρήγορα με τη νέα του κοπέλα. Πρωταγωνιστούν: Greg Mathis Sr.. (2022).</desc>
   </programme>
+  <programme start="20221015230000 +0300" stop="20221016010000 +0300" channel="BBC World">
+    <title lang="el">Το ποτό, τα στοιχήματα και το σεξ που έφτιαξαν τον κόσμο Κ1 ΕΠ1</title>
+    <desc lang="el">Γνωρίστε τους Jack Daniel, Adolphus Busch, Buck Duke, Julius Schmid και άλλους θαρραλέους πιονέρους, που έφεραν το ποτό, τα στοιχήματα και το σεξ στο επίκεντρο και έχτισαν μερικές από τις μεγαλύτερες εμπορικές αυτοκρατορίες στην αμερικανική Ιστορία. (2022).(r)</desc>
+  </programme>
+  <programme start="20221015230000 +0300" stop="20221015233000 +0300" channel="BBC World">
+    <title lang="el">Οι Οικογενειακές Υποθέσεις των Μάθις Κ1 ΕΠ3</title>
+    <desc lang="el">Τα παιδιά της Ανατολικής Ακτής ψάχνουν σπίτι να μείνουν μαζί. Ο Αμίρ και ο Δικαστής πάνε στο Σικάγο για το κλείσιμο της 23ης σεζόν του Judge Mathis. Πρωταγωνιστούν: Greg Mathis Sr.. (2022).(r)</desc>
+  </programme>
   <programme start="20221016010000 +0300" stop="20221016012500 +0300" channel="BBC World">
     <title lang="el">Σταρ Ενεχυροδανειστές Κ16 ΕΠ19</title>
     <desc lang="el">Οι Σταρ Ενεχυροδανειστές κάνουν βασιλικές ετοιμασίες όταν στο κατάστημα “θρονιάζονται” έγγραφα της Αμερικανικής Επανάστασης, υπογραμμένα από τον Βασιλιά Γεώργιο Γ'. Θα είναι όμως όντως ηγεμονικά τα έγγραφα ή πρόκειται απλά για βασιλικό ατόπημα; (2014).</desc>
@@ -31135,9 +31148,9 @@
     <title lang="el">Επιχείρηση «Μεγαλοπόδαρος» Κ1 ΕΠ5</title>
     <desc lang="el">Οι Μιρέγια και Ρόνι επιστρέφουν εκεί όπου άκουσαν σφυρίγματα και είδαν μάτια να γυαλίζουν στο σκοτάδι. Στο μεταξύ, η Μιρέγια συμφωνεί να παραστήσει το δόλωμα για να προσελκύσουν τον Μεγαλοπόδαρο. (2019).</desc>
   </programme>
-  <programme start="20221017220000 +0300" stop="20221017230000 +0300" channel="BBC World">
-    <title lang="el">Επιχείρηση «Μεγαλοπόδαρος» Κ1 ΕΠ6</title>
-    <desc lang="el">Μετά την καταγραφή εικόνων μέσω θερμικής κάμερας που ίσως δείχνουν τον Μεγαλοπόδαρο, οι Μιρέγια και Ρόνι βιώνουν μια τρομακτική εμπειρία όταν συνειδητοποιούν ότι δεν είναι μόνοι στο δάσος. (2019).</desc>
+  <programme start="20221017225000 +0300" stop="20221018002000 +0300" channel="BBC World">
+    <title lang="el">My Son AKA Mon Garçon</title>
+    <desc lang="el">Η εξαφάνιση του παιδιού του κάνει έναν άντρα να βαδίσει σε σκοτεινά μονοπάτια προκειμένου να βρει την αλήθεια. Σκηνοθεσία: Christian Carion. Πρωταγωνιστούν: Guillaume Canet, Mélanie Laurent, Olivier de Benoist. (2017).(c)</desc>
   </programme>
   <programme start="20221018002000 +0300" stop="20221018030000 +0300" channel="BBC World">
     <title lang="el">Kill Switch</title>
@@ -31163,9 +31176,9 @@
     <title lang="el">Miss Julie</title>
     <desc lang="el">Σε μια ατμόσφαιρα αχαλίνωτου γλεντιού και χαλαρών κοινωνικών περιορισμών, η Δεσποινίς Τζούλια και ο Τζον, υπηρέτης του πατέρα της χορεύουν και πίνουν, γοητεύουν και χειραγωγούν ο ένας τον άλλο. Εκείνη γεμάτη υπεροψία, εκείνος αγενής, τους ενώνει η ίδια απέχθεια όσο και έλξη. Η οικειότητα τους οδηγεί σε απελπισμένα σχέδια και στο όραμα μιας κοινής ζωής. Η Δεσποινίς Τζούλια απεικονίζει μια σφοδρή μάχη για δύναμη και κυριαρχία, μέσα από ένα παιχνίδι παραπλάνησης κι αποστροφής. Σκηνοθεσία: Liv Ullmann. Πρωταγωνιστούν: Jessica Chastain, Colin Farrell, Samantha Morton. (2014).</desc>
   </programme>
-  <programme start="20221018210000 +0300" stop="20221018232000 +0300" channel="BBC World">
-    <title lang="el">Warrior</title>
-    <desc lang="el">Ο μικρότερος γιος ενός αλκοολικού πρώην πυγμάχου γυρίζει στο σπίτι του, όπου προπονείται από τον πατέρα του για να συμμετάσχει σε ένα τουρνουά μικτών πολεμικών τεχνών. Ο δρόμος που ακολουθεί βάζει τον μαχητή σε πορεία σύγκρουσης με τον αποξενωμένο, μεγαλύτερο αδερφό του. Σκηνοθεσία: Gavin O'Connor. Πρωταγωνιστούν:  Tom Hardy, Nick Nolte,  Joel Edgerton. (2011).</desc>
+  <programme start="20221018220000 +0300" stop="20221019001500 +0300" channel="BBC World">
+    <title lang="el">Τα Απομεινάρια μιας Μέρας</title>
+    <desc lang="el">Ο κύριος Στίβενς αποτελεί υπόδειγμα Βρετανού μπάτλερ. Είναι τόσο αφοσιωμένος στη δουλειά του, που αφήνει το μεγάλο έρωτα της ζωής του να φύγει... Αριστουργηματική ταινία που προτάθηκε για οκτώ Οσκαρ. Δράμα, 1993. Σκηνοθεσία: Τζέιμς Αϊβορι. Πρωταγωνιστές: Αντονι Χόπκινς, Εμα Τόμσον, Χιου Γκραντ, Μπεν Τσάπλιν.(c)</desc>
   </programme>
   <programme start="20221019001500 +0300" stop="20221019015000 +0300" channel="BBC World">
     <title lang="el">Girl</title>
@@ -31219,9 +31232,9 @@
     <title lang="el">Here Today</title>
     <desc lang="el">Με το μυαλό του σιγά σιγά να τον προδίδει, ένας συγγραφέας γνωρίζει μια νεαρή τραγουδίστρια, με την οποία δημιουργεί μία φιλία που αψηφά το χάσμα γενεών και δίνει νέο νόημα στην έννοια της αγάπης. Δραματική Κομεντί, 2021. Σκηνοθεσία: Μπίλι Κρίσταλ. Πρωταγωνιστές: Μπίλι Κρίσταλ, Τίφανι Χάντις, Σάρον Στόουν, Πεν Μπάτζλι.</desc>
   </programme>
-  <programme start="20221019220000 +0300" stop="20221019234000 +0300" channel="BBC World">
-    <title lang="el">Οι Σπεσιαλίστες</title>
-    <desc lang="el">Ένας πασίγνωστος κι επιδέξιος εγκληματίας στρατολογείται από μία διεθνή συμμορία ληστών για μία επιχείρηση κλοπής χρυσού αμύθητης αξίας, σε μια αποστολή τόσο συναρπαστική όσο και τα ίδια τα κλοπιμαία! Δράση, 2021. Σκηνοθεσία: Ρένι Χάρλεν. Πρωταγωνιστές: Πιρς Μπρόσναν, Τιμ Ροθ, Νικ Κάνον.</desc>
+  <programme start="20221019230000 +0300" stop="20221020002000 +0300" channel="BBC World">
+    <title lang="el">Adventure Time Κ10</title>
+    <desc lang="el">Finn's latest literary work is met with only derision so he sets out to prove all the naysayers wrong. / A mysterious knight crashes Finn's birthday bash and presents him with a dangerous gift. / Searching for answers on Mars, Finn and Jermaine discover that they must first survive a cunning Martian mental trap. / In order to fulfill his grand destiny, Jake is spirited away by a strangely familiar shapeshifting alien. Σκηνοθεσία: Larry Leichliter. Πρωταγωνιστούν: Jeremy Shada, John DiMaggio, Jhon Di Maggio, Tom Kenny,. (2017).(c)</desc>
   </programme>
   <programme start="20221020002000 +0300" stop="20221020014500 +0300" channel="BBC World">
     <title lang="el">Regular Show Κ1</title>
