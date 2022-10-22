@@ -97,30 +97,37 @@
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -29106,9 +29113,9 @@
     <title lang="el">2022 NBA Regular Season</title>
     <desc lang="el">Pelicans vs. Hornets Tape.</desc>
   </programme>
-  <programme start="20221022214500 +0300" stop="20221023001500 +0300" channel="RIK">
-    <title lang="el">Βραζιλία - Ιαπωνία</title>
-    <desc lang="el">Το Παγκόσμιο Πρωτάθλημα Βόλεϊ Γυναικών 2022 διεξάγεται ανάμεσα στις εθνικές ομάδες γυναικών των μελών της FIVB και φιλοξενείται στην Πολωνία και την Ολλανδία από τις 23 Σεπτεμβρίου έως τις 15 Οκτωβρίου. Βόλεϊ.</desc>
+  <programme start="20221022200000 +0300" stop="20221022220000 +0300" channel="RIK">
+    <title lang="el">1p 2022 NBA PRESEASON SEASON</title>
+    <desc lang="el">Suns vs. Trail Blazers Tape.(c)</desc>
   </programme>
   <programme start="20221023001500 +0300" stop="20221023010000 +0300" channel="RIK">
     <title lang="el">SailGP</title>
