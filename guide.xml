@@ -117,14 +117,17 @@
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -30405,9 +30408,9 @@
     <title lang="el">Τσεντεβίτα Ολίμπια - Μπανταλόνα (Ζ)</title>
     <desc lang="el">Η Τσεντεβίτα Ολίμπια (0-2) και η Μπανταλόνα (1-1) τίθενται αντιμέτωπες στην 3η αγωνιστική, με τις δύο ομάδες να προέρχονται από ήττες στα εκτός έδρας ματς κόντρα στην Κλουζ και την Μπούρσασπορ αντίστοιχα. Περιγραφή: Δ. Καρύδας Μπάσκετ.</desc>
   </programme>
-  <programme start="20221026223000 +0300" stop="20221026233000 +0300" channel="RIK">
-    <title lang="el">Novasports Exclusive</title>
-    <desc lang="el">Σειρά ντοκιμαντέρ με τη σφραγίδα των δημοσιογράφων του Novasports! Σε αυτό το επεισόδιο o Κροάτης super star του παγκοσμίου μπάσκετ μιλά από καρδιάς για την καριέρα του και θυμάται το πέρασμά του από τον Παναθηναϊκό και τον Ολυμπιακό. Ντοκιμαντέρ.</desc>
+  <programme start="20221026230000 +0300" stop="20221027010000 +0300" channel="RIK">
+    <title lang="el">ΙΩΝΙΚΟΣ - ΠΑΣ ΓΙΑΝΝΙΝΑ- SUPER LEAGUE GREECE 2022-2023</title>
+    <desc lang="el">ΙΩΝΙΚΟΣ - ΠΑΣ ΓΙΑΝΝΙΝΑ- SUPER LEAGUE GREECE 2022-2023.(c)</desc>
   </programme>
   <programme start="20221027010000 +0300" stop="20221027030000 +0300" channel="RIK">
     <title lang="el">ΠΡΩΤΑΘΛΗΜΑ CYTA Α' ΚΑΤΗΓΟΡΙΑΣ 21-22</title>
@@ -32101,9 +32104,17 @@
     <title lang="el">Σοφία, η Πριγκίπισσα: H Κατάρα της Πριγκίπισσας Ήβη</title>
     <desc lang="el">Όταν η Άμπερ παίρνει το φυλαχτό της Σοφίας, ενεργοποιεί μια κατάρα που προσκαλεί μια κακιά πριγκίπισσα. (2014).</desc>
   </programme>
-  <programme start="20221030220000 +0300" stop="20221031010000 +0300" channel="BBC World">
-    <title lang="el">ΟΠΕΡΑ: ΦΙΕΡΑΜΠΡΑΣ ΤΟΥ ΦΡΑΝΤΣ ΣΟΥΜΠΕΡΤ</title>
-    <desc lang="el">ΟΠΕΡΑ: ΦΙΕΡΑΜΠΡΑΣ ΤΟΥ ΦΡΑΝΤΣ ΣΟΥΜΠΕΡΤ.</desc>
+  <programme start="20221030220000 +0300" stop="20221030223000 +0300" channel="BBC World">
+    <title lang="el">Κουταβοφιλαράκια Κ3 ΕΠ57</title>
+    <desc lang="el">Οι λιχουδιές χάνονται και ο Μπομπ μαζεύει τα φύλλα! (2019).(c)</desc>
+  </programme>
+  <programme start="20221030223000 +0300" stop="20221030230000 +0300" channel="BBC World">
+    <title lang="el">Τ.Ο.Τ.Σ. Κ2 ΕΠ30</title>
+    <desc lang="el">Ο μεγεθυντής εν δράσει! (2019).(c)</desc>
+  </programme>
+  <programme start="20221030230000 +0300" stop="20221030233000 +0300" channel="BBC World">
+    <title lang="el">Κουταβοφιλαράκια Κ2 ΕΠ43</title>
+    <desc lang="el">Δύο κουταβάκια που τυχαίνει να είναι και αδέλφια, ο Μπίνγκο (2018).(c)</desc>
   </programme>
   <programme start="20221031010000 +0300" stop="20221031030000 +0300" channel="BBC World">
     <title lang="el">ΑΠΟ ΤΟΠΟ ΣΕ ΤΟΠΟ: ΚΡΗΤΗ - ΚΟΥΡΗΤΕΣ</title>
