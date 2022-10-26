@@ -112,18 +112,22 @@
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -28055,477 +28059,277 @@
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036274212000800.jpg/3c1d61ad-4857-bdca-47d0-ee28b6b55b97?version=1.0&amp;t=1666733630918"/>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20221027000000 +0300" stop="20221027060000 +0300" channel="RIK">
+  <programme start="20221027010000 +0300" stop="20221027012000 +0300" channel="RIK">
+    <title lang="el">Ευρωπαϊκό Πρωτάθλημα Αγώνων Φορτηγών της Διεθνούς Ομοσπονδίας Αυτοκινήτου 2022</title>
+    <desc lang="el">Το European Truck Racing Championship της FIA είναι η κορυφαία διοργάνωση στην κατηγορία, με αγώνες που λαμβάνουν χώρα σε Αυστρία, Γαλλία, Ισπανία, Γερμανία, Ιταλία και Τσεχία.(c)</desc>
+  </programme>
+  <programme start="20221027012000 +0300" stop="20221027021500 +0300" channel="RIK">
+    <title lang="el">NASCAR Whelen Euro Series 2022</title>
+    <desc lang="el">Η πιο φοβερή σειρά αγώνων ταξιδεύει από τις ΗΠΑ στην Ευρώπη. Το NASCAR Whelen Euro Series είναι η καλύτερη «γέφυρα» για τους Ευρωπαίους οδηγούς προς το NASCAR στις ΗΠΑ.(c)</desc>
+  </programme>
+  <programme start="20221027021500 +0300" stop="20221027030500 +0300" channel="RIK">
+    <title lang="el">Fanatec GT Παγκόσμια Πρόκληση Αμερικής 2022</title>
+    <desc lang="el">Fanatec GT Παγκόσμια Πρόκληση Αμερικής 2022.(c)</desc>
+  </programme>
+  <programme start="20221027030500 +0300" stop="20221027035500 +0300" channel="RIK">
+    <title lang="el">Fanatec GT Παγκόσμια Πρόκληση Ευρώπης 2022</title>
+    <desc lang="el">Fanatec GT Παγκόσμια Πρόκληση Ευρώπης 2022.(c)</desc>
+  </programme>
+  <programme start="20221027035500 +0300" stop="20221027044500 +0300" channel="RIK">
+    <title lang="el">Ferrari Challenge Europe 2022</title>
+    <desc lang="el">Το Ferrari Challenge είναι πιθανώς το πρωτάθλημα με τα πιο ισχυρά αυτοκίνητα, όχι μόνο στην Ιταλία και την Ευρώπη, αλλά πλέον και στη Βόρεια Αμερική και την περιοχή της Ασίας και του Ειρηνικού.(c)</desc>
+  </programme>
+  <programme start="20221027044500 +0300" stop="20221027054000 +0300" channel="RIK">
+    <title lang="el">DTM 2022</title>
+    <desc lang="el">Το Deutsche Tourenwagen Masters, γνωστό περισσότερο ως DTM, είναι μια σειρά αγώνων ταχύτητας με αυτοκίνητα της Audi και της BMW. Το DMT είναι η κορυφαία σειρά αγώνων ταχύτητας στη Γερμανία.(c)</desc>
+  </programme>
+  <programme start="20221027054000 +0300" stop="20221027060500 +0300" channel="RIK">
+    <title lang="el">ADAC GT Masters 2022</title>
+    <desc lang="el">Η σειρά αγώνων ADAC GT Masters δεν έχει σχεδιαστεί ως μια ευκαιρία επίδειξης για τους κατασκευαστές αυτοκινήτων, αλλά ως μια πρόκληση για λάτρεις του μηχανοκίνητου αθλητισμού.(c)</desc>
+  </programme>
+  <programme start="20221027060500 +0300" stop="20221027065500 +0300" channel="RIK">
+    <title lang="el">EUROPEAN LE MANS SERIES 2022</title>
+    <desc lang="el">Το European Le Mans Series είναι μια σειρά αγώνων αντοχής για σπορ αυτοκίνητα, εμπνευσμένη από τον αγώνα 24 Hours of Le Mans.(c)</desc>
+  </programme>
+  <programme start="20221027065500 +0300" stop="20221027072000 +0300" channel="RIK">
+    <title lang="el">Υπεραυτοκίνητα Κ6 ΕΠ192</title>
+    <desc lang="el">Παρουσιάζουμε τα γρηγορότερα και πιο διακεκριμένα αυτοκίνητα του κόσμου σε ένα συναρπαστικό lifestyle μαγκαζίνο.(c)</desc>
+  </programme>
+  <programme start="20221027072000 +0300" stop="20221027074500 +0300" channel="RIK">
+    <title lang="el">Μοτοσικλέτες Κ3 ΕΠ48</title>
+    <desc lang="el">Εκπομπή για μοτοσικλέτες με ενδιαφέροντα νέα, πανέμορφες διαδρομές για εκδρομές, συναρπαστικά event με μοτοσικλέτες και δοκιμασίες. Συναρπαστικές ιστορίες για κάθε λάτρη της μοτοσικλέτας!(c)</desc>
+  </programme>
+  <programme start="20221027074500 +0300" stop="20221027081000 +0300" channel="RIK">
+    <title lang="el">Πώς κατασκευάζονται; Κ2 ΕΠ22</title>
+    <desc lang="el">Η εκπομπή μπαίνει στα παρασκήνια των μεγαλύτερων κατασκευαστών αυτοκινήτων του κόσμου.(c)</desc>
+  </programme>
+  <programme start="20221027081000 +0300" stop="20221027083500 +0300" channel="RIK">
+    <title lang="el">High Octane Κ1 ΕΠ14</title>
+    <desc lang="el">Η εκπομπή ανοίγει την πόρτα στον ριψοκίνδυνο και τρελό κόσμο του μηχανοκίνητου αθλητισμού. Δείτε εντυπωσιακά πλάνα από συναρπαστικά πρωταθλήματα σε χώμα, νερό και χιόνι.(c)</desc>
+  </programme>
+  <programme start="20221027083500 +0300" stop="20221027093000 +0300" channel="RIK">
+    <title lang="el">Ο Βασιλιάς των Δρόμων 2021</title>
+    <desc lang="el">Αυτή η σειρά βαθμολογεί τους οδηγούς που διαγωνίζονται σε αγώνες με Superbike που προβάλλονται τηλεοπτικά κάθε σεζόν. Συντονιστείτε εδώ για όλα όσα αφορούν τις μοτοσυκλέτες.(c)</desc>
+  </programme>
+  <programme start="20221027093000 +0300" stop="20221027095500 +0300" channel="RIK">
+    <title lang="el">Πρωτάθλημα Ανοιχτής Θάλασσας P1 2022</title>
+    <desc lang="el">Πρωτάθλημα Ανοιχτής Θάλασσας P1 2022.(c)</desc>
+  </programme>
+  <programme start="20221027095500 +0300" stop="20221027102000 +0300" channel="RIK">
+    <title lang="el">Πρωτάθλημα Ανοιχτής Θάλασσας Κλάσης Α 2022</title>
+    <desc lang="el">Πρωτάθλημα Ανοιχτής Θάλασσας Κλάσης Α 2022.(c)</desc>
+  </programme>
+  <programme start="20221027102000 +0300" stop="20221027105000 +0300" channel="RIK">
+    <title lang="el">Πρωτάθλημα Aquax 2022</title>
+    <desc lang="el">Πρωτάθλημα Aquax 2022.(c)</desc>
+  </programme>
+  <programme start="20221027105000 +0300" stop="20221027111500 +0300" channel="RIK">
+    <title lang="el">Παγκόσμιο Πρωτάθλημα Uim Aquabike 2022</title>
+    <desc lang="el">Παγκόσμιο Πρωτάθλημα Uim Aquabike 2022.(c)</desc>
+  </programme>
+  <programme start="20221027111500 +0300" stop="20221027114500 +0300" channel="RIK">
+    <title lang="el">Παγκόσμιο Πρωτάθλημα Powerboat Uim F1h2o 2021</title>
+    <desc lang="el">Παγκόσμιο Πρωτάθλημα Powerboat Uim F1h2o 2021.(c)</desc>
+  </programme>
+  <programme start="20221027114500 +0300" stop="20221027123000 +0300" channel="RIK">
+    <title lang="el">Αυστραλιανό Πρωτάθλημα V8 Superboat 2022</title>
+    <desc lang="el">Αυστραλιανό Πρωτάθλημα V8 Superboat 2022.(c)</desc>
+  </programme>
+  <programme start="20221027123000 +0300" stop="20221027130000 +0300" channel="RIK">
+    <title lang="el">New Zealand Jetsprint Championship Κ1 ΕΠ11</title>
+    <desc lang="el">Το New Zealand Jetsprint Championship είναι ο σημαντικότερος διαγωνισμός αγώνων ταχύτητας με βάρκες και πραγματοποιείται στη Νέα Ζηλανδία, τη χώρα όπου το άθλημα αυτό ξεκίνησε το 1981.(c)</desc>
+  </programme>
+  <programme start="20221027130000 +0300" stop="20221027132500 +0300" channel="RIK">
+    <title lang="el">Υπεραυτοκίνητα Κ6 ΕΠ191</title>
+    <desc lang="el">Παρουσιάζουμε τα γρηγορότερα και πιο διακεκριμένα αυτοκίνητα του κόσμου σε ένα συναρπαστικό lifestyle μαγκαζίνο.(c)</desc>
+  </programme>
+  <programme start="20221027132500 +0300" stop="20221027135000 +0300" channel="RIK">
+    <title lang="el">Μοτοσικλέτες Κ3 ΕΠ47</title>
+    <desc lang="el">Εκπομπή για μοτοσικλέτες με ενδιαφέροντα νέα, πανέμορφες διαδρομές για εκδρομές, συναρπαστικά event με μοτοσικλέτες και δοκιμασίες. Συναρπαστικές ιστορίες για κάθε λάτρη της μοτοσικλέτας!(c)</desc>
+  </programme>
+  <programme start="20221027135000 +0300" stop="20221027141500 +0300" channel="RIK">
+    <title lang="el">Πώς κατασκευάζονται; Κ2 ΕΠ21</title>
+    <desc lang="el">Η εκπομπή μπαίνει στα παρασκήνια των μεγαλύτερων κατασκευαστών αυτοκινήτων του κόσμου.(c)</desc>
+  </programme>
+  <programme start="20221027141500 +0300" stop="20221027144500 +0300" channel="RIK">
+    <title lang="el">High Octane Κ1 ΕΠ13</title>
+    <desc lang="el">Η εκπομπή ανοίγει την πόρτα στον ριψοκίνδυνο και τρελό κόσμο του μηχανοκίνητου αθλητισμού. Δείτε εντυπωσιακά πλάνα από συναρπαστικά πρωταθλήματα σε χώμα, νερό και χιόνι.(c)</desc>
+  </programme>
+  <programme start="20221027144500 +0300" stop="20221027153500 +0300" channel="RIK">
+    <title lang="el">Ο Βασιλιάς των Δρόμων 2021</title>
+    <desc lang="el">Αυτή η σειρά βαθμολογεί τους οδηγούς που διαγωνίζονται σε αγώνες με Superbike που προβάλλονται τηλεοπτικά κάθε σεζόν. Συντονιστείτε εδώ για όλα όσα αφορούν τις μοτοσυκλέτες.(c)</desc>
+  </programme>
+  <programme start="20221027153500 +0300" stop="20221027160000 +0300" channel="RIK">
+    <title lang="el">Αγώνες Gearing Up 2022 ΕΠ7</title>
+    <desc lang="el">Όταν οι φιλοδοξίες τους ξεπερνούν τις ικανότητές τους, όταν επαγγελματίες οδηγοί βγαίνουν απ' τον δρόμο, έχουμε πάντα μια κάμερα να περιμένει. Δείτε θεαματικές σκηνές όπου κανείς δεν τραυματίζεται.(c)</desc>
+  </programme>
+  <programme start="20221027160000 +0300" stop="20221027162500 +0300" channel="RIK">
+    <title lang="el">Ο κόσμος της μοτοσικλέτας 2022 ΕΠ4</title>
+    <desc lang="el">Όταν οι φιλοδοξίες τους ξεπερνούν τις ικανότητές τους, όταν επαγγελματίες οδηγοί βγαίνουν απ' τον δρόμο, έχουμε πάντα μια κάμερα να περιμένει. Δείτε θεαματικές σκηνές όπου κανείς δεν τραυματίζεται.(c)</desc>
+  </programme>
+  <programme start="20221027162500 +0300" stop="20221027165000 +0300" channel="RIK">
+    <title lang="el">4x4 Κ3 ΕΠ37</title>
+    <desc lang="el">Το 4x4 είναι η εκπομπή όπου θα δείτε όλα τα κλασικά οχήματα παντός εδάφους: Jeep, Wrangler, Land Rover Defender, Hummer, Outlander, Grand Cherokee και το θρυλικό πανίσχυρο όχημα της Iveco, το Massif.(c)</desc>
+  </programme>
+  <programme start="20221027165000 +0300" stop="20221027172000 +0300" channel="RIK">
+    <title lang="el">Ιστορίες της αυτοκίνησης ΕΠ16</title>
+    <desc lang="el">Τιμάμε την οδήγηση σε όλο τον κόσμο, με συγκλονιστικές ιστορίες από τον απολαυστικό κόσμο της αυτοκίνησης.(c)</desc>
+  </programme>
+  <programme start="20221027172000 +0300" stop="20221027181500 +0300" channel="RIK">
+    <title lang="el">Αφιερώματα ΕΠ17</title>
+    <desc lang="el">Ένα συναρπαστικό ντοκιμαντέρ που παρέχει εντυπωσιακές εικόνες από τα παρασκήνια και αναλυτικές πληροφορίες σε μια ευρεία γκάμα θεμάτων από όλο τον κόσμο.(c)</desc>
+  </programme>
+  <programme start="20221027181500 +0300" stop="20221027183500 +0300" channel="RIK">
+    <title lang="el">Motorland UK Κ1 ΕΠ6</title>
+    <desc lang="el">Τηλεοπτικό μαγκαζίνο για αυτοκίνητα.(c)</desc>
+  </programme>
+  <programme start="20221027183500 +0300" stop="20221027190000 +0300" channel="RIK">
+    <title lang="el">Μια υπέροχη βόλτα Κ6 ΕΠ75</title>
+    <desc lang="el">Ιστορίες για καινούργια αυτοκίνητα, περίεργα γκάτζετ, συγκριτικές δοκιμές αυτοκινήτων, δοκιμασίες, εξτρίμ πίστες αγώνων ταχύτητας και πανέμορφες τοποθεσίες.(c)</desc>
+  </programme>
+  <programme start="20221027190000 +0300" stop="20221027192000 +0300" channel="RIK">
+    <title lang="el">Υπεραυτοκίνητα Κ5 ΕΠ158</title>
+    <desc lang="el">Παρουσιάζουμε τα γρηγορότερα και πιο διακεκριμένα αυτοκίνητα του κόσμου σε ένα συναρπαστικό lifestyle μαγκαζίνο.(c)</desc>
+  </programme>
+  <programme start="20221027192000 +0300" stop="20221027194500 +0300" channel="RIK">
+    <title lang="el">Μοτοσικλέτες Κ3 ΕΠ49</title>
+    <desc lang="el">Εκπομπή για μοτοσικλέτες με ενδιαφέροντα νέα, πανέμορφες διαδρομές για εκδρομές, συναρπαστικά event με μοτοσικλέτες και δοκιμασίες. Συναρπαστικές ιστορίες για κάθε λάτρη της μοτοσικλέτας!(c)</desc>
+  </programme>
+  <programme start="20221027194500 +0300" stop="20221027201500 +0300" channel="RIK">
+    <title lang="el">Πώς κατασκευάζονται; Κ2 ΕΠ23</title>
+    <desc lang="el">Η εκπομπή μπαίνει στα παρασκήνια των μεγαλύτερων κατασκευαστών αυτοκινήτων του κόσμου.(c)</desc>
+  </programme>
+  <programme start="20221027201500 +0300" stop="20221027204000 +0300" channel="RIK">
+    <title lang="el">High Octane Κ1 ΕΠ15</title>
+    <desc lang="el">Η εκπομπή ανοίγει την πόρτα στον ριψοκίνδυνο και τρελό κόσμο του μηχανοκίνητου αθλητισμού. Δείτε εντυπωσιακά πλάνα από συναρπαστικά πρωταθλήματα σε χώμα, νερό και χιόνι.(c)</desc>
+  </programme>
+  <programme start="20221027204000 +0300" stop="20221027213000 +0300" channel="RIK">
+    <title lang="el">Ο Βασιλιάς των Δρόμων 2021</title>
+    <desc lang="el">Αυτή η σειρά βαθμολογεί τους οδηγούς που διαγωνίζονται σε αγώνες με Superbike που προβάλλονται τηλεοπτικά κάθε σεζόν. Συντονιστείτε εδώ για όλα όσα αφορούν τις μοτοσυκλέτες.(c)</desc>
+  </programme>
+  <programme start="20221027213000 +0300" stop="20221027215500 +0300" channel="RIK">
+    <title lang="el">Κλασικοί αγώνες ταχύτητας Κ2 ΕΠ22</title>
+    <desc lang="el">Η εκπομπή μάς ταξιδεύει στις πιο διάσημες πίστες αγώνων ταχύτητας στον κόσμο. Θυμόμαστε τους πιο θρυλικούς αγώνες των τελευταίων δεκαετιών, ενώ μπορείτε να ακούσετε ακόμα και τα πρωτότυπα σχόλια.(c)</desc>
+  </programme>
+  <programme start="20221027215500 +0300" stop="20221027222000 +0300" channel="RIK">
+    <title lang="el">Κλασικά αυτοκίνητα Κ2 ΕΠ24</title>
+    <desc lang="el">Η σειρά παρουσιάζει μοντέλα αντίκες και ασυνήθιστα αυτοκίνητα, κάνοντας μια ανασκόπηση στα 100 χρόνια ιστορίας των αυτοκινήτων. Λατρεμένοι θησαυροί από την Ιταλία, τη Γαλλία, τις ΗΠΑ και τη Γερμανία.(c)</desc>
+  </programme>
+  <programme start="20221027222000 +0300" stop="20221027231500 +0300" channel="RIK">
+    <title lang="el">Iστορικό Γκραν Πρι του Μονακό 2022</title>
+    <desc lang="el">Iστορικό Γκραν Πρι του Μονακό 2022.(c)</desc>
+  </programme>
+  <programme start="20221027231500 +0300" stop="20221028000000 +0300" channel="RIK">
+    <title lang="el">Κλασική Φόρμουλα 1, Σίλβερστοουν 2022</title>
+    <desc lang="el">Κλασική Φόρμουλα 1, Σίλβερστοουν 2022.(c)</desc>
+  </programme>
+  <programme start="20221028000000 +0300" stop="20221028060000 +0300" channel="RIK">
     <title lang="el">Novasportsextra1HD</title>
-    <desc lang="el">Κάθε Σαββατοκύριακο, αλλά και μέσα στην εβδομάδα, παρακολουθήστε σε ζωντανή σύνδεση επιλεγμένες αναμετρήσεις από όλες τις διοργανώσεις.</desc>
+    <desc lang="el">Κάθε Σαββατοκύριακο, αλλά και μέσα στην εβδομάδα, παρακολουθήστε σε ζωντανή σύνδεση επιλεγμένες αναμετρήσεις από όλες τις διοργανώσεις.(c)</desc>
   </programme>
-  <programme start="20221027060000 +0300" stop="20221027120000 +0300" channel="RIK">
+  <programme start="20221028060000 +0300" stop="20221028120000 +0300" channel="RIK">
     <title lang="el">Novasportsextra1HD</title>
-    <desc lang="el">Κάθε Σαββατοκύριακο, αλλά και μέσα στην εβδομάδα, παρακολουθήστε σε ζωντανή σύνδεση επιλεγμένες αναμετρήσεις από όλες τις διοργανώσεις.</desc>
+    <desc lang="el">Κάθε Σαββατοκύριακο, αλλά και μέσα στην εβδομάδα, παρακολουθήστε σε ζωντανή σύνδεση επιλεγμένες αναμετρήσεις από όλες τις διοργανώσεις.(c)</desc>
   </programme>
-  <programme start="20221027120000 +0300" stop="20221027180000 +0300" channel="RIK">
+  <programme start="20221028120000 +0300" stop="20221028180000 +0300" channel="RIK">
     <title lang="el">Novasportsextra1HD</title>
-    <desc lang="el">Κάθε Σαββατοκύριακο, αλλά και μέσα στην εβδομάδα, παρακολουθήστε σε ζωντανή σύνδεση επιλεγμένες αναμετρήσεις από όλες τις διοργανώσεις.</desc>
+    <desc lang="el">Κάθε Σαββατοκύριακο, αλλά και μέσα στην εβδομάδα, παρακολουθήστε σε ζωντανή σύνδεση επιλεγμένες αναμετρήσεις από όλες τις διοργανώσεις.(c)</desc>
   </programme>
-  <programme start="20221027180000 +0300" stop="20221028000000 +0300" channel="RIK">
+  <programme start="20221028180000 +0300" stop="20221029000000 +0300" channel="RIK">
     <title lang="el">Novasportsextra1HD</title>
-    <desc lang="el">Κάθε Σαββατοκύριακο, αλλά και μέσα στην εβδομάδα, παρακολουθήστε σε ζωντανή σύνδεση επιλεγμένες αναμετρήσεις από όλες τις διοργανώσεις.</desc>
+    <desc lang="el">Κάθε Σαββατοκύριακο, αλλά και μέσα στην εβδομάδα, παρακολουθήστε σε ζωντανή σύνδεση επιλεγμένες αναμετρήσεις από όλες τις διοργανώσεις.(c)</desc>
   </programme>
-  <programme start="20221028000000 +0300" stop="20221028020000 +0300" channel="RIK">
-    <title lang="el">Ολυμπιακός - Μονακό</title>
-    <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'. Μπάσκετ.</desc>
+  <programme start="20221029000000 +0300" stop="20221029020000 +0300" channel="RIK">
+    <title lang="el">Μπαρτσελόνα - Αρμάνι Μιλάνο</title>
+    <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'. Μπάσκετ.(c)</desc>
   </programme>
-  <programme start="20221028020000 +0300" stop="20221028040000 +0300" channel="RIK">
+  <programme start="20221029020000 +0300" stop="20221029023000 +0300" channel="RIK">
+    <title lang="el">Novasports Classic Zone</title>
+    <desc lang="el">Μέσα από επιλεγμένες στιγμές κλασικών αγώνων, θυμηθείτε τα στιγμιότυπα, τους πρωταγωνιστές καθώς και ενδιαφέροντα παραλειπόμενα μέσα από το πλούσιο αρχείο των καναλιών Novasports. Μπάσκετ.(c)</desc>
+  </programme>
+  <programme start="20221029023000 +0300" stop="20221029030000 +0300" channel="RIK">
+    <title lang="el">Novasports Classic Zone</title>
+    <desc lang="el">Μέσα από επιλεγμένες στιγμές κλασικών αγώνων, θυμηθείτε τα στιγμιότυπα, τους πρωταγωνιστές καθώς και ενδιαφέροντα παραλειπόμενα μέσα από το πλούσιο αρχείο των καναλιών Novasports. Μπάσκετ.(c)</desc>
+  </programme>
+  <programme start="20221029030000 +0300" stop="20221029040000 +0300" channel="RIK">
     <title lang="el">Timeline</title>
-    <desc lang="el">Κάντε μια βουτιά στο παρελθόν με τη σειρά που είναι αφιερωμένη στην πορεία μίας ομάδας σε προηγούμενες σεζόν αλλά και ενός ολόκληρου πρωταθλήματος που έγραψε ιστορία ή που μας έκοψε την ανάσα! Μπάσκετ.</desc>
+    <desc lang="el">Κάντε μια βουτιά στο παρελθόν με τη σειρά που είναι αφιερωμένη στην πορεία μίας ομάδας σε προηγούμενες σεζόν αλλά και ενός ολόκληρου πρωταθλήματος που έγραψε ιστορία ή που μας έκοψε την ανάσα! Μπάσκετ.(c)</desc>
   </programme>
-  <programme start="20221028040000 +0300" stop="20221028043000 +0300" channel="RIK">
+  <programme start="20221029040000 +0300" stop="20221029043000 +0300" channel="RIK">
     <title lang="el">Novasports Start</title>
-    <desc lang="el">Μοναδικό αθλητικό θέαμα με ποδόσφαιρο και μπάσκετ από την Ελλάδα και την Ευρώπη! Ζωντανοί αγώνες από όλα τα κορυφαία ευρωπαϊκά πρωταθλήματα ποδοσφαίρου αλλά και αγώνες μπάσκετ από τη Euroleague και το Eurocup!</desc>
+    <desc lang="el">Μοναδικό αθλητικό θέαμα με ποδόσφαιρο και μπάσκετ από την Ελλάδα και την Ευρώπη! Ζωντανοί αγώνες από όλα τα κορυφαία ευρωπαϊκά πρωταθλήματα ποδοσφαίρου αλλά και αγώνες μπάσκετ από τη Euroleague και το Eurocup!(c)</desc>
   </programme>
-  <programme start="20221028043000 +0300" stop="20221028050000 +0300" channel="RIK">
-    <title lang="el">Fastzone</title>
-    <desc lang="el">Ενα εβδομαδιαίο μαγκαζίνο μηχανοκίνητου αθλητισμού με όλα τα θέματα της αγωνιστικής επικαιρότητας! Μάθετε τα πάντα για ό,τι κινείται γρήγορα και όλα τα νέα από αγώνες αντοχής και karting, αγώνες πρωτοτύπων, air racing και Formula E. Μηχανοκίνητα.</desc>
+  <programme start="20221029043000 +0300" stop="20221029050000 +0300" channel="RIK">
+    <title lang="el">Bundesliga Weekly</title>
+    <desc lang="el">Μετά το τέλος κάθε αγωνιστικής της Bundesliga, έχετε την ευκαιρία να παρακολουθήστε μία πλούσια ανασκόπηση. Αποτελέσματα, ρεπορτάζ και σχόλια για τους αγώνες ενός από τα σπουδαιότερα πρωταθλήματα ποδοσφαίρου. Ποδόσφαιρο.(c)</desc>
   </programme>
-  <programme start="20221028050000 +0300" stop="20221028070000 +0300" channel="RIK">
-    <title lang="el">Άσκολι - Κάλιαρι</title>
-    <desc lang="el">Παρακολουθείτε αγώνες της Serie B, της Β'κατηγορίας του ιταλικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 20 σύλλογοι και η Αταλάντα με την Τζένοα κατέχουν από έξι τίτλους ως τώρα. Ποδόσφαιρο.</desc>
-  </programme>
-  <programme start="20221028070000 +0300" stop="20221028090000 +0300" channel="RIK">
-    <title lang="el">Μπουντούτσνοστ - Αμβούργο</title>
-    <desc lang="el">Παρακολουθήστε τους αγώνες του Eurocup 2021/22, μίας ακόμη ανταγωνιστικής διοργάνωσης στην ιστορία του θεσμού. Ανάμεσα στις 20 ομάδες που συμμετέχουν περιλαμβάνονται σπουδαία ονόματα του ευρωπαϊκού μπάσκετ. Μπάσκετ.</desc>
-  </programme>
-  <programme start="20221028090000 +0300" stop="20221028093000 +0300" channel="RIK">
-    <title lang="el">Novasports Classic Zone</title>
-    <desc lang="el">Μέσα από επιλεγμένες στιγμές κλασικών αγώνων, θυμηθείτε τα στιγμιότυπα, τους πρωταγωνιστές καθώς και ενδιαφέροντα παραλειπόμενα μέσα από το πλούσιο αρχείο των καναλιών Novasports. Μπάσκετ.</desc>
-  </programme>
-  <programme start="20221028093000 +0300" stop="20221028100000 +0300" channel="RIK">
-    <title lang="el">Novasports Classic Zone</title>
-    <desc lang="el">Μέσα από επιλεγμένες στιγμές κλασικών αγώνων, θυμηθείτε τα στιγμιότυπα, τους πρωταγωνιστές καθώς και ενδιαφέροντα παραλειπόμενα μέσα από το πλούσιο αρχείο των καναλιών Novasports. Μπάσκετ.</desc>
-  </programme>
-  <programme start="20221028100000 +0300" stop="20221028110000 +0300" channel="RIK">
-    <title lang="el">Timeline</title>
-    <desc lang="el">Κάντε μια βουτιά στο παρελθόν με τη σειρά που είναι αφιερωμένη στην πορεία μίας ομάδας σε προηγούμενες σεζόν αλλά και ενός ολόκληρου πρωταθλήματος που έγραψε ιστορία ή που μας έκοψε την ανάσα! Μπάσκετ.</desc>
-  </programme>
-  <programme start="20221028110000 +0300" stop="20221028114500 +0300" channel="RIK">
-    <title lang="el">Playmakers</title>
-    <desc lang="el">Η απόλυτη εκπομπή μπάσκετ με την επίλεκτη ομάδα δημοσιογράφων του Novasports κι εκλεκτούς καλεσμένους! Ρεπορτάζ pre game και ανάλυση post game για όλα τα ματς Παναθηναϊκού και Ολυμπιακού στη Euroleague. Παρουσιάζει ο Γ. Παπαβασιλείου. Μπάσκετ.</desc>
-  </programme>
-  <programme start="20221028114500 +0300" stop="20221028134500 +0300" channel="RIK">
-    <title lang="el">Μακάμπι Τελ Αβίβ - Παναθηναϊκός</title>
-    <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'. Μπάσκετ.</desc>
-  </programme>
-  <programme start="20221028134500 +0300" stop="20221028154500 +0300" channel="RIK">
-    <title lang="el">Ολυμπιακός - Μονακό</title>
-    <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'. Μπάσκετ.</desc>
-  </programme>
-  <programme start="20221028154500 +0300" stop="20221028173000 +0300" channel="RIK">
-    <title lang="el">Playmakers</title>
-    <desc lang="el">Η απόλυτη εκπομπή μπάσκετ με την επίλεκτη ομάδα δημοσιογράφων του Novasports κι εκλεκτούς καλεσμένους! Ρεπορτάζ pre game και ανάλυση post game για όλα τα ματς Παναθηναϊκού και Ολυμπιακού στη Euroleague. Παρουσιάζει ο Γ. Παπαβασιλείου. Μπάσκετ.</desc>
-  </programme>
-  <programme start="20221028173000 +0300" stop="20221028193000 +0300" channel="RIK">
+  <programme start="20221029050000 +0300" stop="20221029070000 +0300" channel="RIK">
     <title lang="el">Αρμίνια Μπίλεφελντ - Ζανκτ Πάουλι</title>
-    <desc lang="el">Παρακολουθείτε αγώνες της Bundesliga 2, της δεύτερης κατηγορίας του γερμανικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 18 σύλλογοι, ενώ πέρσι πρωταθλήτρια αναδείχθηκε η Σάλκε. Ποδόσφαιρο.</desc>
+    <desc lang="el">Παρακολουθείτε αγώνες της Bundesliga 2, της δεύτερης κατηγορίας του γερμανικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 18 σύλλογοι, ενώ πέρσι πρωταθλήτρια αναδείχθηκε η Σάλκε. Ποδόσφαιρο.(c)</desc>
   </programme>
-  <programme start="20221028193000 +0300" stop="20221028200000 +0300" channel="RIK">
-    <title lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου</title>
-    <desc lang="el">Λίγο πριν από τη σέντρα της αγωνιστικής στο γαλλικό πρωτάθλημα ποδοσφαίρου, ενημερωθείτε για όλα τα τελευταία νέα, τη φόρμα των ομάδων και την εξέλιξη τόσο της 'μάχης'του τίτλου όσο και των άλλων 'μετώπων'στη βαθμολογία. Ποδόσφαιρο.</desc>
+  <programme start="20221029070000 +0300" stop="20221029090000 +0300" channel="RIK">
+    <title lang="el">Γκραν Κανάρια - Σλασκ Βρότσλαβ</title>
+    <desc lang="el">Παρακολουθήστε τους αγώνες του Eurocup 2021/22, μίας ακόμη ανταγωνιστικής διοργάνωσης στην ιστορία του θεσμού. Ανάμεσα στις 20 ομάδες που συμμετέχουν περιλαμβάνονται σπουδαία ονόματα του ευρωπαϊκού μπάσκετ. Μπάσκετ.(c)</desc>
   </programme>
-  <programme start="20221028200000 +0300" stop="20221028203000 +0300" channel="RIK">
-    <title lang="el">Bundesliga Weekly</title>
-    <desc lang="el">Μετά το τέλος κάθε αγωνιστικής της Bundesliga, έχετε την ευκαιρία να παρακολουθήστε μία πλούσια ανασκόπηση. Αποτελέσματα, ρεπορτάζ και σχόλια για τους αγώνες ενός από τα σπουδαιότερα πρωταθλήματα ποδοσφαίρου. Ποδόσφαιρο.</desc>
+  <programme start="20221029090000 +0300" stop="20221029110000 +0300" channel="RIK">
+    <title lang="el">Άσκολι - Κάλιαρι</title>
+    <desc lang="el">Παρακολουθείτε αγώνες της Serie B, της Β'κατηγορίας του ιταλικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 20 σύλλογοι και η Αταλάντα με την Τζένοα κατέχουν από έξι τίτλους ως τώρα. Ποδόσφαιρο.(c)</desc>
   </programme>
-  <programme start="20221028203000 +0300" stop="20221028210000 +0300" channel="RIK">
-    <title lang="el">Novasports Start</title>
-    <desc lang="el">Μοναδικό αθλητικό θέαμα με ποδόσφαιρο και μπάσκετ από την Ελλάδα και την Ευρώπη! Ζωντανοί αγώνες από όλα τα κορυφαία ευρωπαϊκά πρωταθλήματα ποδοσφαίρου αλλά και αγώνες μπάσκετ από τη Euroleague και το Eurocup!</desc>
+  <programme start="20221029110000 +0300" stop="20221029130000 +0300" channel="RIK">
+    <title lang="el">Τένις: WTA 250 2022</title>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Transylvania Open by Verdino της σειράς WTA 250, που πραγματοποιείται στη Ρουμανία το διάστημα από 10 μέχρι 16 Οκτωβρίου. Τένις.(c)</desc>
   </programme>
-  <programme start="20221028210000 +0300" stop="20221028230000 +0300" channel="RIK">
-    <title lang="el">Βιλερμπάν - Μπασκόνια (Ζ)</title>
-    <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'. Μπάσκετ.</desc>
+  <programme start="20221029130000 +0300" stop="20221029150000 +0300" channel="RIK">
+    <title lang="el">Τένις: WTA 500 2022</title>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών San Diego Open της σειράς WTA 500, που πραγματοποιείται στο Σαν Ντιέγκο των ΗΠΑ το διάστημα 10-16 Οκτωβρίου.. Τένις.(c)</desc>
   </programme>
-  <programme start="20221028230000 +0300" stop="20221028233000 +0300" channel="RIK">
-    <title lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου</title>
-    <desc lang="el">Λίγο πριν από τη σέντρα της αγωνιστικής στο γαλλικό πρωτάθλημα ποδοσφαίρου, ενημερωθείτε για όλα τα τελευταία νέα, τη φόρμα των ομάδων και την εξέλιξη τόσο της 'μάχης'του τίτλου όσο και των άλλων 'μετώπων'στη βαθμολογία. Ποδόσφαιρο.</desc>
-  </programme>
-  <programme start="20221028233000 +0300" stop="20221029000000 +0300" channel="RIK">
-    <title lang="el">Bundesliga Weekly</title>
-    <desc lang="el">Μετά το τέλος κάθε αγωνιστικής της Bundesliga, έχετε την ευκαιρία να παρακολουθήστε μία πλούσια ανασκόπηση. Αποτελέσματα, ρεπορτάζ και σχόλια για τους αγώνες ενός από τα σπουδαιότερα πρωταθλήματα ποδοσφαίρου. Ποδόσφαιρο.</desc>
-  </programme>
-  <programme start="20221029000000 +0300" stop="20221029170000 +0300" channel="RIK">
-    <title lang="el">LIVERPOOL TV</title>
-    <desc lang="el">LIVERPOOL TV.</desc>
+  <programme start="20221029150000 +0300" stop="20221029170000 +0300" channel="RIK">
+    <title lang="el">Άσκολι - Κάλιαρι</title>
+    <desc lang="el">Παρακολουθείτε αγώνες της Serie B, της Β'κατηγορίας του ιταλικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 20 σύλλογοι και η Αταλάντα με την Τζένοα κατέχουν από έξι τίτλους ως τώρα. Ποδόσφαιρο.(c)</desc>
   </programme>
   <programme start="20221029170000 +0300" stop="20221029190000 +0300" channel="RIK">
-    <title lang="el">BRIGHTON - CHELSEA (Z)</title>
-    <desc lang="el">PREMIER LEAGUE 2022-23.</desc>
+    <title lang="el">Novasports Start</title>
+    <desc lang="el">Μοναδικό αθλητικό θέαμα με ποδόσφαιρο και μπάσκετ από την Ελλάδα και την Ευρώπη! Ζωντανοί αγώνες από όλα τα κορυφαία ευρωπαϊκά πρωταθλήματα ποδοσφαίρου αλλά και αγώνες μπάσκετ από τη Euroleague και το Eurocup!(c)</desc>
   </programme>
-  <programme start="20221029190000 +0300" stop="20221029200000 +0300" channel="RIK">
-    <title lang="el">LIVERPOOL TV</title>
-    <desc lang="el">LIVERPOOL TV.</desc>
+  <programme start="20221029190000 +0300" stop="20221029193000 +0300" channel="RIK">
+    <title lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου</title>
+    <desc lang="el">Λίγο πριν από τη σέντρα της αγωνιστικής στο γαλλικό πρωτάθλημα ποδοσφαίρου, ενημερωθείτε για όλα τα τελευταία νέα, τη φόρμα των ομάδων και την εξέλιξη τόσο της 'μάχης'του τίτλου όσο και των άλλων 'μετώπων'στη βαθμολογία. Ποδόσφαιρο.(c)</desc>
   </programme>
-  <programme start="20221029200000 +0300" stop="20221029220000 +0300" channel="RIK">
-    <title lang="el">BENFICA - CHAVES (Z)</title>
-    <desc lang="el">PORTUGUESE LEAGUE 2022-23.</desc>
+  <programme start="20221029193000 +0300" stop="20221029200000 +0300" channel="RIK">
+    <title lang="el">Bundesliga Weekly</title>
+    <desc lang="el">Μετά το τέλος κάθε αγωνιστικής της Bundesliga, έχετε την ευκαιρία να παρακολουθήστε μία πλούσια ανασκόπηση. Αποτελέσματα, ρεπορτάζ και σχόλια για τους αγώνες ενός από τα σπουδαιότερα πρωταθλήματα ποδοσφαίρου. Ποδόσφαιρο.(c)</desc>
   </programme>
-  <programme start="20221029220000 +0300" stop="20221029223000 +0300" channel="RIK">
-    <title lang="el">LIVERPOOL TV</title>
-    <desc lang="el">LIVERPOOL TV.</desc>
+  <programme start="20221029200000 +0300" stop="20221029214500 +0300" channel="RIK">
+    <title lang="el">Χρυσή Μπάλα</title>
+    <desc lang="el">Η Χρυσή Μπάλα 2022 πραγματοποιείται στο Παρίσι και υποψήφιοι νικητές είναι οι κορυφαίοι ποδοσφαιριστές του κόσμου. Για πρώτη φορά φέτος το βραβείο θα δοθεί με βάση τις επιδόσεις της σεζόν 2021/22 και όχι του ημερολογιακού έτους. Ποδόσφαιρο.(c)</desc>
   </programme>
-  <programme start="20221029223000 +0300" stop="20221030000000 +0300" channel="RIK">
+  <programme start="20221029223000 +0300" stop="20221030003000 +0300" channel="RIK">
     <title lang="el">AROUCA - SPORTING (Z)</title>
-    <desc lang="el">PORTUGUESE LEAGUE 2022-23.</desc>
-  </programme>
-  <programme start="20221030000000 +0300" stop="20221030001500 +0300" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030001500 +0300" stop="20221030003000 +0300" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030003000 +0300" stop="20221030004500 +0300" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030004500 +0300" stop="20221030010000 +0300" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030010000 +0300" stop="20221030011500 +0300" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030011500 +0300" stop="20221030013000 +0300" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030013000 +0300" stop="20221030014500 +0300" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030014500 +0300" stop="20221030030000 +0300" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030030000 +0300" stop="20221030031000 +0300" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030031000 +0300" stop="20221030032600 +0300" channel="RIK">
-    <title lang="el">State of the Union</title>
-    <desc lang="el">Euronews' State of the Union brings you up to date with the most important european affairs, politics, economic, financial and corporate events of the week.</desc>
-  </programme>
-  <programme start="20221030032600 +0300" stop="20221030034500 +0300" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030034500 +0300" stop="20221030050000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030050000 +0200" stop="20221030051000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030051000 +0200" stop="20221030053000 +0200" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030053000 +0200" stop="20221030054500 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030054500 +0200" stop="20221030060000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030060000 +0200" stop="20221030061000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030061000 +0200" stop="20221030063000 +0200" channel="RIK">
-    <title lang="el">State of the Union</title>
-    <desc lang="el">Euronews' State of the Union brings you up to date with the most important european affairs, politics, economic, financial and corporate events of the week.</desc>
-  </programme>
-  <programme start="20221030063000 +0200" stop="20221030064500 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030064500 +0200" stop="20221030070000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030070000 +0200" stop="20221030071100 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030071100 +0200" stop="20221030073000 +0200" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030073000 +0200" stop="20221030074500 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030074500 +0200" stop="20221030080000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030080000 +0200" stop="20221030081000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030081000 +0200" stop="20221030083300 +0200" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030083300 +0200" stop="20221030084400 +0200" channel="RIK">
-    <title lang="el">State of the Union</title>
-    <desc lang="el">Euronews' State of the Union brings you up to date with the most important european affairs, politics, economic, financial and corporate events of the week.</desc>
-  </programme>
-  <programme start="20221030084400 +0200" stop="20221030090000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030090000 +0200" stop="20221030091000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030091000 +0200" stop="20221030093000 +0200" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030093000 +0200" stop="20221030094400 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030094400 +0200" stop="20221030100000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030100000 +0200" stop="20221030101000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030101000 +0200" stop="20221030103000 +0200" channel="RIK">
-    <title lang="el">State of the Union</title>
-    <desc lang="el">Euronews' State of the Union brings you up to date with the most important european affairs, politics, economic, financial and corporate events of the week.</desc>
-  </programme>
-  <programme start="20221030103000 +0200" stop="20221030104400 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030104400 +0200" stop="20221030110000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030110000 +0200" stop="20221030111000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030111000 +0200" stop="20221030113000 +0200" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030113000 +0200" stop="20221030114400 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030114400 +0200" stop="20221030120000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030120000 +0200" stop="20221030121100 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030121100 +0200" stop="20221030123000 +0200" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030123000 +0200" stop="20221030124200 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030124200 +0200" stop="20221030130000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030130000 +0200" stop="20221030131000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030131000 +0200" stop="20221030133000 +0200" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030133000 +0200" stop="20221030134200 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030134200 +0200" stop="20221030140000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030140000 +0200" stop="20221030141400 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030141400 +0200" stop="20221030143000 +0200" channel="RIK">
-    <title lang="el">Witness</title>
-    <desc lang="el">WITNESS verb. to see for oneself At Euronews we are committed to people’s stories and the truth. ‘Euronews WITNESS’ brings world issues into focus through the experiences of men, women and children at the heart of the story. Anelise Borges goes beyond the headlines, debates and data analysis... and into people’s lives.</desc>
-  </programme>
-  <programme start="20221030143000 +0200" stop="20221030144200 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030144200 +0200" stop="20221030150000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030150000 +0200" stop="20221030151000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030151000 +0200" stop="20221030152400 +0200" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030152400 +0200" stop="20221030154200 +0200" channel="RIK">
-    <title lang="el">State of the Union</title>
-    <desc lang="el">Euronews' State of the Union brings you up to date with the most important european affairs, politics, economic, financial and corporate events of the week.</desc>
-  </programme>
-  <programme start="20221030154200 +0200" stop="20221030160000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030160000 +0200" stop="20221030161100 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030161100 +0200" stop="20221030163000 +0200" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030163000 +0200" stop="20221030164200 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030164200 +0200" stop="20221030170000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030170000 +0200" stop="20221030170900 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030170900 +0200" stop="20221030173000 +0200" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030173000 +0200" stop="20221030174300 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030174300 +0200" stop="20221030180000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030180000 +0200" stop="20221030181000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030181000 +0200" stop="20221030181800 +0200" channel="RIK">
-    <title lang="el">State of the Union</title>
-    <desc lang="el">Euronews' State of the Union brings you up to date with the most important european affairs, politics, economic, financial and corporate events of the week.</desc>
-  </programme>
-  <programme start="20221030181800 +0200" stop="20221030184400 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030184400 +0200" stop="20221030190000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030190000 +0200" stop="20221030191000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030191000 +0200" stop="20221030193000 +0200" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030193000 +0200" stop="20221030194500 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030194500 +0200" stop="20221030200000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030200000 +0200" stop="20221030201100 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030201100 +0200" stop="20221030203000 +0200" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030203000 +0200" stop="20221030204500 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030204500 +0200" stop="20221030210000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030210000 +0200" stop="20221030211000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030211000 +0200" stop="20221030213000 +0200" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030213000 +0200" stop="20221030214500 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030214500 +0200" stop="20221030220000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030220000 +0200" stop="20221030221500 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030221500 +0200" stop="20221030223000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030223000 +0200" stop="20221030224500 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030224500 +0200" stop="20221030230000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030230000 +0200" stop="20221030231000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030231000 +0200" stop="20221030233000 +0200" channel="RIK">
-    <title lang="el">State of the Union</title>
-    <desc lang="el">Euronews' State of the Union brings you up to date with the most important european affairs, politics, economic, financial and corporate events of the week.</desc>
-  </programme>
-  <programme start="20221030233000 +0200" stop="20221030234500 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221030234500 +0200" stop="20221031000000 +0200" channel="RIK">
-    <title lang="el">Global Week-End</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">PORTUGUESE LEAGUE 2022-23.(c)</desc>
+  </programme>
+  <programme start="20221029214500 +0300" stop="20221029234500 +0300" channel="RIK">
+    <title lang="el">Λειψία - Λεβερκούζεν</title>
+    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις! Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο.(c)</desc>
+  </programme>
+  <programme start="20221030003000 +0300" stop="20221030020000 +0300" channel="RIK">
+    <title lang="el">LIVERPOOL TV</title>
+    <desc lang="el">LIVERPOOL TV.(c)</desc>
+  </programme>
+  <programme start="20221030020000 +0300" stop="20221030053000 +0200" channel="RIK">
+    <title lang="el">UFC - FIGHT NIGHT 25 - Las Vegas (USA) (Z)</title>
+    <desc lang="el">UFC FIGHTINGS 2022.(c)</desc>
+  </programme>
+  <programme start="20221030053000 +0200" stop="20221030194500 +0200" channel="RIK">
+    <title lang="el">LIVERPOOL TV</title>
+    <desc lang="el">LIVERPOOL TV.(c)</desc>
+  </programme>
+  <programme start="20221030194500 +0200" stop="20221030214500 +0200" channel="RIK">
+    <title lang="el">ΠΕΤΡΟΛΙΝΑ ΑΕΚ - ΚΕΡΑΥΝΟΣ (Z)</title>
+    <desc lang="el">ΟΠΑΠ BASKET LEAGUE 2022-23.(c)</desc>
+  </programme>
+  <programme start="20221030214500 +0200" stop="20221031000000 +0200" channel="RIK">
+    <title lang="el">LIVERPOOL TV</title>
+    <desc lang="el">LIVERPOOL TV.(c)</desc>
   </programme>
   <programme start="20221031000000 +0200" stop="20221031001400 +0200" channel="RIK">
     <title lang="el">Euronews Tonight</title>
@@ -29259,621 +29063,913 @@
     <title lang="el">LATE NIGHT</title>
     <desc lang="el">Κωμωδία με ιδιαίτερο και πιπεράτο χαρακτήρα. Οι καλύτεροι youtube comedians αλλά και gamers μας προσφέρουν ότι καλύτερο για τις τελευταίες ώρες της ημέρας.</desc>
   </programme>
-  <programme start="20221027003000 +0300" stop="20221027010000 +0300" channel="BBC World">
+  <programme start="20221027003000 +0300" stop="20221027004500 +0300" channel="BBC World">
+    <title lang="el">Late Edition</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027004500 +0300" stop="20221027010000 +0300" channel="BBC World">
+    <title lang="el">Late Edition</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027010000 +0300" stop="20221027011500 +0300" channel="BBC World">
+    <title lang="el">Late Edition</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027011500 +0300" stop="20221027013000 +0300" channel="BBC World">
+    <title lang="el">Late Edition</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027013000 +0300" stop="20221027014500 +0300" channel="BBC World">
+    <title lang="el">Late Edition</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027014500 +0300" stop="20221027020000 +0300" channel="BBC World">
+    <title lang="el">Late Edition</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027020000 +0300" stop="20221027021500 +0300" channel="BBC World">
+    <title lang="el">Late Edition</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027021500 +0300" stop="20221027023000 +0300" channel="BBC World">
+    <title lang="el">Late Edition</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027023000 +0300" stop="20221027024500 +0300" channel="BBC World">
+    <title lang="el">Late Edition</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027024500 +0300" stop="20221027030000 +0300" channel="BBC World">
+    <title lang="el">Late Edition</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027030000 +0300" stop="20221027031500 +0300" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20221027031500 +0300" stop="20221027033000 +0300" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20221027033000 +0300" stop="20221027034500 +0300" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20221027034500 +0300" stop="20221027040000 +0300" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20221027040000 +0300" stop="20221027041500 +0300" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20221027041500 +0300" stop="20221027043000 +0300" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20221027043000 +0300" stop="20221027044500 +0300" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20221027044500 +0300" stop="20221027050000 +0300" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20221027050000 +0300" stop="20221027051500 +0300" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20221027051500 +0300" stop="20221027053000 +0300" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20221027053000 +0300" stop="20221027054500 +0300" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20221027054500 +0300" stop="20221027060000 +0300" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20221027060000 +0300" stop="20221027061500 +0300" channel="BBC World">
+    <title lang="el">Good Morning Europe</title>
+    <desc lang="el">Euronews flagship morning show: breaking news, journalism, analysis and social media reporting from “the cube”, on the biggest stories affecting Europe, and the world. Dedicated to being Europe’s town square, Good Morning Europe brings Europe’s story to life at this critical moment through a dedication to all voices, all views, all welcome.(c)</desc>
+  </programme>
+  <programme start="20221027061500 +0300" stop="20221027063000 +0300" channel="BBC World">
+    <title lang="el">Good Morning Europe</title>
+    <desc lang="el">Euronews flagship morning show: breaking news, journalism, analysis and social media reporting from “the cube”, on the biggest stories affecting Europe, and the world. Dedicated to being Europe’s town square, Good Morning Europe brings Europe’s story to life at this critical moment through a dedication to all voices, all views, all welcome.(c)</desc>
+  </programme>
+  <programme start="20221027063000 +0300" stop="20221027064500 +0300" channel="BBC World">
+    <title lang="el">Good Morning Europe</title>
+    <desc lang="el">Euronews flagship morning show: breaking news, journalism, analysis and social media reporting from “the cube”, on the biggest stories affecting Europe, and the world. Dedicated to being Europe’s town square, Good Morning Europe brings Europe’s story to life at this critical moment through a dedication to all voices, all views, all welcome.(c)</desc>
+  </programme>
+  <programme start="20221027064500 +0300" stop="20221027070000 +0300" channel="BBC World">
+    <title lang="el">Good Morning Europe</title>
+    <desc lang="el">Euronews flagship morning show: breaking news, journalism, analysis and social media reporting from “the cube”, on the biggest stories affecting Europe, and the world. Dedicated to being Europe’s town square, Good Morning Europe brings Europe’s story to life at this critical moment through a dedication to all voices, all views, all welcome.(c)</desc>
+  </programme>
+  <programme start="20221027070000 +0300" stop="20221027071500 +0300" channel="BBC World">
+    <title lang="el">Good Morning Europe</title>
+    <desc lang="el">Euronews flagship morning show: breaking news, journalism, analysis and social media reporting from “the cube”, on the biggest stories affecting Europe, and the world. Dedicated to being Europe’s town square, Good Morning Europe brings Europe’s story to life at this critical moment through a dedication to all voices, all views, all welcome.(c)</desc>
+  </programme>
+  <programme start="20221027071500 +0300" stop="20221027073000 +0300" channel="BBC World">
+    <title lang="el">Good Morning Europe</title>
+    <desc lang="el">Euronews flagship morning show: breaking news, journalism, analysis and social media reporting from “the cube”, on the biggest stories affecting Europe, and the world. Dedicated to being Europe’s town square, Good Morning Europe brings Europe’s story to life at this critical moment through a dedication to all voices, all views, all welcome.(c)</desc>
+  </programme>
+  <programme start="20221027073000 +0300" stop="20221027074500 +0300" channel="BBC World">
+    <title lang="el">Good Morning Europe</title>
+    <desc lang="el">Euronews flagship morning show: breaking news, journalism, analysis and social media reporting from “the cube”, on the biggest stories affecting Europe, and the world. Dedicated to being Europe’s town square, Good Morning Europe brings Europe’s story to life at this critical moment through a dedication to all voices, all views, all welcome.(c)</desc>
+  </programme>
+  <programme start="20221027074500 +0300" stop="20221027080000 +0300" channel="BBC World">
+    <title lang="el">Good Morning Europe</title>
+    <desc lang="el">Euronews flagship morning show: breaking news, journalism, analysis and social media reporting from “the cube”, on the biggest stories affecting Europe, and the world. Dedicated to being Europe’s town square, Good Morning Europe brings Europe’s story to life at this critical moment through a dedication to all voices, all views, all welcome.(c)</desc>
+  </programme>
+  <programme start="20221027080000 +0300" stop="20221027081500 +0300" channel="BBC World">
+    <title lang="el">Good Morning Europe</title>
+    <desc lang="el">Euronews flagship morning show: breaking news, journalism, analysis and social media reporting from “the cube”, on the biggest stories affecting Europe, and the world. Dedicated to being Europe’s town square, Good Morning Europe brings Europe’s story to life at this critical moment through a dedication to all voices, all views, all welcome.(c)</desc>
+  </programme>
+  <programme start="20221027081500 +0300" stop="20221027083000 +0300" channel="BBC World">
+    <title lang="el">Good Morning Europe</title>
+    <desc lang="el">Euronews flagship morning show: breaking news, journalism, analysis and social media reporting from “the cube”, on the biggest stories affecting Europe, and the world. Dedicated to being Europe’s town square, Good Morning Europe brings Europe’s story to life at this critical moment through a dedication to all voices, all views, all welcome.(c)</desc>
+  </programme>
+  <programme start="20221027083000 +0300" stop="20221027084500 +0300" channel="BBC World">
+    <title lang="el">Good Morning Europe</title>
+    <desc lang="el">Euronews flagship morning show: breaking news, journalism, analysis and social media reporting from “the cube”, on the biggest stories affecting Europe, and the world. Dedicated to being Europe’s town square, Good Morning Europe brings Europe’s story to life at this critical moment through a dedication to all voices, all views, all welcome.(c)</desc>
+  </programme>
+  <programme start="20221027084500 +0300" stop="20221027090000 +0300" channel="BBC World">
+    <title lang="el">Good Morning Europe</title>
+    <desc lang="el">Euronews flagship morning show: breaking news, journalism, analysis and social media reporting from “the cube”, on the biggest stories affecting Europe, and the world. Dedicated to being Europe’s town square, Good Morning Europe brings Europe’s story to life at this critical moment through a dedication to all voices, all views, all welcome.(c)</desc>
+  </programme>
+  <programme start="20221027090000 +0300" stop="20221027091500 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027091500 +0300" stop="20221027093000 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027093000 +0300" stop="20221027094500 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027094500 +0300" stop="20221027100000 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027100000 +0300" stop="20221027101500 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027101500 +0300" stop="20221027103000 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027103000 +0300" stop="20221027104500 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027104500 +0300" stop="20221027110000 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027110000 +0300" stop="20221027111500 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027111500 +0300" stop="20221027113000 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027113000 +0300" stop="20221027114500 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027114500 +0300" stop="20221027120000 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027120000 +0300" stop="20221027121500 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027121500 +0300" stop="20221027123000 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027123000 +0300" stop="20221027124500 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027124500 +0300" stop="20221027130000 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027130000 +0300" stop="20221027131500 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027131500 +0300" stop="20221027133000 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027133000 +0300" stop="20221027134900 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027134900 +0300" stop="20221027140000 +0300" channel="BBC World">
+    <title lang="el">Witness</title>
+    <desc lang="el">WITNESS verb. to see for oneself At Euronews we are committed to people’s stories and the truth. ‘Euronews WITNESS’ brings world issues into focus through the experiences of men, women and children at the heart of the story. Anelise Borges goes beyond the headlines, debates and data analysis... and into people’s lives.(c)</desc>
+  </programme>
+  <programme start="20221027140000 +0300" stop="20221027141500 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027141500 +0300" stop="20221027143000 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027143000 +0300" stop="20221027144500 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027144500 +0300" stop="20221027150000 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027150000 +0300" stop="20221027151500 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027151500 +0300" stop="20221027153000 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027153000 +0300" stop="20221027154500 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027154500 +0300" stop="20221027160000 +0300" channel="BBC World">
+    <title lang="el">Witness</title>
+    <desc lang="el">WITNESS verb. to see for oneself At Euronews we are committed to people’s stories and the truth. ‘Euronews WITNESS’ brings world issues into focus through the experiences of men, women and children at the heart of the story. Anelise Borges goes beyond the headlines, debates and data analysis... and into people’s lives.(c)</desc>
+  </programme>
+  <programme start="20221027160000 +0300" stop="20221027161500 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027161500 +0300" stop="20221027163000 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027163000 +0300" stop="20221027164500 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027164500 +0300" stop="20221027170000 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027170000 +0300" stop="20221027171500 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027171500 +0300" stop="20221027173000 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027173000 +0300" stop="20221027174500 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027174500 +0300" stop="20221027180000 +0300" channel="BBC World">
+    <title lang="el">Euronews Now</title>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
+  </programme>
+  <programme start="20221027180000 +0300" stop="20221027181500 +0300" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027181500 +0300" stop="20221027183000 +0300" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027183000 +0300" stop="20221027184500 +0300" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027184500 +0300" stop="20221027190000 +0300" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027190000 +0300" stop="20221027191500 +0300" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027191500 +0300" stop="20221027193000 +0300" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027193000 +0300" stop="20221027194500 +0300" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027194500 +0300" stop="20221027200000 +0300" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027200000 +0300" stop="20221027201500 +0300" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027201500 +0300" stop="20221027203000 +0300" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027203000 +0300" stop="20221027204500 +0300" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027204500 +0300" stop="20221027210000 +0300" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027210000 +0300" stop="20221027211500 +0300" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027211500 +0300" stop="20221027213000 +0300" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027213000 +0300" stop="20221027214500 +0300" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027214500 +0300" stop="20221027220000 +0300" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027220000 +0300" stop="20221027221500 +0300" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027221500 +0300" stop="20221027223000 +0300" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027223000 +0300" stop="20221027224500 +0300" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027224500 +0300" stop="20221027230000 +0300" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20221027230000 +0300" stop="20221027231500 +0300" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20221027231500 +0300" stop="20221027233000 +0300" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20221027233000 +0300" stop="20221027234500 +0300" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20221027234500 +0300" stop="20221028000000 +0300" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20221028000000 +0300" stop="20221028003000 +0300" channel="BBC World">
     <title lang="el">LATE NIGHT</title>
-    <desc lang="el">Κωμωδία με ιδιαίτερο και πιπεράτο χαρακτήρα. Οι καλύτεροι youtube comedians αλλά και gamers μας προσφέρουν ότι καλύτερο για τις τελευταίες ώρες της ημέρας.</desc>
+    <desc lang="el">Κωμωδία με ιδιαίτερο και πιπεράτο χαρακτήρα. Οι καλύτεροι youtube comedians αλλά και gamers μας προσφέρουν ότι καλύτερο για τις τελευταίες ώρες της ημέρας.(c)</desc>
   </programme>
-  <programme start="20221027010000 +0300" stop="20221027013000 +0300" channel="BBC World">
+  <programme start="20221028003000 +0300" stop="20221028010000 +0300" channel="BBC World">
+    <title lang="el">LATE NIGHT</title>
+    <desc lang="el">Κωμωδία με ιδιαίτερο και πιπεράτο χαρακτήρα. Οι καλύτεροι youtube comedians αλλά και gamers μας προσφέρουν ότι καλύτερο για τις τελευταίες ώρες της ημέρας.(c)</desc>
+  </programme>
+  <programme start="20221028010000 +0300" stop="20221028013000 +0300" channel="BBC World">
     <title lang="el">MAD EVENTS</title>
-    <desc lang="el">Τα καλύτερα απόσπάσματα από τα κορυφαία Mad events κάθε βράδυ στην οθόνη σου.</desc>
+    <desc lang="el">Τα καλύτερα απόσπάσματα από τα κορυφαία Mad events κάθε βράδυ στην οθόνη σου.(c)</desc>
   </programme>
-  <programme start="20221027013000 +0300" stop="20221027020000 +0300" channel="BBC World">
+  <programme start="20221028013000 +0300" stop="20221028020000 +0300" channel="BBC World">
     <title lang="el">MAD EVENTS</title>
-    <desc lang="el">Τα καλύτερα απόσπάσματα από τα κορυφαία Mad events κάθε βράδυ στην οθόνη σου.</desc>
+    <desc lang="el">Τα καλύτερα απόσπάσματα από τα κορυφαία Mad events κάθε βράδυ στην οθόνη σου.(c)</desc>
   </programme>
-  <programme start="20221027020000 +0300" stop="20221027040000 +0300" channel="BBC World">
+  <programme start="20221028020000 +0300" stop="20221028040000 +0300" channel="BBC World">
     <title lang="el">NIGHT MUSIC ZONE</title>
-    <desc lang="el">Όλες οι μεγάλες Ελληνικές και International επιτυχίες σε ένα υπέροχο mixer που φτιάχνει τη νύχτα μας.</desc>
+    <desc lang="el">Όλες οι μεγάλες Ελληνικές και International επιτυχίες σε ένα υπέροχο mixer που φτιάχνει τη νύχτα μας.(c)</desc>
   </programme>
-  <programme start="20221027040000 +0300" stop="20221027060000 +0300" channel="BBC World">
+  <programme start="20221028040000 +0300" stop="20221028060000 +0300" channel="BBC World">
     <title lang="el">NIGHT MUSIC ZONE</title>
-    <desc lang="el">Όλες οι μεγάλες Ελληνικές και International επιτυχίες σε ένα υπέροχο mixer που φτιάχνει τη νύχτα μας.</desc>
+    <desc lang="el">Όλες οι μεγάλες Ελληνικές και International επιτυχίες σε ένα υπέροχο mixer που φτιάχνει τη νύχτα μας.(c)</desc>
   </programme>
-  <programme start="20221027060000 +0300" stop="20221027070000 +0300" channel="BBC World">
+  <programme start="20221028060000 +0300" stop="20221028070000 +0300" channel="BBC World">
     <title lang="el">NIGHT MUSIC ZONE</title>
-    <desc lang="el">Όλες οι μεγάλες Ελληνικές και International επιτυχίες σε ένα υπέροχο mixer που φτιάχνει τη νύχτα μας.</desc>
+    <desc lang="el">Όλες οι μεγάλες Ελληνικές και International επιτυχίες σε ένα υπέροχο mixer που φτιάχνει τη νύχτα μας.(c)</desc>
   </programme>
-  <programme start="20221027070000 +0300" stop="20221027073000 +0300" channel="BBC World">
+  <programme start="20221028070000 +0300" stop="20221028073000 +0300" channel="BBC World">
     <title lang="el">ENJOY THE DAY</title>
-    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.</desc>
+    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.(c)</desc>
   </programme>
-  <programme start="20221027073000 +0300" stop="20221027080000 +0300" channel="BBC World">
+  <programme start="20221028073000 +0300" stop="20221028080000 +0300" channel="BBC World">
     <title lang="el">ENJOY THE DAY</title>
-    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.</desc>
+    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.(c)</desc>
   </programme>
-  <programme start="20221027080000 +0300" stop="20221027083000 +0300" channel="BBC World">
+  <programme start="20221028080000 +0300" stop="20221028083000 +0300" channel="BBC World">
     <title lang="el">ENJOY THE DAY</title>
-    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.</desc>
+    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.(c)</desc>
   </programme>
-  <programme start="20221027083000 +0300" stop="20221027090000 +0300" channel="BBC World">
+  <programme start="20221028083000 +0300" stop="20221028090000 +0300" channel="BBC World">
     <title lang="el">ENJOY THE DAY</title>
-    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.</desc>
+    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.(c)</desc>
   </programme>
-  <programme start="20221027090000 +0300" stop="20221027093000 +0300" channel="BBC World">
+  <programme start="20221028090000 +0300" stop="20221028093000 +0300" channel="BBC World">
     <title lang="el">ENJOY THE DAY</title>
-    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.</desc>
+    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.(c)</desc>
   </programme>
-  <programme start="20221027093000 +0300" stop="20221027100000 +0300" channel="BBC World">
+  <programme start="20221028093000 +0300" stop="20221028100000 +0300" channel="BBC World">
     <title lang="el">ENJOY THE DAY</title>
-    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.</desc>
+    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.(c)</desc>
   </programme>
-  <programme start="20221027100000 +0300" stop="20221027103000 +0300" channel="BBC World">
+  <programme start="20221028100000 +0300" stop="20221028103000 +0300" channel="BBC World">
     <title lang="el">VIRAL HITS INTERNATIONAL</title>
-    <desc lang="el">Τα 20 κορυφαία International τραγούδια της εποχής σύμφωνα με τις μουσικές τάσεις στο Youtube.</desc>
+    <desc lang="el">Τα 20 κορυφαία International τραγούδια της εποχής σύμφωνα με τις μουσικές τάσεις στο Youtube.(c)</desc>
   </programme>
-  <programme start="20221027103000 +0300" stop="20221027110000 +0300" channel="BBC World">
+  <programme start="20221028103000 +0300" stop="20221028110000 +0300" channel="BBC World">
     <title lang="el">VIRAL HITS INTERNATIONAL</title>
-    <desc lang="el">Τα 20 κορυφαία International τραγούδια της εποχής σύμφωνα με τις μουσικές τάσεις στο Youtube.</desc>
+    <desc lang="el">Τα 20 κορυφαία International τραγούδια της εποχής σύμφωνα με τις μουσικές τάσεις στο Youtube.(c)</desc>
   </programme>
-  <programme start="20221027110000 +0300" stop="20221027113000 +0300" channel="BBC World">
+  <programme start="20221028110000 +0300" stop="20221028113000 +0300" channel="BBC World">
     <title lang="el">GET GLAM TIPS</title>
-    <desc lang="el">Για εσάς που θέλετε να φροντίζετε τον εαυτό σας, εδώ θα βρείτε τα κορυφαία beauty tips που κυκλοφορούν στο Ελληνικό Youtube.</desc>
+    <desc lang="el">Για εσάς που θέλετε να φροντίζετε τον εαυτό σας, εδώ θα βρείτε τα κορυφαία beauty tips που κυκλοφορούν στο Ελληνικό Youtube.(c)</desc>
   </programme>
-  <programme start="20221027113000 +0300" stop="20221027120000 +0300" channel="BBC World">
+  <programme start="20221028113000 +0300" stop="20221028120000 +0300" channel="BBC World">
     <title lang="el">GET GLAM TIPS</title>
-    <desc lang="el">Για εσάς που θέλετε να φροντίζετε τον εαυτό σας, εδώ θα βρείτε τα κορυφαία beauty tips που κυκλοφορούν στο Ελληνικό Youtube.</desc>
+    <desc lang="el">Για εσάς που θέλετε να φροντίζετε τον εαυτό σας, εδώ θα βρείτε τα κορυφαία beauty tips που κυκλοφορούν στο Ελληνικό Youtube.(c)</desc>
   </programme>
-  <programme start="20221027120000 +0300" stop="20221027123000 +0300" channel="BBC World">
+  <programme start="20221028120000 +0300" stop="20221028123000 +0300" channel="BBC World">
     <title lang="el">FOLLOW US</title>
-    <desc lang="el">Ακολουθούμε τους αγαπημένους μας Youtubers και βλέπουμε τι συμβαίνει στην καθημερινότητα τους αλλά και ιδιαίτερες στιγμές της ζωής τους.</desc>
+    <desc lang="el">Ακολουθούμε τους αγαπημένους μας Youtubers και βλέπουμε τι συμβαίνει στην καθημερινότητα τους αλλά και ιδιαίτερες στιγμές της ζωής τους.(c)</desc>
   </programme>
-  <programme start="20221027123000 +0300" stop="20221027130000 +0300" channel="BBC World">
+  <programme start="20221028123000 +0300" stop="20221028130000 +0300" channel="BBC World">
     <title lang="el">FOLLOW US</title>
-    <desc lang="el">Ακολουθούμε τους αγαπημένους μας Youtubers και βλέπουμε τι συμβαίνει στην καθημερινότητα τους αλλά και ιδιαίτερες στιγμές της ζωής τους.</desc>
+    <desc lang="el">Ακολουθούμε τους αγαπημένους μας Youtubers και βλέπουμε τι συμβαίνει στην καθημερινότητα τους αλλά και ιδιαίτερες στιγμές της ζωής τους.(c)</desc>
   </programme>
-  <programme start="20221027130000 +0300" stop="20221027133000 +0300" channel="BBC World">
+  <programme start="20221028130000 +0300" stop="20221028133000 +0300" channel="BBC World">
     <title lang="el">HITS OF THE MONTH</title>
-    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.</desc>
+    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.(c)</desc>
   </programme>
-  <programme start="20221027133000 +0300" stop="20221027140000 +0300" channel="BBC World">
+  <programme start="20221028133000 +0300" stop="20221028140000 +0300" channel="BBC World">
     <title lang="el">HITS OF THE MONTH</title>
-    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.</desc>
+    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.(c)</desc>
   </programme>
-  <programme start="20221027140000 +0300" stop="20221027143000 +0300" channel="BBC World">
+  <programme start="20221028140000 +0300" stop="20221028143000 +0300" channel="BBC World">
     <title lang="el">LIFESTYLE TRENDS</title>
-    <desc lang="el">Ότι χρειάζεται να γνωρίζεις από τα σημερινά trends στο Ελληνικό lifestyle.</desc>
+    <desc lang="el">Ότι χρειάζεται να γνωρίζεις από τα σημερινά trends στο Ελληνικό lifestyle.(c)</desc>
   </programme>
-  <programme start="20221027143000 +0300" stop="20221027150000 +0300" channel="BBC World">
+  <programme start="20221028143000 +0300" stop="20221028150000 +0300" channel="BBC World">
     <title lang="el">LIFESTYLE TRENDS</title>
-    <desc lang="el">Ότι χρειάζεται να γνωρίζεις από τα σημερινά trends στο Ελληνικό lifestyle.</desc>
+    <desc lang="el">Ότι χρειάζεται να γνωρίζεις από τα σημερινά trends στο Ελληνικό lifestyle.(c)</desc>
   </programme>
-  <programme start="20221027150000 +0300" stop="20221027153000 +0300" channel="BBC World">
+  <programme start="20221028150000 +0300" stop="20221028153000 +0300" channel="BBC World">
     <title lang="el">GET GLAM TIPS</title>
-    <desc lang="el">Για εσάς που θέλετε να φροντίζετε τον εαυτό σας, εδώ θα βρείτε τα κορυφαία beauty tips που κυκλοφορούν στο Ελληνικό Youtube.</desc>
+    <desc lang="el">Για εσάς που θέλετε να φροντίζετε τον εαυτό σας, εδώ θα βρείτε τα κορυφαία beauty tips που κυκλοφορούν στο Ελληνικό Youtube.(c)</desc>
   </programme>
-  <programme start="20221027153000 +0300" stop="20221027160000 +0300" channel="BBC World">
+  <programme start="20221028153000 +0300" stop="20221028160000 +0300" channel="BBC World">
     <title lang="el">GET GLAM TIPS</title>
-    <desc lang="el">Για εσάς που θέλετε να φροντίζετε τον εαυτό σας, εδώ θα βρείτε τα κορυφαία beauty tips που κυκλοφορούν στο Ελληνικό Youtube.</desc>
+    <desc lang="el">Για εσάς που θέλετε να φροντίζετε τον εαυτό σας, εδώ θα βρείτε τα κορυφαία beauty tips που κυκλοφορούν στο Ελληνικό Youtube.(c)</desc>
   </programme>
-  <programme start="20221027160000 +0300" stop="20221027163000 +0300" channel="BBC World">
+  <programme start="20221028160000 +0300" stop="20221028163000 +0300" channel="BBC World">
     <title lang="el">VIRAL HITS GR</title>
-    <desc lang="el">Τα 20 κορυφαία Ελληνικά τραγούδια της εποχής σύμφωνα τις Ελληνικές τάσεις στο yotube.</desc>
+    <desc lang="el">Τα 20 κορυφαία Ελληνικά τραγούδια της εποχής σύμφωνα τις Ελληνικές τάσεις στο yotube.(c)</desc>
   </programme>
-  <programme start="20221027163000 +0300" stop="20221027170000 +0300" channel="BBC World">
+  <programme start="20221028163000 +0300" stop="20221028170000 +0300" channel="BBC World">
     <title lang="el">VIRAL HITS GR</title>
-    <desc lang="el">Τα 20 κορυφαία Ελληνικά τραγούδια της εποχής σύμφωνα τις Ελληνικές τάσεις στο yotube.</desc>
+    <desc lang="el">Τα 20 κορυφαία Ελληνικά τραγούδια της εποχής σύμφωνα τις Ελληνικές τάσεις στο yotube.(c)</desc>
   </programme>
-  <programme start="20221027170000 +0300" stop="20221027173000 +0300" channel="BBC World">
+  <programme start="20221028170000 +0300" stop="20221028173000 +0300" channel="BBC World">
     <title lang="el">FOLLOW US</title>
-    <desc lang="el">Ακολουθούμε τους αγαπημένους μας Youtubers και βλέπουμε τι συμβαίνει στην καθημερινότητα τους αλλά και ιδιαίτερες στιγμές της ζωής τους.</desc>
+    <desc lang="el">Ακολουθούμε τους αγαπημένους μας Youtubers και βλέπουμε τι συμβαίνει στην καθημερινότητα τους αλλά και ιδιαίτερες στιγμές της ζωής τους.(c)</desc>
   </programme>
-  <programme start="20221027173000 +0300" stop="20221027180000 +0300" channel="BBC World">
+  <programme start="20221028173000 +0300" stop="20221028180000 +0300" channel="BBC World">
     <title lang="el">FOLLOW US</title>
-    <desc lang="el">Ακολουθούμε τους αγαπημένους μας Youtubers και βλέπουμε τι συμβαίνει στην καθημερινότητα τους αλλά και ιδιαίτερες στιγμές της ζωής τους.</desc>
+    <desc lang="el">Ακολουθούμε τους αγαπημένους μας Youtubers και βλέπουμε τι συμβαίνει στην καθημερινότητα τους αλλά και ιδιαίτερες στιγμές της ζωής τους.(c)</desc>
   </programme>
-  <programme start="20221027180000 +0300" stop="20221027183000 +0300" channel="BBC World">
+  <programme start="20221028180000 +0300" stop="20221028183000 +0300" channel="BBC World">
     <title lang="el">LIFE IN PIXELS</title>
-    <desc lang="el">Κάν'το όπως οι αγαπημένοι σου Influencers. Τα καλύτερα tips για το σύγχρονο lifestyle από τους αγαπημένους σου creators.</desc>
+    <desc lang="el">Κάν'το όπως οι αγαπημένοι σου Influencers. Τα καλύτερα tips για το σύγχρονο lifestyle από τους αγαπημένους σου creators.(c)</desc>
   </programme>
-  <programme start="20221027183000 +0300" stop="20221027190000 +0300" channel="BBC World">
+  <programme start="20221028183000 +0300" stop="20221028190000 +0300" channel="BBC World">
     <title lang="el">LIFE IN PIXELS</title>
-    <desc lang="el">Κάν'το όπως οι αγαπημένοι σου Influencers. Τα καλύτερα tips για το σύγχρονο lifestyle από τους αγαπημένους σου creators.</desc>
+    <desc lang="el">Κάν'το όπως οι αγαπημένοι σου Influencers. Τα καλύτερα tips για το σύγχρονο lifestyle από τους αγαπημένους σου creators.(c)</desc>
   </programme>
-  <programme start="20221027190000 +0300" stop="20221027193000 +0300" channel="BBC World">
+  <programme start="20221028190000 +0300" stop="20221028193000 +0300" channel="BBC World">
     <title lang="el">LIFE IN PIXELS</title>
-    <desc lang="el">Κάν'το όπως οι αγαπημένοι σου Influencers. Τα καλύτερα tips για το σύγχρονο lifestyle από τους αγαπημένους σου creators.</desc>
+    <desc lang="el">Κάν'το όπως οι αγαπημένοι σου Influencers. Τα καλύτερα tips για το σύγχρονο lifestyle από τους αγαπημένους σου creators.(c)</desc>
   </programme>
-  <programme start="20221027193000 +0300" stop="20221027200000 +0300" channel="BBC World">
+  <programme start="20221028193000 +0300" stop="20221028200000 +0300" channel="BBC World">
     <title lang="el">HITS OF THE MONTH</title>
-    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.</desc>
+    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.(c)</desc>
   </programme>
-  <programme start="20221027200000 +0300" stop="20221027203000 +0300" channel="BBC World">
+  <programme start="20221028200000 +0300" stop="20221028203000 +0300" channel="BBC World">
     <title lang="el">HITS OF THE MONTH</title>
-    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.</desc>
+    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.(c)</desc>
   </programme>
-  <programme start="20221027203000 +0300" stop="20221027210000 +0300" channel="BBC World">
+  <programme start="20221028203000 +0300" stop="20221028210000 +0300" channel="BBC World">
     <title lang="el">LOL ZONE</title>
-    <desc lang="el">H fun πλευρά του youtube. Μία ζώνη αποκλειστικά για τους comedy lovers.</desc>
+    <desc lang="el">H fun πλευρά του youtube. Μία ζώνη αποκλειστικά για τους comedy lovers.(c)</desc>
   </programme>
-  <programme start="20221027210000 +0300" stop="20221027213000 +0300" channel="BBC World">
+  <programme start="20221028210000 +0300" stop="20221028213000 +0300" channel="BBC World">
     <title lang="el">LOL ZONE</title>
-    <desc lang="el">H fun πλευρά του youtube. Μία ζώνη αποκλειστικά για τους comedy lovers.</desc>
+    <desc lang="el">H fun πλευρά του youtube. Μία ζώνη αποκλειστικά για τους comedy lovers.(c)</desc>
   </programme>
-  <programme start="20221027213000 +0300" stop="20221027220000 +0300" channel="BBC World">
+  <programme start="20221028213000 +0300" stop="20221028220000 +0300" channel="BBC World">
     <title lang="el">LOL ZONE</title>
-    <desc lang="el">H fun πλευρά του youtube. Μία ζώνη αποκλειστικά για τους comedy lovers.</desc>
+    <desc lang="el">H fun πλευρά του youtube. Μία ζώνη αποκλειστικά για τους comedy lovers.(c)</desc>
   </programme>
-  <programme start="20221027220000 +0300" stop="20221027223000 +0300" channel="BBC World">
+  <programme start="20221028220000 +0300" stop="20221028223000 +0300" channel="BBC World">
     <title lang="el">LOL ZONE</title>
-    <desc lang="el">H fun πλευρά του youtube. Μία ζώνη αποκλειστικά για τους comedy lovers.</desc>
+    <desc lang="el">H fun πλευρά του youtube. Μία ζώνη αποκλειστικά για τους comedy lovers.(c)</desc>
   </programme>
-  <programme start="20221027223000 +0300" stop="20221027230000 +0300" channel="BBC World">
+  <programme start="20221028223000 +0300" stop="20221028230000 +0300" channel="BBC World">
     <title lang="el">GAME MASTERS</title>
-    <desc lang="el">Αν είσαι gamer, αυτή είναι η ζώνη είναι για σένα. Παίξε καθημερινά παρέα με τους αγαπημένους σου creators.</desc>
+    <desc lang="el">Αν είσαι gamer, αυτή είναι η ζώνη είναι για σένα. Παίξε καθημερινά παρέα με τους αγαπημένους σου creators.(c)</desc>
   </programme>
-  <programme start="20221027230000 +0300" stop="20221027233000 +0300" channel="BBC World">
+  <programme start="20221028230000 +0300" stop="20221028233000 +0300" channel="BBC World">
     <title lang="el">GAME MASTERS</title>
-    <desc lang="el">Αν είσαι gamer, αυτή είναι η ζώνη είναι για σένα. Παίξε καθημερινά παρέα με τους αγαπημένους σου creators.</desc>
-  </programme>
-  <programme start="20221027233000 +0300" stop="20221027235000 +0300" channel="BBC World">
-    <title lang="el">GAME MASTERS</title>
-    <desc lang="el">Αν είσαι gamer, αυτή είναι η ζώνη είναι για σένα. Παίξε καθημερινά παρέα με τους αγαπημένους σου creators.</desc>
-  </programme>
-  <programme start="20221027235000 +0300" stop="20221028003500 +0300" channel="BBC World">
-    <title lang="el">Ποιος θα κοπεί: Γλυκά Κ2 ΕΠ6</title>
-    <desc lang="el">Σε έναν διαγωνισμό με θέμα τα γενέθλια, οι σεφ δημιουργούν γιορταστικά γλυκά, αρχίζοντας από το ποπκόρν του πρώτου καλαθιού. Μια πινιάτα κάνει το κέφι να ξεχειλίσει στον δεύτερο γύρο.</desc>
-  </programme>
-  <programme start="20221028003500 +0300" stop="20221028012000 +0300" channel="BBC World">
-    <title lang="el">Στην κουζίνα Κ16 ΕΠ11</title>
-    <desc lang="el">Πέντε ειδικοί παρουσιάζουν νόστιμες συνταγές και χαριτωμένες πληροφορίες. Από απλές ιδέες για βραδινό μέχρι τις πρόσφατες τάσεις, αυτή είναι η διασκεδαστική πλευρά της μαγειρικής.</desc>
-  </programme>
-  <programme start="20221028012000 +0300" stop="20221028014000 +0300" channel="BBC World">
-    <title lang="el">Φαγάδικα της Αμερικής Κ25 ΕΠ10</title>
-    <desc lang="el">Ο Γκάι Φιέρι διασχίζει ολόκληρη τη χώρα και επισκέπτεται παραδοσιακά φαγάδικα «βρόμικου» που ξέρουν να κάνουν καλά αυτό που κάνουν εδώ και χρόνια.</desc>
-  </programme>
-  <programme start="20221028014000 +0300" stop="20221028020000 +0300" channel="BBC World">
-    <title lang="el">Φαγάδικα της Αμερικής Κ25 ΕΠ11</title>
-    <desc lang="el">Ο Γκάι Φιέρι διασχίζει ολόκληρη τη χώρα και επισκέπτεται παραδοσιακά φαγάδικα «βρόμικου» που ξέρουν να κάνουν καλά αυτό που κάνουν εδώ και χρόνια.</desc>
-  </programme>
-  <programme start="20221028020000 +0300" stop="20221028024000 +0300" channel="BBC World">
-    <title lang="el">Παιχνίδια μαναβικής με τον Γκάι Κ7 ΕΠ10</title>
-    <desc lang="el">Ο Γκάι Φιέρι κάνει τέσσερις ταλαντούχους σεφ να τρέχουν σε έναν μαγειρικό διαγωνισμό που απαιτεί εξαιρετικές ικανότητες και επιφυλάσσει μεγάλα έπαθλα.</desc>
-  </programme>
-  <programme start="20221028024000 +0300" stop="20221028032000 +0300" channel="BBC World">
-    <title lang="el">Οι πόλεμοι του Χαλογουίν Κ9 ΕΠ2</title>
-    <desc lang="el">Πέντε ομάδες φτιάχνουν δημιουργίες με θέμα το Χαλογουίν, συνδυάζοντας φόβο και ρομαντισμό σε μια αναπαράσταση ενός σόου με ραντεβού ζόμπι. Γκεστ κριτής ο ηθοποιός Κόλμαν Ντομίνγκο.</desc>
-  </programme>
-  <programme start="20221028032000 +0300" stop="20221028040500 +0300" channel="BBC World">
-    <title lang="el">Διαγωνισμός τούρτας Χαλογουίν Κ1 ΕΠ1</title>
-    <desc lang="el">Οι τέσσερις ζαχαροπλάστες καταπιάνονται με τα καταραμένα υλικά που τους παρέχει ο Νταφ Γκόλντμαν, όπως αιμάτινα σαγκουίνια ή μαύρο σκόρδο, για δημιουργίες με δραματικές μεταμορφώσεις.</desc>
-  </programme>
-  <programme start="20221028040500 +0300" stop="20221028045000 +0300" channel="BBC World">
-    <title lang="el">Ο κορυφαίος ζαχαροπλάστης της Αμερικής Κ2 ΕΠ1</title>
-    <desc lang="el">Εννιά εκλεκτοί επαγγελματίες ζαχαροπλάστες καλούνται να δημιουργήσουν τα τέλεια πτι φουρ. Στη συνέχεια, πρέπει να φτιάξουν μια περίπλοκη τούρτα με γεύση βανίλια για 50 άτομα.</desc>
-  </programme>
-  <programme start="20221028045000 +0300" stop="20221028053500 +0300" channel="BBC World">
-    <title lang="el">Διαγωνισμός τούρτας Χαλογουίν Κ1 ΕΠ2</title>
-    <desc lang="el">Ο Νταφ Γκόλντμαν καλεί τους ζαχαροπλάστες να σχεδιάσουν τούρτες με θέμα την επιστροφή από τον θάνατο. Οι δημιουργίες τους κλέβουν την παράσταση με θεαματικά εφέ.</desc>
-  </programme>
-  <programme start="20221028053500 +0300" stop="20221028061500 +0300" channel="BBC World">
-    <title lang="el">Ποιος θα κοπεί Κ27 ΕΠ1</title>
-    <desc lang="el">Τέσσερις φιλόδοξοι σεφ διαγωνίζονται ενώπιον μιας έμπειρης κριτικής επιτροπής. Σε κάθε επόμενη φάση, οι σεφ παίρνουν το καλάθι με τα μυστικά υλικά και δημιουργούν ένα εξαιρετικό γεύμα.</desc>
-  </programme>
-  <programme start="20221028061500 +0300" stop="20221028070000 +0300" channel="BBC World">
-    <title lang="el">Παιχνίδια μαναβικής με τον Γκάι Κ7 ΕΠ10</title>
-    <desc lang="el">Ο Γκάι Φιέρι κάνει τέσσερις ταλαντούχους σεφ να τρέχουν σε έναν μαγειρικό διαγωνισμό που απαιτεί εξαιρετικές ικανότητες και επιφυλάσσει μεγάλα έπαθλα.</desc>
-  </programme>
-  <programme start="20221028070000 +0300" stop="20221028072000 +0300" channel="BBC World">
-    <title lang="el">Οι πιο παράξενες γεύσεις: Γαστριμαργικοί προορισμοί Κ5 ΕΠ21</title>
-    <desc lang="el">Από τις πεντανόστιμες σοκολάτες των Βρυξελλών μέχρι την περίφημη πίτσα της Νάπολης, ο σεφ Άντριου Ζίμερν εξερευνά τις λαχταριστές και εμβληματικές γεύσεις που καθορίζουν έναν τόπο.</desc>
-  </programme>
-  <programme start="20221028072000 +0300" stop="20221028074500 +0300" channel="BBC World">
-    <title lang="el">Οι πιο παράξενες γεύσεις: Γαστριμαργικοί προορισμοί Κ5 ΕΠ22</title>
-    <desc lang="el">Από τις πεντανόστιμες σοκολάτες των Βρυξελλών μέχρι την περίφημη πίτσα της Νάπολης, ο σεφ Άντριου Ζίμερν εξερευνά τις λαχταριστές και εμβληματικές γεύσεις που καθορίζουν έναν τόπο.</desc>
-  </programme>
-  <programme start="20221028074500 +0300" stop="20221028082500 +0300" channel="BBC World">
-    <title lang="el">Ποιος θα κοπεί: Γλυκά Κ2 ΕΠ7</title>
-    <desc lang="el">Οι διαγωνιζόμενοι σεφ φτιάχνουν επιδόρπια με άξονα το τυρί. Το τυρί στη σχάρα στο πρώτο καλάθι λειτουργεί καθησυχαστικά, όμως η ανάδειξη της γλυκιάς πλευράς του δεν είναι απλή υπόθεση.</desc>
-  </programme>
-  <programme start="20221028082500 +0300" stop="20221028084500 +0300" channel="BBC World">
-    <title lang="el">Το Κορίτσι στο Αγρόκτημα Κ1 ΕΠ5</title>
-    <desc lang="el">Η Μόλι ετοιμάζει πλουσιοπάροχο μπραντς για τις φίλες της μετά από νυχτερινή έξοδο στο Γκραντ Φορκς. Το μενού προσφέρει μίνι κις με αρακά και μπέικον και λαχανίδα με σκόρδο και λεμόνι.</desc>
-  </programme>
-  <programme start="20221028084500 +0300" stop="20221028091000 +0300" channel="BBC World">
-    <title lang="el">Το Κορίτσι στο Αγρόκτημα Κ1 ΕΠ6</title>
-    <desc lang="el">Η Μόλι δίνει έναν φρέσκο αέρα στο κλασικό μενού των πικ νικ. Σερβίρει τσουρέκια με σκόρδο και κρεμμύδι, σπιτικό χούμους και μπράουνι με ελαιόλαδο.</desc>
-  </programme>
-  <programme start="20221028091000 +0300" stop="20221028093000 +0300" channel="BBC World">
-    <title lang="el">Μια γυναίκα πρωτοπόρος Κ20 ΕΠ8</title>
-    <desc lang="el">Στη Ρι αρέσει να φτιάχνει πρωινό για όλους στο αγρόκτημα. Φτιάχνει αλμυρά και γλυκά κεμπάπ για πρωινό, τηγανίτες και σαντουιτσάκια με αβγό.</desc>
-  </programme>
-  <programme start="20221028093000 +0300" stop="20221028095000 +0300" channel="BBC World">
-    <title lang="el">Μια γυναίκα πρωτοπόρος Κ20 ΕΠ9</title>
-    <desc lang="el">Η Ρι απαντά σε ερωτήσεις σχετικά με την Ημέρα των Ευχαριστιών. Ετοιμάζει πρωινό στη γάστρα ειδικά για την περίσταση, και το αγαπημένο της τιραμισού με κολοκύθα για επιδόρπιο.</desc>
-  </programme>
-  <programme start="20221028095000 +0300" stop="20221028101000 +0300" channel="BBC World">
-    <title lang="el">Η Τζένι Μόρις μαγειρεύει μαροκινά πιάτα Κ1 ΕΠ1</title>
-    <desc lang="el">Η γαστρονομική περιπέτεια της Τζένι την οδηγεί στο Μαρακές, μια πόλη η οποία εμπεριέχει όλο τον πολιτισμό και την ποικιλόμορφη κουζίνα του Μαρόκου.</desc>
-  </programme>
-  <programme start="20221028101000 +0300" stop="20221028103500 +0300" channel="BBC World">
-    <title lang="el">Η Τζένι Μόρις μαγειρεύει μαροκινά πιάτα Κ1 ΕΠ2</title>
-    <desc lang="el">Η γαστρονομική περιπέτεια της Τζένι την οδηγεί στο Αΐτ Ουζίνε, μια μικρή πόλη κάτω από την οροσειρά του Άτλαντα στο άκρο της ερήμου Σαχάρα.</desc>
-  </programme>
-  <programme start="20221028103500 +0300" stop="20221028105500 +0300" channel="BBC World">
-    <title lang="el">Μπραντς στου Μπόμπι Κ7 ΕΠ8</title>
-    <desc lang="el">Ο σεφ Μπόμπι Φλέι δείχνει πώς να δημιουργείτε το τέλειο μπραντς για κάθε περίσταση. Παρουσιάζοντας γλυκές και αλμυρές εκδοχές, ο Μπόμπι μεταμορφώνει το μπραντς σε λαχταριστό πάθος.</desc>
-  </programme>
-  <programme start="20221028105500 +0300" stop="20221028111500 +0300" channel="BBC World">
-    <title lang="el">Μπραντς στου Μπόμπι Κ7 ΕΠ9</title>
-    <desc lang="el">Ο σεφ Μπόμπι Φλέι δείχνει πώς να δημιουργείτε το τέλειο μπραντς για κάθε περίσταση. Παρουσιάζοντας γλυκές και αλμυρές εκδοχές, ο Μπόμπι μεταμορφώνει το μπραντς σε λαχταριστό πάθος.</desc>
-  </programme>
-  <programme start="20221028111500 +0300" stop="20221028113500 +0300" channel="BBC World">
-    <title lang="el">Η κουζίνα του Νότου της Τρίσα Κ2 ΕΠ13</title>
-    <desc lang="el">Η σταρ της κάντρι και συγγραφέας ευπώλητων βιβλίων μαγειρικής Τρίσα Γίαργουντ ανοίγει τις πόρτες της κουζίνας της για να μοιραστεί αγαπημένες της οικογενειακές συνταγές.</desc>
-  </programme>
-  <programme start="20221028113500 +0300" stop="20221028120000 +0300" channel="BBC World">
-    <title lang="el">Η κουζίνα του Νότου της Τρίσα Κ3 ΕΠ1</title>
-    <desc lang="el">Η σταρ της κάντρι και συγγραφέας ευπώλητων βιβλίων μαγειρικής Τρίσα Γίαργουντ ανοίγει τις πόρτες της κουζίνας της για να μοιραστεί αγαπημένες της οικογενειακές συνταγές.</desc>
-  </programme>
-  <programme start="20221028120000 +0300" stop="20221028124000 +0300" channel="BBC World">
-    <title lang="el">Στην κουζίνα Κ16 ΕΠ12</title>
-    <desc lang="el">Πέντε ειδικοί παρουσιάζουν νόστιμες συνταγές και χαριτωμένες πληροφορίες. Από απλές ιδέες για βραδινό μέχρι τις πρόσφατες τάσεις, αυτή είναι η διασκεδαστική πλευρά της μαγειρικής.</desc>
-  </programme>
-  <programme start="20221028124000 +0300" stop="20221028132500 +0300" channel="BBC World">
-    <title lang="el">Παιχνίδια μαναβικής με τον Γκάι Κ7 ΕΠ4</title>
-    <desc lang="el">Ο Γκάι Φιέρι κάνει τέσσερις ταλαντούχους σεφ να τρέχουν σε έναν μαγειρικό διαγωνισμό που απαιτεί εξαιρετικές ικανότητες και επιφυλάσσει μεγάλα έπαθλα.</desc>
-  </programme>
-  <programme start="20221028132500 +0300" stop="20221028134500 +0300" channel="BBC World">
-    <title lang="el">Φαγάδικα της Αμερικής Κ25 ΕΠ12</title>
-    <desc lang="el">Ο Γκάι Φιέρι διασχίζει ολόκληρη τη χώρα και επισκέπτεται παραδοσιακά φαγάδικα «βρόμικου» που ξέρουν να κάνουν καλά αυτό που κάνουν εδώ και χρόνια.</desc>
-  </programme>
-  <programme start="20221028134500 +0300" stop="20221028140500 +0300" channel="BBC World">
-    <title lang="el">Φαγάδικα της Αμερικής Κ25 ΕΠ13</title>
-    <desc lang="el">Ο Γκάι Φιέρι διασχίζει ολόκληρη τη χώρα και επισκέπτεται παραδοσιακά φαγάδικα «βρόμικου» που ξέρουν να κάνουν καλά αυτό που κάνουν εδώ και χρόνια.</desc>
-  </programme>
-  <programme start="20221028140500 +0300" stop="20221028145000 +0300" channel="BBC World">
-    <title lang="el">Ο κορυφαίος ζαχαροπλάστης της Αμερικής Κ2 ΕΠ2</title>
-    <desc lang="el">Οι εναπομείναντες οκτώ ζαχαροπλάστες καλούνται να φτιάξουν τις τέλειες γαμήλιες σοκολατίνες. Στη συνέχεια, πρέπει να δημιουργήσουν μια γαμήλια πυραμίδα από σουδάκια.</desc>
-  </programme>
-  <programme start="20221028145000 +0300" stop="20221028151000 +0300" channel="BBC World">
-    <title lang="el">Μια γυναίκα πρωτοπόρος Κ20 ΕΠ8</title>
-    <desc lang="el">Στη Ρι αρέσει να φτιάχνει πρωινό για όλους στο αγρόκτημα. Φτιάχνει αλμυρά και γλυκά κεμπάπ για πρωινό, τηγανίτες και σαντουιτσάκια με αβγό.</desc>
-  </programme>
-  <programme start="20221028151000 +0300" stop="20221028153500 +0300" channel="BBC World">
-    <title lang="el">Μια γυναίκα πρωτοπόρος Κ20 ΕΠ9</title>
-    <desc lang="el">Η Ρι απαντά σε ερωτήσεις σχετικά με την Ημέρα των Ευχαριστιών. Ετοιμάζει πρωινό στη γάστρα ειδικά για την περίσταση, και το αγαπημένο της τιραμισού με κολοκύθα για επιδόρπιο.</desc>
-  </programme>
-  <programme start="20221028153500 +0300" stop="20221028162000 +0300" channel="BBC World">
-    <title lang="el">Ποιος θα κοπεί Κ27 ΕΠ2</title>
-    <desc lang="el">Τέσσερις φιλόδοξοι σεφ διαγωνίζονται ενώπιον μιας έμπειρης κριτικής επιτροπής. Σε κάθε επόμενη φάση, οι σεφ παίρνουν το καλάθι με τα μυστικά υλικά και δημιουργούν ένα εξαιρετικό γεύμα.</desc>
-  </programme>
-  <programme start="20221028162000 +0300" stop="20221028170500 +0300" channel="BBC World">
-    <title lang="el">Διαγωνισμός τούρτας Χαλογουίν Κ1 ΕΠ2</title>
-    <desc lang="el">Ο Νταφ Γκόλντμαν καλεί τους ζαχαροπλάστες να σχεδιάσουν τούρτες με θέμα την επιστροφή από τον θάνατο. Οι δημιουργίες τους κλέβουν την παράσταση με θεαματικά εφέ.</desc>
-  </programme>
-  <programme start="20221028170500 +0300" stop="20221028175000 +0300" channel="BBC World">
-    <title lang="el">Οι πόλεμοι του Χαλογουίν Κ9 ΕΠ3</title>
-    <desc lang="el">Τέσσερις ομάδες δίνουν μορφή σε μια από τις πιο τρομακτικά λαχταριστές δημιουργίες τους, που απεικονίζει μια επίθεση σμήνους. Γκεστ κριτής η ηθοποιός κωμωδιών τρόμου Χάρλεϊ Κουίν Σμιθ.</desc>
-  </programme>
-  <programme start="20221028175000 +0300" stop="20221028183500 +0300" channel="BBC World">
-    <title lang="el">Παιδικός διαγωνισμός ζαχαροπλαστικής Κ1 ΕΠ3</title>
-    <desc lang="el">12 νέοι μάγειρες διαγωνίζονται για τον τίτλο του Καλύτερου Νέου Μάγειρα. Οι παρουσιαστές και κριτές Βάλερι Μπερτινέλι και Νταφ Γκόλντμαν, τους υποβάλλουν σε νόστιμες δοκιμασίες.</desc>
-  </programme>
-  <programme start="20221028183500 +0300" stop="20221028190000 +0300" channel="BBC World">
-    <title lang="el">Η Τζιάντα στο σπίτι Κ5 ΕΠ3</title>
-    <desc lang="el">Η Τζιάντα γιορτάζει τα Χριστούγεννα σε στιλ καλιφορνέζικο: στην παραλία! Το μενού περιλαμβάνει σαλάτα θαλασσινών, χριστουγεννιάτικη γέμιση με μπέικον και τορτέλι σοκολάτα-κάστανο.</desc>
-  </programme>
-  <programme start="20221028190000 +0300" stop="20221028192000 +0300" channel="BBC World">
-    <title lang="el">Η Τζιάντα στο σπίτι Κ5 ΕΠ4</title>
-    <desc lang="el">Η Τζιάντα ντε Λαουρέντις φτιάχνει τέσσερις συνταγές εμπνευσμένες από σημαντικές στιγμές της ζωής της. Στα πιάτα περιλαμβάνονται ζίτι με ψητά λεμόνια και μπριζόλα rib-eye με πανίνι.</desc>
-  </programme>
-  <programme start="20221028192000 +0300" stop="20221028200500 +0300" channel="BBC World">
-    <title lang="el">Παιχνίδια μαναβικής με τον Γκάι Κ7 ΕΠ11</title>
-    <desc lang="el">Ο Γκάι Φιέρι κάνει τέσσερις ταλαντούχους σεφ να τρέχουν σε έναν μαγειρικό διαγωνισμό που απαιτεί εξαιρετικές ικανότητες και επιφυλάσσει μεγάλα έπαθλα.</desc>
-  </programme>
-  <programme start="20221028200500 +0300" stop="20221028205000 +0300" channel="BBC World">
-    <title lang="el">Ο Πόλεμος της Τούρτας Κ1 ΕΠ18</title>
-    <desc lang="el">Ο Τζόναθαν Μπένετ παρουσιάζει αυτόν τον διαγωνισμό, όπου τέσσερις έμπειροι ζαχαροπλάστες κάνουν το παν ώστε η δική τους δημιουργία να είναι το αστέρι μιας σημαντικής εκδήλωσης.</desc>
-  </programme>
-  <programme start="20221028205000 +0300" stop="20221028213500 +0300" channel="BBC World">
-    <title lang="el">Διαγωνισμός τούρτας Χαλογουίν Κ1 ΕΠ4</title>
-    <desc lang="el">Οι ζαχαροπλάστες φτιάχνουν τούρτες σε αποσύνθεση, εκμεταλλευόμενοι τη ζύμωση υλικών όπως το ξινολάχανο. Οι φιναλίστ συνθέτουν αριστουργήματα που σαπίζουν μπροστά στους κριτές!</desc>
-  </programme>
-  <programme start="20221028213500 +0300" stop="20221028222000 +0300" channel="BBC World">
-    <title lang="el">Διαγωνισμός τούρτας Χαλογουίν Κ1 ΕΠ2</title>
-    <desc lang="el">Ο Νταφ Γκόλντμαν καλεί τους ζαχαροπλάστες να σχεδιάσουν τούρτες με θέμα την επιστροφή από τον θάνατο. Οι δημιουργίες τους κλέβουν την παράσταση με θεαματικά εφέ.</desc>
-  </programme>
-  <programme start="20221028222000 +0300" stop="20221028230500 +0300" channel="BBC World">
-    <title lang="el">Παιδικός διαγωνισμός ζαχαροπλαστικής Κ1 ΕΠ3</title>
-    <desc lang="el">12 νέοι μάγειρες διαγωνίζονται για τον τίτλο του Καλύτερου Νέου Μάγειρα. Οι παρουσιαστές και κριτές Βάλερι Μπερτινέλι και Νταφ Γκόλντμαν, τους υποβάλλουν σε νόστιμες δοκιμασίες.</desc>
-  </programme>
-  <programme start="20221028230500 +0300" stop="20221028233000 +0300" channel="BBC World">
-    <title lang="el">Μια γυναίκα πρωτοπόρος Κ23 ΕΠ9</title>
-    <desc lang="el">Η Ρι Ντράμοντ γιορτάζει τα εγκαίνια του νέου της ζαχαροπλαστείου. Φτιάχνει απίστευτους μπεζέδες και δύο φαντασμαγορικά παγωτά με πλούσια γαρνιτούρα.</desc>
+    <desc lang="el">Αν είσαι gamer, αυτή είναι η ζώνη είναι για σένα. Παίξε καθημερινά παρέα με τους αγαπημένους σου creators.(c)</desc>
   </programme>
   <programme start="20221028233000 +0300" stop="20221028235000 +0300" channel="BBC World">
-    <title lang="el">Μια γυναίκα πρωτοπόρος Κ23 ΕΠ10</title>
-    <desc lang="el">Η Ρι Ντράμοντ ετοιμάζει δείπνο σε πακέτο για τον νέο γελαδάρη της φάρμας. Το κυρίως πιάτο είναι κοτόπουλο στο φούρνο με καυτερή πιπεριά, ενώ ακολουθούν πρέτζελ και πεπόνι.</desc>
+    <title lang="el">GAME MASTERS</title>
+    <desc lang="el">Αν είσαι gamer, αυτή είναι η ζώνη είναι για σένα. Παίξε καθημερινά παρέα με τους αγαπημένους σου creators.(c)</desc>
   </programme>
   <programme start="20221028235000 +0300" stop="20221028235000 +0300" channel="BBC World">
     <title lang="el">Το Κορίτσι στο Αγρόκτημα Κ2 ΕΠ3</title>
     <desc lang="el">Η Μόλι ετοιμάζει ένα ειδικό μενού για τις φίλες της. Οι επιλογές της περιλαμβάνουν παϊδάκια με ραβέντι και τσίζκεϊκ με σαντιγί.</desc>
   </programme>
-  <programme start="20221028235000 +0300" stop="20221029004000 +0300" channel="BBC World">
-    <title lang="el">Θανάσιμες Καταστροφές Κ1 ΕΠ6</title>
-    <desc lang="el">Το σημερινό επεισόδιο παρουσιάζει τρεις καταστροφικές κατολισθήσεις λάσπης: στην Καλιφόρνια, στη Βενεζουέλα και στο Άμπερφαν, ένα μικρό χωριό μεταλλωρύχων στην Ουαλία. 6/10 (2019).</desc>
+  <programme start="20221028235000 +0300" stop="20221029001500 +0300" channel="BBC World">
+    <title lang="el">Το Κορίτσι στο Αγρόκτημα Κ2 ΕΠ3</title>
+    <desc lang="el">Η Μόλι ετοιμάζει ένα ειδικό μενού για τις φίλες της. Οι επιλογές της περιλαμβάνουν παϊδάκια με ραβέντι και τσίζκεϊκ με σαντιγί.(c)</desc>
   </programme>
-  <programme start="20221029004000 +0300" stop="20221029013500 +0300" channel="BBC World">
-    <title lang="el">Αιγιαλός Κ7 ΕΠ3</title>
-    <desc lang="el">Ο Ντικ Στρόμπριτζ εξερευνά ένα ξεχασμένο έργο με εκκολαπτόμενα αερόπλοια. 3/6 (2012).</desc>
+  <programme start="20221029001500 +0300" stop="20221029003500 +0300" channel="BBC World">
+    <title lang="el">Το Κορίτσι στο Αγρόκτημα Κ2 ΕΠ4</title>
+    <desc lang="el">Η Μόλι φτιάχνει έναν μπουφέ και φαγώσιμα δωράκια για τρεις γενιές συγγενών. Στο μενού περιλαμβάνονται κεφτέδες με παστράμι, τηγανίτες με λαχανάκια Βρυξελλών και γλυκά από αμυγδαλόπαστα.(c)</desc>
   </programme>
-  <programme start="20221029013500 +0300" stop="20221029023000 +0300" channel="BBC World">
-    <title lang="el">ΆΚΟΥ ΤΙ ΣΟΥ ΛΈΩ ΓΙΑΤΡΌΣ ΕΊΜΑΙ Κ7 ΕΠ1</title>
-    <desc lang="el">Ειδικό αφιέρωμα στην πνευματική υγεία: με ένα πείραμα ο Μάικλ αναζητά τον καλύτερο τρόπο να νικήσουμε το άγχος - επίγνωση, γιόγκα ή κηπουρική. Ακόμα: πώς επηρεάζει ο ύπνος την πνευματική υγεία και γιατί το γέλιο είναι εξίσου ευεργετικό με την άσκηση για τη βελτίωση της διάθεσης. 1/4 (2018).</desc>
+  <programme start="20221029003500 +0300" stop="20221029012000 +0300" channel="BBC World">
+    <title lang="el">Στην κουζίνα Κ16 ΕΠ12</title>
+    <desc lang="el">Πέντε ειδικοί παρουσιάζουν νόστιμες συνταγές και χαριτωμένες πληροφορίες. Από απλές ιδέες για βραδινό μέχρι τις πρόσφατες τάσεις, αυτή είναι η διασκεδαστική πλευρά της μαγειρικής.(c)</desc>
   </programme>
-  <programme start="20221029023000 +0300" stop="20221029032000 +0300" channel="BBC World">
-    <title lang="el">ΠΑΡΆΚΤΙΑ ΑΛΙΕΊΑ ΜΕ ΤΟΝ ΡΌΜΠΣΟΝ ΓΚΡΙΝ Κ1 ΕΠ4</title>
-    <desc lang="el">Ο Ρόμπσον βρίσκεται στην πατρίδα του, στην κομητεία της Νορθουμβρίας, αναζητώντας τις τόσο εμβληματικές για τη Βρετανία μεγάλες γαρίδες. 4/4 (2021).</desc>
+  <programme start="20221029012000 +0300" stop="20221029014000 +0300" channel="BBC World">
+    <title lang="el">Φαγάδικα της Αμερικής Κ25 ΕΠ12</title>
+    <desc lang="el">Ο Γκάι Φιέρι διασχίζει ολόκληρη τη χώρα και επισκέπτεται παραδοσιακά φαγάδικα «βρόμικου» που ξέρουν να κάνουν καλά αυτό που κάνουν εδώ και χρόνια.(c)</desc>
   </programme>
-  <programme start="20221029032000 +0300" stop="20221029041000 +0300" channel="BBC World">
-    <title lang="el">Ο ΠΙΟ ΘΑΝΆΣΙΜΟΣ ΚΑΙΡΌΣ ΣΤΟΝ ΚΌΣΜΟ Κ5 ΕΠ8</title>
-    <desc lang="el">Στην Αυστραλία, μια ξαφνική πλημμύρα αναγκάζει μια οικογένεια να τρέξει τρομοκρατημένη. Στο Ουισκόνσιν, μια γυναίκα και ο σκύλος της κινδυνεύουν να παρασυρθούν από τον πάγο. Στο Βανκούβερ, ένας ανεμοστρόβιλος υποχρεώνει έναν άντρα να αναζητήσει καταφύγιο. 8/13 (2021).</desc>
+  <programme start="20221029014000 +0300" stop="20221029020000 +0300" channel="BBC World">
+    <title lang="el">Φαγάδικα της Αμερικής Κ25 ΕΠ13</title>
+    <desc lang="el">Ο Γκάι Φιέρι διασχίζει ολόκληρη τη χώρα και επισκέπτεται παραδοσιακά φαγάδικα «βρόμικου» που ξέρουν να κάνουν καλά αυτό που κάνουν εδώ και χρόνια.(c)</desc>
   </programme>
-  <programme start="20221029041000 +0300" stop="20221029050500 +0300" channel="BBC World">
-    <title lang="el">Θανάσιμες Καταστροφές Κ1 ΕΠ6</title>
-    <desc lang="el">Το σημερινό επεισόδιο παρουσιάζει τρεις καταστροφικές κατολισθήσεις λάσπης: στην Καλιφόρνια, στη Βενεζουέλα και στο Άμπερφαν, ένα μικρό χωριό μεταλλωρύχων στην Ουαλία. 6/10 (2019).</desc>
+  <programme start="20221029020000 +0300" stop="20221029024000 +0300" channel="BBC World">
+    <title lang="el">Παιχνίδια μαναβικής με τον Γκάι Κ7 ΕΠ11</title>
+    <desc lang="el">Ο Γκάι Φιέρι κάνει τέσσερις ταλαντούχους σεφ να τρέχουν σε έναν μαγειρικό διαγωνισμό που απαιτεί εξαιρετικές ικανότητες και επιφυλάσσει μεγάλα έπαθλα.(c)</desc>
   </programme>
-  <programme start="20221029050500 +0300" stop="20221029055500 +0300" channel="BBC World">
-    <title lang="el">Αιγιαλός Κ7 ΕΠ3</title>
-    <desc lang="el">Ο Ντικ Στρόμπριτζ εξερευνά ένα ξεχασμένο έργο με εκκολαπτόμενα αερόπλοια. 3/6 (2012).</desc>
+  <programme start="20221029024000 +0300" stop="20221029032000 +0300" channel="BBC World">
+    <title lang="el">Οι πόλεμοι του Χαλογουίν Κ9 ΕΠ3</title>
+    <desc lang="el">Τέσσερις ομάδες δίνουν μορφή σε μια από τις πιο τρομακτικά λαχταριστές δημιουργίες τους, που απεικονίζει μια επίθεση σμήνους. Γκεστ κριτής η ηθοποιός κωμωδιών τρόμου Χάρλεϊ Κουίν Σμιθ.(c)</desc>
   </programme>
-  <programme start="20221029055500 +0300" stop="20221029060500 +0300" channel="BBC World">
-    <title lang="el">ΓΑΛΆΖΙΟΣ ΠΛΑΝΉΤΗΣ 2: ΣΤΑ ΓΥΡΊΣΜΑΤΑ Κ1 ΕΠ4</title>
-    <desc lang="el">Αυτό το επεισόδιο αποκαλύπτει τις προκλήσεις της κινηματογράφησης στις αχανείς εκτάσεις του ωκεανού. Το συνεργείο επέμεινε ιδιαίτερα στην καταγραφή ενός από τα πιο ασύλληπτα φαινόμενα: την τροφική μανία, που κάνει τη θάλασσα να μοιάζει σαν να κοχλάζει. 4/6 (2017).</desc>
+  <programme start="20221029032000 +0300" stop="20221029040500 +0300" channel="BBC World">
+    <title lang="el">Διαγωνισμός τούρτας Χαλογουίν Κ1 ΕΠ2</title>
+    <desc lang="el">Ο Νταφ Γκόλντμαν καλεί τους ζαχαροπλάστες να σχεδιάσουν τούρτες με θέμα την επιστροφή από τον θάνατο. Οι δημιουργίες τους κλέβουν την παράσταση με θεαματικά εφέ.(c)</desc>
   </programme>
-  <programme start="20221029060500 +0300" stop="20221029070000 +0300" channel="BBC World">
-    <title lang="el">ΆΚΟΥ ΤΙ ΣΟΥ ΛΈΩ ΓΙΑΤΡΌΣ ΕΊΜΑΙ Κ7 ΕΠ1</title>
-    <desc lang="el">Ειδικό αφιέρωμα στην πνευματική υγεία: με ένα πείραμα ο Μάικλ αναζητά τον καλύτερο τρόπο να νικήσουμε το άγχος - επίγνωση, γιόγκα ή κηπουρική. Ακόμα: πώς επηρεάζει ο ύπνος την πνευματική υγεία και γιατί το γέλιο είναι εξίσου ευεργετικό με την άσκηση για τη βελτίωση της διάθεσης. 1/4 (2018).</desc>
+  <programme start="20221029040500 +0300" stop="20221029045000 +0300" channel="BBC World">
+    <title lang="el">Ο κορυφαίος ζαχαροπλάστης της Αμερικής Κ2 ΕΠ2</title>
+    <desc lang="el">Οι εναπομείναντες οκτώ ζαχαροπλάστες καλούνται να φτιάξουν τις τέλειες γαμήλιες σοκολατίνες. Στη συνέχεια, πρέπει να δημιουργήσουν μια γαμήλια πυραμίδα από σουδάκια.(c)</desc>
   </programme>
-  <programme start="20221029070000 +0300" stop="20221029074500 +0300" channel="BBC World">
-    <title lang="el">Ζωή Υπό Το Μηδέν: Καναδάς Κ1 ΕΠ6</title>
-    <desc lang="el">Το στήσιμο των παγίδων της Κιμ και του Πιερ περιπλέκεται λόγω ενός ντόπιου κατοίκου. Η Μπέκι επιστρατεύει τα σκυλιά της για να τη βοηθήσουν να μαζέψει αρκετά καυσόξυλα. Ο "λαυράκιας" Μάικ κυνηγά μικρά θηράματα. Ο Μπέντλι μαθαίνει στον ανιψιό του κόλπα για το στήσιμο παγίδων. 6/8 Σκηνοθεσία: Paul Kilback, Victor Kushmaniuk, Mark Stevenson. Πρωταγωνιστούν: Becky Broderick, Bentley Kakekayash, Mike Harrison, Kim Pasche, Pierre-Yves Duc. (2020).</desc>
+  <programme start="20221029045000 +0300" stop="20221029053500 +0300" channel="BBC World">
+    <title lang="el">Διαγωνισμός τούρτας Χαλογουίν Κ1 ΕΠ3</title>
+    <desc lang="el">Οι τρεις ζαχαροπλάστες δημιουργούν τούρτες κατάλληλες για μια τερατόμορφη γαμήλια τελετή, αξιοποιώντας εμβληματικά γλυκά του Χαλογουίν, με μεταμορφώσεις που προκαλούν φρίκη.(c)</desc>
   </programme>
-  <programme start="20221029074500 +0300" stop="20221029083000 +0300" channel="BBC World">
-    <title lang="el">Ζωή Υπό Το Μηδέν: Καναδάς Κ1 ΕΠ7</title>
-    <desc lang="el">Οι κάτοικοι δυσπρόσιτων περιοχών της Αλάσκας αντιμετωπίζουν καθημερινά δυσκολίες στην προσπάθειά τους να εξασφαλίσουν επαρκή τρόφιμα για να καταφέρουν να επιβιώσουν. 7/8 Σκηνοθεσία: Paul Kilback, Victor Kushmaniuk, Mark Stevenson. Πρωταγωνιστούν: Becky Broderick, Bentley Kakekayash, Mike Harrison, Kim Pasche, Pierre-Yves Duc. (2020).</desc>
+  <programme start="20221029053500 +0300" stop="20221029061500 +0300" channel="BBC World">
+    <title lang="el">Ποιος θα κοπεί Κ27 ΕΠ2</title>
+    <desc lang="el">Τέσσερις φιλόδοξοι σεφ διαγωνίζονται ενώπιον μιας έμπειρης κριτικής επιτροπής. Σε κάθε επόμενη φάση, οι σεφ παίρνουν το καλάθι με τα μυστικά υλικά και δημιουργούν ένα εξαιρετικό γεύμα.(c)</desc>
   </programme>
-  <programme start="20221029083000 +0300" stop="20221029091500 +0300" channel="BBC World">
-    <title lang="el">Ζωή Υπό Το Μηδέν: Καναδάς Κ1 ΕΠ8</title>
-    <desc lang="el">Η Μπέκι κάνει μια τελευταία προσπάθεια να πιάσει έναν μοσχόβου. Κιμ και Πιερ πρέπει να ανακαινίσουν το καταφύγιό τους. Ο Μπέντλεϊ επιθυμεί διακαώς μια πετυχημένη περίοδο κι ασχολείται με τις παγίδες του. Και ο Μάικ, εγκλωβισμένος σε παγωμένες θερμοκρασίες, αναζητά μια πηγή νερού. 8/8 Σκηνοθεσία: Paul Kilback, Victor Kushmaniuk, Mark Stevenson. Πρωταγωνιστούν: Becky Broderick, Bentley Kakekayash, Mike Harrison, Kim Pasche, Pierre-Yves Duc. (2020).</desc>
+  <programme start="20221029061500 +0300" stop="20221029070000 +0300" channel="BBC World">
+    <title lang="el">Παιχνίδια μαναβικής με τον Γκάι Κ7 ΕΠ11</title>
+    <desc lang="el">Ο Γκάι Φιέρι κάνει τέσσερις ταλαντούχους σεφ να τρέχουν σε έναν μαγειρικό διαγωνισμό που απαιτεί εξαιρετικές ικανότητες και επιφυλάσσει μεγάλα έπαθλα.(c)</desc>
   </programme>
-  <programme start="20221029091500 +0300" stop="20221029100000 +0300" channel="BBC World">
-    <title lang="el">Η ΖΩΉ ΥΠΌ ΤΟ ΜΗΔΈΝ Κ1 ΕΠ1</title>
-    <desc lang="el">Στην απόλυτη ερημιά ο Έρικ κυνηγά προσπαθώντας να εξασφαλίσει κόκκινο κρέας για να διατηρηθεί στη ζωή. Στο μεταξύ, η Σου προσπαθεί απεγνωσμένα να φύγει από την πόλη και να επιστρέψει στα βουνά. 1/10 Πρωταγωνιστούν: Sue Aikens, Andy Bassich, Agnes Hailstone. (2013).</desc>
+  <programme start="20221029070000 +0300" stop="20221029072500 +0300" channel="BBC World">
+    <title lang="el">Οι πιο παράξενες γεύσεις: Γαστριμαργικοί προορισμοί Κ5 ΕΠ23</title>
+    <desc lang="el">Από τις πεντανόστιμες σοκολάτες των Βρυξελλών μέχρι την περίφημη πίτσα της Νάπολης, ο σεφ Άντριου Ζίμερν εξερευνά τις λαχταριστές και εμβληματικές γεύσεις που καθορίζουν έναν τόπο.(c)</desc>
   </programme>
-  <programme start="20221029100000 +0300" stop="20221029104500 +0300" channel="BBC World">
-    <title lang="el">ΣΗΜΑΝΤΙΚΈΣ ΠΌΛΕΙΣ ΜΕ ΤΗΝ ΤΖΟΆΝΑ ΛΆΜΛΕΪ Κ1 ΕΠ1</title>
-    <desc lang="el">Η Τζοάνα Λάμλεϊ περιπλανιέται σε τρεις από τις σπουδαιότερες πόλεις του κόσμου - Βερολίνο, Παρίσι και Ρώμη. 1/3 Σκηνοθεσία: Simon Lloyd. Πρωταγωνιστούν: Joanna Lumley. (2022).</desc>
+  <programme start="20221029072500 +0300" stop="20221029074500 +0300" channel="BBC World">
+    <title lang="el">Το Κορίτσι στο Αγρόκτημα Κ5 ΕΠ2</title>
+    <desc lang="el">Η Μόλι Γε υποδέχεται φίλες της κόρης της για παιχνίδι. Φτιάχνει μπάρες γκρανόλα, μπέργκερ γαλοπούλας με μπαχαρικά φαλάφελ, και σαλάτα με καλαμπόκι και κρεμώδες ντρέσινγκ αβοκάντο.(c)</desc>
+  </programme>
+  <programme start="20221029074500 +0300" stop="20221029081000 +0300" channel="BBC World">
+    <title lang="el">Το Κορίτσι στο Αγρόκτημα Κ5 ΕΠ3</title>
+    <desc lang="el">Το παλιό συγκρότημα της Μόλι Γε περνά από το αγρόκτημα για ένα σπιτικό γεύμα, που περιλαμβάνει ορεκιέτε με βλαστούς μπρόκολων και λουκάνικο, και τραγανά τηγανητά μπαστουνάκια μοτσαρέλα.(c)</desc>
+  </programme>
+  <programme start="20221029081000 +0300" stop="20221029083000 +0300" channel="BBC World">
+    <title lang="el">Το Κορίτσι στο Αγρόκτημα Κ5 ΕΠ4</title>
+    <desc lang="el">Η Μόλι Γε οργανώνει μια γιορτή για μια οικογένεια αγροτών. Σερβίρει ένα μενού που περιλαμβάνει μπισκότα γεμιστά με κεφτεδάκια και κρεμώδη πολέντα με τραγανό μπέικον.(c)</desc>
+  </programme>
+  <programme start="20221029083000 +0300" stop="20221029085500 +0300" channel="BBC World">
+    <title lang="el">Το Κορίτσι στο Αγρόκτημα Κ5 ΕΠ5</title>
+    <desc lang="el">Η Μόλι Γε φτιάχνει για την οικογένειά της αγαπημένες της συνταγές με κινεζική επιρροή. Το μενού περιλαμβάνει γλυκόξινο χοιρινό και μπαλίτσες σουσαμιού με γέμιση σοκολάτας.(c)</desc>
+  </programme>
+  <programme start="20221029085500 +0300" stop="20221029091500 +0300" channel="BBC World">
+    <title lang="el">Το Κορίτσι στο Αγρόκτημα Κ5 ΕΠ6</title>
+    <desc lang="el">Η Μόλι Γε και ο σύζυγός της οργανώνουν ένα πάρτυ για τους φίλους της, λάτρεις του χόκεϊ. Φτιάχνει σάντουιτς με τηγανητό κοτόπουλο, σπιτικά νουντλς και μπισκότα σοκολάτας με μέντα.(c)</desc>
+  </programme>
+  <programme start="20221029091500 +0300" stop="20221029094000 +0300" channel="BBC World">
+    <title lang="el">Το Κορίτσι στο Αγρόκτημα Κ5 ΕΠ7</title>
+    <desc lang="el">Η Μόλι Γε φτιάχνει ένα ρομαντικό γεύμα για μια βραδιά με τον σύζυγό της. Ετοιμάζει ένα μενού με σκορδάτα μάφιν με τυρί, και ένα κουτί γεμάτο νουγκά για την ημέρα του Αγίου Βαλεντίνου.(c)</desc>
+  </programme>
+  <programme start="20221029094000 +0300" stop="20221029100000 +0300" channel="BBC World">
+    <title lang="el">Το Κορίτσι στο Αγρόκτημα Κ5 ΕΠ8</title>
+    <desc lang="el">Η Μόλι Γε προσθέτει την πινελιά της στις καλύτερες, χορταστικές μεσοδυτικές συνταγές της: σούπα με ζυμαρικά, και παϊδάκια με κόουλσλο μπρόκολου, από τα οποία δεν μπορείς να ξεκολλήσεις.(c)</desc>
+  </programme>
+  <programme start="20221029100000 +0300" stop="20221029102500 +0300" channel="BBC World">
+    <title lang="el">Το Κορίτσι στο Αγρόκτημα Κ5 ΕΠ9</title>
+    <desc lang="el">Η Μόλι Γε ετοιμάζει ένα ανοιξιάτικο τσιμπούσι για να γιορτάσει την εποχή του προγραμματισμού των δραστηριοτήτων της φάρμας: κοτόπουλο με ανοιξιάτικα λαχανικά και σφολιατόψωμο με άνηθο.(c)</desc>
+  </programme>
+  <programme start="20221029102500 +0300" stop="20221029104500 +0300" channel="BBC World">
+    <title lang="el">Το Κορίτσι στο Αγρόκτημα Κ5 ΕΠ10</title>
+    <desc lang="el">Η Μόλι Γε προσθέτει τη δική της άποψη σε παραδοσιακές συνταγές για το εβραϊκό Πάσχα, όπως φρέσκο κρεμμυδάκι με ασιατικές επιρροές και μια χορταστική, πικάντικη πίτα με μοσχάρι.(c)</desc>
   </programme>
   <programme start="20221029104500 +0300" stop="20221029113000 +0300" channel="BBC World">
-    <title lang="el">ΣΗΜΑΝΤΙΚΈΣ ΠΌΛΕΙΣ ΜΕ ΤΗΝ ΤΖΟΆΝΑ ΛΆΜΛΕΪ Κ1 ΕΠ2</title>
-    <desc lang="el">2/3 Σκηνοθεσία: Zoe Dobson. Πρωταγωνιστούν: Joanna Lumley. (2022).</desc>
+    <title lang="el">Πρωτάθλημα ζαχαροπλαστικής Χαλογουίν Κ6 ΕΠ3</title>
+    <desc lang="el">Για ένα πάρτι με βαμπίρ στο κελάρι, η Κάρλα Χολ καλεί τους εναπομείναντες ζαχαροπλάστες να συνεργαστούν και να συνθέσουν έναν μπουφέ αντάξιο των αιμοβόρων ορέξεων των καλεσμένων.(c)</desc>
   </programme>
-  <programme start="20221029113000 +0300" stop="20221029122500 +0300" channel="BBC World">
-    <title lang="el">Οι Πλανήτες Κ1 ΕΠ1</title>
-    <desc lang="el">Οι βραχώδεις πλανήτες Ερμής, Αφροδίτη, Γη και Άρης γεννήθηκαν την ίδια εποχή και από το ίδιο υλικό - ωστόσο, η ζωή του κάθε πλανήτη είναι εντελώς διαφορετική. Ποιες τεράστιες δυνάμεις επιδρούν στην εξέλιξή τους; 1/5 Σκηνοθεσία: Martin Johnson. Πρωταγωνιστούν: Brian Cox. (2019).</desc>
+  <programme start="20221029113000 +0300" stop="20221029121500 +0300" channel="BBC World">
+    <title lang="el">Πρωτάθλημα ζαχαροπλαστικής Χαλογουίν Κ6 ΕΠ4</title>
+    <desc lang="el">Οι επτά εναπομείναντες ζαχαροπλάστες συνεχίζουν την περιπλάνησή τους μέσα στο στοιχειωμένο σπίτι. Η Κάρλα Χολ τούς καλεί να φτιάξουν τούρτες με μορφή σατανικής τρισδιάστατης κούκλας.(c)</desc>
   </programme>
-  <programme start="20221029122500 +0300" stop="20221029131500 +0300" channel="BBC World">
-    <title lang="el">Οι Πλανήτες Κ1 ΕΠ2</title>
-    <desc lang="el">Ο καθηγητής Μπράιαν Κοξ συνεχίζει την περίηγησή του στο ηλιακό σύστημα και αποκαλύπτει ότι αυτό το σύστημα κάποτε φιλοξενούσε όχι έναν, αλλά δύο γαλάζιους πλανήτες. 2/5 Σκηνοθεσία: Stephen Cooter. Πρωταγωνιστούν: Brian Cox. (2019).</desc>
+  <programme start="20221029121500 +0300" stop="20221029130000 +0300" channel="BBC World">
+    <title lang="el">Πρωτάθλημα ζαχαροπλαστικής Χαλογουίν Κ6 ΕΠ5</title>
+    <desc lang="el">Η Κάρλα Χολ καλεί τους έξι εναπομείναντες ζαχαροπλάστες να σκαρώσουν επιδόρπια με ασυνήθιστα υλικά, όπως ξινολάχανο, πάστα ταμάρινδου και ντοματόσουπα.(c)</desc>
   </programme>
-  <programme start="20221029131500 +0300" stop="20221029141000 +0300" channel="BBC World">
-    <title lang="el">Οι Πλανήτες Κ1 ΕΠ3</title>
-    <desc lang="el">Ο καθηγητής Μπράιαν Κοξ συνεχίζει την εξερεύνηση του ηλιακού συστήματος και επισκέπτεται τον πλανήτη που κάνει όλους τους άλλους να φαίνονται νάνοι: τον Δία. Το μέγεθός του τού εξασφαλίζει μεγάλη δύναμη την οποία χρησιμοποιεί για να επηρεάζει τους υπόλοιπους πλανήτες. 3/5 Σκηνοθεσία: Stephen Cooter. Πρωταγωνιστούν: Brian Cox. (2019).</desc>
+  <programme start="20221029130000 +0300" stop="20221029134000 +0300" channel="BBC World">
+    <title lang="el">Πρωτάθλημα ζαχαροπλαστικής Χαλογουίν Κ6 ΕΠ6</title>
+    <desc lang="el">Η Κάρλα Χολ καλεί τους πέντε εναπομείναντες ζαχαροπλάστες σε πάρτι στη στοιχειωμένη αίθουσα χορού, όπου θα πρέπει να φτιάξουν εντυπωσιακές τούρτες-μεταμφίεση, για μια θέση στον τελικό.(c)</desc>
   </programme>
-  <programme start="20221029141000 +0300" stop="20221029150000 +0300" channel="BBC World">
-    <title lang="el">Οι Πλανήτες Κ1 ΕΠ4</title>
-    <desc lang="el">Ο καθ. Μπράιαν Κοξ αποκαλύπτει την ιστορία του Κρόνου. Ο Κρόνος άρχισε να υφίσταται ως ένας παράξενος πλανήτης που αποτελούνταν από πέτρα και πάγο και με τον καιρό μεταμορφώθηκε σε έναν γίγαντα αερίων, χωρίς δακτυλίους και με όψη παρόμοια με εκείνη του αντιπάλου του Δία. 4/5 Σκηνοθεσία: Nic Stacey. Πρωταγωνιστούν: Brian Cox. (2019).</desc>
+  <programme start="20221029134000 +0300" stop="20221029145000 +0300" channel="BBC World">
+    <title lang="el">Πρωτάθλημα ζαχαροπλαστικής Χαλογουίν Κ6 ΕΠ7</title>
+    <desc lang="el">Τέσσερις ζαχαροπλάστες αναμετριούνται στον τελικό. Η παρουσιάστρια Κάρλα Χολ καλεί τους διαγωνιζόμενους να αγγίξουν νέα ύψη για να κερδίσουν το μεγάλο βραβείο των 25.000 δολαρίων.(c)</desc>
   </programme>
-  <programme start="20221029150000 +0300" stop="20221029155500 +0300" channel="BBC World">
-    <title lang="el">Οι Πλανήτες Κ1 ΕΠ5</title>
-    <desc lang="el">Η σειρά αναπαριστά τα πιο αξιοσημείωτα γεγονότα στην ιστορία του ηλιακού συστήματος χρησιμοποιώντας πρωτοποριακά ηχητικά εφέ κατά την αφήγηση των γεγονότων. 5/5 Σκηνοθεσία: Martin Johnson. Πρωταγωνιστούν: Brian Cox. (2019).</desc>
+  <programme start="20221029145000 +0300" stop="20221029153000 +0300" channel="BBC World">
+    <title lang="el">Μεγαλειώδεις αγώνες με καντίνες Κ4 ΕΠ7</title>
+    <desc lang="el">Οκτώ γκουρμέ καντίνες ξεκινούν ένα επικό γαστρονομικό ταξίδι, με σκοπό να πείσουν τους Αμερικανούς να φύγουν λίγο από την πεπατημένη και να δοκιμάσουν καινούργιες γεύσεις.(c)</desc>
   </programme>
-  <programme start="20221029155500 +0300" stop="20221029164500 +0300" channel="BBC World">
-    <title lang="el">ΤΑ ΤΡΟΠΙΚΆ ΝΗΣΙΆ ΤΗΣ ΓΗΣ Κ1 ΕΠ1</title>
-    <desc lang="el">Ένα ταξίδι στη Μαδαγασκάρη, το αρχαιότερο νησί της Γης. Με το πέρασμα του χρόνου, το νησί αυτό φιλοξένησε περισσότερα φυτά και ζώα - από τους διάσημους λεμούριους μέχρι τους πολύχρωμους χαμαιλέοντες- από οποιοδήποτε άλλο νησί στον κόσμο. 1/3 Σκηνοθεσία: Sara Douglas. Πρωταγωνιστούν: David Harewood. (2020).</desc>
+  <programme start="20221029153000 +0300" stop="20221029161500 +0300" channel="BBC World">
+    <title lang="el">Για μια θέση στον ήλιο Κ1 ΕΠ1</title>
+    <desc lang="el">Δύο ομάδες φιλόδοξων επιχειρηματιών της εστίασης διαγωνίζονται προκειμένου να κερδίσουν το δικό τους εστιατόριο σε εμπορικό κέντρο, για το οποίο δεν θα πληρώνουν ενοίκιο για έναν χρόνο.(c)</desc>
   </programme>
-  <programme start="20221029164500 +0300" stop="20221029173500 +0300" channel="BBC World">
-    <title lang="el">ΤΑ ΤΡΟΠΙΚΆ ΝΗΣΙΆ ΤΗΣ ΓΗΣ Κ1 ΕΠ2</title>
-    <desc lang="el">Ένα ταξίδι που ξεκινά από τους πλούσιους κοραλλιογενείς υφάλους του Βόρνεο, διασχίζει τις πυκνές ζούγκλες και φτάνει μέχρι την ορεινή ενδοχώρα του, μια διαδρομή που αποκαλύπτει γιατί αυτό το νησί φιλοξενεί πλουσιότερη ποικιλία ζωής από σχεδόν οποιοδήποτε άλλον τόπο στον κόσμο. 2/3 Σκηνοθεσία: Will Ridgeon. Πρωταγωνιστούν: David Harewood. (2020).</desc>
+  <programme start="20221029161500 +0300" stop="20221029163500 +0300" channel="BBC World">
+    <title lang="el">Ποιος θα νικήσει τον Μπόμπι Φλέι Κ23 ΕΠ2</title>
+    <desc lang="el">Ο ηθοποιός Μάικι Ντέι ενώνει τις δυνάμεις του με τη συγγραφέα βιβλίων μαγειρικής Κέιτι Λι, για να διαλέξουν αντίπαλο για τον Μπόμπι. Θα βρουν έναν σεφ ικανό να πάρει τη μεγάλη νίκη;.(c)</desc>
   </programme>
-  <programme start="20221029173500 +0300" stop="20221029183000 +0300" channel="BBC World">
-    <title lang="el">ΤΑ ΤΡΟΠΙΚΆ ΝΗΣΙΆ ΤΗΣ ΓΗΣ Κ1 ΕΠ3</title>
-    <desc lang="el">Εξερευνούμε τη Χαβάη, ένα τροπικό καταφύγιο για κάθε είδος άγριας φύσης που μπορεί να φτάσει στις απομακρυσμένες ακτές του νησιού. Από τις μεγάπτερες φάλαινες μέχρι τα ψάρια που κολυμπούν σε καταρράκτες, το νησί αυτό φιλοξενεί μια αστείρευτη πηγή άγριας ζωής. 3/3 Σκηνοθεσία: Evie Wright. Πρωταγωνιστούν: David Harewood. (2020).</desc>
+  <programme start="20221029163500 +0300" stop="20221029165500 +0300" channel="BBC World">
+    <title lang="el">Ποιος θα νικήσει τον Μπόμπι Φλέι Κ23 ΕΠ3</title>
+    <desc lang="el">Ατμόσφαιρα τρέλας επικρατεί στην κουζίνα, καθώς ο κωμικός Μπομπ Σάγκετ συνεργάζεται με τη σεφ Αν Μπάρελ, για να επιλέξουν τον καταλληλότερο σεφ για να νικήσει τον Μπόμπι.(c)</desc>
   </programme>
-  <programme start="20221029183000 +0300" stop="20221029193000 +0300" channel="BBC World">
+  <programme start="20221029165500 +0300" stop="20221029171500 +0300" channel="BBC World">
+    <title lang="el">Εστιατόρια, κουτούκια και drive-in: Λάτρες του κρέατος</title>
+    <desc lang="el">Ο Γκάι Φιέρι πάει στο Μαϊάμι, για να δει πώς τα πάει ο φιλαράκος του με κοτόπουλα και πάπιες. Ακόμη, ένα μαγαζί με νουντλς στο Πόρτλαντ σερβίρει κάθε βδομάδα χιλιάδες ντάμπλινγκ.(c)</desc>
+  </programme>
+  <programme start="20221029171500 +0300" stop="20221029174000 +0300" channel="BBC World">
+    <title lang="el">Εστιατόρια, κουτούκια και drive-in: Φτερούγες και άλλα πολλά</title>
+    <desc lang="el">Ο Γκάι Φιέρι περνάει για να δοκιμάσει κάποιες νέες φτερούγες κοτόπουλου στο Άινταχο, ενώ ένα μαγαζί στο Μαϊάμι κρατάει ψηλά τον πήχη με τα νέα του πιάτα, όπως μπουτάκια και πάπια.(c)</desc>
+  </programme>
+  <programme start="20221029174000 +0300" stop="20221029182000 +0300" channel="BBC World">
+    <title lang="el">Από καρδιάς με την Τζένι Μόρις Κ1 ΕΠ8</title>
+    <desc lang="el">Η Νοτιοαφρικανή σεφ Τζένι Μόρις αναδεικνύει την ενωτική δύναμη του φαγητού, καθώς ετοιμάζει διάφορα μενού με βάση τη δική της μοναδική αντίληψη των γεύσεων της Αφρικής.(c)</desc>
+  </programme>
+  <programme start="20221029182000 +0300" stop="20221029190500 +0300" channel="BBC World">
+    <title lang="el">Ποιος θα κοπεί Κ52 ΕΠ12</title>
+    <desc lang="el">Τρεις κριτές αναζητούν έναν βοηθό σεφ σε μια αναμέτρηση με πέντε μέρη. Οι τέσσερις διαγωνιζόμενοι καταπιάνονται με τούρτες σε σχήμα ψαριού και ένα πουλερικό που προκαλεί δέος.(c)</desc>
+  </programme>
+  <programme start="20221029190500 +0300" stop="20221029193500 +0300" channel="BBC World">
+    <title lang="el">Δουλειά εκ των έσω Κ1 ΕΠ3</title>
+    <desc lang="el">Τα ωραιότερα πιάτα από όλο τον κόσμο, σε μια παραλλαγή με αφρικανικές επιρροές. Ποια ιδιαίτερα τεχνάσματα και υλικά μπορούν να δώσουν άλλον αέρα σε αυτά τα εμβληματικά γεύματα;.(c)</desc>
+  </programme>
+  <programme start="20221029193500 +0300" stop="20221029200500 +0300" channel="BBC World">
+    <title lang="el">Στριτ φουντ στην Αφρική Κ1 ΕΠ15</title>
+    <desc lang="el">Η Αφρική διαθέτει μια πλούσια ιστορία και κουλτούρα στριτ φουντ. Η σεφ Εντί εξερευνά τις πεντανόστιμες γεύσεις που προσφέρει, και επιστρέφει σε μερικές από τις αγαπημένες της συνταγές.(c)</desc>
+  </programme>
+  <programme start="20221029200500 +0300" stop="20221029205000 +0300" channel="BBC World">
+    <title lang="el">Επιχείρηση Εστιατόριο Κ20 ΕΠ6</title>
+    <desc lang="el">Ο Ρόμπερτ Ιρβάιν επισκέπτεται το Forks and Flavors στο Κένεσο της Τζόρτζια, όπου ο σεφ δυσκολεύεται να διευθύνει την κουζίνα κάτω από τη σκιά της έντονης προσωπικότητας του συζύγου του.(c)</desc>
+  </programme>
+  <programme start="20221029205000 +0300" stop="20221029213500 +0300" channel="BBC World">
+    <title lang="el">Οι πόλεμοι του Χαλογουίν Κ6 ΕΠ5</title>
+    <desc lang="el">Ομάδες μετρ της ζαχαροπλαστικής και της διακόσμησης τούρτας διαγωνίζονται στην παρασκευή βρώσιμων αλλά τρομακτικών συνθέσεων με θέμα το Χαλογουίν, με σατανική όψη και νοστιμιά.(c)</desc>
+  </programme>
+  <programme start="20221029213500 +0300" stop="20221029222000 +0300" channel="BBC World">
+    <title lang="el">Σεφ σε εντατική εκπαίδευση Κ2 ΕΠ7</title>
+    <desc lang="el">Ο σεφ Κλιφ Κρουκς στέλνει σεφ που αντιμετωπίζουν δυσκολίες σε ένα εξουθενωτικό πρόγραμμα εκπαίδευσης, για να αποδείξουν ότι αξίζουν τη θέση τους στην κουζίνα των εστιατορίων τους.(c)</desc>
+  </programme>
+  <programme start="20221029222000 +0300" stop="20221029230500 +0300" channel="BBC World">
+    <title lang="el">Στην κουζίνα Κ11 ΕΠ1</title>
+    <desc lang="el">Πέντε ειδικοί παρουσιάζουν νόστιμες συνταγές και χαριτωμένες πληροφορίες. Από απλές ιδέες για βραδινό μέχρι τις πρόσφατες τάσεις, αυτή είναι η διασκεδαστική πλευρά της μαγειρικής.(c)</desc>
+  </programme>
+  <programme start="20221029234500 +0300" stop="20221030004500 +0300" channel="BBC World">
     <title lang="el">ΒΡΑΒΕΊΟ Earthshot: Η ΑΝΆΚΑΜΨΗ ΤΟΥ ΠΛΑΝΉΤΗ ΜΑΣ Κ1 ΕΠ4</title>
-    <desc lang="el">Ο πρίγκιπας Γουίλιαμ, ιδρυτής των Βραβείων Earthshot, και τα μέλη του Συμβουλίου των Βραβείων Earthshot, σερ Ντέιβιντ Άτενμπρο και η τραγουδίστρια-τραγουδοποιός Σακίρα, ανακαλύπτουν πώς βλάπτουμε τους ωκεανούς και πώς μπορούμε να τους αναζωογονήσουμε. 4/5 (2021).</desc>
+    <desc lang="el">Ο πρίγκιπας Γουίλιαμ, ιδρυτής των Βραβείων Earthshot, και τα μέλη του Συμβουλίου των Βραβείων Earthshot, σερ Ντέιβιντ Άτενμπρο και η τραγουδίστρια-τραγουδοποιός Σακίρα, ανακαλύπτουν πώς βλάπτουμε τους ωκεανούς και πώς μπορούμε να τους αναζωογονήσουμε. 4/5 (2021).(g)</desc>
   </programme>
-  <programme start="20221029193000 +0300" stop="20221029202500 +0300" channel="BBC World">
+  <programme start="20221029230500 +0300" stop="20221029235000 +0300" channel="BBC World">
+    <title lang="el">Στην κουζίνα Κ11 ΕΠ2</title>
+    <desc lang="el">Πέντε ειδικοί παρουσιάζουν νόστιμες συνταγές και χαριτωμένες πληροφορίες. Από απλές ιδέες για βραδινό μέχρι τις πρόσφατες τάσεις, αυτή είναι η διασκεδαστική πλευρά της μαγειρικής.(c)</desc>
+  </programme>
+  <programme start="20221030004500 +0300" stop="20221030014500 +0300" channel="BBC World">
     <title lang="el">Ο ΠΛΑΝΉΤΗΣ ΑΛΛΆΖΕΙ Κ1 ΕΠ2</title>
-    <desc lang="el">Η Λιζ Μπόνιν ταξιδεύει στην Καλιφόρνια για να μάθει για τις αυξανόμενες πυρκαγιές. Ο Άντε Αντεπιτάν πάει στην Κένυα, για να εξετάσει την άνοδο των θερμοκρασιών, ενώ ο Γκόρντον Μπιουκάναν αναζητά ιαγουάρους στη Βραζιλία. 2/2 Σκηνοθεσία: Laura Flegg, Olive King, Richard Max. (2022).</desc>
+    <desc lang="el">Η Λιζ Μπόνιν ταξιδεύει στην Καλιφόρνια για να μάθει για τις αυξανόμενες πυρκαγιές. Ο Άντε Αντεπιτάν πάει στην Κένυα, για να εξετάσει την άνοδο των θερμοκρασιών, ενώ ο Γκόρντον Μπιουκάναν αναζητά ιαγουάρους στη Βραζιλία. 2/2 Σκηνοθεσία: Laura Flegg, Olive King, Richard Max. (2022).(c)</desc>
   </programme>
-  <programme start="20221029202500 +0300" stop="20221029211500 +0300" channel="BBC World">
+  <programme start="20221030014500 +0300" stop="20221030023500 +0300" channel="BBC World">
     <title lang="el">ΑΝΩΜΑΛΊΑ: ΤΟ ΔΙΑΣΤΗΜΙΚΌ ΤΡΊΓΩΝΟ ΤΩΝ ΒΕΡΜΟΎΔΩΝ Κ1 ΕΠ1</title>
-    <desc lang="el">Παρατηρείται μια παράξενη ανωμαλία στο μαγνητικό πεδίο της Γης, η οποία εκτείνεται από τη Νότια Βραζιλία μέχρι τη Δυτική Ακτή της Αφρικής. Ονομάζεται Ανωμαλία του Νότιου Ατλαντικού. 1/1 Σκηνοθεσία: Ross Kirby. (2019).</desc>
+    <desc lang="el">Παρατηρείται μια παράξενη ανωμαλία στο μαγνητικό πεδίο της Γης, η οποία εκτείνεται από τη Νότια Βραζιλία μέχρι τη Δυτική Ακτή της Αφρικής. Ονομάζεται Ανωμαλία του Νότιου Ατλαντικού. 1/1 Σκηνοθεσία: Ross Kirby. (2019).(c)</desc>
   </programme>
-  <programme start="20221029211500 +0300" stop="20221029220000 +0300" channel="BBC World">
+  <programme start="20221030023500 +0300" stop="20221030032000 +0300" channel="BBC World">
     <title lang="el">Η ΠΙΟ ΜΑΎΡΗ ΠΕΡΊΟΔΟΣ ΤΗΣ ΑΡΧΑΊΑΣ ΑΙΓΎΠΤΟΥ Κ1 ΕΠ2</title>
-    <desc lang="el">Αρχαιολόγοι κι επιστήμονες ζητούν στοιχεία για να λύσουν το μυστήριο του μαζικού τάφου μελετώντας πολιτικές και οικολογικές καταστροφές που βύθισαν τον λαό της Αιγύπτου στην αναρχία. Ήταν τα πτώματα θύματα λιμού, εμφύλιου πολέμου ή άλλου συμβάντος; 2/2 (2021).</desc>
+    <desc lang="el">Αρχαιολόγοι κι επιστήμονες ζητούν στοιχεία για να λύσουν το μυστήριο του μαζικού τάφου μελετώντας πολιτικές και οικολογικές καταστροφές που βύθισαν τον λαό της Αιγύπτου στην αναρχία. Ήταν τα πτώματα θύματα λιμού, εμφύλιου πολέμου ή άλλου συμβάντος; 2/2 (2021).(c)</desc>
   </programme>
-  <programme start="20221029220000 +0300" stop="20221029230000 +0300" channel="BBC World">
+  <programme start="20221030032000 +0300" stop="20221030033000 +0300" channel="BBC World">
     <title lang="el">ΑΚΟΎΣΤΕ ΤΙ ΣΑΣ ΛΈΩ, ΓΙΑΤΡΌΣ ΕΊΜΑΙ Κ6 ΕΠ1</title>
-    <desc lang="el">Η σειρά που προσπερνά τα πρωτοσέλιδα, προκειμένου να δώσει έγκυρες απαντήσεις για θέματα υγείας. 1/3.</desc>
+    <desc lang="el">Η σειρά που προσπερνά τα πρωτοσέλιδα, προκειμένου να δώσει έγκυρες απαντήσεις για θέματα υγείας. 1/3.(c)</desc>
   </programme>
-  <programme start="20221029230000 +0300" stop="20221029234500 +0300" channel="BBC World">
+  <programme start="20221030033000 +0300" stop="20221030040500 +0300" channel="BBC World">
     <title lang="el">ΕΞΕΡΕΎΝΗΣΗ ΗΦΑΙΣΤΕΊΩΝ Κ1 ΕΠ5</title>
-    <desc lang="el">Ο ειδικός ηφαιστείων Κρις Χόρσλεϊ καλείται ξανά στο Κονγκό, για να μελετήσει μια δυνητικά θανάσιμη απειλή για πάνω από δύο εκατομμύρια ανθρώπους. Μετά από μια πρόσφατη έκρηξη, στο έδαφος έχει εμφανιστεί ένα πελώριο ρήγμα 16 χιλιομέτρων, από τις πλαγιές του Νιραγκόνγκο μέχρι τη λίμνη Κίβου. Ο Κρις καταφθάνει για να ερευνήσει πώς προέκυψε και τι συνέπειες μπορεί να έχει. 5/8 (2022).</desc>
+    <desc lang="el">Ο ειδικός ηφαιστείων Κρις Χόρσλεϊ καλείται ξανά στο Κονγκό, για να μελετήσει μια δυνητικά θανάσιμη απειλή για πάνω από δύο εκατομμύρια ανθρώπους. Μετά από μια πρόσφατη έκρηξη, στο έδαφος έχει εμφανιστεί ένα πελώριο ρήγμα 16 χιλιομέτρων, από τις πλαγιές του Νιραγκόνγκο μέχρι τη λίμνη Κίβου. Ο Κρις καταφθάνει για να ερευνήσει πώς προέκυψε και τι συνέπειες μπορεί να έχει. 5/8 (2022).(c)</desc>
   </programme>
-  <programme start="20221030011000 +0300" stop="20221030031000 +0300" channel="BBC World">
-    <title lang="el">Jaws</title>
-    <desc lang="el">Ένας λευκός καρχαρίας αρχίζει να κυνηγά και να σκοτώνει ανθρώπους στις παραλίες της Νέας Αγγλίας. Σκηνοθεσία: Steven Spielberg,. Πρωταγωνιστούν: Roy Scheider, Robert Shaw,. (1975).</desc>
+  <programme start="20221030040500 +0300" stop="20221030051000 +0300" channel="BBC World">
+    <title lang="el">ΒΡΑΒΕΊΟ Earthshot: Η ΑΝΆΚΑΜΨΗ ΤΟΥ ΠΛΑΝΉΤΗ ΜΑΣ Κ1 ΕΠ4</title>
+    <desc lang="el">Ο πρίγκιπας Γουίλιαμ, ιδρυτής των Βραβείων Earthshot, και τα μέλη του Συμβουλίου των Βραβείων Earthshot, σερ Ντέιβιντ Άτενμπρο και η τραγουδίστρια-τραγουδοποιός Σακίρα, ανακαλύπτουν πώς βλάπτουμε τους ωκεανούς και πώς μπορούμε να τους αναζωογονήσουμε. 4/5 (2021).(c)</desc>
   </programme>
-  <programme start="20221030031000 +0300" stop="20221030042000 +0300" channel="BBC World">
-    <title lang="el">Apocalypto</title>
-    <desc lang="el">Όταν η ήσυχη ζωή ενός άντρα αναστατώνεται από μια βίαιη εισβολή, εκείνος αναγκάζεται να κάνει ένα επικίνδυνο ταξίδι σε έναν κόσμο όπου βασιλεύει ο φόβος. Σκηνοθεσία: Mel Gibson,. Πρωταγωνιστούν: Iazua Larios, Israel Contreras,. (2006).</desc>
+  <programme start="20221030051000 +0300" stop="20221030060000 +0300" channel="BBC World">
+    <title lang="el">Ο ΠΛΑΝΉΤΗΣ ΑΛΛΆΖΕΙ Κ1 ΕΠ2</title>
+    <desc lang="el">Η Λιζ Μπόνιν ταξιδεύει στην Καλιφόρνια για να μάθει για τις αυξανόμενες πυρκαγιές. Ο Άντε Αντεπιτάν πάει στην Κένυα, για να εξετάσει την άνοδο των θερμοκρασιών, ενώ ο Γκόρντον Μπιουκάναν αναζητά ιαγουάρους στη Βραζιλία. 2/2 Σκηνοθεσία: Laura Flegg, Olive King, Richard Max. (2022).(c)</desc>
   </programme>
-  <programme start="20221030042000 +0300" stop="20221030055500 +0300" channel="BBC World">
-    <title lang="el">When Harry Met sally...</title>
-    <desc lang="el">Δύο καριερίστες στο Μανχάταν αρχικά μισούν, στη συνέχεια συμπαθούν και τελικά ερωτεύονται ο ένας την άλλη, αφού έχουν περάσει 12 χρόνια. Σκηνοθεσία: Rob Reiner,. Πρωταγωνιστούν: Kevin Rooney, Billy Crystal, Meg Ryan, Joseph Hunt, Carrie Fisher, Bruno Kirby. (1989).</desc>
+  <programme start="20221030060000 +0300" stop="20221030070000 +0300" channel="BBC World">
+    <title lang="el">ΑΚΟΎΣΤΕ ΤΙ ΣΑΣ ΛΈΩ, ΓΙΑΤΡΌΣ ΕΊΜΑΙ Κ6 ΕΠ1</title>
+    <desc lang="el">Η σειρά που προσπερνά τα πρωτοσέλιδα, προκειμένου να δώσει έγκυρες απαντήσεις για θέματα υγείας. 1/3.(c)</desc>
   </programme>
-  <programme start="20221030055500 +0300" stop="20221030075000 +0300" channel="BBC World">
-    <title lang="el">Jaws 2</title>
-    <desc lang="el">Οι λουόμενοι στο νησί Άμιτι απειλούνται και πάλι από έναν γιγάντιο, ανθρωποφάγο καρχαρία σε αυτήν τη συναρπαστική συνέχεια του αριστουργήματος του Σπίλμπεργκ! Σκηνοθεσία: Jeannot Szwarc,. Πρωταγωνιστούν: Donna Wilkes, Roy Scheider,. (1978).</desc>
+  <programme start="20221030070000 +0300" stop="20221030072500 +0300" channel="BBC World">
+    <title lang="el">60 Θανάσιμα Ζώα Κ4 ΕΠ5</title>
+    <desc lang="el">Ο Στιβ παρακολουθεί το νυχτερινό κυνήγι ενός λεπταίλουρου σερβάλ στην παράξενη περιοχή που περιβάλλει έναν σταθμό ηλεκτρικού ρεύματος, δοκιμάζει το δάγκωμα φιδιών, και συναντά μια σπάνια αράχνη. 5/11 Σκηνοθεσία: Kirstine Davidson. Πρωταγωνιστούν: Steve Backshall. (2020).(c)</desc>
   </programme>
-  <programme start="20221030075000 +0300" stop="20221030092500 +0300" channel="BBC World">
-    <title lang="el">Smokey and the Bandit</title>
-    <desc lang="el">Ένας θρυλικός οδηγός, ο Bandit, βάζει το σχεδόν αδύνατο στοίχημα να οδηγήσει ως το Τέξας και να επιστρέψει, ενεργοποιώντας έτσι μια αλυσίδα γεγονότων που καταλήγει σε μια απ’ τις πιο ξέφρενες καταδιώξεις οχημάτων όλων των εποχών. Σκηνοθεσία: Hal Needham,. Πρωταγωνιστούν: Burt Reynolds, Sally Field,. (1977).</desc>
+  <programme start="20221030072500 +0300" stop="20221030081500 +0300" channel="BBC World">
+    <title lang="el">Οι Πλανήτες Κ1 ΕΠ1</title>
+    <desc lang="el">Οι βραχώδεις πλανήτες Ερμής, Αφροδίτη, Γη και Άρης γεννήθηκαν την ίδια εποχή και από το ίδιο υλικό - ωστόσο, η ζωή του κάθε πλανήτη είναι εντελώς διαφορετική. Ποιες τεράστιες δυνάμεις επιδρούν στην εξέλιξή τους; 1/5 Σκηνοθεσία: Martin Johnson. Πρωταγωνιστούν: Brian Cox. (2019).(c)</desc>
   </programme>
-  <programme start="20221030092500 +0300" stop="20221030111000 +0300" channel="BBC World">
-    <title lang="el">The Bank Job</title>
-    <desc lang="el">Πρόκειται για την αληθινή ιστορία μιας ληστείας σε τράπεζας του Λονδίνου τη δεκαετία του 1970 με βαρύτατες πολιτικές προεκτάσεις. Μια ομάδα διαρρηκτών ανοίγει μια υπόγεια σήραγγα ως το υπόγειο μιας τράπεζας, μόνο που το τούνελ σχεδόν τους καταπλακώνει. Σκηνοθεσία: Roger Donaldson,. Πρωταγωνιστούν: Ray L. Nicholas, David Suchet, Colin Salmon, Rupert Vansittart, Omar Mostafa, Dai Smith. (2008).</desc>
+  <programme start="20221030081500 +0300" stop="20221030091000 +0300" channel="BBC World">
+    <title lang="el">Οι Πλανήτες Κ1 ΕΠ2</title>
+    <desc lang="el">Ο καθηγητής Μπράιαν Κοξ συνεχίζει την περίηγησή του στο ηλιακό σύστημα και αποκαλύπτει ότι αυτό το σύστημα κάποτε φιλοξενούσε όχι έναν, αλλά δύο γαλάζιους πλανήτες. 2/5 Σκηνοθεσία: Stephen Cooter. Πρωταγωνιστούν: Brian Cox. (2019).(c)</desc>
   </programme>
-  <programme start="20221030111000 +0300" stop="20221030125500 +0300" channel="BBC World">
-    <title lang="el">The Break-Up</title>
-    <desc lang="el">Όταν κανένας από το πρώην ζευγάρι δεν είναι διατεθειμένος να φύγει από το διαμέρισμα που μοιράζονταν, η μόνη λύση είναι να συνεχίσουν να ζουν μαζί ως άσπονδοι συγκάτοικοι μέχρι κάποιος να υποχωρήσει. Σκηνοθεσία: Peyton Reed,. Πρωταγωνιστούν: Jennifer Aniston,. (2006).</desc>
+  <programme start="20221030091000 +0300" stop="20221030100500 +0300" channel="BBC World">
+    <title lang="el">Οι Πλανήτες Κ1 ΕΠ3</title>
+    <desc lang="el">Ο καθηγητής Μπράιαν Κοξ συνεχίζει την εξερεύνηση του ηλιακού συστήματος και επισκέπτεται τον πλανήτη που κάνει όλους τους άλλους να φαίνονται νάνοι: τον Δία. Το μέγεθός του τού εξασφαλίζει μεγάλη δύναμη την οποία χρησιμοποιεί για να επηρεάζει τους υπόλοιπους πλανήτες. 3/5 Σκηνοθεσία: Stephen Cooter. Πρωταγωνιστούν: Brian Cox. (2019).(c)</desc>
   </programme>
-  <programme start="20221030125500 +0300" stop="20221030142500 +0300" channel="BBC World">
-    <title lang="el">Raising Cain</title>
-    <desc lang="el">Ο Κάρτερ Νιξ είναι ένας έγκριτος παιδοψυχολόγος που αρχίζει να αποκτά μια περίεργη και επικίνδυνη εμμονή. Σε σκηνοθεσία Μπράιαν Ντε Πάλμα. Σκηνοθεσία: Brian De Palma,. Πρωταγωνιστούν: Kathleen Callan, John Lithgow,. (1992).</desc>
+  <programme start="20221030100500 +0300" stop="20221030110000 +0300" channel="BBC World">
+    <title lang="el">Οι Πλανήτες Κ1 ΕΠ4</title>
+    <desc lang="el">Ο καθ. Μπράιαν Κοξ αποκαλύπτει την ιστορία του Κρόνου. Ο Κρόνος άρχισε να υφίσταται ως ένας παράξενος πλανήτης που αποτελούνταν από πέτρα και πάγο και με τον καιρό μεταμορφώθηκε σε έναν γίγαντα αερίων, χωρίς δακτυλίους και με όψη παρόμοια με εκείνη του αντιπάλου του Δία. 4/5 Σκηνοθεσία: Nic Stacey. Πρωταγωνιστούν: Brian Cox. (2019).(c)</desc>
   </programme>
-  <programme start="20221030142500 +0300" stop="20221030155000 +0300" channel="BBC World">
-    <title lang="el">Laws of Attraction</title>
-    <desc lang="el">Δύο επιτυχημένοι δικηγόροι ερωτεύονται παρά την αντιδικία τους σε υποθέσεις διαζυγίων επωνύμων. Σκηνοθεσία: Peter Howitt. Πρωταγωνιστούν: Pierce Brosnan, Julianne Moore, Parker Posey, Michael Sheen, Frances Fisher, Sara James. (2004).</desc>
+  <programme start="20221030110000 +0300" stop="20221030115000 +0300" channel="BBC World">
+    <title lang="el">Οι Πλανήτες Κ1 ΕΠ5</title>
+    <desc lang="el">Η σειρά αναπαριστά τα πιο αξιοσημείωτα γεγονότα στην ιστορία του ηλιακού συστήματος χρησιμοποιώντας πρωτοποριακά ηχητικά εφέ κατά την αφήγηση των γεγονότων. 5/5 Σκηνοθεσία: Martin Johnson. Πρωταγωνιστούν: Brian Cox. (2019).(c)</desc>
   </programme>
-  <programme start="20221030155000 +0300" stop="20221030180500 +0300" channel="BBC World">
-    <title lang="el">L.A. Confidential</title>
-    <desc lang="el">Εν μέσω διαφθοράς, φόνων και τη λάμψη διάσημων κινηματογραφικών σταρ, τρεις αστυνομικοί αγωνίζονται να αποκαλύψουν την αλήθεια πίσω από μια άγρια μαζική δολοφονία. Σκηνοθεσία: Curtis Hanson,. Πρωταγωνιστούν: Kevin Spacey, Russell Crowe, Guy Pearce, James Cromwell, Kim Basinger, Danny DeVito. (1997).</desc>
+  <programme start="20221030115000 +0300" stop="20221030124500 +0300" channel="BBC World">
+    <title lang="el">ΤΑ ΤΡΟΠΙΚΆ ΝΗΣΙΆ ΤΗΣ ΓΗΣ Κ1 ΕΠ1</title>
+    <desc lang="el">Ένα ταξίδι στη Μαδαγασκάρη, το αρχαιότερο νησί της Γης. Με το πέρασμα του χρόνου, το νησί αυτό φιλοξένησε περισσότερα φυτά και ζώα - από τους διάσημους λεμούριους μέχρι τους πολύχρωμους χαμαιλέοντες- από οποιοδήποτε άλλο νησί στον κόσμο. 1/3 Σκηνοθεσία: Sara Douglas. Πρωταγωνιστούν: David Harewood. (2020).(c)</desc>
   </programme>
-  <programme start="20221030180500 +0300" stop="20221030200000 +0300" channel="BBC World">
-    <title lang="el">The Bourne Ultimatum</title>
-    <desc lang="el">Ο Τζέισον Μπορν επιστρέφει στον αδιάκοπο αγώνα του εναντίον μιας νέας γενιάς ικανών στελεχών της CIA που τον κυνηγούν ανά την υφήλιο καθώς τελικά μαθαίνει την αλήθεια πίσω από το μυστηριώδες παρελθόν του. Σκηνοθεσία: Paul Greengrass,. Πρωταγωνιστούν: Omar Hernandez, Matt Damon,. (2007).</desc>
+  <programme start="20221030124500 +0300" stop="20221030133500 +0300" channel="BBC World">
+    <title lang="el">ΤΑ ΤΡΟΠΙΚΆ ΝΗΣΙΆ ΤΗΣ ΓΗΣ Κ1 ΕΠ2</title>
+    <desc lang="el">Ένα ταξίδι που ξεκινά από τους πλούσιους κοραλλιογενείς υφάλους του Βόρνεο, διασχίζει τις πυκνές ζούγκλες και φτάνει μέχρι την ορεινή ενδοχώρα του, μια διαδρομή που αποκαλύπτει γιατί αυτό το νησί φιλοξενεί πλουσιότερη ποικιλία ζωής από σχεδόν οποιοδήποτε άλλον τόπο στον κόσμο. 2/3 Σκηνοθεσία: Will Ridgeon. Πρωταγωνιστούν: David Harewood. (2020).(c)</desc>
   </programme>
-  <programme start="20221030200000 +0300" stop="20221030223500 +0300" channel="BBC World">
-    <title lang="el">Gangs of New York</title>
-    <desc lang="el">Ο Άμστερνταμ έχει βαλθεί να πάρει εκδίκηση για το θάνατο του πατέρα του, ο οποίος σκοτώθηκε σε μια μάχη συμμοριών από το χέρι ενός βαρόνου του εγκλήματος, του Μπιλ του “Χασάπη”. Ενώ εκπληρώνει την αποστολή του όμως, εγκλωβίζεται στον Εμφύλιο Πόλεμο. Σκηνοθεσία: Martin Scorsese,. Πρωταγωνιστούν: Leonardo DiCaprio, Daniel Day-Lewis,. (2002).</desc>
+  <programme start="20221030133500 +0300" stop="20221030142500 +0300" channel="BBC World">
+    <title lang="el">ΤΑ ΤΡΟΠΙΚΆ ΝΗΣΙΆ ΤΗΣ ΓΗΣ Κ1 ΕΠ3</title>
+    <desc lang="el">Εξερευνούμε τη Χαβάη, ένα τροπικό καταφύγιο για κάθε είδος άγριας φύσης που μπορεί να φτάσει στις απομακρυσμένες ακτές του νησιού. Από τις μεγάπτερες φάλαινες μέχρι τα ψάρια που κολυμπούν σε καταρράκτες, το νησί αυτό φιλοξενεί μια αστείρευτη πηγή άγριας ζωής. 3/3 Σκηνοθεσία: Evie Wright. Πρωταγωνιστούν: David Harewood. (2020).(c)</desc>
   </programme>
-  <programme start="20221030223500 +0300" stop="20221030224000 +0300" channel="BBC World">
+  <programme start="20221030142500 +0300" stop="20221030151000 +0300" channel="BBC World">
+    <title lang="el">ΖΩΉ ΥΠΌ ΤΟ ΜΗΔΈΝ: ΚΑΝΑΔΆΣ Κ2 ΕΠ1</title>
+    <desc lang="el">Με στόχο μια σταθερή πηγή προμήθειας σκυλοτροφής, η Μπέκι και η οικογένειά της στήνει μια κατασκήνωση για ψάρεμα στις όχθες της Μεγάλης Λίμνης των Σκλάβων. Αναζητώντας μια αγέλη καριμπού που όλο ξεγλιστράει, ο νεοφερμένος Τζον Γκρενιέ περιπλανιέται στην άγρια φύση του βόρειου Κεμπέκ, ενώ ο Μπέντλεϊ Κακέκαγιας εξορμά για ένα από τα πρώτα κυνήγια άλκης της χρονιάς. 1/8 Σκηνοθεσία: Paul Kilback, Victor Kushmaniuk, Mark Stevenson. Πρωταγωνιστούν: Becky Broderick, Bentley Kakekayash, Mike Harrison, Kim Pasche, Pierre-Yves Duc. (2022).(c)</desc>
+  </programme>
+  <programme start="20221030151000 +0300" stop="20221030155500 +0300" channel="BBC World">
+    <title lang="el">ΖΩΉ ΥΠΌ ΤΟ ΜΗΔΈΝ: ΚΑΝΑΔΆΣ Κ2 ΕΠ2</title>
+    <desc lang="el">Μετά την περυσινή απώλεια ενός αποθέματος κρέατος, ο Κιμ και ο Πιερ στρέφονται στη γη για να εξασφαλίσουν μια επείγουσα πηγή τροφής. Ο Μπέντλεϊ μαζί με τη γυναίκα του, τη Φελίσια, εξερευνούν τη λίμνη Σάντε, κυνηγώντας τους πρώτους κάστορες της χρονιάς. Στο πλαίσιο της διαρκούς προσπάθειάς του να ενισχύσει το κελάρι του για τον χειμώνα, ο Τζον σαλπάρει για κυνήγι φώκιας. 2/8 Σκηνοθεσία: Paul Kilback, Victor Kushmaniuk, Mark Stevenson. Πρωταγωνιστούν: Becky Broderick, Bentley Kakekayash, Mike Harrison, Kim Pasche, Pierre-Yves Duc. (2022).(c)</desc>
+  </programme>
+  <programme start="20221030155500 +0300" stop="20221030164000 +0300" channel="BBC World">
+    <title lang="el">ΖΩΉ ΥΠΌ ΤΟ ΜΗΔΈΝ: ΚΑΝΑΔΆΣ Κ2 ΕΠ3</title>
+    <desc lang="el">Η Μπέκι δυσκολεύεται να εξασφαλίσει σταθερή προμήθεια νερού για τον χειμώνα. Ο Κιμ και ο Πιερ εστιάζουν στο κυνήγι μεγάλων θηραμάτων. Ο Τζον στρέφεται στη γη για να βρει τις τόσο απαραίτητες προμήθειες, και ο Μπέντλεϊ πλέει στα νερά της λίμνης Σάντε. 3/8 Σκηνοθεσία: Paul Kilback, Victor Kushmaniuk, Mark Stevenson. Πρωταγωνιστούν: Becky Broderick, Bentley Kakekayash, Mike Harrison, Kim Pasche, Pierre-Yves Duc. (2022).(c)</desc>
+  </programme>
+  <programme start="20221030164000 +0300" stop="20221030172500 +0300" channel="BBC World">
+    <title lang="el">ΖΩΉ ΥΠΌ ΤΟ ΜΗΔΈΝ: ΚΑΝΑΔΆΣ Κ2 ΕΠ4</title>
+    <desc lang="el">Ο Κιμ και ο Πιερ πολλαπλασιάζουν τις προσπάθειές τους να σκοτώσουν μια άλκη. Η Μπέκι κάνει το παν για χάρη των σκυλιών της. Ο Μπέντλεϊ και ο πατέρας του κατασκευάζουν έναν θερινό διάδρομο προσαπογείωσης για το αεροπλάνο τους, και ο Τζον με τους δυο γιους του ανατρέχουν στο παρελθόν για να οικοδομήσουν ένα καλύτερο μέλλον. 4/8 Σκηνοθεσία: Paul Kilback, Victor Kushmaniuk, Mark Stevenson. Πρωταγωνιστούν: Becky Broderick, Bentley Kakekayash, Mike Harrison, Kim Pasche, Pierre-Yves Duc. (2022).(c)</desc>
+  </programme>
+  <programme start="20221030172500 +0300" stop="20221030181000 +0300" channel="BBC World">
+    <title lang="el">ΣΗΜΑΝΤΙΚΈΣ ΠΌΛΕΙΣ ΜΕ ΤΗΝ ΤΖΟΆΝΑ ΛΆΜΛΕΪ Κ1 ΕΠ2</title>
+    <desc lang="el">2/3 Σκηνοθεσία: Zoe Dobson. Πρωταγωνιστούν: Joanna Lumley. (2022).(c)</desc>
+  </programme>
+  <programme start="20221030181000 +0300" stop="20221030190000 +0300" channel="BBC World">
+    <title lang="el">ΣΗΜΑΝΤΙΚΈΣ ΠΌΛΕΙΣ ΜΕ ΤΗΝ ΤΖΟΆΝΑ ΛΆΜΛΕΪ Κ1 ΕΠ3</title>
+    <desc lang="el">3/3 Σκηνοθεσία: Ewen Thomson. Πρωταγωνιστούν: Joanna Lumley. (2022).(c)</desc>
+  </programme>
+  <programme start="20221030190000 +0300" stop="20221030200000 +0300" channel="BBC World">
+    <title lang="el">ΠΑΓΩΜΈΝΟΣ ΠΛΑΝΉΤΗΣ 2 Κ2 ΕΠ1</title>
+    <desc lang="el">Από τους πόλους μέχρι τις ψηλότερες βουνοκορφές, όλες οι ήπειροι περιλαμβάνουν κάποιους αναπάντεχους παγωμένους κόσμους, οι οποίοι φιλοξενούν μοναδικά, εντυπωσιακά ζώα. 1/6 (2022).(c)</desc>
+  </programme>
+  <programme start="20221030200000 +0300" stop="20221030210000 +0300" channel="BBC World">
+    <title lang="el">ΣΕΡΕΝΓΚΈΤΙ Κ2 ΕΠ3</title>
+    <desc lang="el">3/6 Σκηνοθεσία: John Downer. (2021).(c)</desc>
+  </programme>
+  <programme start="20221030210000 +0300" stop="20221030215500 +0300" channel="BBC World">
+    <title lang="el">ΟΙ ΠΕΡΙΠΈΤΕΙΕΣ ΤΟΥ ΡΌΜΕΣ ΡΑΝΓΚΑΝΆΘΑΝ Κ3 ΕΠ2</title>
+    <desc lang="el">Ο κωμικός και παρουσιαστής Ρόμες Ρανγκανάθαν ταξιδεύει πέρα από τη ζώνη ασφαλείας του, μακριά από τον κόσμο των δωρεάν πρωινών, σε μερικούς από τους πιο αναπάντεχους προορισμούς διακοπών στον πλανήτη. 2/3 Σκηνοθεσία: Chris Cottam. (2022).(c)</desc>
+  </programme>
+  <programme start="20221030223500 +0300" stop="20221031004500 +0300" channel="BBC World">
     <title lang="el">The Man in the Iron Mask</title>
-    <desc lang="el">The Man in the Iron Mask Σκηνοθεσία: Randall Wallace,. Πρωταγωνιστούν: Leonardo DiCaprio, Jeremy Irons,. (1998).</desc>
+    <desc lang="el">The Man in the Iron Mask Σκηνοθεσία: Randall Wallace,. Πρωταγωνιστούν: Leonardo DiCaprio, Jeremy Irons,. (1998).(c)</desc>
   </programme>
-  <programme start="20221030224000 +0300" stop="20221031005000 +0300" channel="BBC World">
-    <title lang="el">Εννιά Ημέρες</title>
-    <desc lang="el">Ένας άνδρας παίρνει συνέντευξη από ψυχές που διεκδικούν την ευκαιρία να γεννηθούν, κι έρχεται αντιμέτωπος με τη δική του υπόσταση όταν γνωρίζει μία υποψήφια που διαφέρει από όλους τους άλλους. Δράμα, 2020. Σκηνοθεσία: Εντσον Οντα. Πρωταγωνιστές: Μπιλ Σκάρσγκορντ, Ουίνστον Ντουκ, Ζάσι Μπιτς.</desc>
+  <programme start="20221030215500 +0300" stop="20221030225500 +0300" channel="BBC World">
+    <title lang="el">ΜΕΓΆΛΟΙ ΠΟΤΑΜΟΊ ΤΗΣ ΓΗΣ Κ2 ΕΠ2</title>
+    <desc lang="el">Από κρυστάλλινους καταρράκτες μέχρι χελωνίτσες στο μέγεθος νυχιού, εξερευνήστε τα μαγευτικά θαύματα του Δούναβη, ο οποίος διακλαδίζεται σε όλη την Ευρώπη, με τους παραποτάμους του να συγκεντρώνουν νερό από 19 χώρες. 2/3 (2019).(c)</desc>
   </programme>
-  <programme start="20221031005000 +0300" stop="20221031013000 +0300" channel="BBC World">
+  <programme start="20221030225500 +0300" stop="20221030234500 +0300" channel="BBC World">
+    <title lang="el">Η Ζωή, Ο Θάνατος Και Η Κληρονομιά Του Τουταγχαμών Κ1 ΕΠ1</title>
+    <desc lang="el">Αποκαλύπτουμε τις νέες γνώσεις που φωτίζουν τα μυστικά της ταφής του Τουταγχαμών, αξιοποιούμε τις πιο πρόσφατες μορφές τεχνολογίας για να διαπιστώσουμε από τι πέθανε και παίρνουμε μια γεύση της πολυτελούς ζωής των καλομαθημένων Φαραώ. 1/3 Σκηνοθεσία: Jamie Simpson. (2019).(c)</desc>
+  </programme>
+  <programme start="20221031004500 +0300" stop="20221031023000 +0300" channel="BBC World">
+    <title lang="el">Untraceable</title>
+    <desc lang="el">Η Μονάδα Δίωξης Ηλεκτρονικού Εγκλήματος του FBI καταδιώκει επικίνδυνους διαδικτυακούς εγκληματίες, αλλά ο πιο επικίνδυνος απ’ όλους καταδιώκει εκείνους. Σκηνοθεσία: Gregory Hoblit,. Πρωταγωνιστούν: Diane Lane, Billy Burke,. (2008).(c)</desc>
+  </programme>
+  <programme start="20221031023000 +0300" stop="20221031042000 +0300" channel="BBC World">
+    <title lang="el">Back to the Future</title>
+    <desc lang="el">Ο Μάρτι Μακ Φλάι εκτινάσσεται στο 1955 με τη χρονομηχανή που δημιούργησε ο Δρ. Μπράουν και αντιμετωπίζει μια κατάσταση κατακερματισμού του χρόνου που βάζει σε κίνδυνο το μέλλον του. Σκηνοθεσία: Frank Marshall,Robert Zemeckis,. Πρωταγωνιστούν: Michael J. Fox, Christopher Lloyd,. (1985).(c)</desc>
+  </programme>
+  <programme start="20221031042000 +0300" stop="20221031060500 +0300" channel="BBC World">
+    <title lang="el">Back to the Future Part II</title>
+    <desc lang="el">Ο Μάρτι Μακ Φλάι και ο Καθηγητής Μπράουν επιστρέφουν! Αυτή τη φορά πρέπει να ταξιδέψουν στο μέλλον για να εμποδίσουν τα παιδιά του Μάρτι να εκτεθούν σε κίνδυνο. Σκηνοθεσία: Robert Zemeckis,Max Kleven,. Πρωταγωνιστούν: Charles Fleischer, Michael J. Fox,. (1989).(c)</desc>
+  </programme>
+  <programme start="20221031060500 +0300" stop="20221031064000 +0300" channel="BBC World">
+    <title lang="el">Hollywood's Best Film Directors</title>
+    <desc lang="el">Οι Τζορτζ Λούκας, Ρίντλεϊ Σκοτ, Πολ Γκρίνγκρας και άλλοι όμοιοί τους βρίσκονται στο επίκεντρο αυτής της σειράς που εξερευνά τη ζωή και το έργο των σκηνοθετών του Χόλιγουντ. (2011).(c)</desc>
+  </programme>
+  <programme start="20221031064000 +0300" stop="20221031071000 +0300" channel="BBC World">
+    <title lang="el">Hollywood's Best Film Directors</title>
+    <desc lang="el">Οι Τζορτζ Λούκας, Ρίντλεϊ Σκοτ, Πολ Γκρίνγκρας και άλλοι όμοιοί τους βρίσκονται στο επίκεντρο αυτής της σειράς που εξερευνά τη ζωή και το έργο των σκηνοθετών του Χόλιγουντ. (2011).(c)</desc>
+  </programme>
+  <programme start="20221031071000 +0300" stop="20221031091500 +0300" channel="BBC World">
+    <title lang="el">The Man in the Iron Mask</title>
+    <desc lang="el">The Man in the Iron Mask Σκηνοθεσία: Randall Wallace,. Πρωταγωνιστούν: Leonardo DiCaprio, Jeremy Irons,. (1998).(c)</desc>
+  </programme>
+  <programme start="20221031091500 +0300" stop="20221031110000 +0300" channel="BBC World">
+    <title lang="el">Boys on the Side</title>
+    <desc lang="el">Η Τζέιν, τραγουδίστρια σε νυχτερινά κλαμπ, έχει μείνει άνεργη. Η Ρόμπιν είναι μια ιδιόρρυθμη μεσίτρια που ψάχνει συνεπιβάτη για να μοιραστεί τη διαδρομή μέχρι την Καλιφόρνια. Στην αγγελία της ανταποκρίνεται η Τζέιν, παρά τις αρχικές επιφυλάξεις της. (1995) Σκηνοθεσία: Herbert Ross. Πρωταγωνιστούν: Whoopi Goldberg, Malika Edwards, Drew Barrymore, Billy Wirth, Josh Segal, Estelle Parsons. (1995).(c)</desc>
+  </programme>
+  <programme start="20221031110000 +0300" stop="20221031122500 +0300" channel="BBC World">
+    <title lang="el">Along Came Polly</title>
+    <desc lang="el">Όταν συναντιούνται οι δρόμοι της Πόλι, μιας κοπέλας ανοργάνωτης με ελεύθερο πνεύμα, και του Ρούμπεν, ενός οργανωμένου, σταθερού και προσεκτικού ασφαλιστικού πράκτορα, εκείνος πρέπει να αποφασίσει αν θα ανταλλάξει τη βαρετή, προγραμματισμένη ζωή του με το όμορφο χάος που ακούει στο όνομα Πόλι. Σκηνοθεσία: John Hamburg,. Πρωταγωνιστούν: Nathan Dean, Ben Stiller,. (2004).(c)</desc>
+  </programme>
+  <programme start="20221031122500 +0300" stop="20221031141500 +0300" channel="BBC World">
+    <title lang="el">The Bourne Ultimatum</title>
+    <desc lang="el">Ο Τζέισον Μπορν επιστρέφει στον αδιάκοπο αγώνα του εναντίον μιας νέας γενιάς ικανών στελεχών της CIA που τον κυνηγούν ανά την υφήλιο καθώς τελικά μαθαίνει την αλήθεια πίσω από το μυστηριώδες παρελθόν του. Σκηνοθεσία: Paul Greengrass,. Πρωταγωνιστούν: Omar Hernandez, Matt Damon,. (2007).(c)</desc>
+  </programme>
+  <programme start="20221031141500 +0300" stop="20221031165500 +0300" channel="BBC World">
+    <title lang="el">Gangs of New York</title>
+    <desc lang="el">Ο Άμστερνταμ έχει βαλθεί να πάρει εκδίκηση για το θάνατο του πατέρα του, ο οποίος σκοτώθηκε σε μια μάχη συμμοριών από το χέρι ενός βαρόνου του εγκλήματος, του Μπιλ του “Χασάπη”. Ενώ εκπληρώνει την αποστολή του όμως, εγκλωβίζεται στον Εμφύλιο Πόλεμο. Σκηνοθεσία: Martin Scorsese,. Πρωταγωνιστούν: Leonardo DiCaprio, Daniel Day-Lewis,. (2002).(c)</desc>
+  </programme>
+  <programme start="20221031165500 +0300" stop="20221031183000 +0300" channel="BBC World">
+    <title lang="el">Shaun of the Dead</title>
+    <desc lang="el">Όταν ανασταίνονται οι νεκροί στο Λονδίνο, ένας ανερμάτιστος υπάλληλος καταστήματος ηλεκτρονικών ειδών αναγκάζεται να αναλάβει δράση για να σώσει τη μητέρα και την κοπέλα του. Σκηνοθεσία: Edgar Wright,. Πρωταγωνιστούν: Simon Pegg, Kate Ashfield,. (2004).(c)</desc>
+  </programme>
+  <programme start="20221031183000 +0300" stop="20221031200000 +0300" channel="BBC World">
+    <title lang="el">Fear</title>
+    <desc lang="el">Αυτό που ξεκινά ως αθώο ειδύλλιο μετατρέπεται σε θανάσιμη εμμονή όταν ένας χαρισματικός νέος βάζει στο στόχαστρο τη Νικόλ Γουόκερ, μια 16χρονη κοπέλα που πάντα ονειρευόταν να γοητευτεί από κάποιον ξεχωριστό άντρα, κάποιον δυνατό και ευαίσθητο που να νοιάζεται για εκείνη περισσότερο από οτιδήποτε άλλο στον κόσμο. Σκηνοθεσία: Ric Kidney,James Foley,. Πρωταγωνιστούν: L Gold, Mark Wahlberg,. (1996).(c)</desc>
+  </programme>
+  <programme start="20221031200000 +0300" stop="20221031214500 +0300" channel="BBC World">
+    <title lang="el">Misery</title>
+    <desc lang="el">Σε σκηνοθεσία Ρομπ Ράινερ, η βραβευμένη με Όσκαρ ταινία “Μίζερι” παρουσιάζει τον Τζέιμς Κάαν στον πρωταγωνιστικό ρόλο του μυθιστοριογράφου Πολ Σέλντον, που νοικιάζει μια απόμερη καλύβα για να μπορέσει να γράψει το απόλυτο αμερικανικό μυθιστόρημα, αλλά τρακάρει με το αυτοκίνητό του κατά τη διάρκεια μιας ορμητικής χιονοθύελλας, χάνοντας τις αισθήσεις του και σπάζοντας τα πόδια του. Σκηνοθεσία: Rob Reiner,. Πρωταγωνιστούν: Julie Payne, James Caan, Kathy Bates, Wendy Bowers, Richard Farnsworth, Gregory Snegoff. (1990).(c)</desc>
+  </programme>
+  <programme start="20221031214500 +0300" stop="20221031230500 +0300" channel="BBC World">
+    <title lang="el">Army of Darkness</title>
+    <desc lang="el">Δαιμονικές δυνάμεις στέλνουν τον Ας στη μεσαιωνική Αγγλία, όπου ερωτεύεται μια καλλονή και αντιμετωπίζει πλήθη αθάνατων θηρίων, συμπεριλαμβανομένης και μιας στρατιάς αποτρόπαιων σκελετών! Θα μπορέσει ο Aς να γλιτώσει τους ζωντανούς από τους σατανικούς νεκρούς, να σώσει την κοπέλα του και να επιστρέψει στην εποχή του; Σκηνοθεσία: Doug Leffler,Sam Raimi,. Πρωταγωνιστούν: Ken Jepson, Bruce Campbell,. (1992).(c)</desc>
+  </programme>
+  <programme start="20221031230500 +0300" stop="20221031230500 +0300" channel="BBC World">
+    <title lang="el">Jaws 2</title>
+    <desc lang="el">Οι λουόμενοι στο νησί Άμιτι απειλούνται και πάλι από έναν γιγάντιο, ανθρωποφάγο καρχαρία σε αυτήν τη συναρπαστική συνέχεια του αριστουργήματος του Σπίλμπεργκ! Σκηνοθεσία: Jeannot Szwarc,. Πρωταγωνιστούν: Donna Wilkes, Roy Scheider,. (1978).(g)</desc>
+  </programme>
+  <programme start="20221031230500 +0300" stop="20221101004500 +0300" channel="BBC World">
+    <title lang="el">Horizon Line</title>
+    <desc lang="el">Μετά την απογείωση του μικρού αεροσκάφους που θα τους μεταφέρει σε ένα μικρό νησί για τον γάμο ενός φίλου, ένα ζευγάρι βρίσκεται σε απόγνωση καθώς ο πιλότος παθαίνει καρδιακή προσβολή... Δράση, 2020. Σκηνοθεσία: Μίκαελ Μαρσιμέν. Πρωταγωνιστές: Αλεξάντερ Ντρέιμον, Κιθ Ντέιβιντ, Αλισον Γουίλιαμς.(g)</desc>
+  </programme>
+  <programme start="20221101004500 +0300" stop="20221101013000 +0300" channel="BBC World">
     <title lang="el">Κινηματογραφικά Νέα</title>
-    <desc lang="el">Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema! Νέες κυκλοφορίες, παραγωγές που σημειώνουν επιτυχία, διάσημοι πρωταγωνιστές και σκηνοθέτες παρελαύνουν στην οθόνη σας... Μαγκαζίνο.</desc>
+    <desc lang="el">Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema! Νέες κυκλοφορίες, παραγωγές που σημειώνουν επιτυχία, διάσημοι πρωταγωνιστές και σκηνοθέτες παρελαύνουν στην οθόνη σας... Μαγκαζίνο.(c)</desc>
   </programme>
-  <programme start="20221031013000 +0300" stop="20221031032000 +0300" channel="BBC World">
-    <title lang="el">Very Best Of Claire Castel Vol.2</title>
-    <desc lang="el">Παρακαλούμε ενημερωθείτε από το τμήμα Εξυπηρέτησης Πελατών ή από το εγχειρίδιο του αποκωδικοποιητή σας για τις δυνατότητες κλειδώματος της συσκευής. Αισθησιακή.</desc>
+  <programme start="20221101013000 +0300" stop="20221101033000 +0300" channel="BBC World">
+    <title lang="el">Very Best Of Claire Castel Vol.2 - P. 2</title>
+    <desc lang="el">Παρακαλούμε ενημερωθείτε από το τμήμα Εξυπηρέτησης Πελατών ή από το εγχειρίδιο του αποκωδικοποιητή σας για τις δυνατότητες κλειδώματος της συσκευής. Αισθησιακή.(c)</desc>
   </programme>
-  <programme start="20221031032000 +0300" stop="20221031052000 +0300" channel="BBC World">
-    <title lang="el">Στο Τέλος του Τούνελ</title>
-    <desc lang="el">Καθηλωμένος σε αναπηρικό καροτσάκι, ένας χρεωμένος τεχνικός υπολογιστών νοικιάζει ένα δωμάτιο σε μία χορεύτρια και την κόρη της. Οι δυο τους έρχονται κοντά αλλά κάτι δεν πάει καλά... Αστυνομική, 2016. Σκηνοθεσία: Ροδρίγο Γκράντε. Πρωταγωνιστές: Κλάρα Λάγο, Λεονάρντο Σμπαράλια, Πάμπλο Ετσάρι.</desc>
-  </programme>
-  <programme start="20221031052000 +0300" stop="20221031060000 +0300" channel="BBC World">
+  <programme start="20221101033000 +0300" stop="20221101230000 +0300" channel="BBC World">
     <title lang="el">Novacinema3HD</title>
-    <desc lang="el">Novacinema3HD: Καθαρή Αδρεναλίνη! Περιπέτειες, ταινίες δράσης, τρόμου και επιστημονικής φαντασίας! Κάθε Παρασκευή βράδυ μοναδικά θρίλερ που θα σας καθηλώσουν! Τα Σαββατοκύριακα,  το κανάλι  εκπέμπει 24 ώρες το 24ωρο.</desc>
-  </programme>
-  <programme start="20221031060000 +0300" stop="20221031184500 +0300" channel="BBC World">
-    <title lang="el">Novacinema3HD</title>
-    <desc lang="el">Novacinema3HD: Καθαρή Αδρεναλίνη! Περιπέτειες, ταινίες δράσης, τρόμου και επιστημονικής φαντασίας! Κάθε Παρασκευή βράδυ μοναδικά θρίλερ που θα σας καθηλώσουν! Τα Σαββατοκύριακα,  το κανάλι  εκπέμπει 24 ώρες το 24ωρο.</desc>
-  </programme>
-  <programme start="20221031184500 +0300" stop="20221031210000 +0300" channel="BBC World">
-    <title lang="el">Μαχητές των Δρόμων 6</title>
-    <desc lang="el">Μετά τη ληστεία στο Ρίο, η ομάδα βρίσκεται διασκορπισμένη στον πλανήτη, μέχρι τη στιγμή που ο Χομπς ζητά τη βοήθεια του Ντομ για τον εντοπισμό μίας θανάσιμης συμμορίας οδηγών, με αντάλλαγμα πλήρη ασυλία. Δράση, 2013. Σκηνοθεσία: Τζάστιν Λιν. Πρωταγωνιστές: Πολ Γουόκερ, Βιν Ντίζελ, Μισέλ Ροντρίγκες, Ντουέιν Τζόνσον.</desc>
-  </programme>
-  <programme start="20221031210000 +0300" stop="20221031230500 +0300" channel="BBC World">
-    <title lang="el">Ο Αρχηγός της Μαφίας</title>
-    <desc lang="el">Με το FBI να διεξάγει έρευνα για τα χρήματα που έχει αποκτήσει, ο γηραιός πλέον γκάνγκστερ Μέιερ Λάνσκι, διαβόητο αφεντικό μιας μαφιόζικης φαμίλιας, εξιστορεί τη ζωή του σε έναν συγγραφέα. Αληθινή ιστορία, 2021. Σκηνοθεσία: Εϊτάν Ροκαγουέι. Πρωταγωνιστές: Σαμ Γουόρθινγκτον, Χάρβεϊ Καϊτέλ, Τζον Μαγκάρο.</desc>
-  </programme>
-  <programme start="20221101010000 +0300" stop="20221101020000 +0300" channel="BBC World">
-    <title lang="el">ΩΡΑ ΧΟΡΟΥ (E)</title>
-    <desc lang="el">Έτος παραγωγής: 2022 Τι νιώθει κανείς όταν χορεύει; Με ποιον τρόπο o χορός τον απελευθερώνει; Και τι είναι αυτό που τον κάνει να αφιερώσει τη ζωή του στην Τέχνη του χορού;.</desc>
-  </programme>
-  <programme start="20221101020000 +0300" stop="20221101030000 +0300" channel="BBC World">
-    <title lang="el">ΚΙ ΟΜΩΣ ΕΙΜΑΙ ΑΚΟΜΑ ΕΔΩ (E)</title>
-    <desc lang="el">Η ιστορία... Η Κατερίνα (Kατερίνα Γερονικολού) μεγάλωσε με την ιδέα ότι θα πεθάνει νέα από μια σπάνια αρρώστια, ακριβώς όπως η μητέρα της. Αυτή η ιδέα την έκανε υποχόνδρια, φοβική με τη ζωή και εμμονική με τον θάνατο. Τώρα, στα 33 της, μαθαίνει από τον Αλέξανδρο (Γιάννη Τσιμιτσέλη), διακεκριμένο νευρολόγο, ότι έχει μόνο έξι μήνες ζωής και ο φόβος της επιβεβαιώνεται. Όμως, αντί να καταρρεύσει, απελευθερώνεται.</desc>
-  </programme>
-  <programme start="20221101030000 +0300" stop="20221101034000 +0300" channel="BBC World">
-    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ  (M)</title>
-    <desc lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ  (M).</desc>
-  </programme>
-  <programme start="20221101034000 +0300" stop="20221101040000 +0300" channel="BBC World">
-    <title lang="el">ΣΑΝ ΣΗΜΕΡΑ ΤΟΝ 20ο ΑΙΩΝΑ</title>
-    <desc lang="el">H εκπομπή αναζητά και αναδεικνύει την «ιστορική ταυτότητα» κάθε ημέρας. Όσα δηλαδή συνέβησαν μια μέρα σαν κι αυτήν κατά τον αιώνα που πέρασε και επηρέασαν, με τον ένα ή τον άλλο τρόπο, τις ζωές των ανθρώπων.</desc>
-  </programme>
-  <programme start="20221101040000 +0300" stop="20221101060000 +0300" channel="BBC World">
-    <title lang="el">ΤΑ ΚΑΛΥΤΕΡΑ ΜΑΣ ΧΡΟΝΙΑ</title>
-    <desc lang="el">Οικογενειακή σειρά μυθοπλασίας. Λίγες μόνο ημέρες μετά το Πολυτεχνείο, μέσα από την αφήγηση του μικρού Άγγελου Αντωνόπουλου, οδηγούμαστε στην Ελλάδα της Μεταπολίτευσης, ξεκινώντας από τον Ιούλιο του 1974 με τον Αττίλα Ι στην Κύπρο. ​Η σειρά μυθοπλασίας «σκαλίζει» με τρυφερότητα τις καθημερινές εμπειρίες της οικογένειας των Αντωνόπουλων αλλά και των αγαπημένων, πλέον, χαρακτήρων της γειτονιάς του Γκύζη, μιας γειτονιάς που ανανεώνεται στο πέρασμα των χρόνων.</desc>
-  </programme>
-  <programme start="20221101060000 +0300" stop="20221101060500 +0300" channel="BBC World">
-    <title lang="el">ΕΙΔΗΣΕΙΣ</title>
-    <desc lang="el">Νέο πρόγραμμα, νέες συνήθειες με... τις σταθερές αξίες της πρωινής ενημερωτικής ζώνης της ΕΡΤ να ενώνουν τις δυνάμεις τους. Ο Δημήτρης Κοτταρίδης «Από τις έξι» συναντά τη Νίνα Κασιμάτη στο «Σαββατοκύριακο». Και οι δύο θα παρουσιάζουν τη νέα ενημερωτική εκπομπή της ΕΡΤ «Σαββατοκύριακο από τις 6» με ειδήσεις, ιστορίες, πρόσωπα, εικόνες και φυσικά πολύ χιούμορ. Από το Σάββατο 10 Σεπτεμβρίου 2022, και κάθε Σαββατοκύριακο συντονιστείτε στην ΕΡΤ1 και στο EΡΤNEWS στο «Σαββατοκύριακο από τις 6».</desc>
-  </programme>
-  <programme start="20221101060500 +0300" stop="20221101100000 +0300" channel="BBC World">
-    <title lang="el">ΣΥΝΔΕΣΕΙΣ</title>
-    <desc lang="el">Ο Κώστας Παπαχλιμίντζος και η Χριστίνα Βίδου ανανεώνουν το ραντεβού τους με τους τηλεθεατές, γι’ αυτή τη σεζόν, σε νέα ώρα, από τις 6 έως τις 10 το πρωί, σε μια μαραθώνια τετράωρη ενημερωτική εκπομπή. Κάθε μέρα, από Δευτέρα έως Παρασκευή, ο Κώστας Παπαχλιμίντζος και η Χριστίνα Βίδου συνδέονται με την Ελλάδα και τον κόσμο και προβάλλουν ό,τι συμβαίνει, ό,τι μας αφορά και επηρεάζει την καθημερινότητά μας.</desc>
-  </programme>
-  <programme start="20221101100000 +0300" stop="20221101103000 +0300" channel="BBC World">
-    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
-    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο.</desc>
-  </programme>
-  <programme start="20221101103000 +0300" stop="20221101120000 +0300" channel="BBC World">
-    <title lang="el">ΕΝΗΜΕΡΩΣΗ</title>
-    <desc lang="el">Πρωινή ενημερωτική εκπομπή.</desc>
-  </programme>
-  <programme start="20221101120000 +0300" stop="20221101130000 +0300" channel="BBC World">
-    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
-    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο.</desc>
-  </programme>
-  <programme start="20221101130000 +0300" stop="20221101150000 +0300" channel="BBC World">
-    <title lang="el">ΠΡΩΪΑΝ ΣΕ ΕΙΔΟΝ ΤΗΝ ΜΕΣΗΜΒΡΙΑΝ</title>
-    <desc lang="el">Ο Φώτης Σεργουλόπουλος και η Τζένη Μελιτά θα μας κρατούν συντροφιά καθημερινά από Δευτέρα έως Παρασκευή, στις 13:00-15:00, στο νέο ψυχαγωγικό μαγκαζίνο της ΕΡΤ1. Η εκπομπή «Πρωίαν σε είδον την μεσημβρίαν» συνδυάζει το χιούμορ και την καλή διάθεση με την ενημέρωση και τις ενδιαφέρουσες ιστορίες.</desc>
-  </programme>
-  <programme start="20221101150000 +0300" stop="20221101160000 +0300" channel="BBC World">
-    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
-    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο.</desc>
-  </programme>
-  <programme start="20221101160000 +0300" stop="20221101173000 +0300" channel="BBC World">
-    <title lang="el">ΚΑΚΟΣ, ΨΥΧΡΟΣ ΚΑΙ ΑΝΑΠΟΔΟΣ (ΕΛΛΗΝΙΚΗ ΤΑΙΝΙΑ)</title>
-    <desc lang="el">Έτος παραγωγής: 1969 Διάρκεια: 78' Ένας αφελής καφετζής από την επαρχία, ο Θύμιος Παπαχατζής, φτάνει στην Αθήνα να ζητήσει δανεικά από τον δίδυμο αδελφό του τον Κώστα, έναν πολύ γνωστό ηθοποιό, ώστε να μπορέσει να παντρευτεί την Παγώνα, την κόρη του κοινοτάρχη. Την ώρα που ο Θύμιος μπαίνει στο θέατρο, ο Κώστας λιποθυμά επί σκηνής και η παράσταση διακόπτεται.</desc>
-  </programme>
-  <programme start="20221101173000 +0300" stop="20221101180000 +0300" channel="BBC World">
-    <title lang="el">ON THE ROAD (E)</title>
-    <desc lang="el">Ταξιδιωτική εκπομπή με επίκεντρο το αυτοκίνητο. Απευθύνεται όχι μόνο στους φίλους του αυτοκινήτου και τους λάτρεις του ταξιδιού, αλλά και σε οποιονδήποτε απολαμβάνει δράση, γέλιο και ανατροπές. Τα επεισόδια εκτυλίσσονται στην Ελλάδα και στο εξωτερικό. Ξεφεύγοντας από την παραδοσιακή συνταγή παρουσίασης μιας θεματικής εκπομπής, στοχευμένης αποκλειστικά στο μοντέλο του αυτοκινήτου και στα τεχνικά χαρακτηριστικά του, η εκπομπή ασχολείται με τον οδηγό.</desc>
-  </programme>
-  <programme start="20221101180000 +0300" stop="20221101190000 +0300" channel="BBC World">
-    <title lang="el">ΔΕΣ ΚΑΙ ΒΡΕΣ (ΝΕΟ ΕΠΕΙΣΟΔΙΟ)</title>
-    <desc lang="el">Τηλεπαιχνίδι με τον Νίκο Κουρή. Το αγαπημένο τηλεπαιχνίδι «Δες και βρες», με παρουσιαστή τον Νίκο Κουρή, συνεχίζουν να απολαμβάνουν οι τηλεθεατές μέσα από τη συχνότητα της ΕΡΤ2, κάθε μεσημέρι την ίδια ώρα, στις 13:00. Καθημερινά, από Δευτέρα έως και Παρασκευή, το «Δες και βρες» τεστάρει όχι μόνο τις γνώσεις και τη μνήμη μας, αλλά κυρίως την παρατηρητικότητα, την αυτοσυγκέντρωση και την ψυχραιμία μας. Και αυτό γιατί οι περισσότερες απαντήσεις βρίσκονται κρυμμένες μέσα στις ίδιες τις ερωτήσεις.</desc>
-  </programme>
-  <programme start="20221101190000 +0300" stop="20221101200000 +0300" channel="BBC World">
-    <title lang="el">ΠΟΠ ΜΑΓΕΙΡΙΚΗ (ΝΕΟ ΕΠΕΙΣΟΔΙΟ)</title>
-    <desc lang="el">Έτος παραγωγής: 2021 Η άνοιξη προ των πυλών και η αγαπημένη μας εκπομπή «ΠΟΠ Μαγειρική» επιστρέφει φρέσκια και ανανεωμένη με ακόμη πιο νόστιμες και πρωτότυπες συνταγές! Ο εξαιρετικός σεφ Μανώλης Παπουτσάκης, τολμηρός και δημιουργικός έρχεται για ακόμη μια φορά να μας παρασύρει σε γεύσεις μοναδικές και παράλληλα, έχοντας στο πλευρό του τους πιο έγκυρους καλεσμένους, να μας ενημερώσει για τα εκλεκτά ΠΟΠ και ΠΓΕ προϊόντα.</desc>
-  </programme>
-  <programme start="20221101200000 +0300" stop="20221101210000 +0300" channel="BBC World">
-    <title lang="el">ΚΛΕΙΝΟΝ ΑΣΤΥ - Ιστορίες της πόλης (E)</title>
-    <desc lang="el">Β' ΚΥΚΛΟΣ Έτος παραγωγής: 2021 Το «ΚΛΕΙΝΟΝ ΑΣΤΥ – Ιστορίες της πόλης», στον 2ο κύκλο του, συνεχίζει μέσα από την ΕΡΤ2 το συναρπαστικό τηλεοπτικό του ταξίδι σε ρεύματα, τάσεις, κινήματα, ιδέες και υλικά αποτυπώματα που γέννησε και εξακολουθεί να παράγει ο αθηναϊκός χώρος στα πεδία της μουσικής, της φωτογραφίας, της εμπορικής και κοινωνικής ζωής, της αστικής φύσης, της αρχιτεκτονικής, της γαστρονομίας...</desc>
-  </programme>
-  <programme start="20221101210000 +0300" stop="20221101220000 +0300" channel="BBC World">
-    <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
-    <desc lang="el">Το κεντρικό δελτίο ειδήσεων της ΕΡΤ με συνέπεια στη μάχη της ενημέρωσης έγκυρα, έγκαιρα, ψύχραιμα και αντικειμενικά. Σε μια περίοδο με πολλά και σημαντικά γεγονότα, το δημοσιογραφικό και τεχνικό επιτελείο της ΕΡΤ, κάθε βράδυ, στις 21:00, με αναλυτικά ρεπορτάζ, απευθείας συνδέσεις, έρευνες, συνεντεύξεις και καλεσμένους από τον χώρο της πολιτικής, της οικονομίας, του πολιτισμού, παρουσιάζει την επικαιρότητα και τις τελευταίες εξελίξεις από την Ελλάδα και όλο τον κόσμο.</desc>
-  </programme>
-  <programme start="20221101220000 +0300" stop="20221101230000 +0300" channel="BBC World">
-    <title lang="el">ΧΑΙΡΕΤΑ ΜΟΥ ΤΟΝ ΠΛΑΤΑΝΟ (ΝΕΟ ΕΠΕΙΣΟΔΙΟ)</title>
-    <desc lang="el">Κωμική οικογενειακή σειρά μυθοπλασίας. Ποιος είναι ο Πλάτανος; Είναι το χωριό του Βαγγέλα του Κυριαζή, ενός γεροπαράξενου που θα αποχαιρετήσει τα εγκόσμια και θα αφήσει την πιο περίεργη διαθήκη. Όχι στα παιδιά του. Αυτά έχει να τα δει πάνω από 15 χρόνια. Θα αφήσει στα εγγόνια του το σπίτι του και μερικά στρέμματα κοντά στο δάσος. Α, ναι. Και τρία εκατομμύρια ευρώ! Μοναδικός όρος στη διαθήκη, να μείνουν τα εγγόνια στο σπίτι του παππού τους...</desc>
+    <desc lang="el">Novacinema3HD: Καθαρή Αδρεναλίνη! Περιπέτειες, ταινίες δράσης, τρόμου και επιστημονικής φαντασίας! Κάθε Παρασκευή βράδυ μοναδικά θρίλερ που θα σας καθηλώσουν! Τα Σαββατοκύριακα,  το κανάλι  εκπέμπει 24 ώρες το 24ωρο.(c)</desc>
   </programme>
   <programme start="20221026000000 +0100" stop="20221026235900 +0100" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
