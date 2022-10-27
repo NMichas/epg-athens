@@ -112,18 +112,22 @@
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -28946,9 +28950,9 @@
     <title lang="el">Χρυσή Μπάλα</title>
     <desc lang="el">Η Χρυσή Μπάλα 2022 πραγματοποιείται στο Παρίσι και υποψήφιοι νικητές είναι οι κορυφαίοι ποδοσφαιριστές του κόσμου. Για πρώτη φορά φέτος το βραβείο θα δοθεί με βάση τις επιδόσεις της σεζόν 2021/22 και όχι του ημερολογιακού έτους. Ποδόσφαιρο.</desc>
   </programme>
-  <programme start="20221029223000 +0300" stop="20221030003000 +0300" channel="RIK">
-    <title lang="el">AROUCA - SPORTING (Z)</title>
-    <desc lang="el">PORTUGUESE LEAGUE 2022-23.</desc>
+  <programme start="20221029214500 +0300" stop="20221029234500 +0300" channel="RIK">
+    <title lang="el">Λειψία - Λεβερκούζεν</title>
+    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις! Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο.(c)</desc>
   </programme>
   <programme start="20221030003000 +0300" stop="20221030020000 +0300" channel="RIK">
     <title lang="el">LIVERPOOL TV</title>
@@ -30410,9 +30414,9 @@
     <title lang="el">Στην κουζίνα Κ11 ΕΠ1</title>
     <desc lang="el">Πέντε ειδικοί παρουσιάζουν νόστιμες συνταγές και χαριτωμένες πληροφορίες. Από απλές ιδέες για βραδινό μέχρι τις πρόσφατες τάσεις, αυτή είναι η διασκεδαστική πλευρά της μαγειρικής.</desc>
   </programme>
-  <programme start="20221029234500 +0300" stop="20221030004500 +0300" channel="BBC World">
-    <title lang="el">ΒΡΑΒΕΊΟ Earthshot: Η ΑΝΆΚΑΜΨΗ ΤΟΥ ΠΛΑΝΉΤΗ ΜΑΣ Κ1 ΕΠ4</title>
-    <desc lang="el">Ο πρίγκιπας Γουίλιαμ, ιδρυτής των Βραβείων Earthshot, και τα μέλη του Συμβουλίου των Βραβείων Earthshot, σερ Ντέιβιντ Άτενμπρο και η τραγουδίστρια-τραγουδοποιός Σακίρα, ανακαλύπτουν πώς βλάπτουμε τους ωκεανούς και πώς μπορούμε να τους αναζωογονήσουμε. 4/5 (2021).</desc>
+  <programme start="20221029230500 +0300" stop="20221029235000 +0300" channel="BBC World">
+    <title lang="el">Στην κουζίνα Κ11 ΕΠ2</title>
+    <desc lang="el">Πέντε ειδικοί παρουσιάζουν νόστιμες συνταγές και χαριτωμένες πληροφορίες. Από απλές ιδέες για βραδινό μέχρι τις πρόσφατες τάσεις, αυτή είναι η διασκεδαστική πλευρά της μαγειρικής.(c)</desc>
   </programme>
   <programme start="20221030004500 +0300" stop="20221030014500 +0300" channel="BBC World">
     <title lang="el">Ο ΠΛΑΝΉΤΗΣ ΑΛΛΆΖΕΙ Κ1 ΕΠ2</title>
@@ -30518,9 +30522,13 @@
     <title lang="el">ΟΙ ΠΕΡΙΠΈΤΕΙΕΣ ΤΟΥ ΡΌΜΕΣ ΡΑΝΓΚΑΝΆΘΑΝ Κ3 ΕΠ2</title>
     <desc lang="el">Ο κωμικός και παρουσιαστής Ρόμες Ρανγκανάθαν ταξιδεύει πέρα από τη ζώνη ασφαλείας του, μακριά από τον κόσμο των δωρεάν πρωινών, σε μερικούς από τους πιο αναπάντεχους προορισμούς διακοπών στον πλανήτη. 2/3 Σκηνοθεσία: Chris Cottam. (2022).</desc>
   </programme>
-  <programme start="20221030223500 +0300" stop="20221031004500 +0300" channel="BBC World">
-    <title lang="el">The Man in the Iron Mask</title>
-    <desc lang="el">The Man in the Iron Mask Σκηνοθεσία: Randall Wallace,. Πρωταγωνιστούν: Leonardo DiCaprio, Jeremy Irons,. (1998).</desc>
+  <programme start="20221030215500 +0300" stop="20221030225500 +0300" channel="BBC World">
+    <title lang="el">ΜΕΓΆΛΟΙ ΠΟΤΑΜΟΊ ΤΗΣ ΓΗΣ Κ2 ΕΠ2</title>
+    <desc lang="el">Από κρυστάλλινους καταρράκτες μέχρι χελωνίτσες στο μέγεθος νυχιού, εξερευνήστε τα μαγευτικά θαύματα του Δούναβη, ο οποίος διακλαδίζεται σε όλη την Ευρώπη, με τους παραποτάμους του να συγκεντρώνουν νερό από 19 χώρες. 2/3 (2019).(c)</desc>
+  </programme>
+  <programme start="20221030225500 +0300" stop="20221030234500 +0300" channel="BBC World">
+    <title lang="el">Η Ζωή, Ο Θάνατος Και Η Κληρονομιά Του Τουταγχαμών Κ1 ΕΠ1</title>
+    <desc lang="el">Αποκαλύπτουμε τις νέες γνώσεις που φωτίζουν τα μυστικά της ταφής του Τουταγχαμών, αξιοποιούμε τις πιο πρόσφατες μορφές τεχνολογίας για να διαπιστώσουμε από τι πέθανε και παίρνουμε μια γεύση της πολυτελούς ζωής των καλομαθημένων Φαραώ. 1/3 Σκηνοθεσία: Jamie Simpson. (2019).(c)</desc>
   </programme>
   <programme start="20221031004500 +0300" stop="20221031023000 +0300" channel="BBC World">
     <title lang="el">Untraceable</title>
