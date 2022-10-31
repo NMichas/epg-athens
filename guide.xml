@@ -107,22 +107,27 @@
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -26795,9 +26800,9 @@
     <title lang="el">Μπαρτσελόνα - Αρμάνι Μιλάνο</title>
     <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'. Μπάσκετ.</desc>
   </programme>
-  <programme start="20221101210000 +0200" stop="20221101230000 +0200" channel="RIK">
-    <title lang="el">Σλασκ Βρότσλαβ - Άνκαρα (Ζ)</title>
-    <desc lang="el">Η Σλασκ Βρότσλαβ (0-3) έχει ξεκινήσει τη σεζόν με τρεις συνεχόμενες ήττες και αντιμετωπίζει στην 4η αγωνιστική του 2ου ομίλου την Άνκαρα (2-1), που επικράτησε στην έδρα της με 89-77 της Χάποελ Τελ Αβίβ. Μπάσκετ.</desc>
+  <programme start="20221101223000 +0200" stop="20221102003000 +0200" channel="RIK">
+    <title lang="el">Αποκλειστικά στην Cablenet</title>
+    <desc lang="el">Αποκλειστικά στην Cablenet.(c)</desc>
   </programme>
   <programme start="20221102003000 +0200" stop="20221102010000 +0200" channel="RIK">
     <title lang="el">Αποκλειστικά στην Cablenet</title>
@@ -27559,9 +27564,9 @@
     <title lang="el">Québec à vol d'oiseau - saison 10 ΕΠ13</title>
     <desc lang="el">L’équipe de QVO se rend cette semaine chez Majeje Africa Safaris pour y vivre une aventure où les hommes s’occupent de la pêche et les femmes s’adonnent à la chasse. Une émission à ne pas manquer où les poissons de l’Océan Indien s’ajoutent aux antilopes du sud. (2019).</desc>
   </programme>
-  <programme start="20221105225000 +0200" stop="20221105231400 +0200" channel="RIK">
-    <title lang="el">Quebec à vol d'oiseau - saison 11 ΕΠ1</title>
-    <desc lang="el">Découvrez la Pourvoirie Humanité, spécialisée dans la pêche à la truite mouchetée et dans la villégiature. Ce petit paradis de Charlevoix regorge de poissons. Reste à voir si notre animateur sera capable de les leurrer! (2020).</desc>
+  <programme start="20221105231000 +0200" stop="20221106001500 +0200" channel="RIK">
+    <title lang="el">Φασίστες και Τέκτονες Κ1 ΕΠ2</title>
+    <desc lang="el">Ναζιστές και φασίστες μισούσαν τους Τέκτονες, την ισχυρότερη οργάνωση της εποχής. Ερευνούμε σε ποιους λόγους οφείλεται η εμμονή του φασισμού με τον Τεκτονισμό και αποκαλύπτουμε τις συνέπειές της. Σκηνοθεσία: Luigi Maria Perotti, Carlo Ghiani.(c)</desc>
   </programme>
   <programme start="20221106001500 +0200" stop="20221106012000 +0200" channel="RIK">
     <title lang="el">Οι γυναίκες που πολέμησαν τον Χίτλερ</title>
@@ -27655,9 +27660,9 @@
     <title lang="el">Τα μυστικά των ιερογλυφικών Κ1 ΕΠ1</title>
     <desc lang="el">Συναντούμε μια ομάδα αιγυπτιολόγων στο Λούξορ. Έχουν ενθουσιαστεί με τον περίτεχνα διακοσμημένο τάφο και προσπαθούν να αποκαλύψουν τα μυστικά των ιερέων, γραφέων, ζωγράφων, χαρακτών και οικοδόμων του. Σκηνοθεσία: Patrick Cabouat.</desc>
   </programme>
-  <programme start="20221106230000 +0200" stop="20221106235500 +0200" channel="RIK">
-    <title lang="el">Τα μυστικά των ιερογλυφικών Κ1 ΕΠ2</title>
-    <desc lang="el">Συναντούμε μια ομάδα αιγυπτιολόγων στο Λούξορ. Έχουν ενθουσιαστεί με τον περίτεχνα διακοσμημένο τάφο και προσπαθούν να αποκαλύψουν τα μυστικά των ιερέων, γραφέων, ζωγράφων, χαρακτών και οικοδόμων του. Σκηνοθεσία: Patrick Cabouat.</desc>
+  <programme start="20221106235000 +0200" stop="20221107014000 +0200" channel="RIK">
+    <title lang="el">The Silence of the Lambs</title>
+    <desc lang="el">Φημισμένο θρίλερ στο οποίο η Τζόντι Φόστερ, άπειρη πράκτορας του FBI, χρειάζεται τη βοήθεια του ιδιοφυούς ψυχοπαθούς κρατούμενου Άντονι Χόπκινς για να πιάσει έναν μανιακό δολοφόνο. (1991) Σκηνοθεσία: Jonathan Demme. Πρωταγωνιστούν: Jodie Foster, Anthony Hopkins, Scott Glenn, Ted Levine, Jim Roche ('Rev'), Anthony Heald. (1991).(c)</desc>
   </programme>
   <programme start="20221107014000 +0200" stop="20221107043500 +0200" channel="RIK">
     <title lang="el">For Love of the Game</title>
@@ -28067,17 +28072,9 @@
     <title lang="el">News</title>
     <desc lang="el">The leading news stories of the moment.</desc>
   </programme>
-  <programme start="20221031230000 +0200" stop="20221031231500 +0200" channel="BBC World">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221031231500 +0200" stop="20221031233000 +0200" channel="BBC World">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20221031233000 +0200" stop="20221031234500 +0200" channel="BBC World">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+  <programme start="20221031230000 +0200" stop="20221101040000 +0200" channel="BBC World">
+    <title lang="el">... So 80s!</title>
+    <desc lang="el">Get ready because we're bringing you nothing but classic hits and iconic anthems from the '80s!(c)</desc>
   </programme>
   <programme start="20221101040000 +0200" stop="20221101060000 +0200" channel="BBC World">
     <title lang="el">... So 80s!</title>
