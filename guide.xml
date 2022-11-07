@@ -112,18 +112,22 @@
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -30873,7 +30877,7 @@
   </programme>
   <programme start="20221107200000 +0200" stop="20221107200500 +0200" channel="RIK">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().</desc>
+    <desc lang="el">: - ().(c)</desc>
   </programme>
   <programme start="20221107200500 +0200" stop="20221107220000 +0200" channel="RIK">
     <title lang="el">Αγώνας Αντοχής Αυτοκινήτων : ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ</title>
@@ -30881,7 +30885,7 @@
   </programme>
   <programme start="20221107220000 +0200" stop="20221107220500 +0200" channel="RIK">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().</desc>
+    <desc lang="el">: - ().(c)</desc>
   </programme>
   <programme start="20221107220500 +0200" stop="20221107230000 +0200" channel="RIK">
     <title lang="el">ΣΑΪΚΛΟ-ΚΡΟΣ: Ευρωπαϊκό Πρωτάθλημα - Ναμούρ (ΓΥΝΑΙΚΕΣ)</title>
@@ -31395,9 +31399,9 @@
     <title lang="el">Μια γυναίκα πρωτοπόρος Κ23 ΕΠ13</title>
     <desc lang="el">Η Ρι Ντράμοντ έχει έμπνευση για πίτες που αξίζουν χειροκρότημα. Μοιράζεται μαζί μας μια φανταστική πίτα με χωνάκια παγωτού και μια δελεαστική διπλή σοκολατόπιτα.</desc>
   </programme>
-  <programme start="20221111234000 +0200" stop="20221112003000 +0200" channel="RIK">
-    <title lang="el">Σκοτάδι Κ1 ΕΠ5</title>
-    <desc lang="el">Για να ξεφύγουν από ένα σύστημα σπηλαίων και ορυχείων βαθιά σε μια πλαγιά, τρεις άγνωστοι πρέπει να κάνουν μια κατάβαση 1,6 χλμ. σε απόλυτο σκοτάδι. Και δεν θα τα καταφέρουν όλοι. (2017)  (2017).</desc>
+  <programme start="20221111233000 +0200" stop="20221111235000 +0200" channel="RIK">
+    <title lang="el">Μια γυναίκα πρωτοπόρος Κ22 ΕΠ1</title>
+    <desc lang="el">Η Ρι φτιάχνει πακέτα φροντίδας για τις φοιτήτριες κόρες της. Τους στέλνει σπιτικές τάρτες για πρωινό, καραμελωμένους καρπούς, κρακεράκια με αλατοπίπερο και ζελεδάκια κεράσι.(c)</desc>
   </programme>
   <programme start="20221112003000 +0200" stop="20221112012000 +0200" channel="RIK">
     <title lang="el">Σκοτάδι Κ1 ΕΠ6</title>
@@ -32291,9 +32295,9 @@
     <title lang="el">The Twilight Saga: Νέα Σελήνη</title>
     <desc lang="el">Μετά την τεράστια παγκόσμια επιτυχία της πρώτης ταινίας, το διάσημο πλέον πρωταγωνιστικό ζευγάρι επιστρέφει. Αυτή τη φορά, ένα απρόσμενο συμβάν αναγκάζει τον Έντουαρντ να αφήσει την Μπέλα... Φαντασίας, 2009. Σκηνοθεσία: Κρις Βάιτς. Πρωταγωνιστές: Κρίστεν Στιούαρτ, Ρόμπερτ Πάτινσον, Τέιλορ Λότνερ, Ανα Κέντρικ.</desc>
   </programme>
-  <programme start="20221110230000 +0200" stop="20221111003000 +0200" channel="BBC World">
-    <title lang="el">ΤΙ ΛΕΕΙ Ο ΝΟΜΟΣ /ΒΟΥΛΗΣ ΒΗΜΑ ΜΕ ΤΗΝ ΑΛΕΞΙΑ ΚΟΥΛΟΥΡΗ (Ε)</title>
-    <desc lang="el">ΤΙ ΛΕΕΙ Ο ΝΟΜΟΣ /ΒΟΥΛΗΣ ΒΗΜΑ ΜΕ ΤΗΝ ΑΛΕΞΙΑ ΚΟΥΛΟΥΡΗ (Ε).</desc>
+  <programme start="20221110220000 +0200" stop="20221110233000 +0200" channel="BBC World">
+    <title lang="el">Σε Αγαπώ ως το Τέλος</title>
+    <desc lang="el">Μία γυναίκα και η κόρη της απολαμβάνουν την ηρεμία τους σε μία αμερικανική φάρμα. Το σκοτάδι, όμως, τις κυριεύει, όταν στο σπίτι καταφτάνει η τεφροδόχος με τη στάχτη της αποξενωμένης μητέρας της. Τρόμου, 2022. Σκηνοθεσία: Αϊρις Σιμ. Πρωταγωνιστές: Σάντρα Ο, Ντέρμοτ Μαλρόνι, Φάιβελ Στιούαρτ.(c)</desc>
   </programme>
   <programme start="20221111003000 +0200" stop="20221111013000 +0200" channel="BBC World">
     <title lang="el">ΘΕΑΤΡΟΣΚΟΠΙΟ</title>
