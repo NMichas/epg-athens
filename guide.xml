@@ -117,14 +117,17 @@
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -29622,7 +29625,7 @@
   </programme>
   <programme start="20221111180000 +0200" stop="20221111180500 +0200" channel="RIK">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().</desc>
+    <desc lang="el">: - ().(c)</desc>
   </programme>
   <programme start="20221111180500 +0200" stop="20221111200000 +0200" channel="RIK">
     <title lang="el">ΣΝΟΥΚΕΡ: HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας (Τελικός)</title>
@@ -30140,9 +30143,9 @@
     <title lang="el">Ποιος θα κοπεί Junior Κ3 ΕΠ11</title>
     <desc lang="el">Μικροί σεφ με μεγάλες φιλοδοξίες διαγωνίζονται για το βραβείο των 10.000 δολαρίων. Όμως τα μυστηριώδη υλικά και η πίεση χρόνου δεν λειτουργούν υπέρ τους.</desc>
   </programme>
-  <programme start="20221115234000 +0200" stop="20221116003000 +0200" channel="RIK">
-    <title lang="el">Τα Μεγάλα του Ρίτσαρντ Χάμοντ Κ1 ΕΠ7</title>
-    <desc lang="el">Ο Ρίτσαρντ επισκέπτεται το ψηλότερο κτίριο του κόσμου: το Μπουρτζ Χαλίφα στο Ντουμπάι. Η αποστολή του περιλαμβάνει το να σκαρφαλώσει στο μεγαλύτερο αλεξικέραυνο του πλανήτη! (2019).</desc>
+  <programme start="20221115230500 +0200" stop="20221115235000 +0200" channel="RIK">
+    <title lang="el">Για μια θέση στον ήλιο Κ1 ΕΠ4</title>
+    <desc lang="el">Δύο ομάδες φιλόδοξων επιχειρηματιών της εστίασης διαγωνίζονται προκειμένου να κερδίσουν το δικό τους εστιατόριο σε εμπορικό κέντρο, για το οποίο δεν θα πληρώνουν ενοίκιο για έναν χρόνο.(c)</desc>
   </programme>
   <programme start="20221116003000 +0200" stop="20221116012000 +0200" channel="RIK">
     <title lang="el">Τα Μεγάλα του Ρίτσαρντ Χάμοντ Κ1 ΕΠ8</title>
@@ -30987,6 +30990,14 @@
   <programme start="20221113220000 +0200" stop="20221113220000 +0200" channel="BBC World">
     <title lang="el">Ο Άνθρωπος που δεν Ήταν Εκεί</title>
     <desc lang="el">Οι απέλπιδες προσπάθειες ενός απογοητευμένου κουρέα, θύματος των ψευδαισθήσεών του, να αλλάξει τη ζωή του, σε ένα έξοχο φιλμ νουάρ που προτάθηκε για Όσκαρ και τρεις Χρυσές Σφαίρες. Αστυνομική, 2001. Σκηνοθεσία: Τζόελ Κοέν, Ιθαν Κοέν. Πρωταγωνιστές: Μπίλι Μπομπ Θόρντον, Φράνσις ΜακΝτόρμαντ, Σκάρλετ Τζοχάνσον, Τζέιμς Γκαντολφίνι.</desc>
+  </programme>
+  <programme start="20221113220000 +0200" stop="20221114000500 +0200" channel="BBC World">
+    <title lang="el">Ο Άνθρωπος που δεν Ήταν Εκεί</title>
+    <desc lang="el">Οι απέλπιδες προσπάθειες ενός απογοητευμένου κουρέα, θύματος των ψευδαισθήσεών του, να αλλάξει τη ζωή του, σε ένα έξοχο φιλμ νουάρ που προτάθηκε για Όσκαρ και τρεις Χρυσές Σφαίρες. Αστυνομική, 2001. Σκηνοθεσία: Τζόελ Κοέν, Ιθαν Κοέν. Πρωταγωνιστές: Μπίλι Μπομπ Θόρντον, Φράνσις ΜακΝτόρμαντ, Σκάρλετ Τζοχάνσον, Τζέιμς Γκαντολφίνι.(r)</desc>
+  </programme>
+  <programme start="20221113220000 +0200" stop="20221113230000 +0200" channel="BBC World">
+    <title lang="el">Κατασκευαστές ενυδρείων Κ3 ΕΠ3</title>
+    <desc lang="el">Τα αγόρια έχουν την τιμή να κατασκευάσουν ένα ενυδρείο για τον αστέρα του NBA Ντουέιν Γουέιντ, καθώς εκείνος λανσάρει μια νέα σειρά παπουτσιών. Θα μείνει, όμως, ευχαριστημένος με το αποτέλεσμα; (2013).(r)</desc>
   </programme>
   <programme start="20221114000500 +0200" stop="20221114014500 +0200" channel="BBC World">
     <title lang="el">Κανένας</title>
