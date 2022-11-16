@@ -87,38 +87,47 @@
   </channel>
   <channel id="MAD">
     <display-name lang="el">MAD</display-name>
+    <icon src="https://mad.tv/wp-content/uploads/2018/02/mad_logo_yellow.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="RISE TV">
     <display-name lang="el">RISE TV</display-name>
+    <icon src="https://i0.wp.com/typologies.gr/wp-content/uploads/2018/09/Rice-TV2.png?resize=350%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -30049,13 +30058,9 @@
     <title lang="el">GOLF PGA TOUR Discovery Γκολφ</title>
     <desc lang="el">GOLF PGA TOUR Discovery Γκολφ.</desc>
   </programme>
-  <programme start="20221116200000 +0200" stop="20221116230000 +0200" channel="RIK">
-    <title lang="el">Δυναμικό Τρίαθλο: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Βίμποργκ ()</title>
-    <desc lang="el">Δυναμικό Τρίαθλο: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Βίμποργκ ().</desc>
-  </programme>
-  <programme start="20221116230000 +0200" stop="20221116230500 +0200" channel="RIK">
-    <title lang="el">*</title>
-    <desc lang="el">N/A.</desc>
+  <programme start="20221116220000 +0200" stop="20221117010000 +0200" channel="RIK">
+    <title lang="el">Novasports Start</title>
+    <desc lang="el">Μοναδικό αθλητικό θέαμα με ποδόσφαιρο και μπάσκετ από την Ελλάδα και την Ευρώπη! Ζωντανοί αγώνες από όλα τα κορυφαία ευρωπαϊκά πρωταθλήματα ποδοσφαίρου αλλά και αγώνες μπάσκετ από τη Euroleague και το Eurocup!(c)</desc>
   </programme>
   <programme start="20221117010000 +0200" stop="20221117030000 +0200" channel="RIK">
     <title lang="el">Ουνιόν Βερολίνου - Άουγκσμπουργκ</title>
@@ -30553,9 +30558,9 @@
     <title lang="el">Η γλυκιά χιονοθύελλα του Άι Βασίλη Κ1 ΕΠ1</title>
     <desc lang="el">Ο Κέισι Γουέμπ καλεί τους ζαχαροπλάστες και τους γλύπτες πάγου να φιλοτεχνήσουν πελώριες συνθέσεις από τούρτες-χριστουγεννιάτικα δέντρα, με βρώσιμα δώρα, διακοσμητικά και πυροτεχνήματα.</desc>
   </programme>
-  <programme start="20221120230500 +0200" stop="20221120235000 +0200" channel="RIK">
-    <title lang="el">Η γλυκιά χιονοθύελλα του Άι Βασίλη Κ1 ΕΠ2</title>
-    <desc lang="el">Ο Κέισι Γουέμπ καλεί τρεις ομάδες ζαχαροπλαστών να δημιουργήσουν ευφάνταστες τούρτες-χιονόμπαλες, που αναδεικνύουν τη μαγεία των Χριστουγέννων. Η παγογλυπτική ενισχύει τη λάμψη τους!</desc>
+  <programme start="20221120234000 +0200" stop="20221121003000 +0200" channel="RIK">
+    <title lang="el">Ανεξήγητα &amp;Ανεξερεύνητα Κ1 ΕΠ4</title>
+    <desc lang="el">Ο Τζάστισν και ο Εμιλιάνο ερευνούν μια διεθνή συνωμοσία που εμπλέκει τα υψηλότερα κυβερνητικά κλιμάκια. Θα μπορούσε έτσι να αποδειχθεί ότι ο Μεριγουέδερ Λιούις δολοφονήθηκε; (2019)  (2019).(c)</desc>
   </programme>
   <programme start="20221121003000 +0200" stop="20221121012000 +0200" channel="RIK">
     <title lang="el">Δολοφόνοι του Σύμπαντος Κ1 ΕΠ5</title>
@@ -30781,9 +30786,9 @@
     <title lang="el">Ένας Γιος</title>
     <desc lang="el">Τυνησία, 2011. Μία οικογένεια πέφτει θύμα τρομοκρατικής επίθεσης. Κι ενώ ο γιος του ζευγαριού μάχεται για να κρατηθεί στη ζωή, οι γονείς του αγωνίζονται να σώσουν την οικογένεια και τη σχέση τους. Κοινωνική, 2019. Σκηνοθεσία: Μεχντί Μπαρσαουί. Πρωταγωνιστές: Σαμί Μπουαζίλα, Τζιχέντ Τσέρνι, Γιουσέφ Κεμίρι.</desc>
   </programme>
-  <programme start="20221122230000 +0200" stop="20221123005000 +0200" channel="RIK">
-    <title lang="el">ΤΑ ΚΑΛΥΤΕΡΑ ΜΑΣ ΧΡΟΝΙΑ (ΝΕΟ ΕΠΕΙΣΟΔΙΟ)</title>
-    <desc lang="el">Οικογενειακή σειρά μυθοπλασίας. Λίγες μόνο ημέρες μετά το Πολυτεχνείο, μέσα από την αφήγηση του μικρού Άγγελου Αντωνόπουλου, οδηγούμαστε στην Ελλάδα της Μεταπολίτευσης, ξεκινώντας από τον Ιούλιο του 1974 με τον Αττίλα Ι στην Κύπρο. Η σειρά μυθοπλασίας «σκαλίζει» με τρυφερότητα τις καθημερινές εμπειρίες της οικογένειας των Αντωνόπουλων αλλά και των αγαπημένων, πλέον, χαρακτήρων της γειτονιάς του Γκύζη, μιας γειτονιάς που ανανεώνεται στο πέρασμα των χρόνων.</desc>
+  <programme start="20221122220000 +0200" stop="20221122234500 +0200" channel="RIK">
+    <title lang="el">The Kill Team</title>
+    <desc lang="el">Το 2009 στο Νότιο Αφγανιστάν, ένας νεαρός Αμερικανός στρατιώτης παγιδεύεται ανάμεσα στη συνείδηση και την επιβίωσή του, όταν η διμοιρία του εκτελεί ένα δολοφονικό σχέδιο. Αληθινή ιστορία, 2019. Σκηνοθεσία: Νταν Κράους. Πρωταγωνιστές: Αλεξάντερ Σκάρσγκορντ, Νατ Γουλφ, Τζον Γουάιτσελ.(c)</desc>
   </programme>
   <programme start="20221123005000 +0200" stop="20221123010000 +0200" channel="RIK">
     <title lang="el">Η ΛΕΣΧΗ ΤΟΥ ΒΙΒΛΙΟΥ (ΝΕΟ ΕΠΕΙΣΟΔΙΟ)</title>
