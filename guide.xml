@@ -92,34 +92,42 @@
   </channel>
   <channel id="RISE TV">
     <display-name lang="el">RISE TV</display-name>
+    <icon src="https://i0.wp.com/typologies.gr/wp-content/uploads/2018/09/Rice-TV2.png?resize=350%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -28962,13 +28970,9 @@
     <title lang="el">Πώς Φτιάχνονται; Ονειρεμένα Αυτοκίνητα Κ3 ΕΠ5</title>
     <desc lang="el">Picture your dream car - does it look like an Ariel Atom 3S? The crew heads to its birthplace, revealing the inner workings and gorgeous exterior. (2016)  (2016).</desc>
   </programme>
-  <programme start="20221124225000 +0200" stop="20221124231500 +0200" channel="RIK">
-    <title lang="el">Πώς Φτιάχνονται; Ονειρεμένα Αυτοκίνητα Κ3 ΕΠ6</title>
-    <desc lang="el">Picture your dream car - does it look like an Audi S8? The crew visit its birthplace, revealing the complex inner workings and the gorgeous exterior. (2016)  (2016).</desc>
-  </programme>
-  <programme start="20221124231500 +0200" stop="20221124234000 +0200" channel="RIK">
-    <title lang="el">Πώς Φτιάχνονται; Ονειρεμένα Αυτοκίνητα Κ3 ΕΠ7</title>
-    <desc lang="el">Picture your dream car - does it look like an Ultima Evolution? The crew go to its birthplace, revealing the inner workings and gorgeous exterior. (2016)  (2016).</desc>
+  <programme start="20221124231000 +0200" stop="20221125010000 +0200" channel="RIK">
+    <title lang="el">Τα Μάτια της Λόρα Μαρς</title>
+    <desc lang="el">Η ζωή μιας φωτογράφου μετατρέπεται σε εφιάλτη, όταν ο φακός της, αντί να απαθανατίζει την πραγματικότητα που υπάρχει μπροστά της, της δίνει τη δυνατότητα να 'βλέπει'ανατριχιαστικές δολοφονίες. Μυστηρίου, 1978. Σκηνοθεσία: Ιρβιν Κέρσνερ. Πρωταγωνιστές: Φέι Ντάναγουεϊ, Τόμι Λι Τζόουνς, Μπραντ Ντούριφ, Ρενέ Ομπερζονουά.(c)</desc>
   </programme>
   <programme start="20221125010000 +0200" stop="20221125030000 +0200" channel="RIK">
     <title lang="el">Lana La Soumise</title>
@@ -29486,9 +29490,9 @@
     <title lang="el">Τάφοι της Αιγύπτου: η υπέρτατη αποστολή Κ1 ΕΠ2</title>
     <desc lang="el">Μετά από ανασκαφές τριών μηνών και την ανακάλυψη πολλών σαρκοφάγων, ο Ζάχι βρίσκει πέτρινη σαρκοφάγο που ίσως ανήκε σε βεζύρη που έζησε κατά το Νέο Βασίλειο - στο εσωτερικό της τον περιμένει έκπληξη... Σκηνοθεσία: François Pomès, Anne-Fleur Delaistre.</desc>
   </programme>
-  <programme start="20221120220000 +0200" stop="20221120230500 +0200" channel="BBC World">
-    <title lang="el">Το μυστήριο της Ιεράς Λόγχης</title>
-    <desc lang="el">Η Ιερά Λόγχη λέγεται ότι ήταν το όπλο με το οποίο ο Ρωμαίος λεγεωνάριος Λογγίνος τρύπησε το πλευρό του Ιησού Χριστού μετά τη σταύρωση. Το ντοκιμαντέρ ερευνά την ιστορία του συναρπαστικού αντικειμένου. Σκηνοθεσία: François Barré.</desc>
+  <programme start="20221120225500 +0200" stop="20221121003000 +0200" channel="BBC World">
+    <title lang="el">The Haunting of Sharon Tate</title>
+    <desc lang="el">Έγκυος στο παιδί του σκηνοθέτη Ρόμαν Πολάνσκι και περιμένοντας την επιστροφή του από την Ευρώπη, η 26χρονη χολιγουντιανή ηθοποιός Σάρον Τέιτ βασανίζεται από οράματα του επικείμενου θανάτου της. Σκηνοθεσία: Daniel Farrands. Πρωταγωνιστούν: Hilary Duff, Jonathan Bennett, Lydia Hearst. (2019).(c)</desc>
   </programme>
   <programme start="20221121003000 +0200" stop="20221121030000 +0200" channel="BBC World">
     <title lang="el">The Τribes of Palos Verdes</title>
