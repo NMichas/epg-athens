@@ -67,18 +67,22 @@
   </channel>
   <channel id="CHANNEL 9">
     <display-name lang="el">CHANNEL 9</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/el/0/0a/Channel9.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="AE CHANNEL">
     <display-name lang="el">A.EPSILON</display-name>
+    <icon src="https://www.nicepng.com/png/detail/223-2235783_apps-a-e-channel-logo.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="HIGH TV">
     <display-name lang="el">HIGH TV</display-name>
+    <icon src="https://i37.servimg.com/u/f37/16/92/15/82/logo_h10.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="KONTRA CHANNEL">
     <display-name lang="el">KONTRA CHANNEL</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/el/b/b8/Kontra_channel_new_logo.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="MAD">
@@ -14210,6 +14214,13 @@
       <value>9</value>
     </rating>
   </programme>
+  <programme start="20221119001000 +0200" stop="20221119003000 +0200" channel="CHANNEL 9">
+    <title lang="el">[K8] Ένα Κλικ Ένας Αιώνας</title>
+    <desc lang="el">Εκπομπή.(n)</desc>
+    <rating system="GR">
+      <value>5</value>
+    </rating>
+  </programme>
   <programme start="20221119003000 +0200" stop="20221119010000 +0200" channel="CHANNEL 9">
     <title lang="el">[K] One Central News</title>
     <desc lang="el">Δελτίο ειδήσεων με την Μάιρα Μπάρμπα.</desc>
@@ -27775,9 +27786,9 @@
     <title lang="el">Dokfilm</title>
     <desc lang="el">Von morgens früh bis abends spät ist Alina (17) gedanklich bei ihrem Freund. Denn seit einigen Wochen ist das junge Paar getrennt: Er kämpft in ihrer Heimatstadt Charkiw in der Ukraine gegen die russischen Truppen, sie ist mit ihrer Familie nach Deutschland geflohen. Eigentlich wäre Alina lieber in der Ukraine geblieben. Nur ihrer Mutter zuliebe ist sie mit nach Münster gekommen.</desc>
   </programme>
-  <programme start="20221122230400 +0200" stop="20221123001900 +0200" channel="RIK">
-    <title lang="el">Orchestre Philharmonique Royal de Liège, Gergely Madaras: Dvořák, Franck</title>
-    <desc lang="el">Orchestre Philharmonique Royal de Liège, Gergely Madaras (Conductor), Victor Julien-Laferrière (Cello). Antonín Dvořák (1841 – 1904): Cello Concerto in B minor Op. 104. César Franck (1822 – 1890): Symphony in D minor. Σκηνοθεσία: Frédéric Caillierez. (2021).</desc>
+  <programme start="20221122224500 +0200" stop="20221122233000 +0200" channel="RIK">
+    <title lang="el">Handwerkskunst!</title>
+    <desc lang="el">Der irische Dudelsack gilt als der Rolls Royce unter den Sackpfeifen. Er ist schwierig zu spielen, schwierig zu bauen - jedoch besonders edel, weil sein Klang der menschlichen Stimme so nahekommt. Wie kommt so ein exotisches Instrument nach Wendelsheim in die schwäbische Provinz? Und wie wird es hergestellt?</desc>
   </programme>
   <programme start="20221123001900 +0200" stop="20221123010000 +0200" channel="RIK">
     <title lang="el">InterMezzo</title>
@@ -28155,9 +28166,9 @@
     <title lang="el">Ο Θησαυρός του Κούπερ Κ2 ΕΠ7</title>
     <desc lang="el">Μια επικίνδυνη καταιγίδα απειλεί να βάλει τέλος στην επιχείρηση ακριβώς τη στιγμή που ο Ντάρελ και η ομάδα του ανακαλύπτουν χρυσό σε ένα παλιό ναυάγιο. (2018).</desc>
   </programme>
-  <programme start="20221125230000 +0200" stop="20221126003500 +0200" channel="RIK">
-    <title lang="el">The Beach House</title>
-    <desc lang="el">Το χαλαρό και ρομαντικό διήμερο ενός νεαρού ζευγαριού παίρνει απρόσμενη τροπή, όταν διακόπτεται από ένα ηλικιωμένο ανδρόγυνο και μία σειρά περίεργων περιβαλλοντικών φαινομένων... Τρόμου, 2019. Σκηνοθεσία: Τζέφρι Μπράουν. Πρωταγωνιστές: Τζέικ Γουέμπερ, Λιάνα Λιμπεράτο, Νόα Λε Γκρος.</desc>
+  <programme start="20221125225000 +0200" stop="20221125234000 +0200" channel="RIK">
+    <title lang="el">Ο Θησαυρός του Κούπερ Κ2 ΕΠ8</title>
+    <desc lang="el">Η ομάδα ανακαλύπτει περίτεχνα τεχνουργήματα που υποδεικνύουν την τοποθεσία μιας καμπίνας καπετάνιου του 16ου αιώνα, οδηγώντας σε ένα από τα πολυτιμότερα ευρήματα στην καριέρα του Ντάρελ. (2018).</desc>
   </programme>
   <programme start="20221126003500 +0200" stop="20221126013000 +0200" channel="RIK">
     <title lang="el">Κινηματογραφικά Νέα</title>
@@ -28170,6 +28181,46 @@
   <programme start="20221126042000 +0200" stop="20221126055000 +0200" channel="RIK">
     <title lang="el">Don't Tell a Soul</title>
     <desc lang="el">Δύο αδέλφια προσπαθούν να βοηθήσουν την άρρωστη μητέρα τους κλέβοντας χρήματα από ένα σπίτι. Την ώρα που δραπετεύουν, όμως, ένας φύλακας τούς κυνηγά και πέφτει μέσα σε ένα πηγάδι... Θρίλερ, 2020. Σκηνοθεσία: Αλεξ ΜακΟλεϊ. Πρωταγωνιστές: Τζακ Ντίλαν Γκρέιζερ, Φιον Γουάιτχεντ, Μίνα Σουβάρι, Ρέιν Γουίλσον.</desc>
+  </programme>
+  <programme start="20221126055000 +0200" stop="20221126074500 +0200" channel="RIK">
+    <title lang="el">Last Looks</title>
+    <desc lang="el">Ο πρώην αστυνομικός Τσάρλι Γουόλντο διακόπτει τον μινιμαλιστικό τρόπο ζωής του στο δάσος, όταν καλείται να ερευνήσει τη δολοφονία μίας γυναίκας, συζύγου μίας εκκεντρικής τηλε-περσόνας. Αστυνομική, 2021. Σκηνοθεσία: Τιμ Κέρμπι. Πρωταγωνιστές: Μελ Γκίμπσον, Τσάρλι Χάναμ, Ρούπερτ Φρεντ, Λούσι Φράι.</desc>
+  </programme>
+  <programme start="20221126074500 +0200" stop="20221126082500 +0200" channel="RIK">
+    <title lang="el">Κινηματογραφικά Νέα</title>
+    <desc lang="el">Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema! Νέες κυκλοφορίες, παραγωγές που σημειώνουν επιτυχία, διάσημοι πρωταγωνιστές και σκηνοθέτες παρελαύνουν στην οθόνη σας... Μαγκαζίνο.</desc>
+  </programme>
+  <programme start="20221126082500 +0200" stop="20221126102500 +0200" channel="RIK">
+    <title lang="el">Κόντρα στα Προγνωστικά</title>
+    <desc lang="el">Η συγκινητική ιστορία του Κερτ Γουόρνερ, ενός άνδρα που κατάφερε από υπάλληλος του σούπερ μάρκετ να χτίσει μία αξιοζήλευτη καριέρα στο NFL, με τη στήριξη της συζύγου του και των κοντινών του ανθρώπων. Αληθινή ιστορία, 2021. Σκηνοθεσία: Αντριου Εργουιν, Τζον Εργουιν. Πρωταγωνιστές: Ντένις Κουέιντ, Ανα Πάκουιν, Ζάκαρι Λίβαϊ.</desc>
+  </programme>
+  <programme start="20221126102500 +0200" stop="20221126121000 +0200" channel="RIK">
+    <title lang="el">Ο Κατάσκοπός Μου</title>
+    <desc lang="el">Ένας έμπειρος και σκληρός πράκτορας της CIA βλέπει την καριέρα του να απειλείται από ένα πανέξυπνο 9χρονο κορίτσι, που βάζει σε κίνδυνο την τελευταία του μυστική αποστολή. Δράση, 2020. Σκηνοθεσία: Πίτερ Σίγκαλ. Πρωταγωνιστές: Ντέιβ Μπατίστα, Κλόι Κόλμαν, Κρίστεν Σάαλ.</desc>
+  </programme>
+  <programme start="20221126121000 +0200" stop="20221126125000 +0200" channel="RIK">
+    <title lang="el">Κινηματογραφικά Νέα</title>
+    <desc lang="el">Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema! Νέες κυκλοφορίες, παραγωγές που σημειώνουν επιτυχία, διάσημοι πρωταγωνιστές και σκηνοθέτες παρελαύνουν στην οθόνη σας... Μαγκαζίνο.</desc>
+  </programme>
+  <programme start="20221126125000 +0200" stop="20221126145000 +0200" channel="RIK">
+    <title lang="el">Ο Κατάσκοπος του Ψυχρού Πολέμου</title>
+    <desc lang="el">Στην κορύφωση του Ψυχρού Πολέμου, η MI6 και η CIA επιστρατεύουν έναν Βρετανό επιχειρηματία για να αποσπάσει σημαντικές πληροφορίες, που θα αποτρέψουν μία παγκόσμια πυρηνική καταστροφή. Αληθινή ιστορία, 2020. Σκηνοθεσία: Ντόμινικ Κουκ. Πρωταγωνιστές: Μπένεντικτ Κάμπερμπατς, Ρέιτσελ Μπρόσναχαν.</desc>
+  </programme>
+  <programme start="20221126145000 +0200" stop="20221126164500 +0200" channel="RIK">
+    <title lang="el">Queenpins</title>
+    <desc lang="el">Μία βαριεστημένη και πνιγμένη στα χρέη γυναίκα και η κολλητή της, μία βλόγκερ με πολλά όνειρα, εξελίσσουν το χόμπι τους σε μία τεράστια απάτη με κουπόνια αξίας εκατομμυρίων δολαρίων. Κωμωδία, 2021. Σκηνοθεσία: Γκίτα Πουλαπίλι, Αρον Γκοντέτ. Πρωταγωνιστές: Κρίστεν Μπελ, Πολ Γουόλτερ Χάουζερ, Κέρμπι Χάουελ-Μπατίστ.</desc>
+  </programme>
+  <programme start="20221126164500 +0200" stop="20221126185500 +0200" channel="RIK">
+    <title lang="el">Woodlawn</title>
+    <desc lang="el">Αλαμπάμα, 1973. Σε μια εποχή που οι φυλετικές διακρίσεις μαστίζουν την κοινωνία, ένας Αφροαμερικανός μαθητής μαθαίνει να έχει πίστη στον εαυτό του και εξελίσσεται σε αστέρι του αμερικανικού ποδοσφαίρου. Αληθινή ιστορία, 2015. Σκηνοθεσία: Αντριου Εργουιν, Τζον Εργουιν. Πρωταγωνιστές: Τζον Βόιτ, Νικ Μπίσοπ, Κέιλεμπ Καστίλ, Σον Αστιν.</desc>
+  </programme>
+  <programme start="20221126185500 +0200" stop="20221126210000 +0200" channel="RIK">
+    <title lang="el">Η Ξηρασία</title>
+    <desc lang="el">Ένας αστυνομικός επιστρέφει στη γενέτειρά του για να παραστεί στην κηδεία ενός παιδικού φίλου και συμμετέχει στην έρευνα για τα αίτια θανάτου του, γεγονός που τον φέρνει αντιμέτωπο με το παρελθόν. Αστυνομική, 2020. Σκηνοθεσία: Ρόμπερτ Κόνολι. Πρωταγωνιστές: Ερικ Μπάνα, Τζενεβίβ Ο'Ράιλι, Κιρ Ο'Ντόνελ.</desc>
+  </programme>
+  <programme start="20221126210000 +0200" stop="20221126225000 +0200" channel="RIK">
+    <title lang="el">Παγιδευμένη</title>
+    <desc lang="el">Όταν η κόρη τους πέφτει θύμα απαγωγής, η Kάρεν και ο Γουίλιαμ Tζένινγκς αποφασίζουν να μην ενδώσουν με κανέναν τρόπο στον εκβιασμό των απαγωγέων αλλά να περάσουν οι ίδιοι στην αντεπίθεση... Αστυνομική, 2002. Σκηνοθεσία: Λουίς Μαντόκι. Πρωταγωνιστές: Σαρλίζ Θέρον, Κέβιν Μπέικον, Κόρτνεϊ Λαβ, Ντακότα Φάνινγκ.</desc>
   </programme>
   <programme start="20221119003000 +0200" stop="20221119004900 +0200" channel="BBC World">
     <title lang="el">News</title>
@@ -28679,9 +28730,9 @@
     <title lang="el">Η Άνοδος του Πολιτισμού Κ2 ΕΠ1</title>
     <desc lang="el">Οι Καρχηδόνιοι ήταν πανούργοι έμποροι και σκαιοί δολοφόνοι παιδιών σύμφωνα με τους αρχαίους Ρωμαίους και Έλληνες, όμως οι έρευνες απέδειξαν ότι δεν ήταν τόσο κακοί όσο τους παρουσίαζαν οι φήμες.</desc>
   </programme>
-  <programme start="20221121224000 +0200" stop="20221122000500 +0200" channel="BBC World">
-    <title lang="el">The Lazarus Effect</title>
-    <desc lang="el">Μια ομάδα ερευνητών γιατρών ανακαλύπτει έναν τρόπο να επαναφέρει στη ζωή νεκρούς ασθενείς. Σκηνοθεσία: David Gelb. Πρωταγωνιστούν: Olivia Wilde, Mark Duplass, Evan Peters. (2015).</desc>
+  <programme start="20221121220000 +0200" stop="20221121230000 +0200" channel="BBC World">
+    <title lang="el">Βομβαρδιστικό αεροσκάφος: ο τρόμος του Β΄ Παγκόσμιου Πολέμου Κ1 ΕΠ6</title>
+    <desc lang="el">Υπάρχουν πολλές εφευρέσεις στην ιστορία των πολέμων που άλλαξαν τον τρόπο με τον οποίο διεξάγονται οι μάχες, όμως ένα όπλο άλλαξε όχι μόνο το πεδίο των μαχών, αλλά και τον πόλεμο: το βομβαρδιστικό. Σκηνοθεσία: Dan Jobson. Πρωταγωνιστούν: Callan McAuliffe.</desc>
   </programme>
   <programme start="20221122000500 +0200" stop="20221122030000 +0200" channel="BBC World">
     <title lang="el">El Clan</title>
@@ -29075,73 +29126,81 @@
     <title lang="el">KÜCHENFICK</title>
     <desc lang="el">KÜCHENFICK.</desc>
   </programme>
-  <programme start="20221125053000 +0200" stop="20221125073000 +0200" channel="BBC World">
+  <programme start="20221125053000 +0200" stop="20221126000000 +0200" channel="BBC World">
+    <title lang="el">Transmission time: 0:00-5:30</title>
+    <desc lang="el">Transmission time: 0:00-5:30.</desc>
+  </programme>
+  <programme start="20221126000000 +0200" stop="20221126010000 +0200" channel="BBC World">
+    <title lang="el">ΣΚΙ ΑΝΩΜΑΛΟΥ ΔΡΟΜΟΥ: Χειμερινοί Ολυμπιακοί Αγώνες - Πεκίνο RELAY 4X10KM (ΑΝΔΡΕΣ)</title>
+    <desc lang="el">ΣΚΙ ΑΝΩΜΑΛΟΥ ΔΡΟΜΟΥ: Χειμερινοί Ολυμπιακοί Αγώνες - Πεκίνο RELAY 4X10KM (ΑΝΔΡΕΣ).</desc>
+  </programme>
+  <programme start="20221126010000 +0200" stop="20221126023000 +0200" channel="BBC World">
     <title lang="el">Ποδηλασία Πίστας: Tσάμπιονς Λιγκ - Βερολίνο</title>
     <desc lang="el">Ποδηλασία Πίστας: Tσάμπιονς Λιγκ - Βερολίνο.</desc>
   </programme>
-  <programme start="20221125073000 +0200" stop="20221125093000 +0200" channel="BBC World">
-    <title lang="el">ΣΝΟΥΚΕΡ: - UK Τσάμπιονσιπ (Τελικός)</title>
-    <desc lang="el">Τελικός.</desc>
-  </programme>
-  <programme start="20221125093000 +0200" stop="20221125110000 +0200" channel="BBC World">
+  <programme start="20221126023000 +0200" stop="20221126040000 +0200" channel="BBC World">
     <title lang="el">Δυναμικό Τρίαθλο: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Βίμποργκ ()</title>
     <desc lang="el">Δυναμικό Τρίαθλο: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Βίμποργκ ().</desc>
   </programme>
-  <programme start="20221125110000 +0200" stop="20221125120000 +0200" channel="BBC World">
+  <programme start="20221126040000 +0200" stop="20221126053000 +0200" channel="BBC World">
     <title lang="el">Ποδηλασία Πίστας: Tσάμπιονς Λιγκ - Βερολίνο</title>
     <desc lang="el">Ποδηλασία Πίστας: Tσάμπιονς Λιγκ - Βερολίνο.</desc>
   </programme>
-  <programme start="20221125120000 +0200" stop="20221125130000 +0200" channel="BBC World">
-    <title lang="el">ΠΡΩΤΑΘΛΗΜΑ ΗΛΕΚΤΡΙΚΩΝ ΑΥΤΟΚΙΝΗΤΩΝ ΤΟΥΡΙΣΜΟΥ</title>
-    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ ΗΛΕΚΤΡΙΚΩΝ ΑΥΤΟΚΙΝΗΤΩΝ ΤΟΥΡΙΣΜΟΥ.</desc>
+  <programme start="20221126053000 +0200" stop="20221126073000 +0200" channel="BBC World">
+    <title lang="el">Δυναμικό Τρίαθλο: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Βίμποργκ ()</title>
+    <desc lang="el">Δυναμικό Τρίαθλο: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Βίμποργκ ().</desc>
   </programme>
-  <programme start="20221125130000 +0200" stop="20221125150000 +0200" channel="BBC World">
-    <title lang="el">ΣΝΟΥΚΕΡ: - UK Τσάμπιονσιπ (Τελικός)</title>
-    <desc lang="el">Τελικός.</desc>
-  </programme>
-  <programme start="20221125150000 +0200" stop="20221125153000 +0200" channel="BBC World">
-    <title lang="el">GOLF PGA TOUR Discovery Γκολφ</title>
-    <desc lang="el">GOLF PGA TOUR Discovery Γκολφ.</desc>
-  </programme>
-  <programme start="20221125153000 +0200" stop="20221125163000 +0200" channel="BBC World">
-    <title lang="el">ΠΡΩΤΑΘΛΗΜΑ ΗΛΕΚΤΡΙΚΩΝ ΑΥΤΟΚΙΝΗΤΩΝ ΤΟΥΡΙΣΜΟΥ</title>
-    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ ΗΛΕΚΤΡΙΚΩΝ ΑΥΤΟΚΙΝΗΤΩΝ ΤΟΥΡΙΣΜΟΥ.</desc>
-  </programme>
-  <programme start="20221125163000 +0200" stop="20221125171500 +0200" channel="BBC World">
-    <title lang="el">ΑΛΠΙΚΟ ΣΚΙ</title>
-    <desc lang="el">ΑΛΠΙΚΟ ΣΚΙ.</desc>
-  </programme>
-  <programme start="20221125171500 +0200" stop="20221125180000 +0200" channel="BBC World">
-    <title lang="el">ΑΛΠΙΚΟ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ - Ζόλντεν Giant Slalom 2nd run (ΑΝΔΡΕΣ)</title>
-    <desc lang="el">ΑΛΠΙΚΟ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ - Ζόλντεν Giant Slalom 2nd run (ΑΝΔΡΕΣ).</desc>
-  </programme>
-  <programme start="20221125180000 +0200" stop="20221125195500 +0200" channel="BBC World">
-    <title lang="el">ΣΝΟΥΚΕΡ</title>
-    <desc lang="el">Τελικός.</desc>
-  </programme>
-  <programme start="20221125195500 +0200" stop="20221125200000 +0200" channel="BBC World">
-    <title lang="el">*</title>
-    <desc lang="el">N/A.</desc>
-  </programme>
-  <programme start="20221125200000 +0200" stop="20221125210000 +0200" channel="BBC World">
+  <programme start="20221126073000 +0200" stop="20221126090000 +0200" channel="BBC World">
     <title lang="el">Ποδηλασία Πίστας</title>
     <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.</desc>
   </programme>
-  <programme start="20221125210000 +0200" stop="20221125220000 +0200" channel="BBC World">
-    <title lang="el">ΠΡΩΤΑΘΛΗΜΑ ΗΛΕΚΤΡΙΚΩΝ ΑΥΤΟΚΙΝΗΤΩΝ ΤΟΥΡΙΣΜΟΥ</title>
-    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ ΗΛΕΚΤΡΙΚΩΝ ΑΥΤΟΚΙΝΗΤΩΝ ΤΟΥΡΙΣΜΟΥ.</desc>
-  </programme>
-  <programme start="20221125220000 +0200" stop="20221125220500 +0200" channel="BBC World">
+  <programme start="20221126090000 +0200" stop="20221126100000 +0200" channel="BBC World">
     <title lang="el">*</title>
     <desc lang="el">N/A.</desc>
   </programme>
-  <programme start="20221125220500 +0200" stop="20221125230000 +0200" channel="BBC World">
+  <programme start="20221126100000 +0200" stop="20221126130000 +0200" channel="BBC World">
+    <title lang="el">ΚΕΡΛΙΝΓΚ</title>
+    <desc lang="el">ΚΕΡΛΙΝΓΚ.</desc>
+  </programme>
+  <programme start="20221126130000 +0200" stop="20221126150000 +0200" channel="BBC World">
+    <title lang="el">ΣΝΟΥΚΕΡ: - UK Τσάμπιονσιπ (Τελικός)</title>
+    <desc lang="el">Τελικός.</desc>
+  </programme>
+  <programme start="20221126150000 +0200" stop="20221126163000 +0200" channel="BBC World">
+    <title lang="el">Ποδηλασία Πίστας: Tσάμπιονς Λιγκ - Βερολίνο</title>
+    <desc lang="el">Ποδηλασία Πίστας: Tσάμπιονς Λιγκ - Βερολίνο.</desc>
+  </programme>
+  <programme start="20221126163000 +0200" stop="20221126180000 +0200" channel="BBC World">
+    <title lang="el">Δυναμικό Τρίαθλο: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Βίμποργκ ()</title>
+    <desc lang="el">Δυναμικό Τρίαθλο: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Βίμποργκ ().</desc>
+  </programme>
+  <programme start="20221126180000 +0200" stop="20221126190000 +0200" channel="BBC World">
+    <title lang="el">FREESTYLE SKIING</title>
+    <desc lang="el">FREESTYLE SKIING.</desc>
+  </programme>
+  <programme start="20221126190000 +0200" stop="20221126210000 +0200" channel="BBC World">
+    <title lang="el">ΚΕΡΛΙΝΓΚ</title>
+    <desc lang="el">ΚΕΡΛΙΝΓΚ.</desc>
+  </programme>
+  <programme start="20221126210000 +0200" stop="20221126210500 +0200" channel="BBC World">
+    <title lang="el">*</title>
+    <desc lang="el">N/A.</desc>
+  </programme>
+  <programme start="20221126210500 +0200" stop="20221126220000 +0200" channel="BBC World">
     <title lang="el">ΣΚΙ ΑΝΩΜΑΛΟΥ ΔΡΟΜΟΥ</title>
     <desc lang="el">ΣΚΙ ΑΝΩΜΑΛΟΥ ΔΡΟΜΟΥ.</desc>
   </programme>
-  <programme start="20221118000000 +0000" stop="20221118235900 +0000" channel="ERT NEWS">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
+  <programme start="20221126220000 +0200" stop="20221126224500 +0200" channel="BBC World">
+    <title lang="el">ΒΟΡΙΝΟ ΣΥΝΘΕΤΟ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ - Ρούκα HS 142 (ΑΝΔΡΕΣ)</title>
+    <desc lang="el">ΒΟΡΙΝΟ ΣΥΝΘΕΤΟ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ - Ρούκα HS 142 (ΑΝΔΡΕΣ).</desc>
+  </programme>
+  <programme start="20221126224500 +0200" stop="20221126230000 +0200" channel="BBC World">
+    <title lang="el">ΒΟΡΙΝΟ ΣΥΝΘΕΤΟ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ - Ρούκα 5km (ΑΝΔΡΕΣ)</title>
+    <desc lang="el">ΒΟΡΙΝΟ ΣΥΝΘΕΤΟ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ - Ρούκα 5km (ΑΝΔΡΕΣ).</desc>
+  </programme>
+  <programme start="20221126230000 +0200" stop="20221126230500 +0200" channel="BBC World">
+    <title lang="el">*</title>
+    <desc lang="el">N/A.</desc>
   </programme>
   <programme start="20221119000000 +0000" stop="20221119235900 +0000" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
@@ -29171,7 +29230,7 @@
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
-  <programme start="20221118000000 +0000" stop="20221118235900 +0000" channel="ERT1.">
+  <programme start="20221126000000 +0000" stop="20221126235900 +0000" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
@@ -29200,6 +29259,10 @@
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
   <programme start="20221125000000 +0000" stop="20221125235900 +0000" channel="ERT1.">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
+  </programme>
+  <programme start="20221126000000 +0000" stop="20221126235900 +0000" channel="ERT1.">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
