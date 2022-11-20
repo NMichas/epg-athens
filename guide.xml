@@ -92,34 +92,42 @@
   </channel>
   <channel id="RISE TV">
     <display-name lang="el">RISE TV</display-name>
+    <icon src="https://i0.wp.com/typologies.gr/wp-content/uploads/2018/09/Rice-TV2.png?resize=350%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -26178,6 +26186,14 @@
     <title lang="el">Θρίλερ στο Διάστημα Κ1 ΕΠ8</title>
     <desc lang="el">Μια διαρροή απειλεί τη ζωή αστροναυτών κατά την επανείσοδό τους. Ακόμη, μια αποστολή στον διαστημικό σταθμό Σαλιούτ παίρνει άσχημη τροπή όταν προκύπτει απώλεια πίεσης. (2015)  (2015).</desc>
   </programme>
+  <programme start="20221126225000 +0200" stop="20221127010500 +0200" channel="RIK">
+    <title lang="el">Μη Φέρνεις Λουλούδια</title>
+    <desc lang="el">Όταν ο Τζίτζι γνωρίζει τη Μπίμπι, ο έρωτας είναι κεραυνοβόλος και παθιασμένος. Μεγαλύτερο, όμως, είναι το μυστικό που υπάρχει ανάμεσά τους και βάζει σε κίνδυνο τα πάντα. Αστυνομική, 2017. Σκηνοθεσία: Μίκαελ Ρ. Ρόσκαμ. Πρωταγωνιστές: Ματίας Σόναρτς, Αντέλ Εξαρχόπουλος, Ζαν-Μπενουά Ιζέ.(r)</desc>
+  </programme>
+  <programme start="20221126225000 +0200" stop="20221126234000 +0200" channel="RIK">
+    <title lang="el">Τα Ανεξήγητα Αρχεία της NASA Κ4 ΕΠ5</title>
+    <desc lang="el">Ειδικοί ερευνούν αν ένας κοντινός εξωπλανήτης θα μπορούσε να φιλοξενεί εξωγήινο πολιτισμό, αφού μια νέα ανακάλυψη επιβεβαιώνει ότι σε αυτόν μπορεί να ευδοκιμήσει ζωή. (2019).(r)</desc>
+  </programme>
   <programme start="20221127010500 +0200" stop="20221127013000 +0200" channel="RIK">
     <title lang="el">Κινηματογραφικά Νέα</title>
     <desc lang="el">Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema! Νέες κυκλοφορίες, παραγωγές που σημειώνουν επιτυχία, διάσημοι πρωταγωνιστές και σκηνοθέτες παρελαύνουν στην οθόνη σας... Μαγκαζίνο.</desc>
@@ -26589,6 +26605,22 @@
   <programme start="20221120224500 +0200" stop="20221120230000 +0200" channel="BBC World">
     <title lang="el">Musica</title>
     <desc lang="el">Musica transports viewers into the world of music.;Focusing mainly on the European musical scene, each show concentrate on one specific topic, artist portrait, work or event.</desc>
+  </programme>
+  <programme start="20221120230000 +0200" stop="20221121040000 +0200" channel="BBC World">
+    <title lang="el">... So 80s!</title>
+    <desc lang="el">Get ready because we're bringing you nothing but classic hits and iconic anthems from the '80s!(r)</desc>
+  </programme>
+  <programme start="20221120230000 +0200" stop="20221120231500 +0200" channel="BBC World">
+    <title lang="el">Global Week-End</title>
+    <desc lang="el">The leading news stories of the moment.(r)</desc>
+  </programme>
+  <programme start="20221120231500 +0200" stop="20221120233000 +0200" channel="BBC World">
+    <title lang="el">Global Week-End</title>
+    <desc lang="el">The leading news stories of the moment.(r)</desc>
+  </programme>
+  <programme start="20221120233000 +0200" stop="20221120234500 +0200" channel="BBC World">
+    <title lang="el">Global Week-End</title>
+    <desc lang="el">The leading news stories of the moment.(r)</desc>
   </programme>
   <programme start="20221121040000 +0200" stop="20221121060000 +0200" channel="BBC World">
     <title lang="el">... So 80s!</title>
