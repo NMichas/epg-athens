@@ -82,52 +82,42 @@
   </channel>
   <channel id="KONTRA CHANNEL">
     <display-name lang="el">KONTRA CHANNEL</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/el/b/b8/Kontra_channel_new_logo.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="MAD">
     <display-name lang="el">MAD</display-name>
-    <icon src="https://mad.tv/wp-content/uploads/2018/02/mad_logo_yellow.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="RISE TV">
     <display-name lang="el">RISE TV</display-name>
-    <icon src="https://i0.wp.com/typologies.gr/wp-content/uploads/2018/09/Rice-TV2.png?resize=350%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
-    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
-    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
-    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
-    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
-    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
-    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -24104,7 +24094,7 @@
   </programme>
   <programme start="20221127230000 +0200" stop="20221128003500 +0200" channel="RIK">
     <title lang="el">Lucy</title>
-    <desc lang="el">Ένας μυστηριώδης άνδρας εμφυτεύει στην κοιλιά μίας κοπέλας μία χημική ουσία για να τη βγάλει από τη χώρα. Όταν αυτή διαρρέει στο σώμα της, η κοπέλα ανεξήγητα αναπτύσσει υπερφυσικές δυνάμεις. Δράση, 2014. Σκηνοθεσία: Λικ Μπεσόν. Πρωταγωνιστές: Σκάρλετ Τζοχάνσον, Μόργκαν Φρίμαν, Πιλού Ασμπεκ.(c)</desc>
+    <desc lang="el">Ένας μυστηριώδης άνδρας εμφυτεύει στην κοιλιά μίας κοπέλας μία χημική ουσία για να τη βγάλει από τη χώρα. Όταν αυτή διαρρέει στο σώμα της, η κοπέλα ανεξήγητα αναπτύσσει υπερφυσικές δυνάμεις. Δράση, 2014. Σκηνοθεσία: Λικ Μπεσόν. Πρωταγωνιστές: Σκάρλετ Τζοχάνσον, Μόργκαν Φρίμαν, Πιλού Ασμπεκ.</desc>
   </programme>
   <programme start="20221128003500 +0200" stop="20221128013000 +0200" channel="RIK">
     <title lang="el">Κινηματογραφικά Νέα</title>
@@ -24494,22 +24484,6 @@
     <title lang="el">News</title>
     <desc lang="el">The leading news stories of the moment.</desc>
   </programme>
-  <programme start="20221121230000 +0200" stop="20221122040000 +0200" channel="BBC World">
-    <title lang="el">... So 80s!</title>
-    <desc lang="el">Get ready because we're bringing you nothing but classic hits and iconic anthems from the '80s!(r)</desc>
-  </programme>
-  <programme start="20221121230000 +0200" stop="20221121231500 +0200" channel="BBC World">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.(r)</desc>
-  </programme>
-  <programme start="20221121231500 +0200" stop="20221121233000 +0200" channel="BBC World">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.(r)</desc>
-  </programme>
-  <programme start="20221121233000 +0200" stop="20221121234500 +0200" channel="BBC World">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.(r)</desc>
-  </programme>
   <programme start="20221122040000 +0200" stop="20221122060000 +0200" channel="BBC World">
     <title lang="el">... So 80s!</title>
     <desc lang="el">Get ready because we're bringing you nothing but classic hits and iconic anthems from the '80s!</desc>
@@ -24636,7 +24610,7 @@
   </programme>
   <programme start="20221123224000 +0200" stop="20221124003500 +0200" channel="BBC World">
     <title lang="el">House of Wax</title>
-    <desc lang="el">Μια παρέα φίλων καθ' οδόν προς έναν κολλεγιακό αγώνα αμερικάνικου ποδοσφαίρου πέφτει θύμα δύο δολοφονικών αδερφών σε μια μικρή και εγκαταλελειμμένη πόλη. Ανακαλύπτουν ότι τα αδέρφια έχουν επεκτείνει το βασικό αξιοθέατο της περιοχής, το Μουσείο Κέρινων Ομοιωμάτων, δημιουργώντας μια ολόκληρη πόλη. Παίζουν: Paris Hilton, Elisha Cuthbert, Brian Van Holt. Σκηνοθεσία: Jaume Serra (2005) Σκηνοθεσία: Jaume Serra. Πρωταγωνιστούν: Paris Hilton, Elisha Cuthbert, Brian Van Holt. (2005).(c)</desc>
+    <desc lang="el">Μια παρέα φίλων καθ' οδόν προς έναν κολλεγιακό αγώνα αμερικάνικου ποδοσφαίρου πέφτει θύμα δύο δολοφονικών αδερφών σε μια μικρή και εγκαταλελειμμένη πόλη. Ανακαλύπτουν ότι τα αδέρφια έχουν επεκτείνει το βασικό αξιοθέατο της περιοχής, το Μουσείο Κέρινων Ομοιωμάτων, δημιουργώντας μια ολόκληρη πόλη. Παίζουν: Paris Hilton, Elisha Cuthbert, Brian Van Holt. Σκηνοθεσία: Jaume Serra (2005) Σκηνοθεσία: Jaume Serra. Πρωταγωνιστούν: Paris Hilton, Elisha Cuthbert, Brian Van Holt. (2005).</desc>
   </programme>
   <programme start="20221124003500 +0200" stop="20221124030000 +0200" channel="BBC World">
     <title lang="el">Aftermath</title>
