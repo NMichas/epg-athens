@@ -102,17 +102,14 @@
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
-    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
-    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
-    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
@@ -26261,9 +26258,9 @@
     <title lang="el">Markus Lanz</title>
     <desc lang="el">Markus Lanz.</desc>
   </programme>
-  <programme start="20221124231500 +0200" stop="20221125012500 +0200" channel="RIK">
-    <title lang="el">Berg's Wozzeck at the Greek National Opera</title>
-    <desc lang="el">Opera in three acts by Alban Berg (1885 - 1935). Libretto by Alban Berg after Georg Büchner's play 'Woyzeck. Greek National Opera Orchestra, Chorus and Children's Chorus, Vassilis Christopoulos (Conductor). Tassis Christoyannis (Wozzeck), Nadine Lehner (Marie), Peter Hoare (Captain), Yanni Yannissis (Doctor), Peter Wedd (Drum Major), Vassilis Kavayas (Andres), Panagiotis Priftis (Madman), Margarita Syngeniotou (Margret). Recorded at the Greek National Opera, Stavros Niarchos Hall, 26/11/2022. Σκηνοθεσία: Stéphane Lebard. (2020).</desc>
+  <programme start="20221124230000 +0200" stop="20221124233000 +0200" channel="RIK">
+    <title lang="el">Druckfrisch</title>
+    <desc lang="el">Druckfrisch.</desc>
   </programme>
   <programme start="20221125012500 +0200" stop="20221125023500 +0200" channel="RIK">
     <title lang="el">InterMezzo</title>
@@ -26633,9 +26630,13 @@
     <title lang="el">Πώς Φτιάχνονται; Κ24 ΕΠ6</title>
     <desc lang="el">Ανακαλύψτε πώς φτιάχνονται τα γουδιά, τα γουδοχέρια, οι μηχανές συντήρησης διαδρόμων μπόουλινγκ, τα κρεματόρια και τα ξύλινα παιχνίδια παιδικής χαράς. (2015).</desc>
   </programme>
-  <programme start="20221127224500 +0200" stop="20221128002500 +0200" channel="RIK">
-    <title lang="el">Search and Destroy</title>
-    <desc lang="el">Ο καταδρομέας Τζον Κάτερ φεύγει από τον στρατό ύστερα από μια αποτυχημένη προσπάθεια να σώσει μια οικογένεια από έναν Ουκρανό έμπορο όπλων. Όταν εκείνος επανεμφανίζεται, ο Τζον επιστρέφει... Δράση, 2020. Σκηνοθεσία: Ντάνι Λέρνερ. Πρωταγωνιστές: Ντίλαν Μπρους, Τζούλιαν Κοστόβ, Λέσλι Γκράνθαμ.</desc>
+  <programme start="20221127220000 +0200" stop="20221127225000 +0200" channel="RIK">
+    <title lang="el">Πώς Λειτουργεί το Σύμπαν Κ7 ΕΠ5</title>
+    <desc lang="el">Interstellar space is the space between the universe's stars. New discoveries reveal that it's not empty and unremarkable as previously thought. (2018)  (2018).</desc>
+  </programme>
+  <programme start="20221127225000 +0200" stop="20221127234000 +0200" channel="RIK">
+    <title lang="el">Πώς Λειτουργεί το Σύμπαν Κ7 ΕΠ6</title>
+    <desc lang="el">New discoveries lead scientists to question if the Big Bang really happened. They investigate if it was the start of many multiverses. (2018)  (2018).</desc>
   </programme>
   <programme start="20221128002500 +0200" stop="20221128010000 +0200" channel="RIK">
     <title lang="el">Κινηματογραφικά Νέα</title>
@@ -26645,21 +26646,21 @@
     <title lang="el">Young Swingers (Part 1)</title>
     <desc lang="el">Παρακαλούμε ενημερωθείτε από το τμήμα Εξυπηρέτησης Πελατών ή από το εγχειρίδιο του αποκωδικοποιητή σας για τις δυνατότητες κλειδώματος της συσκευής. Αισθησιακή.</desc>
   </programme>
-  <programme start="20221128044000 +0200" stop="20221128062000 +0200" channel="RIK">
-    <title lang="el">Φρίκη</title>
-    <desc lang="el">Ενώ προσπαθεί να επιβιώσει στο βάρβαρο σχολείο, η 17χρονη Μίλι αλλάζει σώματα με έναν κατά συρροή δολοφόνο, και συνειδητοποιεί ότι έχει 24 ώρες για να πάρει πίσω το σώμα της, πριν η αλλαγή γίνει μόνιμη. Κωμωδία, 2020. Σκηνοθεσία: Κρίστοφερ Λάντον. Πρωταγωνιστές: Βινς Βον, Κάθριν Νιούτον, Κέιτι Φίνεραν, Σελέστ Ο'Κόνορ.</desc>
-  </programme>
-  <programme start="20221128062000 +0200" stop="20221128191000 +0200" channel="RIK">
+  <programme start="20221128030000 +0200" stop="20221128060000 +0200" channel="RIK">
     <title lang="el">Novacinema3HD</title>
     <desc lang="el">Novacinema3HD: Καθαρή Αδρεναλίνη! Περιπέτειες, ταινίες δράσης, τρόμου και επιστημονικής φαντασίας! Κάθε Παρασκευή βράδυ μοναδικά θρίλερ που θα σας καθηλώσουν! Τα Σαββατοκύριακα,  το κανάλι  εκπέμπει 24 ώρες το 24ωρο.</desc>
   </programme>
-  <programme start="20221128191000 +0200" stop="20221128210000 +0200" channel="RIK">
-    <title lang="el">Tesla</title>
-    <desc lang="el">Μία ελεύθερη εκδοχή της ιστορίας του οραματιστή Νίκολα Τέσλα, οι σχέσεις του με τον Τόμας Έντισον και την κόρη του Τζ. Π. Μόργκαν, και οι καινοτομίες του σε σχέση με τη μεταφορά της ηλεκτρικής ενέργειας . Αληθινή ιστορία, 2020. Σκηνοθεσία: Μάικλ Αλμερέιντα. Πρωταγωνιστές: Ιθαν Χοκ, Τζος Χάμιλτον, Ιβ Χιούσον, Κάιλ ΜακΛάχλαν.</desc>
+  <programme start="20221128060000 +0200" stop="20221128191500 +0200" channel="RIK">
+    <title lang="el">Novacinema3HD</title>
+    <desc lang="el">Novacinema3HD: Καθαρή Αδρεναλίνη! Περιπέτειες, ταινίες δράσης, τρόμου και επιστημονικής φαντασίας! Κάθε Παρασκευή βράδυ μοναδικά θρίλερ που θα σας καθηλώσουν! Τα Σαββατοκύριακα,  το κανάλι  εκπέμπει 24 ώρες το 24ωρο.</desc>
   </programme>
-  <programme start="20221128210000 +0200" stop="20221128224500 +0200" channel="RIK">
-    <title lang="el">Δικός Μου Μέχρι Θανάτου</title>
-    <desc lang="el">Αδυνατώντας να διαχειριστεί το διαζύγιό της και το γεγονός ότι η ζωή της όπως την ήξερε έχει τελειώσει, η Τέσα θα μετατρέψει τη ζωή της νέας αγαπημένης του πρώην συζύγου της σε κόλαση... Θρίλερ, 2017. Σκηνοθεσία: Ντενίζ Ντι Νόβι. Πρωταγωνιστές: Κάθριν Χέιγκλ, Ροζάριο Ντόσον, Τζεφ Στολτς.</desc>
+  <programme start="20221128191500 +0200" stop="20221128210000 +0200" channel="RIK">
+    <title lang="el">Το Οχυρό</title>
+    <desc lang="el">Όταν η δίψα για εκδίκηση, η απληστία και η πρωτοπορία συγκρούονται, ζωές κινδυνεύουν. Ένας άνδρας επισκέπτεται τον πατέρα του στο θέρετρο που ζει, αλλά ένας παλιός εχθρός είναι στο κατόπι του... Δράση, 2021. Σκηνοθεσία: Τζέιμς Κάλεν Μπρέσακ. Πρωταγωνιστές: Μπρους Γουίλις, Τζέσι Μέτκαλφ, Σάνεν Ντόερτι, Τσαντ Μάικλ Μάρεϊ.</desc>
+  </programme>
+  <programme start="20221128210000 +0200" stop="20221128230000 +0200" channel="RIK">
+    <title lang="el">Embattled</title>
+    <desc lang="el">Ακολουθώντας τα χνάρια του πατέρα του, ο νεαρός Τζετ μπαίνει στον κόσμο του MMA, και, στη διάρκεια του ταξιδιού του, αναγκάζεται να σπάσει τον κύκλο βίας και κακοποίησης που υπάρχει την οικογένεια. Αθλητικό Δράμα, 2020. Σκηνοθεσία: Νικ Σαρκίσοφ. Πρωταγωνιστές: Στίβεν Ντορφ, Ελίζαμπεθ Ρίσερ, Ντάρεν Μαν, Ντόναλντ Φέισον.</desc>
   </programme>
   <programme start="20221122003000 +0200" stop="20221122004300 +0200" channel="BBC World">
     <title lang="el">News</title>
@@ -27641,10 +27642,6 @@
     <title lang="el">ΠΡΩΤΑΘΛΗΜΑ ΑΥΤΟΚΙΝΗΤΩΝ ΤΟΥΡΙΣΜΟΥ</title>
     <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ ΑΥΤΟΚΙΝΗΤΩΝ ΤΟΥΡΙΣΜΟΥ.</desc>
   </programme>
-  <programme start="20221121000000 +0000" stop="20221121235900 +0000" channel="ERT NEWS">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
-  </programme>
   <programme start="20221122000000 +0000" stop="20221122235900 +0000" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
@@ -27673,7 +27670,7 @@
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
-  <programme start="20221121000000 +0000" stop="20221121235900 +0000" channel="ERT1.">
+  <programme start="20221129000000 +0000" stop="20221129235900 +0000" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
@@ -27702,6 +27699,10 @@
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
   <programme start="20221128000000 +0000" stop="20221128235900 +0000" channel="ERT1.">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
+  </programme>
+  <programme start="20221129000000 +0000" stop="20221129235900 +0000" channel="ERT1.">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
