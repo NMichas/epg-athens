@@ -117,14 +117,17 @@
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -29839,9 +29842,9 @@
     <title lang="el">Υπόγεια Μυστικά Κ1 ΕΠ1</title>
     <desc lang="el">Ο Ρομπ Νέλσον ερευνά τα μυστηριώδη πετρώματα στον βυθό της λίμνης Μίσιγκαν, γνωστά ως Υποθαλάσσιο Στόουνχεντζ. Επίσης, μια έρευνα για σήραγγες απόδρασης από το Αλκατράζ. (2017)  (2017).</desc>
   </programme>
-  <programme start="20221130231000 +0200" stop="20221201010500 +0200" channel="RIK">
-    <title lang="el">Resident Evil: Welcome to Raccoon City</title>
-    <desc lang="el">Εγκαταλείποντας την πόλη στην οποία είχε δραστηριοποιηθεί, μία φαρμακευτική εταιρεία αφήνει πίσω ένα τρομερό κακό, που καταστρέφει τους πολίτες. Μία ομάδα επιζώντων παίρνει την κατάσταση στα χέρια της... Δράση, 2021. Σκηνοθεσία: Γιοχάνες Ρόμπερτς. Πρωταγωνιστές: Ρόμπι Αμέλ, Τομ Χόπερ, Ντόναλ Λογκ, Νιλ ΜακΝτόνα.</desc>
+  <programme start="20221130225000 +0200" stop="20221130234000 +0200" channel="RIK">
+    <title lang="el">Υπόγεια Μυστικά Κ1 ΕΠ2</title>
+    <desc lang="el">Ο Ρομπ Νέλσον ερευνά τις μυστηριώδεις σήραγγες κάτω από το αεροδρόμιο του Ντένβερ. Επίσης, στο Οχάιο, προσπαθεί να  αποκαλύψει τα μυστικά ενός τεράστιου υψώματος σε σχήμα φιδιού. (2017)  (2017).(c)</desc>
   </programme>
   <programme start="20221201010500 +0200" stop="20221201013000 +0200" channel="RIK">
     <title lang="el">Κινηματογραφικά Νέα</title>
@@ -30211,6 +30214,22 @@
     <title lang="el">News</title>
     <desc lang="el">The leading news stories of the moment.</desc>
   </programme>
+  <programme start="20221124230000 +0200" stop="20221125040000 +0200" channel="BBC World">
+    <title lang="el">... So 80s!</title>
+    <desc lang="el">Get ready because we're bringing you nothing but classic hits and iconic anthems from the '80s!(r)</desc>
+  </programme>
+  <programme start="20221124230000 +0200" stop="20221124231500 +0200" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(r)</desc>
+  </programme>
+  <programme start="20221124231500 +0200" stop="20221124233000 +0200" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(r)</desc>
+  </programme>
+  <programme start="20221124233000 +0200" stop="20221124234500 +0200" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(r)</desc>
+  </programme>
   <programme start="20221125040000 +0200" stop="20221125060000 +0200" channel="BBC World">
     <title lang="el">... So 80s!</title>
     <desc lang="el">Get ready because we're bringing you nothing but classic hits and iconic anthems from the '80s!</desc>
@@ -30323,9 +30342,9 @@
     <title lang="el">Απόβαση στη Νορμανδία: Τα φτερά της νίκης</title>
     <desc lang="el">Απόβαση στη Νορμανδία: Τα φτερά της νίκης Σκηνοθεσία: Fabrice Gardel, Sophie Jaubert.</desc>
   </programme>
-  <programme start="20221126225500 +0200" stop="20221127004500 +0200" channel="BBC World">
-    <title lang="el">Advantages of travelling by train</title>
-    <desc lang="el">Μια γυναίκα βρίσκεται να ζει στη σκοτεινή παράνοια του σχιζοφρενή και κακοποιητικού φίλου της. Είναι μια ζωή γεμάτη παραφροσύνη και διαστροφή. Σκηνοθεσία: Aritz Moreno. Πρωταγωνιστούν: Luis Tosar, Pilar Castro, Ernesto Alterio. (2019).</desc>
+  <programme start="20221126220000 +0200" stop="20221126231000 +0200" channel="BBC World">
+    <title lang="el">Ο επικεφαλής των μυστικών οπλικών συστημάτων του Χίτλερ</title>
+    <desc lang="el">Νέα στοιχεία υποδεικνύουν ότι ο Χανς Κάμλερ, ο δημιουργός του μυστικού προγράμματος όπλων του Χίτλερ, επέζησε μετά τον πόλεμο, φυγαδεύτκε στις ΗΠΑ και απέφυγε την κατηγορία του εγκληματία πολέμου. Σκηνοθεσία: Andreas Sulzer, Stefan Brauburger, Christian Frey. Πρωταγωνιστούν: Nick Bolton.(c)</desc>
   </programme>
   <programme start="20221127004500 +0200" stop="20221127030000 +0200" channel="BBC World">
     <title lang="el">La Fille de Brest</title>
