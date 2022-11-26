@@ -122,10 +122,12 @@
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -29187,6 +29189,14 @@
     <title lang="el">Alien Encounters Κ2 ΕΠ2</title>
     <desc lang="el">As a mysterious alien technology spreads across our globe, so do fears of contagion. Scientists discuss the implications of encountering life as we don't know it. (2012)  (2012).</desc>
   </programme>
+  <programme start="20221203225000 +0200" stop="20221204003000 +0200" channel="RIK">
+    <title lang="el">Πρόσκληση σε Γεύμα...</title>
+    <desc lang="el">Πέντε ντετέκτιβ συγκεντρώνονται στο κάστρο ενός εκατομμυριούχου, ο οποίος τους προσκαλεί σε ένα δείπνο όπου θα γίνει μια δολοφονία, προσφέροντας 1.000.000 δολάρια σε όποιον λύσει το μυστήριο. Κωμωδία, 1976. Σκηνοθεσία: Ρόμπερτ Μουρ. Πρωταγωνιστές: Πίτερ Σέλερς, Μάγκι Σμιθ, Πίτερ Φολκ, Τρούμαν Καπότε.(r)</desc>
+  </programme>
+  <programme start="20221203225000 +0200" stop="20221203234000 +0200" channel="RIK">
+    <title lang="el">Η κατάρα του Τριγώνου των Βερμούδων Κ1 ΕΠ1</title>
+    <desc lang="el">Νέα στοιχεία ίσως μπορούν να εξηγήσουν μια μυστηριώδη επαφή με ΑΤΙΑ στο Τρίγωνο των Βερμούδων. Μια ομάδα ειδικών ερευνά αν οι εξωγήινοι έχουν επισκεφθεί αυτήν τη θαλάσσια περιοχή. (2020).(r)</desc>
+  </programme>
   <programme start="20221204003000 +0200" stop="20221204013000 +0200" channel="RIK">
     <title lang="el">Κινηματογραφικά Νέα</title>
     <desc lang="el">Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema! Νέες κυκλοφορίες, παραγωγές που σημειώνουν επιτυχία, διάσημοι πρωταγωνιστές και σκηνοθέτες παρελαύνουν στην οθόνη σας... Μαγκαζίνο.</desc>
@@ -29563,6 +29573,22 @@
     <title lang="el">Global Week-End</title>
     <desc lang="el">The leading news stories of the moment.</desc>
   </programme>
+  <programme start="20221127230000 +0200" stop="20221128040000 +0200" channel="BBC World">
+    <title lang="el">... So 80s!</title>
+    <desc lang="el">Get ready because we're bringing you nothing but classic hits and iconic anthems from the '80s!(r)</desc>
+  </programme>
+  <programme start="20221127230000 +0200" stop="20221127231500 +0200" channel="BBC World">
+    <title lang="el">Global Week-End</title>
+    <desc lang="el">The leading news stories of the moment.(r)</desc>
+  </programme>
+  <programme start="20221127231500 +0200" stop="20221127233000 +0200" channel="BBC World">
+    <title lang="el">Global Week-End</title>
+    <desc lang="el">The leading news stories of the moment.(r)</desc>
+  </programme>
+  <programme start="20221127233000 +0200" stop="20221127234500 +0200" channel="BBC World">
+    <title lang="el">Global Week-End</title>
+    <desc lang="el">The leading news stories of the moment.(r)</desc>
+  </programme>
   <programme start="20221128040000 +0200" stop="20221128060000 +0200" channel="BBC World">
     <title lang="el">... So 80s!</title>
     <desc lang="el">Get ready because we're bringing you nothing but classic hits and iconic anthems from the '80s!</desc>
@@ -29691,9 +29717,9 @@
     <title lang="el">Οι Κέλτες: Αίμα, Ξίφος και Θυσία Κ1 ΕΠ2</title>
     <desc lang="el">Δείτε πώς η μακραίωνη αντιπαλότητα ανάμεσα στους Κέλτες και τους Ρωμαίους εξακολουθεί να προσδιορίζει σήμερα τον κόσμο μας, κι ανακαλύψτε έναν από τους πιο αινιγματικούς αρχαίους λαούς της Ευρώπης.</desc>
   </programme>
-  <programme start="20221129230000 +0200" stop="20221130011500 +0200" channel="BBC World">
-    <title lang="el">Joan of Arc</title>
-    <desc lang="el">Τον 15ο αιώνα, τόσο η Γαλλία όσο και η Αγγλία διεκδικούν με αίμα τον γαλλικό θρόνο. Πιστεύοντας ότι είναι η εκλεκτή του Θεού, η νεαρή Ζαν (Λιζ Λεπλά Προυντόμ) ηγείται του βασιλικού στρατού της Γαλλίας. Όταν αιχμαλωτίζεται, η Εκκλησία την παραπέμπει σε δίκη, κατηγορώντας την ως αιρετική. Αρνούμενη να δεχτεί τις κατηγορίες όμως, η ενάρετη Ζαν Ντ’ Αρκ παραμένει πιστή στην αποστολή της. Σκηνοθεσία: Bruno Dumont. Πρωταγωνιστούν: Lise Leplat Prudhomme, Annick Lavieville, Justine Herbez. (2019).</desc>
+  <programme start="20221129220000 +0200" stop="20221129230500 +0200" channel="BBC World">
+    <title lang="el">Αρχαία μηχανική Κ2 ΕΠ3</title>
+    <desc lang="el">Από τη ρίψη απλών δοράτων μέχρι τα σύγχρονα περίπλοκα βλήματα μεγάλου βεληνεκούς, ο άνθρωπος προσπαθεί να βελτιώσει και να εξελίξει τον σχεδιασμό τους για να εξασφαλίσει σημαντικό πλεονέκτημα.(c)</desc>
   </programme>
   <programme start="20221130011500 +0200" stop="20221130030000 +0200" channel="BBC World">
     <title lang="el">Perfect Nanny</title>
