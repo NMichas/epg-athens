@@ -92,34 +92,42 @@
   </channel>
   <channel id="RISE TV">
     <display-name lang="el">RISE TV</display-name>
+    <icon src="https://i0.wp.com/typologies.gr/wp-content/uploads/2018/09/Rice-TV2.png?resize=350%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -20482,6 +20490,13 @@
       <value>5</value>
     </rating>
   </programme>
+  <programme start="20221205010000 +0200" stop="20221205013000 +0200" channel="RISE TV">
+    <title lang="el">[K8] /Culture</title>
+    <desc lang="el">Οι εμπειρίες που μας αλλάζουν και η αξία της Τέχνης.(r)</desc>
+    <rating system="GR">
+      <value>5</value>
+    </rating>
+  </programme>
   <programme start="20221205013000 +0200" stop="20221205020000 +0200" channel="RISE TV">
     <title lang="el">[K8] /Culture</title>
     <desc lang="el">Οι εμπειρίες που μας αλλάζουν και η αξία της Τέχνης.</desc>
@@ -29499,6 +29514,18 @@
     <title lang="el">Fokus Europa</title>
     <desc lang="el">Direkt, nah dran - jede Woche eine halbe Stunde Hintergrund zu aktuellen Themen aus Politik und Zeitgeschehen. Nicht nur zeigen, was geschieht, sondern wie und warum es geschieht. "Nahaufnahme" - spannend, bildstark, informativ.</desc>
   </programme>
+  <programme start="20221201220000 +0200" stop="20221202010000 +0200" channel="RIK">
+    <title lang="el">Faust by Charles Gounod at the Teatro Real de Madrid</title>
+    <desc lang="el">Libretto by Jules Barbier and Michel Carré, based upon the play 'Faust et Marguerite' by Michel Carré and 'Faust' (1808) by Johann Wolfgang Goethe. Dan Ettinger (Conductor). Σκηνοθεσία: Xavi Bové. (2018).(r)</desc>
+  </programme>
+  <programme start="20221201220000 +0200" stop="20221201230000 +0200" channel="RIK">
+    <title lang="el">Maybrit Illner</title>
+    <desc lang="el">Maybrit Illner.(r)</desc>
+  </programme>
+  <programme start="20221201230000 +0200" stop="20221201233000 +0200" channel="RIK">
+    <title lang="el">Lesenswert</title>
+    <desc lang="el">Lesenswert.(r)</desc>
+  </programme>
   <programme start="20221202010000 +0200" stop="20221202013400 +0200" channel="RIK">
     <title lang="el">Daniel &amp; Michael Barenboim moments musicaux at the Boulez Saal: Mozart</title>
     <desc lang="el">Daniel Barenboim (piano), Michael Barenboim (violin). Wolfgang Amadeus Mozart (1756 - 1791): 6 Variations on 'Hélas, j'ai perdu mon amant', K.360/374b; Violin Sonata in A major, K.526. Recorded at the Pierre Boulez Saal, Berlin, 17 April 2020. (2020).</desc>
@@ -29863,9 +29890,9 @@
     <title lang="el">Πώς Λειτουργεί το Σύμπαν Κ7 ΕΠ7</title>
     <desc lang="el">Dark matter and energy battle for the cosmos and the winner will determine the universe's fate. New discoveries may reveal which force will win. (2018)  (2018).</desc>
   </programme>
-  <programme start="20221204225000 +0200" stop="20221204234000 +0200" channel="RIK">
-    <title lang="el">Πώς Λειτουργεί το Σύμπαν Κ7 ΕΠ8</title>
-    <desc lang="el">For 20 years NASA's Cassini spacecraft revealed Saturn's strange secrets until it vaporized in its atmosphere. Now, fresh data points to new discoveries. (2018)  (2018).</desc>
+  <programme start="20221204232000 +0200" stop="20221205005000 +0200" channel="RIK">
+    <title lang="el">Σε Αγαπώ ως το Τέλος</title>
+    <desc lang="el">Μία γυναίκα και η κόρη της απολαμβάνουν την ηρεμία τους σε μία αμερικανική φάρμα. Το σκοτάδι, όμως, τις κυριεύει, όταν στο σπίτι καταφτάνει η τεφροδόχος με τη στάχτη της αποξενωμένης μητέρας της. Τρόμου, 2022. Σκηνοθεσία: Αϊρις Σιμ. Πρωταγωνιστές: Σάντρα Ο, Ντέρμοτ Μαλρόνι, Φάιβελ Στιούαρτ.(c)</desc>
   </programme>
   <programme start="20221205005000 +0200" stop="20221205010000 +0200" channel="RIK">
     <title lang="el">Κινηματογραφικά Νέα</title>
@@ -30251,6 +30278,22 @@
     <title lang="el">News</title>
     <desc lang="el">The leading news stories of the moment.</desc>
   </programme>
+  <programme start="20221129230000 +0200" stop="20221130040000 +0200" channel="BBC World">
+    <title lang="el">... So 80s!</title>
+    <desc lang="el">Get ready because we're bringing you nothing but classic hits and iconic anthems from the '80s!(r)</desc>
+  </programme>
+  <programme start="20221129230000 +0200" stop="20221129231500 +0200" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(r)</desc>
+  </programme>
+  <programme start="20221129231500 +0200" stop="20221129233000 +0200" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(r)</desc>
+  </programme>
+  <programme start="20221129233000 +0200" stop="20221129234500 +0200" channel="BBC World">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(r)</desc>
+  </programme>
   <programme start="20221130040000 +0200" stop="20221130060000 +0200" channel="BBC World">
     <title lang="el">... So 80s!</title>
     <desc lang="el">Get ready because we're bringing you nothing but classic hits and iconic anthems from the '80s!</desc>
@@ -30379,9 +30422,9 @@
     <title lang="el">Ο μοιραίος πόλεμος του Καίσαρα Κ1 ΕΠ1</title>
     <desc lang="el">Ο Ιούλιος Καίσαρ ήθελε να θέσει τη Γαλατία υπό τον έλεγχό του και προκάλεσε μια σειρά γεγονότων που οδήγησαν τον στρατό του στα πρόθυρα της ήττας - σήμερα αρχαιολόγοι αποκαλύπτουν τι ακριβώς συνέβη. Σκηνοθεσία: Claire Benhaim, Alain Brunard, Bertrand Goujard, Christopher Holt, Eric Maillebi. Πρωταγωνιστούν: Douglas Rand.</desc>
   </programme>
-  <programme start="20221201220500 +0200" stop="20221201231500 +0200" channel="BBC World">
-    <title lang="el">Το μυστήριο της Ιεράς Λόγχης</title>
-    <desc lang="el">Η Ιερά Λόγχη λέγεται ότι ήταν το όπλο με το οποίο ο Ρωμαίος λεγεωνάριος Λογγίνος τρύπησε το πλευρό του Ιησού Χριστού μετά τη σταύρωση. Το ντοκιμαντέρ ερευνά την ιστορία του συναρπαστικού αντικειμένου. Σκηνοθεσία: François Barré.</desc>
+  <programme start="20221201230000 +0200" stop="20221202003000 +0200" channel="BBC World">
+    <title lang="el">Precious Cargo</title>
+    <desc lang="el">Ένα αφεντικό του οργανωμένου εγκλήματος προσπαθεί να το σκάσει με λάφυρα που ανήκουν σε έναν άλλον κλέφτη. Σκηνοθεσία: Max Adams. Πρωταγωνιστούν: Bruce Willis, Mark-Paul Gosselaar, Claire Forlani. (2016).(c)</desc>
   </programme>
   <programme start="20221202003000 +0200" stop="20221202030000 +0200" channel="BBC World">
     <title lang="el">Close Enemies</title>
