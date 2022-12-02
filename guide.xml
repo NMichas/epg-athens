@@ -92,34 +92,42 @@
   </channel>
   <channel id="RISE TV">
     <display-name lang="el">RISE TV</display-name>
+    <icon src="https://i0.wp.com/typologies.gr/wp-content/uploads/2018/09/Rice-TV2.png?resize=350%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -19824,6 +19832,13 @@
       <value>5</value>
     </rating>
   </programme>
+  <programme start="20221205010000 +0200" stop="20221205013000 +0200" channel="RISE TV">
+    <title lang="el">[K8] /Culture</title>
+    <desc lang="el">Οι εμπειρίες που μας αλλάζουν και η αξία της Τέχνης.(r)</desc>
+    <rating system="GR">
+      <value>5</value>
+    </rating>
+  </programme>
   <programme start="20221205013000 +0200" stop="20221205020000 +0200" channel="RISE TV">
     <title lang="el">[K8] /Culture</title>
     <desc lang="el">Οι εμπειρίες που μας αλλάζουν και η αξία της Τέχνης.</desc>
@@ -31769,17 +31784,9 @@
     <title lang="el">Πώς Φτιάχνονται; Κ18 ΕΠ1</title>
     <desc lang="el">Ανακαλύψτε πώς φτιάχνονται τα γυάλινα πάνελ με σχέδια και οι θήκες μεταφοράς των μουσικών οργάνων. Επίσης, μαθαίνουμε πώς επιτυγχάνεται η τεχνική του stop-frame animation. (2009).</desc>
   </programme>
-  <programme start="20221208222500 +0200" stop="20221208225000 +0200" channel="RIK">
-    <title lang="el">Πώς Φτιάχνονται; Κ18 ΕΠ2</title>
-    <desc lang="el">Καθημερινά αντικείμενα μπαίνουν στο μικροσκόπιο. Πώς φτιάχνονται τα βιομηχανικά συρματόσχοινα, οι ζωντανοί τοίχοι και οι φωτογραφικές μηχανές μεγάλου φορμά; (2009).</desc>
-  </programme>
-  <programme start="20221208225000 +0200" stop="20221208231500 +0200" channel="RIK">
-    <title lang="el">Πώς Φτιάχνονται; Κ18 ΕΠ3</title>
-    <desc lang="el">Ανακαλύψτε πώς φτιάχνονται τα σοκολατένια νομίσματα, τα αυτοκίνητα με πετάλια και τα λαστιχένια σπαθιά, στο τελευταίο επεισόδιο της δημοφιλούς σειράς. (2009).</desc>
-  </programme>
-  <programme start="20221208231500 +0200" stop="20221208234000 +0200" channel="RIK">
-    <title lang="el">Πώς Φτιάχνονται; Κ18 ΕΠ4</title>
-    <desc lang="el">Αναρωτηθήκατε ποτέ πώς φτιάχνονται τα μπουφάν μηχανής και τα φτυάρια, και πώς παράγεται το χαβιάρι εκτροφείου; (2009).</desc>
+  <programme start="20221208223500 +0200" stop="20221209003000 +0200" channel="RIK">
+    <title lang="el">Οι Μαχητές των Δρόμων</title>
+    <desc lang="el">Στο πλαίσιο της έρευνας μιας ληστείας, ένας άνδρας της μυστικής αστυνομίας εισχωρεί στον κόσμο των παράνομων αγώνων ταχύτητας. Κι ενώ κερδίζει την εμπιστοσύνη του υπόκοσμου, η κατάσταση ανατρέπεται. Δράση, 2001. Σκηνοθεσία: Ρομπ Κοέν. Πρωταγωνιστές: Πολ Γουόκερ, Βιν Ντίζελ, Μισέλ Ροντρίγκες, Tζορντάνα Μπρούστερ.(c)</desc>
   </programme>
   <programme start="20221209003000 +0200" stop="20221209010000 +0200" channel="RIK">
     <title lang="el">Κινηματογραφικά Νέα</title>
@@ -32305,9 +32312,9 @@
     <title lang="el">Τα πιο παράξενα αντικείμενα Κ1 ΕΠ5</title>
     <desc lang="el">Καταχωνιασμένα μέσα σε μουσεία, εργαστήρια και αποθήκες ανά την υφήλιο βρίσκονται τα πιο αξιοσημείωτα αντικείμενα στον κόσμο. Με νέα μέσα έρευνας και τεχνολογίας, τα εξετάζουμε διεξοδικότερα από ποτέ. Σκηνοθεσία: Corey Johnson. Πρωταγωνιστούν: Corey Johnson.</desc>
   </programme>
-  <programme start="20221204221500 +0200" stop="20221204232000 +0200" channel="BBC World">
-    <title lang="el">Θύματα των Βίκινγκς</title>
-    <desc lang="el">Θύματα των Βίκινγκς Σκηνοθεσία: Gernot Lercher.</desc>
+  <programme start="20221204230000 +0200" stop="20221205005000 +0200" channel="BBC World">
+    <title lang="el">Taking Lives</title>
+    <desc lang="el">Μια πράκτορας του FBI καταδιώκει έναν καθ' έξιν δολοφόνο που κλέβει τις ταυτότητες των θυμάτων του και κατόπιν παρεισφρέει στις έρευνές της, παριστάνοντας τον μοναδικό μάρτυρα του εγκλήματος. Παίζουν: Angelina Jolie, Ethan Hawke, Kiefer Sutherland. Σκηνοθεσία: D.J. Caruso (2004) Σκηνοθεσία: D.J. Caruso. Πρωταγωνιστούν: Angelina Jolie, Ethan Hawke, Kiefer Sutherland. (2004).(c)</desc>
   </programme>
   <programme start="20221205005000 +0200" stop="20221205030000 +0200" channel="BBC World">
     <title lang="el">Indignation</title>
@@ -32715,7 +32722,7 @@
   </programme>
   <programme start="20221209005500 +0200" stop="20221209010000 +0200" channel="BBC World">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().</desc>
+    <desc lang="el">: - ().(c)</desc>
   </programme>
   <programme start="20221209010000 +0200" stop="20221209020000 +0200" channel="BBC World">
     <title lang="el">ΣΚΙ ΑΝΩΜΑΛΟΥ ΔΡΟΜΟΥ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ - Λίλεχαμερ SKIATHLON (ΓΥΝΑΙΚΕΣ)</title>
@@ -32799,7 +32806,7 @@
   </programme>
   <programme start="20221209230000 +0200" stop="20221209230500 +0200" channel="BBC World">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().</desc>
+    <desc lang="el">: - ().(c)</desc>
   </programme>
   <programme start="20221209230500 +0200" stop="20221209233000 +0200" channel="BBC World">
     <title lang="el">GOLF PGA TOUR Discovery Γκολφ</title>
