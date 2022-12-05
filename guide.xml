@@ -97,30 +97,37 @@
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -28912,6 +28919,18 @@
     <title lang="el">Der Tag</title>
     <desc lang="el">Jungförster Gregor Allgeier hat sein erstes eigenes Revier bekommen. Es liegt ausgerechnet im Kreis Waldshut, der im ganzen Land am schlimmsten von der diesjährigen Dürre betroffen ist. Doch der junge Mann stellt sich der Aufgabe, den Wald der Zukunft zu gestalten.</desc>
   </programme>
+  <programme start="20221208220000 +0200" stop="20221209010000 +0200" channel="RIK">
+    <title lang="el">Handel's Messiah at the Coventry Cathedral</title>
+    <desc lang="el">The English Concert, John Nelson (Conductor), Lisette Oropesa (Soprano), Alex Potter (Countertenor), Michael Spyres (Tenor), Matthew Brook (Bass). Georg Frideric Handel (1685 – 1759): Messiah. Coventry, Coventry Cathedral, 24 November 2022. (2022).(r)</desc>
+  </programme>
+  <programme start="20221208220000 +0200" stop="20221208224500 +0200" channel="RIK">
+    <title lang="el">Auf den Punkt</title>
+    <desc lang="el">Himmelsforscher setzen hohe Erwartungen in das James-Webb-Teleskop. Es soll 100-mal leistungsfähiger sein als das Hubble-Teleskop. Sein Start wurde schon mehrmals verschoben, nun soll es im Frühjahr 2019 mit einer Ariane-Rakete ins All gebracht werden. Astronomen erhoffen sich Bilder, die Aufschluss geben über eine Zeit, in der sich die ersten Galaxien bildeten.(r)</desc>
+  </programme>
+  <programme start="20221208224500 +0200" stop="20221208233000 +0200" channel="RIK">
+    <title lang="el">Quarks</title>
+    <desc lang="el">Mehr als die Hälfte der Menschen in Deutschland hat mindestens einmal im Jahr Rücken- und Kopfschmerzen. In dieser Sendung prüft Quarks: Was hilft gegen Schmerzen? Pusten, Reiben, Fluchen oder kann man Schmerzen sogar wegatmen?(r)</desc>
+  </programme>
   <programme start="20221209010000 +0200" stop="20221209030000 +0200" channel="RIK">
     <title lang="el">Orchestre de Paris, Khatia Buniatishvili, Klaus Mäkelä: Falla, Tchaikovsky</title>
     <desc lang="el">Orchestre de Paris, Klaus Mäkelä (Conductor), Khatia Buniatishvili (Piano). Manuel de Falla (1876 - 1946): The Three Cornered Hat, suite no. 2. Piotr Ilitch Tchaikovsky (1840 – 1893): Piano Concerto no.1 in B flat minor Op. 23. Claude Debussy (1862 – 1918): Images. Maurice Ravel (1875 – 1937): Boléro. Σκηνοθεσία: Isabelle Soulard. (2022).</desc>
@@ -29284,9 +29303,9 @@
     <title lang="el">Μυστήρια της Βαθιάς Θάλασσας Κ1 ΕΠ4</title>
     <desc lang="el">Ο Τζέρεμι Γουέιντ ερευνά αν μια από τις πιο διαβόητες εξαφανίσεις στο Τρίγωνο των Βερμούδων εντάσσεται στη συνωμοσία ενός μυστικού πράκτορα εναντίον των ΗΠΑ. (2020).</desc>
   </programme>
-  <programme start="20221211225500 +0200" stop="20221212011500 +0200" channel="RIK">
-    <title lang="el">Ο Βασιλιάς της Μοναξιάς</title>
-    <desc lang="el">Στη σύγχρονη Νέα Υόρκη, ένας πρώην καθηγητής ιστορίας κι ένας ραδιοφωνικός παραγωγός αναζητούν το Αγιο Δισκοπότηρο και τον ίδιο τον εαυτό τους. Η ταινία απέσπασε ένα Οσκαρ και 2 Χρυσές Σφαίρες. Κωμωδία, 1991. Σκηνοθεσία: Τέρι Γκίλιαμ. Πρωταγωνιστές: Ρόμπιν Γουίλιαμς, Τζεφ Μπρίτζες, Μερσέντες Ρούελ.</desc>
+  <programme start="20221211225000 +0200" stop="20221211234000 +0200" channel="RIK">
+    <title lang="el">Διπλή επιβίωση Κ5 ΕΠ3</title>
+    <desc lang="el">Ο Τζο και ο Ματ βρίσκονται σε έναν βάλτο με σκοτεινά νερά στην Τζόρτζια, μαζί με αλιγάτορες, έλη, μυστηριώδη νησιά που επιπλέουν και δηλητηριώδη φίδια. (2014).(c)</desc>
   </programme>
   <programme start="20221212011500 +0200" stop="20221212013000 +0200" channel="RIK">
     <title lang="el">Κινηματογραφικά Νέα</title>
@@ -29644,6 +29663,22 @@
     <title lang="el">Euronews Tonight</title>
     <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
   </programme>
+  <programme start="20221205230000 +0200" stop="20221206040000 +0200" channel="BBC World">
+    <title lang="el">... So 80s!</title>
+    <desc lang="el">Get ready because we're bringing you nothing but classic hits and iconic anthems from the '80s!(r)</desc>
+  </programme>
+  <programme start="20221205230000 +0200" stop="20221205231500 +0200" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(r)</desc>
+  </programme>
+  <programme start="20221205231500 +0200" stop="20221205233000 +0200" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(r)</desc>
+  </programme>
+  <programme start="20221205233000 +0200" stop="20221205234500 +0200" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(r)</desc>
+  </programme>
   <programme start="20221206040000 +0200" stop="20221206060000 +0200" channel="BBC World">
     <title lang="el">... So 80s!</title>
     <desc lang="el">Get ready because we're bringing you nothing but classic hits and iconic anthems from the '80s!</desc>
@@ -29760,9 +29795,9 @@
     <title lang="el">Τα χαμένα βασίλεια της Κεντρικής Αμερικής Κ1 ΕΠ3</title>
     <desc lang="el">Ο Τζάγκο εξερευνά τον ξεχασμένο λαό της αρχαίας Κόστα Ρίκα η αινιγματική παράδοση του οποίου - όπως οι μυστηριώδεις γιγάντιες πέντρινες σφαίρες- άρχισε πρόσφατα να αποκαλύπτεται από τους αρχαιολόγους. Σκηνοθεσία: Craig Collinson, Dominic Gallagher, Graeme Hart, John MacLaverty. Πρωταγωνιστούν: Jago Cooper.</desc>
   </programme>
-  <programme start="20221207223000 +0200" stop="20221208001500 +0200" channel="BBC World">
-    <title lang="el">Deep Blue Sea</title>
-    <desc lang="el">Γενετικά βελτιωμένοι ευφυείς καρχαρίες απειλούν τους υπαλλήλους σε ένα πλωτό κτιριακό σύμπλεγμα... Σκηνοθεσία: Renny Harlin. Πρωταγωνιστούν: Thomas Jane, Sam Jackson, Saffron Burrows. (1999).</desc>
+  <programme start="20221207222500 +0200" stop="20221207233000 +0200" channel="BBC World">
+    <title lang="el">Ρωμαϊκές υπερκατασκευές Κ1 ΕΠ1</title>
+    <desc lang="el">Η Λυών είναι η τρίτη μεγαλύτερη πόλη της Γαλλίας. Στα αρχαία χρόνια ήταν η μεγαλύτερη. Τότε η πρωτεύουσα της Γαλατίας λεγόταν Λούγδουνο, το καμάρι της Ρώμης στις κατακτημένες περιοχές του Καίσαρα. Σκηνοθεσία: Stanislas Kraland. Πρωταγωνιστούν: Ken Starcevic.(c)</desc>
   </programme>
   <programme start="20221208001500 +0200" stop="20221208030000 +0200" channel="BBC World">
     <title lang="el">Swinging Safari</title>
@@ -30230,7 +30265,7 @@
   </programme>
   <programme start="20221212230000 +0200" stop="20221212230500 +0200" channel="BBC World">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().</desc>
+    <desc lang="el">: - ().(c)</desc>
   </programme>
   <programme start="20221205000000 +0000" stop="20221205235900 +0000" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
