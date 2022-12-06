@@ -102,26 +102,32 @@
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -28040,6 +28046,18 @@
     <title lang="el">Fokus Europa</title>
     <desc lang="el">Direkt, nah dran - jede Woche eine halbe Stunde Hintergrund zu aktuellen Themen aus Politik und Zeitgeschehen. Nicht nur zeigen, was geschieht, sondern wie und warum es geschieht. "Nahaufnahme" - spannend, bildstark, informativ.</desc>
   </programme>
+  <programme start="20221208220000 +0200" stop="20221209010000 +0200" channel="RIK">
+    <title lang="el">César Franck's Hulda at Liège</title>
+    <desc lang="el">César Franck (1822 – 1890): Hulda. Opera in four acts and an epilogue. Libretto by Charles Grandmougin after a play by Bjørnstjerne Bjørnson. Orchestre Philharmonique Royal de Liège, Gergely Madaras (Conductor). Choeur de Chambre de Namur. Liège, salle Philharmonique, 15 May 2022. Directed by Yan Proefrock. Σκηνοθεσία: Yan Proefrock. (2022).(r)</desc>
+  </programme>
+  <programme start="20221208220000 +0200" stop="20221208230000 +0200" channel="RIK">
+    <title lang="el">Maybrit Illner</title>
+    <desc lang="el">Maybrit Illner.(r)</desc>
+  </programme>
+  <programme start="20221208230000 +0200" stop="20221208233000 +0200" channel="RIK">
+    <title lang="el">Lesenswert</title>
+    <desc lang="el">Lesenswert.(r)</desc>
+  </programme>
   <programme start="20221209010000 +0200" stop="20221209015000 +0200" channel="RIK">
     <title lang="el">Daniel &amp; Michael Barenboim moments musicaux at the Boulez Saal: Mozart</title>
     <desc lang="el">Daniel Barenboim (piano), Michael Barenboim (violin). Wolfgang Amadeus Mozart (1756 - 1791): 6 Variations on 'Hélas, j'ai perdu mon amant', K.360/374b; Violin Sonata in A major, K.526. Recorded at the Pierre Boulez Saal, Berlin, 17 April 2020. (2020).</desc>
@@ -28408,13 +28426,9 @@
     <title lang="el">Πώς Γίνεται; Κ16 ΕΠ6</title>
     <desc lang="el">Πολλά αντικείμενα της σύγχρονης εποχής αποτελούν προϊόντα εξελιγμένου σχεδιασμού και παραγωγής. Πώς γίνεται αυτό; (2017).</desc>
   </programme>
-  <programme start="20221211220000 +0200" stop="20221211225000 +0200" channel="RIK">
-    <title lang="el">Άνθρωπος Εναντίον Σύμπαντος Κ1 ΕΠ1</title>
-    <desc lang="el">Για πρώτη φορά από τον Ψυχρό Πόλεμο, η Σελήνη βρίσκεται στο επίκεντρο ανταγωνισμού. Τώρα, όμως, το κίνητρο δεν είναι η απόδειξη στρατιωτικής υπεροχής, αλλά το παραδάκι. (2014)  (2014).</desc>
-  </programme>
-  <programme start="20221211225000 +0200" stop="20221211234000 +0200" channel="RIK">
-    <title lang="el">Άνθρωπος Εναντίον Σύμπαντος Κ1 ΕΠ2</title>
-    <desc lang="el">Στο παρελθόν οι αστεροειδείς έχουν αφανίσει τη ζωή στη Γη, και θα το ξανακάνουν. Σε όλο τον κόσμο, επιστήμονες, μηχανικοί και αστροναύτες ετοιμάζονται για μια κοσμογονική μάχη. (2014)  (2014).</desc>
+  <programme start="20221211223500 +0200" stop="20221212003500 +0200" channel="RIK">
+    <title lang="el">Ψυχώ 2: Η Επιστροφή</title>
+    <desc lang="el">22 χρόνια μετά τον εγκλεισμό του στο ψυχιατρείο, ο Νόρμαν αφήνεται ελεύθερος. Όμως, το παρελθόν ξαναζωντανεύει, όταν η νεκρή μητέρα του αρχίζει να παρουσιάζεται μπροστά του. Αστυνομική, 1983. Σκηνοθεσία: Ρίτσαρντ Φράνκλιν. Πρωταγωνιστές: Αντονι Πέρκινς, Βέρα Μάιλς, Ρόμπερτ Λότζια.(c)</desc>
   </programme>
   <programme start="20221212003500 +0200" stop="20221212010000 +0200" channel="RIK">
     <title lang="el">Κινηματογραφικά Νέα</title>
@@ -28800,6 +28814,22 @@
     <title lang="el">Euronews Tonight</title>
     <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.</desc>
   </programme>
+  <programme start="20221206230000 +0200" stop="20221207040000 +0200" channel="BBC World">
+    <title lang="el">... So 80s!</title>
+    <desc lang="el">Get ready because we're bringing you nothing but classic hits and iconic anthems from the '80s!(r)</desc>
+  </programme>
+  <programme start="20221206230000 +0200" stop="20221206231500 +0200" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(r)</desc>
+  </programme>
+  <programme start="20221206231500 +0200" stop="20221206233000 +0200" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(r)</desc>
+  </programme>
+  <programme start="20221206233000 +0200" stop="20221206234500 +0200" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(r)</desc>
+  </programme>
   <programme start="20221207040000 +0200" stop="20221207060000 +0200" channel="BBC World">
     <title lang="el">... So 80s!</title>
     <desc lang="el">Get ready because we're bringing you nothing but classic hits and iconic anthems from the '80s!</desc>
@@ -28912,9 +28942,9 @@
     <title lang="el">Τα χαμένα βασίλεια της Κεντρικής Αμερικής Κ1 ΕΠ4</title>
     <desc lang="el">Ο Τζάγκο εξερευνά τον αρχαίο πολιτισμό των Τεοτιχουακάν· για αιώνες αυτή η πόλη-κράτος ήταν η μεγαλύτερη στον Νέο Κόσμο όμως η ταυτότητα του λαού που ανέπτυξε τον εν λόγω πολιτισμό παραμένει μυστήριο. Σκηνοθεσία: Craig Collinson, Dominic Gallagher, Graeme Hart, John MacLaverty. Πρωταγωνιστούν: Jago Cooper.</desc>
   </programme>
-  <programme start="20221208224500 +0200" stop="20221209003500 +0200" channel="BBC World">
-    <title lang="el">The Clovehitch Killer</title>
-    <desc lang="el">Αφού ανακαλύπτει ότι ο πατέρας του έχει στην κατοχή του πολλές ανησυχητικές φωτογραφίες, ένας έφηβος αρχίζει να υποψιάζεται ότι ο άνθρωπος που εμπιστεύεται περισσότερο στον κόσμο μπορεί να ευθύνεται για μια σειρά ανεξιχνίαστων φόνων. Σκηνοθεσία: Duncan Skiles. Πρωταγωνιστούν: Dylan McDermott, Charlie Plummer, Samantha Mathis. (2018).</desc>
+  <programme start="20221208220000 +0200" stop="20221208230500 +0200" channel="BBC World">
+    <title lang="el">Νέα μυστικά του Στρατού από τερακότα</title>
+    <desc lang="el">Η ανακάλυψη του Στρατού από τερακότα στην Κίνα το 1974 έφερε στο φως ένα μικρό μέρος του αμύθητου θησαυρού. Το ντοκιμαντέρ αποκαλύπτει νέα στοιχεία με εντυπωσιακές εικόνες των ίδιων των στρατιωτών. Σκηνοθεσία: Ian Bremner. Πρωταγωνιστούν: Rob Bell.(c)</desc>
   </programme>
   <programme start="20221209003500 +0200" stop="20221209030000 +0200" channel="BBC World">
     <title lang="el">Welcome Home</title>
@@ -29326,7 +29356,7 @@
   </programme>
   <programme start="20221213002500 +0200" stop="20221213003000 +0200" channel="BBC World">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().</desc>
+    <desc lang="el">: - ().(c)</desc>
   </programme>
   <programme start="20221213003000 +0200" stop="20221213013000 +0200" channel="BBC World">
     <title lang="el">ΣΚΙ ΑΝΩΜΑΛΟΥ ΔΡΟΜΟΥ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ - Μπαϊτοστόλεν RELAY 4X5KM (MIXED)</title>
@@ -29426,7 +29456,7 @@
   </programme>
   <programme start="20221213225500 +0200" stop="20221213230000 +0200" channel="BBC World">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().</desc>
+    <desc lang="el">: - ().(c)</desc>
   </programme>
   <programme start="20221206000000 +0000" stop="20221206235900 +0000" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
