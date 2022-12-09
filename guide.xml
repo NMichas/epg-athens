@@ -87,38 +87,47 @@
   </channel>
   <channel id="MAD">
     <display-name lang="el">MAD</display-name>
+    <icon src="https://mad.tv/wp-content/uploads/2018/02/mad_logo_yellow.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="RISE TV">
     <display-name lang="el">RISE TV</display-name>
+    <icon src="https://i0.wp.com/typologies.gr/wp-content/uploads/2018/09/Rice-TV2.png?resize=350%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -27475,9 +27484,13 @@
     <title lang="el">Projekt Zukunft</title>
     <desc lang="el">Projekt Zukunft.</desc>
   </programme>
-  <programme start="20221212223700 +0200" stop="20221213001000 +0200" channel="RIK">
-    <title lang="el">Le Parc by Angelin Preljocaj at the Opéra de Paris</title>
-    <desc lang="el">Le Parc (The park). Music: Wolfgang Amadeus Mozart. Choreography: Angelin Preljocaj. Musical direction: Benjamin Shwarz. Sound creation: Goran Vejvoda. Set design: Thierry Leproust. Costume design: Hervé Pierre. Lighting design: Jacques Chatelet. Piece restaged by: Naomi Perlov. Choreographic score: Dany Lévêque. Alice Renavand, principal dancer; Athieu Ganio, principal dancer. The Stars, the Principal Dancers and the Opera Corps de Ballet Paris National Opera Orchestra. Σκηνοθεσία: Louise Narboni. (2021).</desc>
+  <programme start="20221212220000 +0200" stop="20221212230000 +0200" channel="RIK">
+    <title lang="el">Anne Will</title>
+    <desc lang="el">Anne Will.(c)</desc>
+  </programme>
+  <programme start="20221212230000 +0200" stop="20221212233000 +0200" channel="RIK">
+    <title lang="el">ZDF Reportage</title>
+    <desc lang="el">Selbst bauen - das muss man sich leisten können. Heute wohl so sehr wie noch nie. Wer trotzdem in den eigenen vier Wänden leben will, muss immer häufiger selbst anpacken.  Seit über zwei Jahren begleitet die "ZDF.reportage" zwei junge Familien, die mit enormem zeitlichem Aufwand und großen körperlichen Anstrengungen für ihren Traum kämpfen. Die Preise für Baumaterialien und Handwerker steigen.(c)</desc>
   </programme>
   <programme start="20221213001000 +0200" stop="20221213011000 +0200" channel="RIK">
     <title lang="el">Messiaen's Quartet for the End of Time at the Festival de Pâques</title>
@@ -27839,9 +27852,17 @@
     <title lang="el">Πώς Φτιάχνονται; Κ18 ΕΠ5</title>
     <desc lang="el">Ανακαλύψτε πώς φτιάχνονται τα κέρινα ομοιώματα, οι τέντες, τα σάντουιτς με κράκερ και τα μεταλλικά κύπελλα. (2009).</desc>
   </programme>
-  <programme start="20221215223500 +0200" stop="20221216010000 +0200" channel="RIK">
-    <title lang="el">Ζήτημα Χρόνου</title>
-    <desc lang="el">Ένας Αμερικανός εργάτης ταξιδεύει από την Οκλαχόμα στη Μασσαλία για να επισκεφθεί και να βοηθήσει την αποξενωμένη κόρη του, η οποία εκτίει ποινή φυλάκισης για έναν φόνο που υποστηρίζει πως δεν έκανε. Αστυνομική, 2021. Σκηνοθεσία: Τομ ΜακΚάρθι. Πρωταγωνιστές: Ματ Ντέιμον, Καμίλ Κοτάν, Αμπιγκεϊλ Μπρέσλιν.</desc>
+  <programme start="20221215222500 +0200" stop="20221215225000 +0200" channel="RIK">
+    <title lang="el">Πώς Φτιάχνονται; Κ18 ΕΠ6</title>
+    <desc lang="el">Μάθετε πώς φτιάχνονται συνηθισμένα αντικείμενα όπως τα καθαριστικά πίπας, το τυρί στίλτον, οι έξυπνοι ηλεκτρικοί μετρητές και τα τηλεσκόπια. (2009).(c)</desc>
+  </programme>
+  <programme start="20221215225000 +0200" stop="20221215231500 +0200" channel="RIK">
+    <title lang="el">Πώς Φτιάχνονται; Κ18 ΕΠ7</title>
+    <desc lang="el">Μάθετε πώς παράγονται προϊόντα όπως τα ομοιώματα ψαριών, τα συστήματα συναγερμού, τα συσκευασμένα σάντουιτς και τα κηροπήγια. (2009).(c)</desc>
+  </programme>
+  <programme start="20221215231500 +0200" stop="20221215234000 +0200" channel="RIK">
+    <title lang="el">Πώς Φτιάχνονται; Κ18 ΕΠ8</title>
+    <desc lang="el">Μάθετε πώς φτιάχνονται καθημερινά αντικείμενα όπως η πουτίγκα από ταπιόκα, οι τροχήλατες βάρκες, τα εκχιονιστικά μηχανήματα και οι επενδύσεις από ινοτσιμέντο. (2009).(c)</desc>
   </programme>
   <programme start="20221216010000 +0200" stop="20221216030000 +0200" channel="RIK">
     <title lang="el">Young Swingers (Part 1)</title>
