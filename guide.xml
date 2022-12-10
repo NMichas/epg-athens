@@ -92,34 +92,42 @@
   </channel>
   <channel id="RISE TV">
     <display-name lang="el">RISE TV</display-name>
+    <icon src="https://i0.wp.com/typologies.gr/wp-content/uploads/2018/09/Rice-TV2.png?resize=350%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -27078,9 +27086,9 @@
     <title lang="el">Freitagnacht Jews</title>
     <desc lang="el">Bienvenidos! In Argentinien spielt Daniel Donskoy mit den Klischees Tango, Gauchos und Steaks vom Grill und lernt viel über die große jüdische Community. Denn zu seinem Schabbat-Dinner kommen spannende Gäste, die unterschiedlicher nicht sein könnten: die feministische Autorin Tamara Tenenbaum, das Model Naomi Preizler und Emmanuel Taub, Ex-Rabbiner und Professor für jüdische Philosophie.</desc>
   </programme>
-  <programme start="20221213230900 +0200" stop="20221214010000 +0200" channel="RIK">
-    <title lang="el">Orchestre de Chambre de Lausanne and Klaus Mäkelä: Mozart, Schumann</title>
-    <desc lang="el">Orchestre de Chambre de Lausanne, Klaus Mäkelä (Conductor); Javier Perianes (piano). Sauli Zinovjev (b. 1988). Un grande sospiro. Wolfgang Amadeus Mozart (1756 - 1791). Σκηνοθεσία: Andy Sommer. (2019).</desc>
+  <programme start="20221213224500 +0200" stop="20221213233000 +0200" channel="RIK">
+    <title lang="el">Handwerkskunst!</title>
+    <desc lang="el">Schon als Kind hatte Schreinermeister Horst Perk aus Weibern in der Eifel gerne Bogen aus Haselnusszweigen gebastelt und Indianer gespielt: Diese kindliche Begeisterungsfreude entdeckte er vor fast 10 Jahren erneut bei einem Zeltlager mit Kindern. Seitdem konzentriert er sich auf traditionellen Bogenbau und fertigt auch die Pfeile und die Sehnen selbst.(c)</desc>
   </programme>
   <programme start="20221214010000 +0200" stop="20221214020000 +0200" channel="RIK">
     <title lang="el">Daniel Barenboim, Moment musical at the Boulez Saal: Beethoven</title>
@@ -27438,9 +27446,9 @@
     <title lang="el">Οι κυνηγοί δεινοσαύρων Κ1 ΕΠ5</title>
     <desc lang="el">Ο Κλέι επιστρέφει στο ράντσο του στη Μοντάνα. Στο Γουαϊόμινγκ, ο Μάικ και η ομάδα του συνεχίζουν την εκσκαφή του τρικεράτοπά τους. (2020).</desc>
   </programme>
-  <programme start="20221216230000 +0200" stop="20221217005500 +0200" channel="RIK">
-    <title lang="el">Old</title>
-    <desc lang="el">Στη διάρκεια των διακοπών τους, ένα ζευγάρι επισκέπτεται μαζί με τα δύο του παιδιά μια απομονωμένη, παραδεισένια παραλία, η οποία, όμως, φαίνεται να κρύβει ένα μεγάλο μυστικό. Τρόμου, 2021. Σκηνοθεσία: Μ. Νάιτ Σαϊάμαλαν. Πρωταγωνιστές: Γκαέλ Γκαρσία Μπερνάλ, Ρούφους Σιούελ, Βίκι Κριπς.</desc>
+  <programme start="20221216225000 +0200" stop="20221216234000 +0200" channel="RIK">
+    <title lang="el">Οι κυνηγοί δεινοσαύρων Κ1 ΕΠ6</title>
+    <desc lang="el">Σύγχρονοι άποικοι σε όλη την Αμερικανική Δύση ψάχνουν τα εύθραυστα οστά των δεινοσαύρων που κάποτε ζούσαν εκεί, καταφέρνοντας, στο μεταξύ, να βγάλουν αρκετά χρήματα. (2020).(c)</desc>
   </programme>
   <programme start="20221217005500 +0200" stop="20221217013000 +0200" channel="RIK">
     <title lang="el">Κινηματογραφικά Νέα</title>
