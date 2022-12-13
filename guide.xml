@@ -67,54 +67,67 @@
   </channel>
   <channel id="CHANNEL 9">
     <display-name lang="el">CHANNEL 9</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/el/0/0a/Channel9.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="AE CHANNEL">
     <display-name lang="el">A.EPSILON</display-name>
+    <icon src="https://www.nicepng.com/png/detail/223-2235783_apps-a-e-channel-logo.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="HIGH TV">
     <display-name lang="el">HIGH TV</display-name>
+    <icon src="https://i37.servimg.com/u/f37/16/92/15/82/logo_h10.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="KONTRA CHANNEL">
     <display-name lang="el">KONTRA CHANNEL</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/el/b/b8/Kontra_channel_new_logo.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="MAD">
     <display-name lang="el">MAD</display-name>
+    <icon src="https://mad.tv/wp-content/uploads/2018/02/mad_logo_yellow.jpg"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="RISE TV">
     <display-name lang="el">RISE TV</display-name>
+    <icon src="https://i0.wp.com/typologies.gr/wp-content/uploads/2018/09/Rice-TV2.png?resize=350%2C200&amp;ssl=1"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="NICKELODEON">
     <display-name lang="el">NICKELODEON</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -25503,6 +25516,18 @@
     <title lang="el">Fokus Europa</title>
     <desc lang="el">Direkt, nah dran - jede Woche eine halbe Stunde Hintergrund zu aktuellen Themen aus Politik und Zeitgeschehen. Nicht nur zeigen, was geschieht, sondern wie und warum es geschieht. "Nahaufnahme" - spannend, bildstark, informativ.</desc>
   </programme>
+  <programme start="20221215220000 +0200" stop="20221216022000 +0200" channel="RIK">
+    <title lang="el">Wagner: Tristan und Isolde at the Staatsoper Berlin</title>
+    <desc lang="el">"Tristan und Isolde" drama in three acts by Richard Wagner (1813 - 1883). Libretto by Richard Wagner. First performance in Munich, Hof- und Nationaltheater, 10 June 1865. Σκηνοθεσία: Andy Sommer. (2018).(r)</desc>
+  </programme>
+  <programme start="20221215220000 +0200" stop="20221215230000 +0200" channel="RIK">
+    <title lang="el">Maybrit Illner</title>
+    <desc lang="el">Maybrit Illner.(r)</desc>
+  </programme>
+  <programme start="20221215230000 +0200" stop="20221215233000 +0200" channel="RIK">
+    <title lang="el">Druckfrisch</title>
+    <desc lang="el">Druckfrisch.(r)</desc>
+  </programme>
   <programme start="20221216022000 +0200" stop="20221216030000 +0200" channel="RIK">
     <title lang="el">InterMezzo</title>
     <desc lang="el">InterMezzo.</desc>
@@ -25871,9 +25896,9 @@
     <title lang="el">Άνθρωπος Εναντίον Σύμπαντος Κ1 ΕΠ3</title>
     <desc lang="el">Για δεκαετίες, οι άνθρωποι ονειρεύονταν να πάνε στον Άρη, και τώρα είμαστε στο κατώφλι της εξόρμησης στον κόκκινο πλανήτη. Πόσο κοντά είμαστε σε μια πιθανή αποίκισή του; (2014)  (2014).</desc>
   </programme>
-  <programme start="20221218230000 +0200" stop="20221219004000 +0200" channel="RIK">
-    <title lang="el">James vs. His Future Self</title>
-    <desc lang="el">Ένας επιστήμονας δέχεται επίσκεψη από τον μελλοντικό εαυτό του, ο οποίος τον συμβουλεύει να μην γίνει ο πρώτος ταξιδιώτης στον χρόνο. Κι όταν αρνείται, μπαίνει σε μία μάχη με τον ίδιο του του εαυτό! Περιπέτεια, 2019. Σκηνοθεσία: Τζέρεμι ΛαΛοντ. Πρωταγωνιστές: Ντάνιελ Στερν, Τζόνας Τσέρνικ, Φράνσις Κόνροϊ.</desc>
+  <programme start="20221218225000 +0200" stop="20221218234000 +0200" channel="RIK">
+    <title lang="el">Τηλεσκόπιο</title>
+    <desc lang="el">Μια ταινία που θα μας ταξιδέψει πολύ μακριά μέσα από την ιστορία του τηλεσκοπίου, από τον Γαλιλαίο και τον Νεύτονα μέχρι τον Χαμπλ και το Διαστημικό Τηλεσκόπιο Τζέιμς Γουέμπ. (2016).(c)</desc>
   </programme>
   <programme start="20221219004000 +0200" stop="20221219010000 +0200" channel="RIK">
     <title lang="el">Κινηματογραφικά Νέα</title>
@@ -26262,6 +26287,22 @@
   <programme start="20221213230000 +0200" stop="20221213230000 +0200" channel="BBC World">
     <title lang="el">... So 80s!</title>
     <desc lang="el">Get ready because we're bringing you nothing but classic hits and iconic anthems from the '80s!</desc>
+  </programme>
+  <programme start="20221213230000 +0200" stop="20221214040000 +0200" channel="BBC World">
+    <title lang="el">... So 80s!</title>
+    <desc lang="el">Get ready because we're bringing you nothing but classic hits and iconic anthems from the '80s!(r)</desc>
+  </programme>
+  <programme start="20221213230000 +0200" stop="20221213231500 +0200" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(r)</desc>
+  </programme>
+  <programme start="20221213231500 +0200" stop="20221213233000 +0200" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(r)</desc>
+  </programme>
+  <programme start="20221213233000 +0200" stop="20221213234500 +0200" channel="BBC World">
+    <title lang="el">Euronews Tonight</title>
+    <desc lang="el">Live headlines, breaking news, analysis and interviews from Europe's News Centre.(r)</desc>
   </programme>
   <programme start="20221214040000 +0200" stop="20221214060000 +0200" channel="BBC World">
     <title lang="el">... So 80s!</title>
