@@ -102,26 +102,32 @@
   </channel>
   <channel id="SMILE">
     <display-name lang="el">SMILE</display-name>
+    <icon src="https://www.tvsmile.gr/wp-content/uploads/2019/10/cropped-SMILE-LOGO-XROMATISTO.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="ALERT">
     <display-name lang="el">ALERT</display-name>
+    <icon src="https://www.flysat-live.com/logo/Greece/alerttv.png"/>
     <url>http://www.digea.gr</url>
   </channel>
   <channel id="VOULI">
     <display-name lang="el">Vouli</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=102639547&amp;t=1612523543343"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -18476,9 +18482,9 @@
     <title lang="el">(Πολύ) άτακτοι σκύλοι Κ1 ΕΠ4</title>
     <desc lang="el">Ο Μπάτι εκφοβίζει τις γυναίκες του σπιτιού. Η Πίξι γαβγίζει σαν δαιμονισμένη μόλις βλέπει άλλον σκύλο. Η Λούσι μένει στο πάρκο με τις ώρες για να κάνει επιδρομές σε πικ νικ.</desc>
   </programme>
-  <programme start="20221222224000 +0200" stop="20221223001000 +0200" channel="RIK">
-    <title lang="el">The Prince</title>
-    <desc lang="el">Όταν η κόρη ενός δολοφόνου που έχει αποσυρθεί από την ενεργό δράση πέφτει θύμα απαγωγής, εκείνος πρέπει να επιστρέψει στη ζωή που εγκατέλειψε. Αν θέλει να τη σώσει, πρέπει να αντιμετωπίσει τον πρώην αντίπαλό του. Σκηνοθεσία: Brian A. Miller. Πρωταγωνιστούν: Jason Patric, Bruce Willis , John Cusack. (2014).</desc>
+  <programme start="20221222220000 +0200" stop="20221222225000 +0200" channel="RIK">
+    <title lang="el">Δίωξη Οικονομικού Εγκλήματος Κ4 ΕΠ4</title>
+    <desc lang="el">Ένας πεπειραμένος εργαζόμενος του ΕΣΥ κλέβει εξοπλισμό αξίας 15.000 λιρών. Ένας απατεώνας ξεκινά μια σειρά συντονισμένων κακόβουλων κλήσεων στην Άμεση Δράση. Ακόμα, ένας απατεώνας ισχυρίζεται ότι έχει 19 παιδιά, 10 από τα οποία είναι τυφλά.(c)</desc>
   </programme>
   <programme start="20221222225000 +0200" stop="20221222234000 +0200" channel="RIK">
     <title lang="el">Άπιστοι Κ16 ΕΠ8</title>
@@ -18988,9 +18994,9 @@
     <title lang="el">Witness</title>
     <desc lang="el">WITNESS verb. to see for oneself At Euronews we are committed to people’s stories and the truth. ‘Euronews WITNESS’ brings world issues into focus through the experiences of men, women and children at the heart of the story. Anelise Borges goes beyond the headlines, debates and data analysis... and into people’s lives.</desc>
   </programme>
-  <programme start="20221218233000 +0200" stop="20221219003000 +0200" channel="BBC World">
-    <title lang="el">Αποτυχημένες Επεμβάσεις Κ7 ΕΠ13</title>
-    <desc lang="el">Μια γυμνίστρια ζητάει τη συμβουλή των γιατρών για τη λιποαναρρόφηση που έκανε στο στομάχι, ενώ μια μητέρα αντιμετωπίζει τον φόβο της αναισθησίας. (2021).</desc>
+  <programme start="20221218231600 +0200" stop="20221218233700 +0200" channel="BBC World">
+    <title lang="el">Witness</title>
+    <desc lang="el">WITNESS verb. to see for oneself At Euronews we are committed to people’s stories and the truth. ‘Euronews WITNESS’ brings world issues into focus through the experiences of men, women and children at the heart of the story. Anelise Borges goes beyond the headlines, debates and data analysis... and into people’s lives.(c)</desc>
   </programme>
   <programme start="20221218233700 +0200" stop="20221218234800 +0200" channel="BBC World">
     <title lang="el">Witness</title>
@@ -19504,21 +19510,13 @@
     <title lang="el">Ταξιδι Γευσεων, Season Ιv (4Η Σεζόν) ( E )</title>
     <desc lang="el">Εκπομπή Μαγειρικής σε Επανάληψη. Σήμερα ο σεφ μαγειρεύει: 1. Χριστουγεννιάτικη Γαλοπούλα με Γέμιση και Σάλτσα Γκρέιβι 2. Red Velvet Μελομακάρονα (το γλυκό της ημέρας).</desc>
   </programme>
-  <programme start="20221222210000 +0200" stop="20221222220000 +0200" channel="BBC World">
-    <title lang="el">Fatsa Book (Χριστουνεννιατικο)</title>
-    <desc lang="el">Ταξιδιωτική εκπομπή με τον Κώστα Μάτζιο σε ΕΠΑΝΑΛΗΨΗ. Εκπομπή: ΧΡΙΣΤΟΥΓΕΝΝΙΑΤΙΚΗ Προορισμός: ΠΡΑΓΑ BY NIGHT ( Ε ).</desc>
+  <programme start="20221222214000 +0200" stop="20221222230000 +0200" channel="BBC World">
+    <title lang="el">NEWCASTLE - BOURNEMOUTH (Z)</title>
+    <desc lang="el">EFL CARABAO CUP 2022-23.(c)</desc>
   </programme>
-  <programme start="20221222220000 +0200" stop="20221222220500 +0200" channel="BBC World">
-    <title lang="el">Αορατος Φακος</title>
-    <desc lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ, ΦΑΡΣΕΣ.</desc>
-  </programme>
-  <programme start="20221222230000 +0200" stop="20221222235000 +0200" channel="BBC World">
-    <title lang="el">CELTA - REAL MADRID-LA LIGA 22-23</title>
-    <desc lang="el">CELTA - REAL MADRID-LA LIGA 22-23.</desc>
-  </programme>
-  <programme start="20221222235000 +0200" stop="20221223001500 +0200" channel="BBC World">
-    <title lang="el">Η πεντανόστιμη κυρία Μπράουν Κ2 ΕΠ1</title>
-    <desc lang="el">Η Κάρντια Μπράουν καλεί τη μαμά και τη γιαγιά της, για ένα υγιεινό γεύμα του Νότου. Φτιάχνει χοιρινές μπριζόλες στη σχάρα με ρύζι και κουνουπίδι, και πιτούλες με γλυκοπατάτα.</desc>
+  <programme start="20221222220500 +0200" stop="20221222235500 +0200" channel="BBC World">
+    <title lang="el">Ξενη Χριστουγεννιατικη Ταινια</title>
+    <desc lang="el">ΞΕΝΗ ΤΑΙΝΙΑ: ΧΡΙΣΤΟΥΓΕΝΝΙΑΤΙΚΗ, ΟΙΚΟΓΕΝΕΙΑΚΗ ΚΩΜΩΔΙΑ.(c)</desc>
   </programme>
   <programme start="20221223001500 +0200" stop="20221223003500 +0200" channel="BBC World">
     <title lang="el">Η πεντανόστιμη κυρία Μπράουν Κ2 ΕΠ2</title>
