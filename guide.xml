@@ -122,10 +122,12 @@
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -9685,7 +9687,7 @@
   </programme>
   <programme start="20221229010000 +0200" stop="20221229010500 +0200" channel="RIK">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().</desc>
+    <desc lang="el">: - ().(c)</desc>
   </programme>
   <programme start="20221229010500 +0200" stop="20221229020000 +0200" channel="RIK">
     <title lang="el">ΑΛΠΙΚΟ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ - Μπόρμιο DH (ΑΝΔΡΕΣ)</title>
@@ -9753,19 +9755,15 @@
   </programme>
   <programme start="20221229212500 +0200" stop="20221229213000 +0200" channel="RIK">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().</desc>
+    <desc lang="el">: - ().(c)</desc>
   </programme>
   <programme start="20221229213000 +0200" stop="20221229220000 +0200" channel="RIK">
     <title lang="el">ΑΛΜΑ ΜΕ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ - Βίλακ - HS 98 - ΓΥΝΑΙΚΕΣ</title>
     <desc lang="el">ΑΛΜΑ ΜΕ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ - Βίλακ - HS 98 - ΓΥΝΑΙΚΕΣ.</desc>
   </programme>
-  <programme start="20221229220000 +0200" stop="20221229232500 +0200" channel="RIK">
-    <title lang="el">ΑΛΜΑ ΜΕ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ (4 ΛΟΦΟΙ) - Ομπερτντορφ - HS 137 - ΑΝΔΡΕΣ</title>
-    <desc lang="el">ΑΛΜΑ ΜΕ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ (4 ΛΟΦΟΙ) - Ομπερτντορφ - HS 137 - ΑΝΔΡΕΣ.</desc>
-  </programme>
-  <programme start="20221229232500 +0200" stop="20221229233000 +0200" channel="RIK">
-    <title lang="el">: - ()</title>
-    <desc lang="el">: - ().</desc>
+  <programme start="20221229220000 +0200" stop="20221230000000 +0200" channel="RIK">
+    <title lang="el">AEK - ΛΑΜΙΑ- SUPER LEAGUE GREECE 2022-2023</title>
+    <desc lang="el">AEK - ΛΑΜΙΑ- SUPER LEAGUE GREECE 2022-2023.(c)</desc>
   </programme>
   <programme start="20221230000000 +0200" stop="20221230120000 +0200" channel="RIK">
     <title lang="el">ΣΥΝΤΟΜΑ ΞΑΝΑ ΚΟΝΤΑ ΣΑΣ</title>
@@ -10423,9 +10421,9 @@
     <title lang="el">Το ενυδρείο Κ2 ΕΠ1</title>
     <desc lang="el">Το προσωπικό ανησυχεί όταν ένας αφρικανικός πιγκουίνος αρρωσταίνει μυστηριωδώς. Έπειτα, παρακολουθούμε την ετήσια αναπαραγωγή ενός απειλούμενου είδους κοραλλιού. (2020).</desc>
   </programme>
-  <programme start="20230102220000 +0200" stop="20230103004500 +0200" channel="RIK">
-    <title lang="el">Ο Οίκος Gucci</title>
-    <desc lang="el">Όταν η ταπεινής καταγωγής Πατρίτσια Ρετζιάνι παντρεύεται ένα μέλος της οικογένειας Γκούτσι, η υπέρμετρη φιλοδοξία της καταλήγει σε ένα εκρηκτικό κοκτέιλ προδοσίας, παρακμής κι εκδίκησης με άδοξο τέλος. Κωμωδία, 2021. Σκηνοθεσία: Ρίντλεϊ Σκοτ. Πρωταγωνιστές: Lady Gaga, Ανταμ Ντράιβερ, Αλ Πατσίνο, Τζάρεντ Λέτο.</desc>
+  <programme start="20230102220000 +0200" stop="20230102230000 +0200" channel="RIK">
+    <title lang="el">Το ενυδρείο Κ2 ΕΠ2</title>
+    <desc lang="el">Το προσωπικό χρησιμοποιεί κάμερες με λέιζερ για να ανακαλύψει το πραγματικό μέγεθος της φάλαινας Τρίξι. Επίσης, μια ντροπαλή χελώνα κάνει φίλους. (2020).(c)</desc>
   </programme>
   <programme start="20230103004500 +0200" stop="20230103030500 +0200" channel="RIK">
     <title lang="el">Ζήτημα Χρόνου</title>
@@ -11019,9 +11017,9 @@
     <title lang="el">Rebuilding Paradise ΕΠ1</title>
     <desc lang="el">Το πρωινό της 8ης Νοεμβρίου 2018, μια καταστροφική φωτιά τύλιξε τη γραφική πόλη Paradise της Καλιφόρνια. (2020).</desc>
   </programme>
-  <programme start="20221231224500 +0200" stop="20230101011500 +0200" channel="BBC World">
-    <title lang="el">Spider-Man: No Way Home</title>
-    <desc lang="el">Με την ταυτότητά του πλέον γνωστή σε όλον τον κόσμο, ο Πίτερ Πάρκερ βλέπει τη ζωή του να αλλάζει δραματικά, κι αναγκάζεται να ζητήσει τη βοήθεια του Δρος Στρέιντζ, ο οποίος προκαλεί χάος... Περιπέτεια, 2021. Σκηνοθεσία: Τζον Γουότς. Πρωταγωνιστές: Αντριου Γκάρφιλντ, Τομ Χόλαντ, Μπένεντικτ Κάμπερμπατς, Τόμπι Μαγκουάιρ.</desc>
+  <programme start="20221231214500 +0200" stop="20221231231000 +0200" channel="BBC World">
+    <title lang="el">Impact With Gal Gadot ΕΠ1</title>
+    <desc lang="el">Ένα ντοκιμαντέρ που ακολουθεί τις δυνατές ιστορίες έξι γυναικών που έχουν τεράστιο αντίκτυπο στις κοινότητές τους ανά τον κόσμο. (2020).(c)</desc>
   </programme>
   <programme start="20230101011500 +0200" stop="20230101020000 +0200" channel="BBC World">
     <title lang="el">Κινηματογραφικά Νέα</title>
@@ -11071,9 +11069,9 @@
     <title lang="el">Η Εκδίκηση της Φαμίλιας</title>
     <desc lang="el">Στη 10η επέτειο του θανάτου του πατέρα του, ο Τζιοβάνι μεταφέρει μία τούρτα στο σπίτι του θείου του, σε μια νύχτα που θα μάθει μια αβάσταχτη αλήθεια και η ζωή του θα αλλάξει για πάντα. Αστυνομική, 2021. Σκηνοθεσία: Τζίμι Γιαννόπουλος. Πρωταγωνιστές: Γιούαν ΜακΓκρέγκορ, Γουίλιαμ Φίκνερ, Βαλ Κίλμερ, Σάιλο Φερνάντεζ.</desc>
   </programme>
-  <programme start="20230101220000 +0200" stop="20230102003000 +0200" channel="BBC World">
-    <title lang="el">ΣΥΝΑΥΛΙΑ</title>
-    <desc lang="el">ΤΟ ΚΟΝΤΣΕΡΤΟ ΤΟΥ ΠΑΡΙΣΙΟΥ ΜΕ ΤΗΝ ΕΘΝΙΚΗ ΣΥΜΦΩΝΙΚΗ ΟΡΧΗΣΤΡΑ ΤΗΣ ΓΑΛΛΙΑΣ ΥΠΟ ΤΗ ΔΙΕΥΘΥΝΣΗ ΤΗΣ ΣΙΜΟΝ ΓΙΑΝΓΚ ΚΑΙ ΥΠΟ ΤΗΝ ΑΙΓΙΔΑ ΤΗΣ ΠΡΟΕΔΡΕΙΑΣ ΤΗΣ ΓΑΛΛΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ.</desc>
+  <programme start="20230101210000 +0200" stop="20230101230000 +0200" channel="BBC World">
+    <title lang="el">Μετρητής Καρτών</title>
+    <desc lang="el">Στοιχειωμένος από φαντάσματα του παρελθόντος, ένας πρώην στρατιωτικός ανακριτής έχει αφιερωθεί στον τζόγο, μέχρι τη στιγμή που τον πλησιάζει ένας νεαρός και του δίνει την ευκαιρία να λυτρωθεί. Αστυνομική, 2021. Σκηνοθεσία: Πολ Σρέιντερ. Πρωταγωνιστές: Οσκαρ Αϊζακ, Τάι Σέρινταν, Γουίλεμ Νταφό, Τίφανι Χάντις.(c)</desc>
   </programme>
   <programme start="20230102003000 +0200" stop="20230102023000 +0200" channel="BBC World">
     <title lang="el">ΑΠΟ ΤΟΠΟ ΣΕ ΤΟΠΟ: ΔΗΜΟΣ ΜΕΤΕΩΡΩΝ (Ε)</title>
@@ -11211,9 +11209,9 @@
     <title lang="el">MOTORVISION</title>
     <desc lang="el">MOTORVISION.</desc>
   </programme>
-  <programme start="20230105232500 +0200" stop="20230106001500 +0200" channel="BBC World">
-    <title lang="el">Animal Fight Club Κ1 ΕΠ3</title>
-    <desc lang="el">Από την Αρκτική μέχρι τους τροπικούς, τεράστιοι ελέφαντες της θάλασσας, δράκοι του Κομόντο και πιγκουίνοι μπλέκουν σε καβγάδες στην παραλία.</desc>
+  <programme start="20230105213000 +0200" stop="20230105233000 +0200" channel="BBC World">
+    <title lang="el">SOUTHAMPTON - NOTTINGHAM FOREST (Z)</title>
+    <desc lang="el">PREMIER LEAGUE 2022-23.(c)</desc>
   </programme>
   <programme start="20221229000000 +0000" stop="20221229235900 +0000" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
