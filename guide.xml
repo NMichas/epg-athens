@@ -127,6 +127,7 @@
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -8046,7 +8047,7 @@
   </programme>
   <programme start="20221230195500 +0200" stop="20221230200000 +0200" channel="RIK">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().</desc>
+    <desc lang="el">: - ().(c)</desc>
   </programme>
   <programme start="20221230200000 +0200" stop="20221230213000 +0200" channel="RIK">
     <title lang="el">ΑΛΠΙΚΟ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ - Μπόρμιο SG (ΑΝΔΡΕΣ)</title>
@@ -8058,15 +8059,15 @@
   </programme>
   <programme start="20221230220000 +0200" stop="20221230220500 +0200" channel="RIK">
     <title lang="el">: - ()</title>
-    <desc lang="el">: - ().</desc>
+    <desc lang="el">: - ().(c)</desc>
   </programme>
   <programme start="20221230220500 +0200" stop="20221230221000 +0200" channel="RIK">
     <title lang="el">THE MINUTE</title>
     <desc lang="el">THE MINUTE.</desc>
   </programme>
-  <programme start="20221230221000 +0200" stop="20221230234500 +0200" channel="RIK">
-    <title lang="el">ΣΝΟΥΚΕΡ: HOME NATIONS SERIES - Αγγλικό Οπεν (Τελικός)</title>
-    <desc lang="el">ΣΝΟΥΚΕΡ: HOME NATIONS SERIES - Αγγλικό Οπεν (Τελικός).</desc>
+  <programme start="20221230221500 +0200" stop="20221231001500 +0200" channel="RIK">
+    <title lang="el">VALENCIA - BETIS-LA LIGA 22-23</title>
+    <desc lang="el">VALENCIA - BETIS-LA LIGA 22-23.(c)</desc>
   </programme>
   <programme start="20221231001500 +0200" stop="20221231010000 +0200" channel="RIK">
     <title lang="el">MATCH PREVIEW</title>
@@ -8728,9 +8729,9 @@
     <title lang="el">Ο καρχαρίας της ζούγκλας</title>
     <desc lang="el">Ο δρ Κρεγκ Ο'Κόνελ και ο Άντι Κασαγκράντε ακολουθούν τον ποταμό Σερένα για να βρουν γιατί οι νεαροί ταυροκαρχαρίες κολυμπούν αντίθετα στο ρεύμα και πώς αποφεύγουν τους κροκόδειλους που ζουν εκεί. (2016).</desc>
   </programme>
-  <programme start="20230104220000 +0200" stop="20230104230000 +0200" channel="RIK">
-    <title lang="el">Ο πιο θανάσιμος καρχαρίας</title>
-    <desc lang="el">Ο δρ Μάικλ Ντόμαϊερ και ο δρ Μπάρι Μπρους αναζητούν ένα σπάνιο είδος λευκού καρχαρία, για να δουν αν τους αξίζει πράγματι ο χαρακτηρισμός του «Πιο θανάσιμου καρχαρία του κόσμου». (2016).</desc>
+  <programme start="20230104220000 +0200" stop="20230105000500 +0200" channel="RIK">
+    <title lang="el">Warcraft: Η Σύγκρουση Δυο Κόσμων</title>
+    <desc lang="el">Το ειρηνικό βασίλειο Άζεροθ βρίσκεται στα πρόθυρα πολέμου καθώς είναι αντιμέτωπο με τρομακτικούς εισβολείς: πολεμιστές Ορκ εγκαταλείπουν την ετοιμοθάνατη πατρίδα τους για να δημιουργήσουν νέα αποικία. Περιπέτεια, 2016. Σκηνοθεσία: Ντάνκαν Τζόουνς. Πρωταγωνιστές: Τράβις Φίμελ, Μπεν Φόστερ, Πόλα Πάτον, Ντόμινικ Κούπερ.(c)</desc>
   </programme>
   <programme start="20230105000500 +0200" stop="20230105015000 +0200" channel="RIK">
     <title lang="el">Ολέθριος Έρωτας</title>
@@ -9168,13 +9169,9 @@
     <title lang="el">River Monsters Compilations avec Jeremy Wade ΕΠ2</title>
     <desc lang="el">Jeremy Wade, biologiste et pêcheur passionné, poursuit sa quête des poissons d'eau douce les plus impressionnants du monde. (2020).</desc>
   </programme>
-  <programme start="20221231222700 +0200" stop="20221231231100 +0200" channel="BBC World">
-    <title lang="el">River Monsters Compilations avec Jeremy Wade ΕΠ3</title>
-    <desc lang="el">Jeremy Wade, biologiste et pêcheur passionné, poursuit sa quête des poissons d'eau douce les plus impressionnants du monde. (2020).</desc>
-  </programme>
-  <programme start="20221231231100 +0200" stop="20221231235500 +0200" channel="BBC World">
-    <title lang="el">River Monsters Compilations avec Jeremy Wade ΕΠ4</title>
-    <desc lang="el">Jeremy Wade, biologiste et pêcheur passionné, poursuit sa quête des poissons d'eau douce les plus impressionnants du monde. (2020).</desc>
+  <programme start="20221231231000 +0200" stop="20230101000500 +0200" channel="BBC World">
+    <title lang="el">Χωρίς Όριο με τον Κρις Χέμσγουορθ Κ1 ΕΠ3</title>
+    <desc lang="el">Πριν προβεί στην απόλυτη δοκιμασία άγχους, ο Κρις μαθαίνει πώς να δαμάζει την ατίθαση αντίδρασή του στο στρες, περνώντας από εκπαίδευση με στρατιώτες και πυροσβέστες. (2022).(c)</desc>
   </programme>
   <programme start="20230101000500 +0200" stop="20230101005500 +0200" channel="BBC World">
     <title lang="el">Χωρίς Όριο με τον Κρις Χέμσγουορθ Κ1 ΕΠ2</title>
@@ -9288,9 +9285,9 @@
     <title lang="el">Χαμένοι Τάφοι στις Πυραμίδες ΕΠ1</title>
     <desc lang="el">Μια εκλεκτή ομάδα αρχαιολόγων κάνει ανασκαφές σε μια νέα τοποθεσία στη σκιά των Πυραμίδων. Μπορούν επιτέλους να λύσουν το αρχαίο μυστήριο των χαμένων Φαραώ; (2020).</desc>
   </programme>
-  <programme start="20230101223500 +0200" stop="20230101232500 +0200" channel="BBC World">
-    <title lang="el">Πρωτόγονη Επιβίωση: Απόδραση από τον Αμαζόνιο Κ1 ΕΠ5</title>
-    <desc lang="el">Στο τελευταίο πια κομμάτι της πρόκλησης, ο Hazen διασχίζει χιλιόμετρα βάλτων γεμάτων φίδια για να φτάσει στον Ατλαντικό ωκεανό. Με τη βοήθεια της φυλής Warau, μαθαίνει πώς να ζει πάνω στο νερό και να αντιμετωπίζει φονικές μέλισσες. (2021).</desc>
+  <programme start="20230101230000 +0200" stop="20230102010500 +0200" channel="BBC World">
+    <title lang="el">Παγκόσμιος Κίνδυνος: Geostorm</title>
+    <desc lang="el">Μια σειρά ακραίων φυσικών καταστροφών αναγκάζει τους ηγέτες του πλανήτη να εγκαταστήσουν ένα δίκτυο δορυφόρων που θα ελέγχει την κλιματική αλλαγή. Οι συνέπειες, όμως, θα είναι απρόσμενες... Δράση, 2017. Σκηνοθεσία: Ντιν Ντέβλιν. Πρωταγωνιστές: Τζέραρντ Μπάτλερ, Εντ Χάρις, Αντι Γκαρσία, Τζιμ Στέρτζες.(c)</desc>
   </programme>
   <programme start="20230102010500 +0200" stop="20230102020000 +0200" channel="BBC World">
     <title lang="el">Κινηματογραφικά Νέα</title>
