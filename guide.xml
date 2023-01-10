@@ -127,7 +127,6 @@
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
-    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -331,28 +330,28 @@
   </programme>
   <programme start="20230116000000 +0200" stop="20230116060000 +0200" channel="EXTRA">
     <title lang="el">Τηλεαγορές</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.(n)</desc>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
     <rating system="GR">
       <value>0</value>
     </rating>
   </programme>
   <programme start="20230116060000 +0200" stop="20230116120000 +0200" channel="EXTRA">
     <title lang="el">Τηλεαγορές</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.(n)</desc>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
     <rating system="GR">
       <value>0</value>
     </rating>
   </programme>
   <programme start="20230116120000 +0200" stop="20230116180000 +0200" channel="EXTRA">
     <title lang="el">Τηλεαγορές</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.(n)</desc>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
     <rating system="GR">
       <value>0</value>
     </rating>
   </programme>
   <programme start="20230116180000 +0200" stop="20230117000000 +0200" channel="EXTRA">
     <title lang="el">Τηλεαγορές</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.(n)</desc>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
     <rating system="GR">
       <value>0</value>
     </rating>
@@ -1004,6 +1003,79 @@
     <category lang="el">Θέατρο - Όπερα</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040033691212000800.jpg/951620c2-68b3-775b-cf26-5dfd88f3e1d1?version=1.0&amp;t=1673216991029"/>
   </programme>
+  <programme start="20230116003000 +0200" stop="20230116023000 +0200" channel="VOULI">
+    <title lang="el">Από Τόπο Σε Τόπο (Ε)</title>
+    <desc lang="el">Επεισόδιο: Αλιβέρι. Σειρά εκπομπών που προβάλουν τα ήθη, τα έθιμα και την πολιτιστική κληρονομιά μας, ταξιδεύοντας στην ελληνική περιφέρεια. Παραγωγή: Βουλή Τηλεόραση 2017.</desc>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040016263012000800.jpg/71116912-4d3e-a1cd-0bb9-997feb9af988?version=1.0&amp;t=1670797753556"/>
+  </programme>
+  <programme start="20230116023000 +0200" stop="20230116050000 +0200" channel="VOULI">
+    <title lang="el">Επανάληψη Προγράμματος</title>
+    <desc lang="el">Παρακολουθήστε πρόγραμμα σε επανάληψη.</desc>
+    <category lang="el">Special</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040035870112000800.jpg/334b3775-77b0-e251-c320-937531482c14?version=1.0&amp;t=1628097014684"/>
+  </programme>
+  <programme start="20230116050000 +0200" stop="20230116083000 +0200" channel="VOULI">
+    <title lang="el">Επανάληψη Προγράμματος</title>
+    <desc lang="el">Παρακολουθήστε πρόγραμμα σε επανάληψη.</desc>
+    <category lang="el">Special</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040035870112000800.jpg/334b3775-77b0-e251-c320-937531482c14?version=1.0&amp;t=1628097014684"/>
+  </programme>
+  <programme start="20230116083000 +0200" stop="20230116085500 +0200" channel="VOULI">
+    <title lang="el">Έλληνες Αειναύτες</title>
+    <desc lang="el">Επεισόδιο: Γιάννης Καρράς. H ιστορία, η παράδοση και η εξέλιξη της ελληνικής ναυτιλίας, οι άνθρωποι που την διαμόρφωσαν, οι τόποι που πρωτοστάτησαν στην ανάπτυξή της, οι λόγοι και οι αιτίες που την οδήγησαν στην πρωτοκαθεδρία της παγκόσμιας ναυτιλιακής βιομηχανίας.</desc>
+    <category lang="el">Ιστορικό - Πολεμικό</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040015086412000800.jpg/3cfda01a-73de-b416-c278-32fd40a86e0f?version=1.0&amp;t=1669155900202"/>
+  </programme>
+  <programme start="20230116085500 +0200" stop="20230116090000 +0200" channel="VOULI">
+    <title lang="el">Σαν Σήμερα στην Πολιτική</title>
+    <desc lang="el">Ανασκόπηση των σημαντικότερων πολιτικών γεγονότων που συνέβησαν σαν σήμερα.</desc>
+    <category lang="el">Other</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040026819312000800.jpg/7fd495ac-04f5-4325-e679-5f84982d1749?version=1.0&amp;t=1613428875856"/>
+  </programme>
+  <programme start="20230116090000 +0200" stop="20230116100000 +0200" channel="VOULI">
+    <title lang="el">Πρωινή Επισκόπηση</title>
+    <desc lang="el">Καθημερινή ενημερωτική εκπομπή με τον Λάμπρο Πέγγο και τη Λουκία Γκάτσου.</desc>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040032055612000800.jpg/f0af5615-baf8-80bd-3c9c-5760d74014ee?version=1.0&amp;t=1672698684138"/>
+  </programme>
+  <programme start="20230116100000 +0200" stop="20230116130000 +0200" channel="VOULI">
+    <title lang="el">Κοινοβουλευτικό Έργο</title>
+    <desc lang="el">Κοινοβουλευτικό έργο.</desc>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040006841112000800.jpg/0800a26d-5538-ad87-64af-c3bf7d894987?version=1.0&amp;t=1672698684632"/>
+  </programme>
+  <programme start="20230116130000 +0200" stop="20230116160000 +0200" channel="VOULI">
+    <title lang="el">Κοινοβουλευτικό Έργο</title>
+    <desc lang="el">Κοινοβουλευτικό έργο.</desc>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040006841112000800.jpg/0800a26d-5538-ad87-64af-c3bf7d894987?version=1.0&amp;t=1672698684632"/>
+  </programme>
+  <programme start="20230116160000 +0200" stop="20230116190000 +0200" channel="VOULI">
+    <title lang="el">Κοινοβουλευτικό Έργο</title>
+    <desc lang="el">Κοινοβουλευτικό έργο.</desc>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040006841112000800.jpg/0800a26d-5538-ad87-64af-c3bf7d894987?version=1.0&amp;t=1672698684632"/>
+  </programme>
+  <programme start="20230116190000 +0200" stop="20230116220000 +0200" channel="VOULI">
+    <title lang="el">Κοινοβουλευτικό Έργο</title>
+    <desc lang="el">Κοινοβουλευτικό έργο.</desc>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040006841112000800.jpg/0800a26d-5538-ad87-64af-c3bf7d894987?version=1.0&amp;t=1672698684632"/>
+  </programme>
+  <programme start="20230116220000 +0200" stop="20230116230000 +0200" channel="VOULI">
+    <title lang="el">Συνάντηση</title>
+    <desc lang="el">Μια εκπομπή που ακολουθεί τα δημιουργικά βήματα και τις ιδέες ανθρώπων των γραμμάτων, των τεχνών και των επιστημών. Μια συνάντηση-αφορμή να καταθέσουν βιώματα, πρόσωπα τα οποία χαρακτηρίζουν την εποχή μας.</desc>
+    <category lang="el">Ψυχαγωγική εκπομπή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040007480212000800.jpg/81ea1957-1570-989a-6d0b-99248454da54?version=1.0&amp;t=1660598944648"/>
+  </programme>
+  <programme start="20230116230000 +0200" stop="20230117003000 +0200" channel="VOULI">
+    <title lang="el">Η Σιωπή των Άλλων</title>
+    <desc lang="el">Μπορεί να έχουν περάσει πάνω από σαράντα χρόνια από την αποκατάσταση της Δημοκρατίας στην Ισπανία, οι πληγές όμως δεν λένε να κλείσουν, όσο το εθνικό αφήγημα αποσιωπά τα απάνθρωπα εγκλήματα του φρανκικού καθεστώτος. Παραγωγή: Ισπανία.</desc>
+    <date>2018</date>
+    <category lang="el">Ντοκιμαντέρ</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040027396412000800.jpg/8d241544-04d9-e069-ea6e-a7193df61daf?version=1.0&amp;t=1586905346061"/>
+  </programme>
   <programme start="20230110003500 +0200" stop="20230110022500 +0200" channel="ERT 1">
     <title lang="el">Πρωίαν σε Είδον τη Μεσημβρίαν (Ε)</title>
     <desc lang="el">Ο Φώτης Σεργουλόπουλος και η Τζένη Μελιτά μάς κρατούν συντροφιά καθημερινά από Δευτέρα έως Παρασκευή, στο νέο ψυχαγωγικό μαγκαζίνο της ΕΡΤ1.</desc>
@@ -1213,8 +1285,8 @@
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040030999412000800.jpg/4bc032e3-c2cb-aa47-c14c-16e51b7747da?version=1.0&amp;t=1612303851415"/>
   </programme>
   <programme start="20230111220000 +0200" stop="20230112000000 +0200" channel="ERT 1">
-    <title lang="el">Μουσικό Κουτί Κ3</title>
-    <desc lang="el">Επεισόδιο: Αφιέρωμα στην Ευτυχία Παπαγιαννοπούλου. Καλεσμένοι η Φωτεινή Βελεσιώτου, ο Γιάννης Παπαγεωργίου και ο Αλέξανδρος Κτιστάκης.</desc>
+    <title lang="el">Μουσικό Κουτί Κ3 (Ε)</title>
+    <desc lang="el">Επεισόδιο: Πίτσα Παπαδοπούλου &amp; String Demons. Ο Νίκος Πορτοκάλογλου και η Ρένα Μόρφη φιλοξενούν τη μεγάλη κυρία του λαϊκού μας τραγουδιού και τους String Demons, το εκρηκτικό 'δίδυμο' των εγχόρδων, κάνουν τα 'λαϊκά' κλασικά και τα κλασικά 'λαϊκά'!</desc>
     <date>2022</date>
     <category lang="el">Μουσική</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037892812000800.jpg/a035c70c-10d4-8de9-7dd7-c1511faacdfb?version=1.0&amp;t=1665508212736"/>
@@ -1674,31 +1746,18 @@
     <category lang="el">Ειδήσεις</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040029848212000800.jpg/70ddb9e5-51bd-c72f-8cc8-90175f2c5585?version=1.0&amp;t=1612303854584"/>
   </programme>
-  <programme start="20230115160000 +0200" stop="20230115165500 +0200" channel="ERT 1">
-    <title lang="el">Τα Καλύτερά μας Χρόνια Κ3</title>
-    <desc lang="el">Τέλη δεκαετίας του '60: η τηλεόραση εισβάλλει δυναμικά στη ζωή μας. Γύρω από αυτήν μαζεύονται κάθε απόγευμα οι οικογένειες και οι παρέες σε μια Ελλάδα που ζει σε καθεστώς δικτατορίας, ονειρεύεται ένα καλύτερο μέλλον, αλλά δεν ξέρει ακόμη πότε θα έρθει αυτό. Παραγωγή: Ελλάδα.</desc>
+  <programme start="20230115160000 +0200" stop="20230115170000 +0200" channel="ERT 1">
+    <title lang="el">Φλόγα και Άνεμος</title>
+    <desc lang="el">Ο θυελλώδης έρωτας του Γεωργίου Παπανδρέου και της Κυβέλης ξεδιπλώνεται στη νέα σειρά μυθοπλασίας της ΕΡΤ, που βασίζεται στο ομότιτλο μυθιστόρημα του Στέφανου Δάνδολου, σε σκηνοθεσία Ρέινας Εσκενάζυ και σενάριο Ρένας Ρίγγα.</desc>
     <credits>
-      <director>Όλγα Μαλέα</director>
-      <actor>Κατερίνα Παπουτσάκη</actor>
-      <actor>Μελέτης Ηλίας</actor>
-      <actor>Υβόννη Μαλτέζου</actor>
+      <director>Ρέινα Εσκενάζυ</director>
+      <actor>Καρυοφυλλιά Καραμπέτη</actor>
+      <actor>Άρης Λεμπεσόπουλος</actor>
+      <actor>Δημήτρης Καταλειφός</actor>
     </credits>
-    <date>2020</date>
-    <category lang="el">Οικογενειακή</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037814012000800.jpg/162eb238-a3aa-4c24-5b7b-6aed4f17923e?version=1.0&amp;t=1672180271361"/>
-  </programme>
-  <programme start="20230115165500 +0200" stop="20230115174500 +0200" channel="ERT 1">
-    <title lang="el">Τα Καλύτερά μας Χρόνια Κ3</title>
-    <desc lang="el">Τέλη δεκαετίας του '60: η τηλεόραση εισβάλλει δυναμικά στη ζωή μας. Γύρω από αυτήν μαζεύονται κάθε απόγευμα οι οικογένειες και οι παρέες σε μια Ελλάδα που ζει σε καθεστώς δικτατορίας, ονειρεύεται ένα καλύτερο μέλλον, αλλά δεν ξέρει ακόμη πότε θα έρθει αυτό. Παραγωγή: Ελλάδα.</desc>
-    <credits>
-      <director>Όλγα Μαλέα</director>
-      <actor>Κατερίνα Παπουτσάκη</actor>
-      <actor>Μελέτης Ηλίας</actor>
-      <actor>Υβόννη Μαλτέζου</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="el">Οικογενειακή</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037814012000800.jpg/162eb238-a3aa-4c24-5b7b-6aed4f17923e?version=1.0&amp;t=1672180271361"/>
+    <date>2022</date>
+    <category lang="el">Ψυχολογικό Δράμα</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037745212000800.jpg/d9ab0417-4358-02a7-94a1-c88ec55978d7?version=1.0&amp;t=1673130564585"/>
   </programme>
   <programme start="20230115174500 +0200" stop="20230115190000 +0200" channel="ERT 1">
     <title lang="el">Τα Νούμερα</title>
@@ -1749,6 +1808,32 @@
     <desc lang="el">Παρακολουθήστε επιλεγμένες, ξένες ταινίες.</desc>
     <category lang="el">Ψυχαγωγική εκπομπή</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034892112000800.jpg/24069103-23ce-bb71-513f-7aad12bb84ec?version=1.0&amp;t=1611960842047"/>
+  </programme>
+  <programme start="20230116160000 +0200" stop="20230116170000 +0200" channel="ERT 1">
+    <title lang="el">365 Στιγμές (Ε)</title>
+    <desc lang="el">Επεισόδιο: Από την κρίση των Ιμίων στην προσφορά. Η σημερινή εκπομπή αναδεικνύει τη σημαντική προσφορά στα ακριτικά νησιά δύο γυναικών που συνδέονται μ' ένα τραγικό γεγονός της ελληνικής Ιστορίας.</desc>
+    <category lang="el">Εκπομπή - Μαγκαζίνο</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037929312000800.jpg/e84be531-c222-1640-8eb8-260e21d028c2?version=1.0&amp;t=1670623831591"/>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20230116170000 +0200" stop="20230116190000 +0200" channel="ERT 1">
+    <title lang="el">Ξένη Ταινία</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένες, ξένες ταινίες.</desc>
+    <category lang="el">Ψυχαγωγική εκπομπή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040034892112000800.jpg/24069103-23ce-bb71-513f-7aad12bb84ec?version=1.0&amp;t=1611960842047"/>
+  </programme>
+  <programme start="20230117170000 +0200" stop="20230117190000 +0200" channel="ERT 1">
+    <title lang="el">Μουσικό Κουτί Κ3 (Ε)</title>
+    <desc lang="el">Επεισόδιο: Τάκης Σούκας. Ο Νίκος Πορτοκάλογλου και η Ρένα Μόρφη έχουν τη χαρά να παίξουν και να τραγουδήσουν τα πιο γνωστά τραγούδια του Τάκη Σούκα μαζί με τον ίδιο τον συνθέτη αλλά και δυο εξαιρετικών νέων ταλέντων, της Βιολέτας Ίκαρη και του Γιάννη Διονυσίου.</desc>
+    <date>2022</date>
+    <category lang="el">Μουσική</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037892812000800.jpg/a035c70c-10d4-8de9-7dd7-c1511faacdfb?version=1.0&amp;t=1665508212736"/>
+  </programme>
+  <programme start="20230117190000 +0200" stop="20230117200000 +0200" channel="ERT 1">
+    <title lang="el">Ο Πιο Αδύναμος Κρίκος</title>
+    <desc lang="el">Το δημοφιλές σε όλο τον κόσμο παιχνίδι γνώσεων του BBC έρχεται καθημερινά στην ΕΡΤ1, με παρουσιαστή τον Τάσο Τρύφωνος.</desc>
+    <category lang="el">Τηλεπαιχνίδι</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037777112000800.jpg/ece8aba3-d7f5-614c-48ed-d1bac4e66c85?version=1.0&amp;t=1663002650544"/>
   </programme>
   <programme start="20230110002000 +0200" stop="20230110011500 +0200" channel="ERT 2">
     <title lang="el">Δες &amp; Βρες (Ε)</title>
@@ -2759,7 +2844,7 @@
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040027854512000800.jpg/6cf0feef-a4c1-02e9-3ac7-d3527d2992aa?version=1.0&amp;t=1627940216349"/>
   </programme>
   <programme start="20230114022000 +0200" stop="20230114031500 +0200" channel="ERT 2">
-    <title lang="el">Στα Άκρα Κ20</title>
+    <title lang="el">Στα Άκρα Κ20 (Ε)</title>
     <desc lang="el">Eκπομπή λόγου. Παρακολουθήστε ενδιαφέρουσες συζητήσεις με πρόσωπα του δημόσιου βίου, που σχολιάζουν την επικαιρότητα, αυτοβιογραφούνται, αλλά κυρίως τοποθετούνται σε θέματα που απασχολούν όλους μας.</desc>
     <category lang="el">Ψυχαγωγική εκπομπή</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040028912012000800.jpg/b1331f46-43c6-2a86-e2ef-1265d00c48b7?version=1.0&amp;t=1662759798965"/>
@@ -2779,7 +2864,7 @@
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037341112000800.jpg/4e6f2213-bfad-a0b7-ae58-af3ae14f0a33?version=1.0&amp;t=1671748628851"/>
   </programme>
   <programme start="20230114050000 +0200" stop="20230114070000 +0200" channel="ERT 2">
-    <title lang="el">Δύο Ζωές</title>
+    <title lang="el">Δύο Ζωές (Ε)</title>
     <desc lang="el">Η Χούλια, μια γυναίκα που ζει όπως έχουν σχεδιάσει τη ζωή της η μητέρα της και ο μελλοντικός της σύζυγος. Λίγο πριν από το γάμο της, ανακαλύπτει ένα μεγάλο οικογενειακό μυστικό που θα την αλλάξει για πάντα. Παραγωγή: Ισπανία.</desc>
     <date>2021</date>
     <category lang="el">Δραματική</category>
@@ -2999,17 +3084,26 @@
     <category lang="el">Μαγειρική</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036287312000800.jpg/e9452ba9-0562-734d-c049-3532f43b01fc?version=1.0&amp;t=1650663021308"/>
   </programme>
-  <programme start="20230115070000 +0200" stop="20230115080000 +0200" channel="ERT 2">
-    <title lang="el">Το Σχολείο του Αύριο</title>
-    <desc lang="el">Μπορούν οι γνωστικές επιστήμες να μας βοηθήσουν να χτίσουμε ένα καλύτερο είδος σχολείου; Ένα σχολείο πιο αποτελεσματικό, λιγότερο άνισο και πιο προσαρμοσμένο στις προκλήσεις του αύριο; Η μίνι σειρά μάς μιλά για την πρόοδο που υπάρχει.</desc>
-    <category lang="el">Ντοκιμαντέρ</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037086612000800.jpg/b2758596-847d-55e0-ed52-0dd0bc550e40?version=1.0&amp;t=1673217186489"/>
+  <programme start="20230115070000 +0200" stop="20230115071500 +0200" channel="ERT 2">
+    <title lang="el">Υδρόγειος (Ε)</title>
+    <desc lang="el">Επεισόδιο: The Rat Catchers of Cambodia. Μέσα από τη συναρπαστική σειρά ντοκιμαντέρ, γνωρίζουμε τη ζωή, τις περιπέτειες και τα ενδιαφέροντα παιδιών και εφήβων από όλο τον κόσμο, αλλά και συναρπαστικές πληροφορίες για ζώα υπό προστασία, υπό εξαφάνιση ή που απλώς είναι υπέροχα. Παραγωγή: Γαλλία, Γερμανία.</desc>
+    <date>2016</date>
+    <category lang="el">Σειρές</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037082612000800.jpg/66c15c61-3248-412d-6b23-e2f9b3b07183?version=1.0&amp;t=1663017824437"/>
+    <episode-num system="onscreen">E40</episode-num>
   </programme>
-  <programme start="20230115080000 +0200" stop="20230115113000 +0200" channel="ERT 2">
-    <title lang="el">Αρχιερατικό Συλλείτουργο</title>
-    <desc lang="el">Σύνδεση με τον Ιερό Ναό.</desc>
-    <category lang="el">Special</category>
-    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040036155012000800.jpg/5dfc2053-3025-4508-3200-f8dda2e8f8e9?version=1.0&amp;t=1672612373807"/>
+  <programme start="20230115071500 +0200" stop="20230115075000 +0200" channel="ERT 2">
+    <title lang="el">Ώρα για Παραμύθι (Ε)</title>
+    <desc lang="el">Επεισόδιο: Βιρμανία - Το τζίνι των Θαλασσών. Πανέμορφες ιστορίες, διαλεγμένες από τις τέσσερις γωνιές της γης. Παραγωγή: Γαλλία.</desc>
+    <date>2017</date>
+    <category lang="el">Κιν. Σχέδια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037751012000800.jpg/bad124b0-1d60-ed2a-d69a-5e0d85f0e874?version=1.0&amp;t=1673130819566"/>
+  </programme>
+  <programme start="20230115075000 +0200" stop="20230115081000 +0200" channel="ERT 2">
+    <title lang="el">Πάφιν Ροκ (Ε)</title>
+    <desc lang="el">Παραγωγή Ιρλανδίας, 2015. Μέσα από την καθημερινή περιπλάνηση στην άγρια φύση του απομονωμένου βιότοπου, δύο θαλασσοπούλια, η Ούνα και ο αδερφός της Μπάμπα, διδάσκονται τα μυστικά της επιβίωσης και την αξία της φιλίας.</desc>
+    <category lang="el">Κιν. Σχέδια</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040033881212000800.jpg/d8d50b6d-439f-a1b4-b8b7-7628475c35c1?version=1.0&amp;t=1610405287401"/>
   </programme>
   <programme start="20230115113000 +0200" stop="20230115120000 +0200" channel="ERT 2">
     <title lang="el">Με Αρετή και Τόλμη</title>
@@ -3134,6 +3228,36 @@
     <date>2019</date>
     <category lang="el">Μυστηρίου</category>
     <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037987312000800.jpg/c3b6f588-7272-6e9f-28bb-04ea453fed7c?version=1.0&amp;t=1673217188671"/>
+  </programme>
+  <programme start="20230116080000 +0200" stop="20230116081500 +0200" channel="ERT 2">
+    <title lang="el">Υδρόγειος</title>
+    <desc lang="el">Μέσα από τη συναρπαστική σειρά ντοκιμαντέρ, γνωρίζουμε τη ζωή, τις περιπέτειες και τα ενδιαφέροντα παιδιών και εφήβων από όλο τον κόσμο, αλλά και συναρπαστικές πληροφορίες για ζώα υπό προστασία, υπό εξαφάνιση ή που απλώς είναι υπέροχα. Παραγωγή: Γαλλία, Γερμανία.</desc>
+    <date>2016</date>
+    <category lang="el">Σειρές</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037082612000800.jpg/66c15c61-3248-412d-6b23-e2f9b3b07183?version=1.0&amp;t=1663017824437"/>
+  </programme>
+  <programme start="20230117081000 +0200" stop="20230117082000 +0200" channel="ERT 2">
+    <title lang="el">Τα Ζωάκια του Άντι</title>
+    <desc lang="el">Επεισόδιο: Κολύμπι. Ο Άντι ακολουθεί μικρά ζώα καθώς ανακαλύπτουν τον κόσμο γύρω τους και μαθαίνουν τις ικανότητες που θα χρειαστούν ως ενήλικοι.</desc>
+    <date>2018</date>
+    <category lang="el">Παιδική</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037269712000800.jpg/b06f3ae6-36b6-5958-0499-df6cc8610bac?version=1.0&amp;t=1671489337303"/>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20230117082000 +0200" stop="20230117083000 +0200" channel="ERT 2">
+    <title lang="el">Τα Ζωάκια του Άντι (Ε)</title>
+    <desc lang="el">Επεισόδιο: Ώρα για ύπνο. Ο Άντι ακολουθεί μικρά ζώα καθώς ανακαλύπτουν τον κόσμο γύρω τους και μαθαίνουν τις ικανότητες που θα χρειαστούν ως ενήλικοι.</desc>
+    <date>2018</date>
+    <category lang="el">Παιδική</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040037269712000800.jpg/b06f3ae6-36b6-5958-0499-df6cc8610bac?version=1.0&amp;t=1671489337303"/>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20230117083000 +0200" stop="20230117090000 +0200" channel="ERT 2">
+    <title lang="el">Kookooland (Ε)</title>
+    <desc lang="el">Επεισόδιο: Δεν είναι δικές σου! Ποιος θα βοηθήσει τη Σουριγάτα να βρει τις χαμένες χάντρες της; Και όταν οι ίδιες χάντρες βρεθούν στα χέρια της Χρύσας, ποιανού θα είναι οι χάντρες; Πώς θα λυθεί αυτή η παρεξήγηση μεταξύ της Σουριγάτας και της Χρύσας;.</desc>
+    <date>2022</date>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://www.cosmote.gr/portal/documents/33201/2253519/040038162212000800.jpg/69254aa0-1595-4f2c-067a-ab8fd962ee2a?version=1.0&amp;t=1671127819074"/>
   </programme>
   <programme start="20230110001500 +0200" stop="20230110011000 +0200" channel="ERT 3">
     <title lang="el">Τα Φονικά Μυστήρια της Κας Φίσερ (Ε)</title>
@@ -4233,175 +4357,175 @@
   </programme>
   <programme start="20230110023000 +0200" stop="20230110040000 +0200" channel="RIK">
     <title lang="el">ΣΝΟΥΚΕΡ: - Μάστερς Λονδίνου (1ος ΓΥΡΟΣ)</title>
-    <desc lang="el">ΣΝΟΥΚΕΡ: - Μάστερς Λονδίνου (1ος ΓΥΡΟΣ).(c)</desc>
+    <desc lang="el">ΣΝΟΥΚΕΡ: - Μάστερς Λονδίνου (1ος ΓΥΡΟΣ).</desc>
   </programme>
   <programme start="20230110040000 +0200" stop="20230110053000 +0200" channel="RIK">
     <title lang="el">ΤΕΝΙΣ: ATP TΟΥΡ 250 Αδελαϊδα - 1ος ΓΥΡΟΣ Μονό</title>
-    <desc lang="el">ΤΕΝΙΣ: ATP TΟΥΡ 250 Αδελαϊδα - 1ος ΓΥΡΟΣ Μονό.(c)</desc>
+    <desc lang="el">ΤΕΝΙΣ: ATP TΟΥΡ 250 Αδελαϊδα - 1ος ΓΥΡΟΣ Μονό.</desc>
   </programme>
   <programme start="20230110053000 +0200" stop="20230110070000 +0200" channel="RIK">
     <title lang="el">ΣΝΟΥΚΕΡ: - Μάστερς Λονδίνου (1ος ΓΥΡΟΣ)</title>
-    <desc lang="el">ΣΝΟΥΚΕΡ: - Μάστερς Λονδίνου (1ος ΓΥΡΟΣ).(c)</desc>
+    <desc lang="el">ΣΝΟΥΚΕΡ: - Μάστερς Λονδίνου (1ος ΓΥΡΟΣ).</desc>
   </programme>
   <programme start="20230110070000 +0200" stop="20230110080000 +0200" channel="RIK">
     <title lang="el">Ράλι Ανωμάλου δρόμου: Ντακάρ - ΣΑΟΥΔΙΚΗ ΑΡΑΒΙΑ</title>
-    <desc lang="el">Ράλι Ανωμάλου δρόμου: Ντακάρ - ΣΑΟΥΔΙΚΗ ΑΡΑΒΙΑ.(c)</desc>
+    <desc lang="el">Ράλι Ανωμάλου δρόμου: Ντακάρ - ΣΑΟΥΔΙΚΗ ΑΡΑΒΙΑ.</desc>
   </programme>
   <programme start="20230110080000 +0200" stop="20230110093000 +0200" channel="RIK">
     <title lang="el">ΤΕΝΙΣ: ATP TΟΥΡ 250 Αδελαϊδα - 1ος ΓΥΡΟΣ Μονό</title>
-    <desc lang="el">ΤΕΝΙΣ: ATP TΟΥΡ 250 Αδελαϊδα - 1ος ΓΥΡΟΣ Μονό.(c)</desc>
+    <desc lang="el">ΤΕΝΙΣ: ATP TΟΥΡ 250 Αδελαϊδα - 1ος ΓΥΡΟΣ Μονό.</desc>
   </programme>
   <programme start="20230110093000 +0200" stop="20230110110000 +0200" channel="RIK">
     <title lang="el">ΣΝΟΥΚΕΡ: - Μάστερς Λονδίνου (1ος ΓΥΡΟΣ)</title>
-    <desc lang="el">ΣΝΟΥΚΕΡ: - Μάστερς Λονδίνου (1ος ΓΥΡΟΣ).(c)</desc>
+    <desc lang="el">ΣΝΟΥΚΕΡ: - Μάστερς Λονδίνου (1ος ΓΥΡΟΣ).</desc>
   </programme>
   <programme start="20230110110000 +0200" stop="20230110120000 +0200" channel="RIK">
     <title lang="el">Ράλι Ανωμάλου δρόμου: Ντακάρ - ΣΑΟΥΔΙΚΗ ΑΡΑΒΙΑ</title>
-    <desc lang="el">Ράλι Ανωμάλου δρόμου: Ντακάρ - ΣΑΟΥΔΙΚΗ ΑΡΑΒΙΑ.(c)</desc>
+    <desc lang="el">Ράλι Ανωμάλου δρόμου: Ντακάρ - ΣΑΟΥΔΙΚΗ ΑΡΑΒΙΑ.</desc>
   </programme>
   <programme start="20230110120000 +0200" stop="20230110133000 +0200" channel="RIK">
     <title lang="el">ΑΛΜΑ ΜΕ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ (4 ΛΟΦΟΙ) - Μπίσχοφσχόφεν - HS 142 - ΑΝΔΡΕΣ</title>
-    <desc lang="el">ΑΛΜΑ ΜΕ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ (4 ΛΟΦΟΙ) - Μπίσχοφσχόφεν - HS 142 - ΑΝΔΡΕΣ.(c)</desc>
+    <desc lang="el">ΑΛΜΑ ΜΕ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ (4 ΛΟΦΟΙ) - Μπίσχοφσχόφεν - HS 142 - ΑΝΔΡΕΣ.</desc>
   </programme>
   <programme start="20230110133000 +0200" stop="20230110150000 +0200" channel="RIK">
     <title lang="el">ΤΕΝΙΣ: ATP TΟΥΡ 250 Αδελαϊδα -</title>
-    <desc lang="el">ΤΕΝΙΣ: ATP TΟΥΡ 250 Αδελαϊδα -.(c)</desc>
+    <desc lang="el">ΤΕΝΙΣ: ATP TΟΥΡ 250 Αδελαϊδα -.</desc>
   </programme>
   <programme start="20230110150000 +0200" stop="20230110163000 +0200" channel="RIK">
     <title lang="el">ΑΛΜΑ ΜΕ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ (4 ΛΟΦΟΙ) - Μπίσχοφσχόφεν - HS 142 - ΑΝΔΡΕΣ</title>
-    <desc lang="el">ΑΛΜΑ ΜΕ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ (4 ΛΟΦΟΙ) - Μπίσχοφσχόφεν - HS 142 - ΑΝΔΡΕΣ.(c)</desc>
+    <desc lang="el">ΑΛΜΑ ΜΕ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ (4 ΛΟΦΟΙ) - Μπίσχοφσχόφεν - HS 142 - ΑΝΔΡΕΣ.</desc>
   </programme>
   <programme start="20230110163000 +0200" stop="20230110171500 +0200" channel="RIK">
     <title lang="el">ΑΛΠΙΚΟ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ - Αντελμπόντεν SL 1st run (ΑΝΔΡΕΣ)</title>
-    <desc lang="el">ΑΛΠΙΚΟ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ - Αντελμπόντεν SL 1st run (ΑΝΔΡΕΣ).(c)</desc>
+    <desc lang="el">ΑΛΠΙΚΟ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ - Αντελμπόντεν SL 1st run (ΑΝΔΡΕΣ).</desc>
   </programme>
   <programme start="20230110171500 +0200" stop="20230110180000 +0200" channel="RIK">
     <title lang="el">ΑΛΠΙΚΟ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ - Αντελμπόντεν SL 2nd run (ΑΝΔΡΕΣ)</title>
-    <desc lang="el">ΑΛΠΙΚΟ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ - Αντελμπόντεν SL 2nd run (ΑΝΔΡΕΣ).(c)</desc>
+    <desc lang="el">ΑΛΠΙΚΟ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ - Αντελμπόντεν SL 2nd run (ΑΝΔΡΕΣ).</desc>
   </programme>
   <programme start="20230110180000 +0200" stop="20230110192000 +0200" channel="RIK">
     <title lang="el">ΤΕΝΙΣ: ATP TΟΥΡ 250 Αδελαϊδα -</title>
-    <desc lang="el">ΤΕΝΙΣ: ATP TΟΥΡ 250 Αδελαϊδα -.(c)</desc>
+    <desc lang="el">ΤΕΝΙΣ: ATP TΟΥΡ 250 Αδελαϊδα -.</desc>
   </programme>
   <programme start="20230110192000 +0200" stop="20230110210000 +0200" channel="RIK">
     <title lang="el">ΣΝΟΟΥΜΠΟΡΝΤ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ - Μπάντγκαστάιν PSL (Άνδρες και γυναίκες)</title>
-    <desc lang="el">ΣΝΟΟΥΜΠΟΡΝΤ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ - Μπάντγκαστάιν PSL (Άνδρες και γυναίκες).(c)</desc>
+    <desc lang="el">ΣΝΟΟΥΜΠΟΡΝΤ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ - Μπάντγκαστάιν PSL (Άνδρες και γυναίκες).</desc>
   </programme>
   <programme start="20230110210000 +0200" stop="20230110224500 +0200" channel="RIK">
     <title lang="el">ΣΝΟΥΚΕΡ: - Μάστερς Λονδίνου (1ος ΓΥΡΟΣ)</title>
-    <desc lang="el">ΣΝΟΥΚΕΡ: - Μάστερς Λονδίνου (1ος ΓΥΡΟΣ).(c)</desc>
+    <desc lang="el">ΣΝΟΥΚΕΡ: - Μάστερς Λονδίνου (1ος ΓΥΡΟΣ).</desc>
   </programme>
   <programme start="20230110224500 +0200" stop="20230110230000 +0200" channel="RIK">
     <title lang="el">ΟΛΑ ΤΑ ΣΠΟΡ Ξεκλειδώνοντας τη δύναμη του αθλητισμού</title>
-    <desc lang="el">ΟΛΑ ΤΑ ΣΠΟΡ Ξεκλειδώνοντας τη δύναμη του αθλητισμού.(c)</desc>
+    <desc lang="el">ΟΛΑ ΤΑ ΣΠΟΡ Ξεκλειδώνοντας τη δύναμη του αθλητισμού.</desc>
   </programme>
   <programme start="20230110230000 +0200" stop="20230110233000 +0200" channel="RIK">
     <title lang="el">Ράλι Ανωμάλου δρόμου: Ντακάρ - ΣΑΟΥΔΙΚΗ ΑΡΑΒΙΑ</title>
-    <desc lang="el">Ράλι Ανωμάλου δρόμου: Ντακάρ - ΣΑΟΥΔΙΚΗ ΑΡΑΒΙΑ.(c)</desc>
+    <desc lang="el">Ράλι Ανωμάλου δρόμου: Ντακάρ - ΣΑΟΥΔΙΚΗ ΑΡΑΒΙΑ.</desc>
   </programme>
   <programme start="20230110233000 +0200" stop="20230111004500 +0200" channel="RIK">
     <title lang="el">Playmakers (Ζ)</title>
-    <desc lang="el">Η απόλυτη εκπομπή μπάσκετ με την επίλεκτη ομάδα δημοσιογράφων του Novasports και τον Φ. Κατσικάρη στον σχολιασμό! Ρεπορτάζ pre game και post game για τα ματς Παναθηναϊκού και Ολυμπιακού στη Euroleague. Παρουσιάζει ο Γ. Παπαβασιλείου. Μπάσκετ.(c)</desc>
+    <desc lang="el">Η απόλυτη εκπομπή μπάσκετ με την επίλεκτη ομάδα δημοσιογράφων του Novasports και τον Φ. Κατσικάρη στον σχολιασμό! Ρεπορτάζ pre game και post game για τα ματς Παναθηναϊκού και Ολυμπιακού στη Euroleague. Παρουσιάζει ο Γ. Παπαβασιλείου. Μπάσκετ.</desc>
   </programme>
   <programme start="20230111004500 +0200" stop="20230111024500 +0200" channel="RIK">
     <title lang="el">Μονακό - Ολυμπιακός</title>
-    <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'. Μπάσκετ.(c)</desc>
+    <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'. Μπάσκετ.</desc>
   </programme>
   <programme start="20230111024500 +0200" stop="20230111050000 +0200" channel="RIK">
     <title lang="el">Λεβαδειακός - Παναθηναϊκός</title>
-    <desc lang="el">Το ελληνικό πρωτάθλημα ποδοσφαίρου, με αποκλειστικούς αγώνες κορυφαίων ομάδων αλλά και τα πιο 'καυτά'ντέρμπι της φετινής σεζόν που θα κρίνουν τον τίτλο του πρωταθλητή, είναι στα κανάλια Novasports! Ποδόσφαιρο.(c)</desc>
+    <desc lang="el">Το ελληνικό πρωτάθλημα ποδοσφαίρου, με αποκλειστικούς αγώνες κορυφαίων ομάδων αλλά και τα πιο 'καυτά'ντέρμπι της φετινής σεζόν που θα κρίνουν τον τίτλο του πρωταθλητή, είναι στα κανάλια Novasports! Ποδόσφαιρο.</desc>
   </programme>
   <programme start="20230111050000 +0200" stop="20230111054500 +0200" channel="RIK">
     <title lang="el">Playmakers</title>
-    <desc lang="el">Η απόλυτη εκπομπή μπάσκετ με την επίλεκτη ομάδα δημοσιογράφων του Novasports και τον Φ. Κατσικάρη στον σχολιασμό! Ρεπορτάζ pre game και post game για τα ματς Παναθηναϊκού και Ολυμπιακού στη Euroleague. Παρουσιάζει ο Γ. Παπαβασιλείου. Μπάσκετ.(c)</desc>
+    <desc lang="el">Η απόλυτη εκπομπή μπάσκετ με την επίλεκτη ομάδα δημοσιογράφων του Novasports και τον Φ. Κατσικάρη στον σχολιασμό! Ρεπορτάζ pre game και post game για τα ματς Παναθηναϊκού και Ολυμπιακού στη Euroleague. Παρουσιάζει ο Γ. Παπαβασιλείου. Μπάσκετ.</desc>
   </programme>
   <programme start="20230111054500 +0200" stop="20230111074500 +0200" channel="RIK">
     <title lang="el">Μονακό - Ολυμπιακός</title>
-    <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'. Μπάσκετ.(c)</desc>
+    <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'. Μπάσκετ.</desc>
   </programme>
   <programme start="20230111074500 +0200" stop="20230111094500 +0200" channel="RIK">
     <title lang="el">Παναθηναϊκός - Φενέρμπαχτσε</title>
-    <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'. Μπάσκετ.(c)</desc>
+    <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'. Μπάσκετ.</desc>
   </programme>
   <programme start="20230111094500 +0200" stop="20230111111500 +0200" channel="RIK">
     <title lang="el">Playmakers</title>
-    <desc lang="el">Η απόλυτη εκπομπή μπάσκετ με την επίλεκτη ομάδα δημοσιογράφων του Novasports και τον Φ. Κατσικάρη στον σχολιασμό! Ρεπορτάζ pre game και post game για τα ματς Παναθηναϊκού και Ολυμπιακού στη Euroleague. Παρουσιάζει ο Γ. Παπαβασιλείου. Μπάσκετ.(c)</desc>
+    <desc lang="el">Η απόλυτη εκπομπή μπάσκετ με την επίλεκτη ομάδα δημοσιογράφων του Novasports και τον Φ. Κατσικάρη στον σχολιασμό! Ρεπορτάζ pre game και post game για τα ματς Παναθηναϊκού και Ολυμπιακού στη Euroleague. Παρουσιάζει ο Γ. Παπαβασιλείου. Μπάσκετ.</desc>
   </programme>
   <programme start="20230111111500 +0200" stop="20230111130000 +0200" channel="RIK">
     <title lang="el">Novasports Prime</title>
-    <desc lang="el">Δείτε σπουδαίους αγώνες και ντέρμπι της Super League, την 'Ωρα των Πρωταθλητών'και τις υπόλοιπες εκπομπές. Επίσης, ευρωπαϊκά ντέρμπι με pre και post game και κορυφαία event όπως το Final Four της Euroleague.(c)</desc>
+    <desc lang="el">Δείτε σπουδαίους αγώνες και ντέρμπι της Super League, την 'Ωρα των Πρωταθλητών'και τις υπόλοιπες εκπομπές. Επίσης, ευρωπαϊκά ντέρμπι με pre και post game και κορυφαία event όπως το Final Four της Euroleague.</desc>
   </programme>
   <programme start="20230111130000 +0200" stop="20230111151500 +0200" channel="RIK">
     <title lang="el">Λεβαδειακός - ΠΑΣ Γιάννινα</title>
-    <desc lang="el">Το ελληνικό πρωτάθλημα ποδοσφαίρου, με αποκλειστικούς αγώνες κορυφαίων ομάδων αλλά και τα πιο 'καυτά'ντέρμπι της φετινής σεζόν που θα κρίνουν τον τίτλο του πρωταθλητή, είναι στα κανάλια Novasports! Ποδόσφαιρο.(c)</desc>
+    <desc lang="el">Το ελληνικό πρωτάθλημα ποδοσφαίρου, με αποκλειστικούς αγώνες κορυφαίων ομάδων αλλά και τα πιο 'καυτά'ντέρμπι της φετινής σεζόν που θα κρίνουν τον τίτλο του πρωταθλητή, είναι στα κανάλια Novasports! Ποδόσφαιρο.</desc>
   </programme>
   <programme start="20230111151500 +0200" stop="20230111173000 +0200" channel="RIK">
     <title lang="el">Ατρόμητος - Ιωνικός</title>
-    <desc lang="el">Το ελληνικό πρωτάθλημα ποδοσφαίρου, με αποκλειστικούς αγώνες κορυφαίων ομάδων αλλά και τα πιο 'καυτά'ντέρμπι της φετινής σεζόν που θα κρίνουν τον τίτλο του πρωταθλητή, είναι στα κανάλια Novasports! Ποδόσφαιρο.(c)</desc>
+    <desc lang="el">Το ελληνικό πρωτάθλημα ποδοσφαίρου, με αποκλειστικούς αγώνες κορυφαίων ομάδων αλλά και τα πιο 'καυτά'ντέρμπι της φετινής σεζόν που θα κρίνουν τον τίτλο του πρωταθλητή, είναι στα κανάλια Novasports! Ποδόσφαιρο.</desc>
   </programme>
   <programme start="20230111173000 +0200" stop="20230111193000 +0200" channel="RIK">
     <title lang="el">Μονακό - Ολυμπιακός</title>
-    <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'. Μπάσκετ.(c)</desc>
+    <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη 'κούπα'. Μπάσκετ.</desc>
   </programme>
   <programme start="20230111193000 +0200" stop="20230111213000 +0200" channel="RIK">
     <title lang="el">Προμηθέας Πάτρας - Τρέντο (Ζ)</title>
-    <desc lang="el">O Προμηθέας Πάτρας (5-4) υποδέχεται την Τρέντο (2-7) για τη 10η αγωνιστική του 2ου ομίλου, με τις δύο ομάδες να προέρχονται από ήττες κόντρα στη Χάποελ Τελ Αβίβ εντός και τη Σλασκ Βρότσλαβ εκτός αντίστοιχα. Περιγραφή: Γ. Βαλαβάνης Μπάσκετ.(c)</desc>
+    <desc lang="el">O Προμηθέας Πάτρας (5-4) υποδέχεται την Τρέντο (2-7) για τη 10η αγωνιστική του 2ου ομίλου, με τις δύο ομάδες να προέρχονται από ήττες κόντρα στη Χάποελ Τελ Αβίβ εντός και τη Σλασκ Βρότσλαβ εκτός αντίστοιχα. Περιγραφή: Γ. Βαλαβάνης Μπάσκετ.</desc>
   </programme>
   <programme start="20230111213000 +0200" stop="20230111220000 +0200" channel="RIK">
     <title lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου</title>
-    <desc lang="el">Λίγο πριν από τη σέντρα της αγωνιστικής στο γαλλικό πρωτάθλημα ποδοσφαίρου, ενημερωθείτε για όλα τα τελευταία νέα, τη φόρμα των ομάδων και την εξέλιξη τόσο της 'μάχης'του τίτλου όσο και των άλλων 'μετώπων'στη βαθμολογία. Ποδόσφαιρο.(c)</desc>
+    <desc lang="el">Λίγο πριν από τη σέντρα της αγωνιστικής στο γαλλικό πρωτάθλημα ποδοσφαίρου, ενημερωθείτε για όλα τα τελευταία νέα, τη φόρμα των ομάδων και την εξέλιξη τόσο της 'μάχης'του τίτλου όσο και των άλλων 'μετώπων'στη βαθμολογία. Ποδόσφαιρο.</desc>
   </programme>
   <programme start="20230111220000 +0200" stop="20230111230100 +0200" channel="RIK">
     <title lang="el">Novasports Prime</title>
-    <desc lang="el">Δείτε σπουδαίους αγώνες και ντέρμπι της Super League, την 'Ωρα των Πρωταθλητών'και τις υπόλοιπες εκπομπές. Επίσης, ευρωπαϊκά ντέρμπι με pre και post game και κορυφαία event όπως το Final Four της Euroleague.(c)</desc>
+    <desc lang="el">Δείτε σπουδαίους αγώνες και ντέρμπι της Super League, την 'Ωρα των Πρωταθλητών'και τις υπόλοιπες εκπομπές. Επίσης, ευρωπαϊκά ντέρμπι με pre και post game και κορυφαία event όπως το Final Four της Euroleague.</desc>
   </programme>
   <programme start="20230111230100 +0200" stop="20230112002600 +0200" channel="RIK">
     <title lang="el">LA PRUNELLE DE MES YEUX</title>
-    <desc lang="el">N/A.(c)</desc>
+    <desc lang="el">N/A.</desc>
   </programme>
   <programme start="20230112002600 +0200" stop="20230112005400 +0200" channel="RIK">
     <title lang="el">Le Journal De La RTS</title>
-    <desc lang="el">Δελτίο ειδήσεων.(c)</desc>
+    <desc lang="el">Δελτίο ειδήσεων.</desc>
   </programme>
   <programme start="20230112005400 +0200" stop="20230112005800 +0200" channel="RIK">
     <title lang="el">Météo</title>
-    <desc lang="el">Δελτίο ειδήσεων.(c)</desc>
+    <desc lang="el">Δελτίο ειδήσεων.</desc>
   </programme>
   <programme start="20230112005800 +0200" stop="20230112021900 +0200" channel="RIK">
     <title lang="el">Envoyé Spécial</title>
-    <desc lang="el">Ψυχαγωγικό μαγκαζίνο.(c)</desc>
+    <desc lang="el">Ψυχαγωγικό μαγκαζίνο.</desc>
   </programme>
   <programme start="20230112021900 +0200" stop="20230112024500 +0200" channel="RIK">
     <title lang="el">TV5MONDE, Le Journal Afrique</title>
-    <desc lang="el">Δελτίο ειδήσεων.(c)</desc>
+    <desc lang="el">Δελτίο ειδήσεων.</desc>
   </programme>
   <programme start="20230112024500 +0200" stop="20230112024700 +0200" channel="RIK">
     <title lang="el">Météo</title>
-    <desc lang="el">Δελτίο ειδήσεων.(c)</desc>
+    <desc lang="el">Δελτίο ειδήσεων.</desc>
   </programme>
   <programme start="20230112024700 +0200" stop="20230112034200 +0200" channel="RIK">
     <title lang="el">400 MILLIONS DE CRITIQUES</title>
-    <desc lang="el">Ψυχαγωγικό μαγκαζίνο.(c)</desc>
+    <desc lang="el">Ψυχαγωγικό μαγκαζίνο.</desc>
   </programme>
   <programme start="20230112034200 +0200" stop="20230112050400 +0200" channel="RIK">
     <title lang="el">LE MYSTÈRE MUSICAL CORÉEN</title>
-    <desc lang="el">Ντοκιμαντέρ.(c)</desc>
+    <desc lang="el">Ντοκιμαντέρ.</desc>
   </programme>
   <programme start="20230112050400 +0200" stop="20230112060000 +0200" channel="RIK">
     <title lang="el">MADAME REVIENT DE LOIN</title>
-    <desc lang="el">Ντοκιμαντέρ.(c)</desc>
+    <desc lang="el">Ντοκιμαντέρ.</desc>
   </programme>
   <programme start="20230112060000 +0200" stop="20230112062600 +0200" channel="RIK">
     <title lang="el">LE PROJET</title>
-    <desc lang="el">Τηλεταινία.(c)</desc>
+    <desc lang="el">Τηλεταινία.</desc>
   </programme>
   <programme start="20230112062600 +0200" stop="20230112073100 +0200" channel="RIK">
     <title lang="el">C Dans l'Air</title>
-    <desc lang="el">Ψυχαγωγικό μαγκαζίνο.(c)</desc>
+    <desc lang="el">Ψυχαγωγικό μαγκαζίνο.</desc>
   </programme>
   <programme start="20230112073100 +0200" stop="20230112075800 +0200" channel="RIK">
     <title lang="el">LE GRAND JOURNAL DES TERRITOIRES</title>
-    <desc lang="el">LE GRAND JOURNAL DES TERRITOIRES.(c)</desc>
+    <desc lang="el">LE GRAND JOURNAL DES TERRITOIRES.</desc>
   </programme>
   <programme start="20230112075800 +0200" stop="20230112082400 +0200" channel="RIK">
     <title lang="el">LE 6H00 Δελτίο ειδήσεων</title>
@@ -4417,11 +4541,11 @@
   </programme>
   <programme start="20230112090000 +0200" stop="20230112092700 +0200" channel="RIK">
     <title lang="el">Télématin</title>
-    <desc lang="el">Ψυχαγωγικό μαγκαζίνο.(c)</desc>
+    <desc lang="el">Ψυχαγωγικό μαγκαζίνο.</desc>
   </programme>
   <programme start="20230112092700 +0200" stop="20230112093000 +0200" channel="RIK">
     <title lang="el">Hôtel Inspiration</title>
-    <desc lang="el">Μικρού μήκους ταινία.(c)</desc>
+    <desc lang="el">Μικρού μήκους ταινία.</desc>
   </programme>
   <programme start="20230112093000 +0200" stop="20230112100000 +0200" channel="RIK">
     <title lang="el">Télématin</title>
@@ -4437,23 +4561,23 @@
   </programme>
   <programme start="20230112104000 +0200" stop="20230112110700 +0200" channel="RIK">
     <title lang="el">Géopolitis</title>
-    <desc lang="el">GÉOPOLITIS.(c)</desc>
+    <desc lang="el">GÉOPOLITIS.</desc>
   </programme>
   <programme start="20230112110700 +0200" stop="20230112113500 +0200" channel="RIK">
     <title lang="el">AMUSE-GUEULE</title>
-    <desc lang="el">Ψυχαγωγικό μαγκαζίνο.(c)</desc>
+    <desc lang="el">Ψυχαγωγικό μαγκαζίνο.</desc>
   </programme>
   <programme start="20230112113500 +0200" stop="20230112120000 +0200" channel="RIK">
     <title lang="el">C JAMY</title>
-    <desc lang="el">Ψυχαγωγικό μαγκαζίνο.(c)</desc>
+    <desc lang="el">Ψυχαγωγικό μαγκαζίνο.</desc>
   </programme>
   <programme start="20230112120000 +0200" stop="20230112123000 +0200" channel="RIK">
     <title lang="el">ROI DES RIVIÈRES</title>
-    <desc lang="el">Ντοκιμαντέρ.(c)</desc>
+    <desc lang="el">Ντοκιμαντέρ.</desc>
   </programme>
   <programme start="20230112123000 +0200" stop="20230112125600 +0200" channel="RIK">
     <title lang="el">LA MAIN À LA PÂTE</title>
-    <desc lang="el">Ψυχαγωγικό μαγκαζίνο.(c)</desc>
+    <desc lang="el">Ψυχαγωγικό μαγκαζίνο.</desc>
   </programme>
   <programme start="20230112125600 +0200" stop="20230112130000 +0200" channel="RIK">
     <title lang="el">Le Journal De l'Économie</title>
@@ -4477,27 +4601,27 @@
   </programme>
   <programme start="20230112134500 +0200" stop="20230112143200 +0200" channel="RIK">
     <title lang="el">Tout Le Monde Veut Prendre Sa Place</title>
-    <desc lang="el">Ψυχαγωγικό μαγκαζίνο.(c)</desc>
+    <desc lang="el">Ψυχαγωγικό μαγκαζίνο.</desc>
   </programme>
   <programme start="20230112143200 +0200" stop="20230112151600 +0200" channel="RIK">
     <title lang="el">RETOUR AUX SOURCES</title>
-    <desc lang="el">Ντοκιμαντέρ.(c)</desc>
+    <desc lang="el">Ντοκιμαντέρ.</desc>
   </programme>
   <programme start="20230112151600 +0200" stop="20230112153000 +0200" channel="RIK">
     <title lang="el">BIJOUX : ÉCLATS DE RÊVES</title>
-    <desc lang="el">Ντοκιμαντέρ.(c)</desc>
+    <desc lang="el">Ντοκιμαντέρ.</desc>
   </programme>
   <programme start="20230112153000 +0200" stop="20230112160000 +0200" channel="RIK">
     <title lang="el">Le Journal De La RTBF</title>
-    <desc lang="el">Δελτίο ειδήσεων.(c)</desc>
+    <desc lang="el">Δελτίο ειδήσεων.</desc>
   </programme>
   <programme start="20230112160000 +0200" stop="20230112165500 +0200" channel="RIK">
     <title lang="el">OPJ</title>
-    <desc lang="el">Τηλεταινία.(c)</desc>
+    <desc lang="el">Τηλεταινία.</desc>
   </programme>
   <programme start="20230112165500 +0200" stop="20230112180000 +0200" channel="RIK">
     <title lang="el">OPJ</title>
-    <desc lang="el">Τηλεταινία.(c)</desc>
+    <desc lang="el">Τηλεταινία.</desc>
   </programme>
   <programme start="20230112180000 +0200" stop="20230112182400 +0200" channel="RIK">
     <title lang="el">Un Si Grand Soleil</title>
@@ -4513,11 +4637,11 @@
   </programme>
   <programme start="20230112190200 +0200" stop="20230112193000 +0200" channel="RIK">
     <title lang="el">NOUVO</title>
-    <desc lang="el">Ψυχαγωγικό μαγκαζίνο.(c)</desc>
+    <desc lang="el">Ψυχαγωγικό μαγκαζίνο.</desc>
   </programme>
   <programme start="20230112193000 +0200" stop="20230112200000 +0200" channel="RIK">
     <title lang="el">OBJECTIF MONDE L'HEBDO</title>
-    <desc lang="el">Ψυχαγωγικό μαγκαζίνο.(c)</desc>
+    <desc lang="el">Ψυχαγωγικό μαγκαζίνο.</desc>
   </programme>
   <programme start="20230112200000 +0200" stop="20230112202200 +0200" channel="RIK">
     <title lang="el">64' Le Monde En Français - 1RE Partie</title>
@@ -4525,7 +4649,7 @@
   </programme>
   <programme start="20230112202200 +0200" stop="20230112202700 +0200" channel="RIK">
     <title lang="el">Le Journal De l'Économie, Entreprises</title>
-    <desc lang="el">Δελτίο ειδήσεων.(c)</desc>
+    <desc lang="el">Δελτίο ειδήσεων.</desc>
   </programme>
   <programme start="20230112202700 +0200" stop="20230112203000 +0200" channel="RIK">
     <title lang="el">Météo</title>
@@ -4537,11 +4661,11 @@
   </programme>
   <programme start="20230112204000 +0200" stop="20230112220900 +0200" channel="RIK">
     <title lang="el">TERRIBLE JUNGLE</title>
-    <desc lang="el">N/A.(c)</desc>
+    <desc lang="el">N/A.</desc>
   </programme>
   <programme start="20230112220900 +0200" stop="20230112223000 +0200" channel="RIK">
     <title lang="el">FRÈRE ET SOEUR</title>
-    <desc lang="el">N/A.(c)</desc>
+    <desc lang="el">N/A.</desc>
   </programme>
   <programme start="20230112223000 +0200" stop="20230112225600 +0200" channel="RIK">
     <title lang="el">Le Journal De France 2</title>
@@ -4553,11 +4677,11 @@
   </programme>
   <programme start="20230112230100 +0200" stop="20230112234400 +0200" channel="RIK">
     <title lang="el">UNE AUTRE HISTOIRE</title>
-    <desc lang="el">Τηλεταινία.(c)</desc>
+    <desc lang="el">Τηλεταινία.</desc>
   </programme>
   <programme start="20230112234400 +0200" stop="20230113000000 +0200" channel="RIK">
     <title lang="el">UNE AUTRE HISTOIRE</title>
-    <desc lang="el">Τηλεταινία.(c)</desc>
+    <desc lang="el">Τηλεταινία.</desc>
   </programme>
   <programme start="20230113000000 +0200" stop="20230113003000 +0200" channel="RIK">
     <title lang="el">LATE NIGHT</title>
@@ -4717,47 +4841,47 @@
   </programme>
   <programme start="20230113230000 +0200" stop="20230114010000 +0200" channel="RIK">
     <title lang="el">Τα Μεγαλύτερα Μυστήρια της Ιστορίας με τον Λώρενς Φίσμπερν Κ1 ΕΠ4</title>
-    <desc lang="el">Ήταν ο ηθοποιός του οποίου ο πιο διάσημος ρόλος ήταν η δολοφονία ενός προέδρου. Αλλά μήπως ο Τζον Γουίλκς Μπουθ ήταν και άσος στις αποδράσεις; Μήπως ξέφυγε από τη δικαιοσύνη και έζησε επί δεκαετίες μετά τη δολοφονία του Αβραάμ Λίνκολν; (2020).(c)</desc>
+    <desc lang="el">Ήταν ο ηθοποιός του οποίου ο πιο διάσημος ρόλος ήταν η δολοφονία ενός προέδρου. Αλλά μήπως ο Τζον Γουίλκς Μπουθ ήταν και άσος στις αποδράσεις; Μήπως ξέφυγε από τη δικαιοσύνη και έζησε επί δεκαετίες μετά τη δολοφονία του Αβραάμ Λίνκολν; (2020).</desc>
   </programme>
   <programme start="20230114010000 +0200" stop="20230114012500 +0200" channel="RIK">
     <title lang="el">Σταρ Ενεχυροδανειστές Κ16 ΕΠ32</title>
-    <desc lang="el">Τρέξτε να σωθείτε όταν οι Σταρ Ενεχυροδανειστές έρχονται πρόσωπο με πρόσωπο με το φυσικού μεγέθους τρομακτικό Πλάσμα της Μαύρης Λίμνης. Θα καταφέρει άραγε ο Κόρι να “ψαρέψει” τη συμφωνία ή θα βρεθεί έξω απ’ τα νερά του; (2014).(c)</desc>
+    <desc lang="el">Τρέξτε να σωθείτε όταν οι Σταρ Ενεχυροδανειστές έρχονται πρόσωπο με πρόσωπο με το φυσικού μεγέθους τρομακτικό Πλάσμα της Μαύρης Λίμνης. Θα καταφέρει άραγε ο Κόρι να “ψαρέψει” τη συμφωνία ή θα βρεθεί έξω απ’ τα νερά του; (2014).</desc>
   </programme>
   <programme start="20230114012500 +0200" stop="20230114015000 +0200" channel="RIK">
     <title lang="el">Σταρ Ενεχυροδανειστές Κ17 ΕΠ6</title>
-    <desc lang="el">Νιώστε όμορφα όπως και οι Σταρ Ενεχυροδανειστές όταν ένα κοστούμι του Τζέιμς Μπράουν φτάνει στο κατάστημα. Θα αρχίσει ο Ρικ τα παρακάλια προκειμένου να πάρει το ρούχο του Νονού της Σόουλ ή θα το βρει πολύ εξαντρίκ; (2015).(c)</desc>
+    <desc lang="el">Νιώστε όμορφα όπως και οι Σταρ Ενεχυροδανειστές όταν ένα κοστούμι του Τζέιμς Μπράουν φτάνει στο κατάστημα. Θα αρχίσει ο Ρικ τα παρακάλια προκειμένου να πάρει το ρούχο του Νονού της Σόουλ ή θα το βρει πολύ εξαντρίκ; (2015).</desc>
   </programme>
   <programme start="20230114015000 +0200" stop="20230114021500 +0200" channel="RIK">
     <title lang="el">Κυνηγοί Πλειστηριασμών Κ5 ΕΠ14</title>
-    <desc lang="el">Κάποιοι σκληροί αγοραστές θέλουν να βγάλουν απ’ τη μέση τους Τον και Άλεν σε μια δημοπρασία. Μετά από μερικές νίκες, τα παιδιά προσπαθούν να πουλήσουν ένα οπλοστάσιο των Ιθαγενών Αμερικανών και βίντατζ καρναβαλικό εξοπλισμό. Μήπως όμως τους γελάσουν; (2014).(c)</desc>
+    <desc lang="el">Κάποιοι σκληροί αγοραστές θέλουν να βγάλουν απ’ τη μέση τους Τον και Άλεν σε μια δημοπρασία. Μετά από μερικές νίκες, τα παιδιά προσπαθούν να πουλήσουν ένα οπλοστάσιο των Ιθαγενών Αμερικανών και βίντατζ καρναβαλικό εξοπλισμό. Μήπως όμως τους γελάσουν; (2014).</desc>
   </programme>
   <programme start="20230114021500 +0200" stop="20230114024000 +0200" channel="RIK">
     <title lang="el">Πόλεμος για τις Αποθήκες Κ13 ΕΠ1</title>
-    <desc lang="el">Οι δημοπρασίες αποθηκευτικών χώρων είναι η πιο πρόσφατη και μεγάλη ανεκμετάλλευτη πηγή κρυμμένων θησαυρών, γι’ αυτό διάφοροι καιροσκόποι ποντάρουν σε αζήτητα περιουσιακά στοιχεία ελπίζοντας να βρουν χρυσό. (2021).(c)</desc>
+    <desc lang="el">Οι δημοπρασίες αποθηκευτικών χώρων είναι η πιο πρόσφατη και μεγάλη ανεκμετάλλευτη πηγή κρυμμένων θησαυρών, γι’ αυτό διάφοροι καιροσκόποι ποντάρουν σε αζήτητα περιουσιακά στοιχεία ελπίζοντας να βρουν χρυσό. (2021).</desc>
   </programme>
   <programme start="20230114024000 +0200" stop="20230114033500 +0200" channel="RIK">
     <title lang="el">Τα Ανεξήγητα του Γουίλιαμ Σάτνερ Κ3 ΕΠ7</title>
-    <desc lang="el">Για αιώνες, η ανθρωπότητα έχει αποκτήσει εμμονή με τον Άρη, τη λαμπερή κόκκινη σφαίρα στο νυχτερινό ουρανό. Καθώς μια νέα εποχή εξερεύνησης ξεκινά, βρισκόμαστε στα πρόθυρα της οριστικής επίλυσης του μυστηρίου που κρύβει ο Κόκκινος Πλανήτης. (2021).(c)</desc>
+    <desc lang="el">Για αιώνες, η ανθρωπότητα έχει αποκτήσει εμμονή με τον Άρη, τη λαμπερή κόκκινη σφαίρα στο νυχτερινό ουρανό. Καθώς μια νέα εποχή εξερεύνησης ξεκινά, βρισκόμαστε στα πρόθυρα της οριστικής επίλυσης του μυστηρίου που κρύβει ο Κόκκινος Πλανήτης. (2021).</desc>
   </programme>
   <programme start="20230114033500 +0200" stop="20230114042000 +0200" channel="RIK">
     <title lang="el">Σταρ Ενεχυροδανειστές Κ20 ΕΠ2</title>
-    <desc lang="el">Ο Corey τα παίζει όλα για ένα αυθεντικό Τρόπαιο Triple Crown. Θα κερδίσει άραγε αυτήν την ιπποδρομία; Στη συνέχεια, τα παιδιά καλούν τον Rick Dale για να περισώσει κάτι που θα μπορούσε να είναι ένα από τα πρώτα ψυχαγωγικά παιχνίδια του Κόνι Άιλαντ. (2018).(c)</desc>
+    <desc lang="el">Ο Corey τα παίζει όλα για ένα αυθεντικό Τρόπαιο Triple Crown. Θα κερδίσει άραγε αυτήν την ιπποδρομία; Στη συνέχεια, τα παιδιά καλούν τον Rick Dale για να περισώσει κάτι που θα μπορούσε να είναι ένα από τα πρώτα ψυχαγωγικά παιχνίδια του Κόνι Άιλαντ. (2018).</desc>
   </programme>
   <programme start="20230114042000 +0200" stop="20230114044500 +0200" channel="RIK">
     <title lang="el">Κυνηγοί Πλειστηριασμών Κ2 ΕΠ2</title>
-    <desc lang="el">Οι Τον και Άλεν πηγαίνουν στο Τόρανς της Καλιφόρνια, ένα μυστικό χρυσωρυχείο δημοπρασιών. Εκεί, βρίσκουν ένα γραμμόφωνο Τόμας Έντισον με σπάνιους κυλινδρικούς κέρινους δίσκους κι ένα μονοθέσιο μίνι ταχύπλοο Addictor 190 για “γρήγορη” διασκέδαση. (2011).(c)</desc>
+    <desc lang="el">Οι Τον και Άλεν πηγαίνουν στο Τόρανς της Καλιφόρνια, ένα μυστικό χρυσωρυχείο δημοπρασιών. Εκεί, βρίσκουν ένα γραμμόφωνο Τόμας Έντισον με σπάνιους κυλινδρικούς κέρινους δίσκους κι ένα μονοθέσιο μίνι ταχύπλοο Addictor 190 για “γρήγορη” διασκέδαση. (2011).</desc>
   </programme>
   <programme start="20230114044500 +0200" stop="20230114053000 +0200" channel="RIK">
     <title lang="el">Τα Παιχνίδια που Έφτιαξαν τον Κόσμο Κ2 ΕΠ4</title>
-    <desc lang="el">Ένας οραματιστής ονόματι Μάρβιν Γκλας επιβλέπει τη δημιουργία πολλών από τα πιο εμβληματικά παιχνίδια του 20ού αιώνα. Ο Γκλας επεκτείνει τα όρια του τι μπορεί να είναι ένα παιχνίδι και εμπνέει ολόκληρες γενιές. (2022).(c)</desc>
+    <desc lang="el">Ένας οραματιστής ονόματι Μάρβιν Γκλας επιβλέπει τη δημιουργία πολλών από τα πιο εμβληματικά παιχνίδια του 20ού αιώνα. Ο Γκλας επεκτείνει τα όρια του τι μπορεί να είναι ένα παιχνίδι και εμπνέει ολόκληρες γενιές. (2022).</desc>
   </programme>
   <programme start="20230114053000 +0200" stop="20230114061500 +0200" channel="RIK">
     <title lang="el">Σφυρηλατημένα στη Φωτιά Κ3 ΕΠ9</title>
-    <desc lang="el">4 νέοι οπλουργοί αντιμετωπίζουν την πρωτόγνωρη πρόκληση να μετατρέψουν την κάννη ενός όπλου σε μαχαίρι. Μετά από σκληρές δοκιμές, οι 2 φιναλίστ έχουν 5 μέρες για να φτιάξουν μια από τις πιο θρυλικές λεπίδες στην ιστορία της μάχης – τη Σπάθη Ιππέα. (2014).(c)</desc>
+    <desc lang="el">4 νέοι οπλουργοί αντιμετωπίζουν την πρωτόγνωρη πρόκληση να μετατρέψουν την κάννη ενός όπλου σε μαχαίρι. Μετά από σκληρές δοκιμές, οι 2 φιναλίστ έχουν 5 μέρες για να φτιάξουν μια από τις πιο θρυλικές λεπίδες στην ιστορία της μάχης – τη Σπάθη Ιππέα. (2014).</desc>
   </programme>
   <programme start="20230114061500 +0200" stop="20230114070000 +0200" channel="RIK">
     <title lang="el">Η Κατάρα του Skinwalker Ranch Κ2 ΕΠ1</title>
-    <desc lang="el">Καθώς η ομάδα ξαναρχίζει τη μνημειώδη αναζήτησή της για απαντήσεις στο περίφημο κτήμα των 2000 στρεμμάτων, η εκσκαφή ενός μυστηριώδους λάκκου στο Υποστατικό Δύο οδηγεί σε μια τρομακτική ανακάλυψη. (2020).(c)</desc>
+    <desc lang="el">Καθώς η ομάδα ξαναρχίζει τη μνημειώδη αναζήτησή της για απαντήσεις στο περίφημο κτήμα των 2000 στρεμμάτων, η εκσκαφή ενός μυστηριώδους λάκκου στο Υποστατικό Δύο οδηγεί σε μια τρομακτική ανακάλυψη. (2020).</desc>
   </programme>
   <programme start="20230114070000 +0200" stop="20230114073000 +0200" channel="RIK">
     <title lang="el">Κυνηγοί Πλειστηριασμών Κ5 ΕΠ20</title>
@@ -4793,91 +4917,91 @@
   </programme>
   <programme start="20230114114000 +0200" stop="20230114121000 +0200" channel="RIK">
     <title lang="el">Πόλεμος για τις Αποθήκες Κ14 ΕΠ15</title>
-    <desc lang="el">Τα μεγάλα όπλα βγαίνουν στο Ρίβερσαϊντ, αλλά ο Ρενέ δεν σηκώνει τίποτα. Ο Ντάρελ δοκιμάζει την τύχη του με μια μικρότερη αποθήκη και βγάζει καλό κέρδος. Ο Ντάστι ανακαλύπτει ότι, όταν ξεκινάει, είναι δύσκολο να σταματήσει και αποφασίζει να συνεχίσει. (2022).(c)</desc>
+    <desc lang="el">Τα μεγάλα όπλα βγαίνουν στο Ρίβερσαϊντ, αλλά ο Ρενέ δεν σηκώνει τίποτα. Ο Ντάρελ δοκιμάζει την τύχη του με μια μικρότερη αποθήκη και βγάζει καλό κέρδος. Ο Ντάστι ανακαλύπτει ότι, όταν ξεκινάει, είναι δύσκολο να σταματήσει και αποφασίζει να συνεχίσει. (2022).</desc>
   </programme>
   <programme start="20230114121000 +0200" stop="20230114130500 +0200" channel="RIK">
     <title lang="el">Σταρ Ενεχυροδανειστές Κ23 ΕΠ6</title>
-    <desc lang="el">Ένα πλατινένιο άλμπουμ του Μπρούνο Μαρς φτάνει στο μαγαζί. Θα κλείσει ο Κόρι συμφωνία ή θα πατώσει η διαπραγμάτευση; Ο Ρικ καλεί τον Ντένις Κουέιντ για να βοηθήσει να ελεγχθεί η γνησιότητα μιας υπογραμμένης αφίσας, αλλά θα έρθει ή θα τον αγνοήσει; (2020).(c)</desc>
+    <desc lang="el">Ένα πλατινένιο άλμπουμ του Μπρούνο Μαρς φτάνει στο μαγαζί. Θα κλείσει ο Κόρι συμφωνία ή θα πατώσει η διαπραγμάτευση; Ο Ρικ καλεί τον Ντένις Κουέιντ για να βοηθήσει να ελεγχθεί η γνησιότητα μιας υπογραμμένης αφίσας, αλλά θα έρθει ή θα τον αγνοήσει; (2020).</desc>
   </programme>
   <programme start="20230114130500 +0200" stop="20230114140000 +0200" channel="RIK">
     <title lang="el">Τα Μηχανήματα που Έφτιαξαν τον Κόσμο Κ1 ΕΠ4</title>
-    <desc lang="el">Στα τέλη του 19ου αιώνα, ιδιωτικό ταξίδι σήμαινε βόλτα με τα πόδια ή με άλογο. Οι δυναμικοί αριβίστες Γουίλιαμ Χάρλεϊ και Άρθουρ Ντέιβιντσον όμως έχουν ένα τολμηρό όραμα για ένα νέο μέσο μεταφοράς με την πρόσδεση ενός κινητήρα σε ποδήλατο. (2021).(c)</desc>
+    <desc lang="el">Στα τέλη του 19ου αιώνα, ιδιωτικό ταξίδι σήμαινε βόλτα με τα πόδια ή με άλογο. Οι δυναμικοί αριβίστες Γουίλιαμ Χάρλεϊ και Άρθουρ Ντέιβιντσον όμως έχουν ένα τολμηρό όραμα για ένα νέο μέσο μεταφοράς με την πρόσδεση ενός κινητήρα σε ποδήλατο. (2021).</desc>
   </programme>
   <programme start="20230114140000 +0200" stop="20230114142500 +0200" channel="RIK">
     <title lang="el">Πόλεμος για τις Αποθήκες Κ14 ΕΠ16</title>
-    <desc lang="el">Η Λίζα έχει τη δική της εκδοχή για μια μέρα στην παραλία καθώς πηγαίνει στο Χάντιγκτον Μπιτς. Ο Ντάρελ περνάει όσον χρόνο χρειάζεται ψάχνοντας στην αποθήκη του. Ο Κένι στέκεται τυχερός με την αγορά του, ενώ ο Ρενέ αγοράζει δύο χρηματοκιβώτια. (2022).(c)</desc>
+    <desc lang="el">Η Λίζα έχει τη δική της εκδοχή για μια μέρα στην παραλία καθώς πηγαίνει στο Χάντιγκτον Μπιτς. Ο Ντάρελ περνάει όσον χρόνο χρειάζεται ψάχνοντας στην αποθήκη του. Ο Κένι στέκεται τυχερός με την αγορά του, ενώ ο Ρενέ αγοράζει δύο χρηματοκιβώτια. (2022).</desc>
   </programme>
   <programme start="20230114142500 +0200" stop="20230114152500 +0200" channel="RIK">
     <title lang="el">Εγκαταλειμμένες Κατασκευές Κ2 ΕΠ15</title>
-    <desc lang="el">Μια ερειπωμένη πόλη. Ένας στόλος πλοίων φαντασμάτων. Μια γέφυρα στο πουθενά κρυμμένη σ' ένα δάσος. Παράξενες μεταλλικές κατασκευές στο δάσος. Τώρα είναι αχρηστευμένα, μολυσμένα και επικίνδυνα. Ποιος τα έχτισε; Και γιατί εγκαταλείφθηκαν; (2018).(c)</desc>
+    <desc lang="el">Μια ερειπωμένη πόλη. Ένας στόλος πλοίων φαντασμάτων. Μια γέφυρα στο πουθενά κρυμμένη σ' ένα δάσος. Παράξενες μεταλλικές κατασκευές στο δάσος. Τώρα είναι αχρηστευμένα, μολυσμένα και επικίνδυνα. Ποιος τα έχτισε; Και γιατί εγκαταλείφθηκαν; (2018).</desc>
   </programme>
   <programme start="20230114152500 +0200" stop="20230114162000 +0200" channel="RIK">
     <title lang="el">Εξωγήινοι της Αρχαιότητας Κ13 ΕΠ25</title>
-    <desc lang="el">Το Εξωγήινοι της Αρχαιότητας μετρά αντίστροφα τις δέκα κορυφαίες στον κόσμο συγκαλύψεις εξωγήινων επαφών, από το περίφημο Συμβάν του Ρόσγουελ μέχρι μια μυστική στρατιωτική βάση που λέγεται ότι στεγάζει εξωγήινη τεχνολογία. (2021).(c)</desc>
+    <desc lang="el">Το Εξωγήινοι της Αρχαιότητας μετρά αντίστροφα τις δέκα κορυφαίες στον κόσμο συγκαλύψεις εξωγήινων επαφών, από το περίφημο Συμβάν του Ρόσγουελ μέχρι μια μυστική στρατιωτική βάση που λέγεται ότι στεγάζει εξωγήινη τεχνολογία. (2021).</desc>
   </programme>
   <programme start="20230114162000 +0200" stop="20230114171500 +0200" channel="RIK">
     <title lang="el">Τα Φαγητά που Έφτιαξαν τον Κόσμο Κ2 ΕΠ6</title>
-    <desc lang="el">Ο Χέρμαν Λέι κάνει τις μικρές τοπικές επιχειρήσεις πώλησης τσιπς να ανοιχτούν σε εθνικό επίπεδο με πρωτοποριακές τεχνικές πώλησης και τεχνολογία συσκευασίας. Ένας αντίπαλος όμως επινοεί ένα νέο είδος τσιπς, που θα αμφισβητήσει τη βασιλεία του Λέι. (2021).(c)</desc>
+    <desc lang="el">Ο Χέρμαν Λέι κάνει τις μικρές τοπικές επιχειρήσεις πώλησης τσιπς να ανοιχτούν σε εθνικό επίπεδο με πρωτοποριακές τεχνικές πώλησης και τεχνολογία συσκευασίας. Ένας αντίπαλος όμως επινοεί ένα νέο είδος τσιπς, που θα αμφισβητήσει τη βασιλεία του Λέι. (2021).</desc>
   </programme>
   <programme start="20230114171500 +0200" stop="20230114181500 +0200" channel="RIK">
     <title lang="el">Σφυρηλατημένα στη Φωτιά Κ4 ΕΠ3</title>
-    <desc lang="el">Για πρώτη φορά, οι διαγωνιζόμενοι αντιμετωπίζουν την πρόκληση να δημιουργήσουν όχι μία, αλλά δύο λεπίδες στον πρώτο γύρο. Οι δύο εναπομείναντες τεχνίτες πρέπει να δημιουργήσουν ένα εμβληματικό ξίφος μάχης του 15ου αιώνα - το Katzbalger. (2016).(c)</desc>
+    <desc lang="el">Για πρώτη φορά, οι διαγωνιζόμενοι αντιμετωπίζουν την πρόκληση να δημιουργήσουν όχι μία, αλλά δύο λεπίδες στον πρώτο γύρο. Οι δύο εναπομείναντες τεχνίτες πρέπει να δημιουργήσουν ένα εμβληματικό ξίφος μάχης του 15ου αιώνα - το Katzbalger. (2016).</desc>
   </programme>
   <programme start="20230114181500 +0200" stop="20230114191000 +0200" channel="RIK">
     <title lang="el">Αρχαία Επιτεύγματα Κ1 ΕΠ6</title>
-    <desc lang="el">Τα ισχυρά εργαλεία δεν προέρχονται από τον σύγχρονο κόσμο, αλλά στην πραγματικότητα είναι χιλιάδων χρόνων. Τα περισσότερα χάθηκαν στο χρόνο και δεν επανεμφανίστηκαν για αιώνες. Πώς μπορούσε ο αρχαίος κόσμος να δημιουργήσει τέτοια απίστευτα εργαλεία; (2014).(c)</desc>
+    <desc lang="el">Τα ισχυρά εργαλεία δεν προέρχονται από τον σύγχρονο κόσμο, αλλά στην πραγματικότητα είναι χιλιάδων χρόνων. Τα περισσότερα χάθηκαν στο χρόνο και δεν επανεμφανίστηκαν για αιώνες. Πώς μπορούσε ο αρχαίος κόσμος να δημιουργήσει τέτοια απίστευτα εργαλεία; (2014).</desc>
   </programme>
   <programme start="20230114191000 +0200" stop="20230114194000 +0200" channel="RIK">
     <title lang="el">Πόλεμος για τις Αποθήκες Κ13 ΕΠ8</title>
-    <desc lang="el">Ο Άιβι φέρνει τον γιο του στο Μορένο Βάλεϊ, όπου μόνο καλά πράγματα συμβαίνουν, και φεύγει με κάτι απρόσμενα είδη γιο γιο. Οι Ρενέ και Κέισι ανακαλύπτουν ότι τα παπούτσια τους μάλλον δεν είναι αυθεντικά Air Jordan. (2021).(c)</desc>
+    <desc lang="el">Ο Άιβι φέρνει τον γιο του στο Μορένο Βάλεϊ, όπου μόνο καλά πράγματα συμβαίνουν, και φεύγει με κάτι απρόσμενα είδη γιο γιο. Οι Ρενέ και Κέισι ανακαλύπτουν ότι τα παπούτσια τους μάλλον δεν είναι αυθεντικά Air Jordan. (2021).</desc>
   </programme>
   <programme start="20230114194000 +0200" stop="20230114200500 +0200" channel="RIK">
     <title lang="el">Πόλεμος για τις Αποθήκες Κ13 ΕΠ2</title>
-    <desc lang="el">Οι δημοπρασίες αποθηκευτικών χώρων είναι η πιο πρόσφατη και μεγάλη ανεκμετάλλευτη πηγή κρυμμένων θησαυρών, γι’ αυτό διάφοροι καιροσκόποι ποντάρουν σε αζήτητα περιουσιακά στοιχεία ελπίζοντας να βρουν χρυσό. (2021).(c)</desc>
+    <desc lang="el">Οι δημοπρασίες αποθηκευτικών χώρων είναι η πιο πρόσφατη και μεγάλη ανεκμετάλλευτη πηγή κρυμμένων θησαυρών, γι’ αυτό διάφοροι καιροσκόποι ποντάρουν σε αζήτητα περιουσιακά στοιχεία ελπίζοντας να βρουν χρυσό. (2021).</desc>
   </programme>
   <programme start="20230114200500 +0200" stop="20230114210500 +0200" channel="RIK">
     <title lang="el">Εξωγήινοι της Αρχαιότητας Κ11 ΕΠ5</title>
-    <desc lang="el">Θα μπορούσαν άραγε τα γιγάντια αρχαία σχέδια που βρέθηκαν χαραγμένα στο έδαφος της ερήμου να είναι μέρος ενός αρχαίου εξωγήινου κώδικα; (2017).(c)</desc>
+    <desc lang="el">Θα μπορούσαν άραγε τα γιγάντια αρχαία σχέδια που βρέθηκαν χαραγμένα στο έδαφος της ερήμου να είναι μέρος ενός αρχαίου εξωγήινου κώδικα; (2017).</desc>
   </programme>
   <programme start="20230114210500 +0200" stop="20230114220000 +0200" channel="RIK">
     <title lang="el">Εξωγήινοι της Αρχαιότητας Κ14 ΕΠ6</title>
-    <desc lang="el">Στις παραδόσεις των ιθαγενών λαών σε όλη τη Βόρεια Αμερική υπάρχουν ιστορίες για τους Αστρικούς Προγόνους. Ήταν πανίσχυρα όντα που κατέβηκαν στη Γη κατά το μακρινό παρελθόν και, κάποιες φορές, παρουσιάζονται ακόμα και σήμερα. (2021).(c)</desc>
+    <desc lang="el">Στις παραδόσεις των ιθαγενών λαών σε όλη τη Βόρεια Αμερική υπάρχουν ιστορίες για τους Αστρικούς Προγόνους. Ήταν πανίσχυρα όντα που κατέβηκαν στη Γη κατά το μακρινό παρελθόν και, κάποιες φορές, παρουσιάζονται ακόμα και σήμερα. (2021).</desc>
   </programme>
   <programme start="20230114224500 +0200" stop="20230115002500 +0200" channel="RIK">
     <title lang="el">The Look of Love</title>
-    <desc lang="el">Μετά τον πρόωρο θάνατο της κόρης του, ο Πολ Ρέιμοντ κάνει απολογισμό της ζωής του. Πρώην ταχυδακτυλουργός, ο Ρέιμοντ εξελίχθηκε σε μυθικά πετυχημένο μεγιστάνα του πορνό, γεγονός που θα τον έκανε τον πλουσιότερο άνθρωπο στη Βρετανία. Σκηνοθεσία: Michael Winterbottom. Πρωταγωνιστούν: Steve Coogan, Anna Friel, Tamsin Egerton. (2013).(c)</desc>
+    <desc lang="el">Μετά τον πρόωρο θάνατο της κόρης του, ο Πολ Ρέιμοντ κάνει απολογισμό της ζωής του. Πρώην ταχυδακτυλουργός, ο Ρέιμοντ εξελίχθηκε σε μυθικά πετυχημένο μεγιστάνα του πορνό, γεγονός που θα τον έκανε τον πλουσιότερο άνθρωπο στη Βρετανία. Σκηνοθεσία: Michael Winterbottom. Πρωταγωνιστούν: Steve Coogan, Anna Friel, Tamsin Egerton. (2013).</desc>
   </programme>
   <programme start="20230115002500 +0200" stop="20230115030000 +0200" channel="RIK">
     <title lang="el">My Soul to Take</title>
-    <desc lang="el">Ένας καθ' έξιν δολοφόνος επιστρέφει στη γενέτειρά του, με σκοπό να εξοντώσει επτά παιδιά που γεννήθηκαν την ημερομηνία του θανάτου του. Παίζουν: Max Thieriot, Frank Grillo, Denzel Whitaker. Σκηνοθεσία: Wes Craven (2010) Σκηνοθεσία: Wes Craven. Πρωταγωνιστούν: Max Thieriot, Frank Grillo, Denzel Whitaker. (2010).(c)</desc>
+    <desc lang="el">Ένας καθ' έξιν δολοφόνος επιστρέφει στη γενέτειρά του, με σκοπό να εξοντώσει επτά παιδιά που γεννήθηκαν την ημερομηνία του θανάτου του. Παίζουν: Max Thieriot, Frank Grillo, Denzel Whitaker. Σκηνοθεσία: Wes Craven (2010) Σκηνοθεσία: Wes Craven. Πρωταγωνιστούν: Max Thieriot, Frank Grillo, Denzel Whitaker. (2010).</desc>
   </programme>
   <programme start="20230115030000 +0200" stop="20230115135500 +0200" channel="RIK">
     <title lang="el">COMING SOON</title>
-    <desc lang="el">COMING SOON Πρωταγωνιστούν: , ,.(c)</desc>
+    <desc lang="el">COMING SOON Πρωταγωνιστούν: , ,.</desc>
   </programme>
   <programme start="20230115135500 +0200" stop="20230115154000 +0200" channel="RIK">
     <title lang="el">Little Italy</title>
-    <desc lang="el">Το ειδύλλιο ενός νεαρού ζευγαριού προσπαθεί να αναπτυχθεί μέσα στον πόλεμο που έχει ξεσπάσει ανάμεσα στις οικογένειές τους, που έχουν πιτσαρίες και ανταγωνίζονται μεταξύ τους. Σκηνοθεσία: Donald Petrie. Πρωταγωνιστούν: Emma Roberts, Hayden Christensen, Danny Aiello. (2018).(c)</desc>
+    <desc lang="el">Το ειδύλλιο ενός νεαρού ζευγαριού προσπαθεί να αναπτυχθεί μέσα στον πόλεμο που έχει ξεσπάσει ανάμεσα στις οικογένειές τους, που έχουν πιτσαρίες και ανταγωνίζονται μεταξύ τους. Σκηνοθεσία: Donald Petrie. Πρωταγωνιστούν: Emma Roberts, Hayden Christensen, Danny Aiello. (2018).</desc>
   </programme>
   <programme start="20230115154000 +0200" stop="20230115172000 +0200" channel="RIK">
     <title lang="el">Two Weeks Notice</title>
-    <desc lang="el">Μια δικηγόρος αποφασίζει να εγκαταλείψει το αφεντικό της, απηυδισμένη από την υπερβολική ανάγκη του για ντάντεμα. Παίζουν: Sandra Bullock, Hugh Grant, Alicia Witt. Σκηνοθεσία: Marc Lawrence (2002) Σκηνοθεσία: Marc Lawrence. Πρωταγωνιστούν: Sandra Bullock, Hugh Grant, Alicia Witt. (2002).(c)</desc>
+    <desc lang="el">Μια δικηγόρος αποφασίζει να εγκαταλείψει το αφεντικό της, απηυδισμένη από την υπερβολική ανάγκη του για ντάντεμα. Παίζουν: Sandra Bullock, Hugh Grant, Alicia Witt. Σκηνοθεσία: Marc Lawrence (2002) Σκηνοθεσία: Marc Lawrence. Πρωταγωνιστούν: Sandra Bullock, Hugh Grant, Alicia Witt. (2002).</desc>
   </programme>
   <programme start="20230115172000 +0200" stop="20230115190500 +0200" channel="RIK">
     <title lang="el">Catwoman</title>
-    <desc lang="el">Η Πέισιενς, υπάλληλος εταιρείας, παθαίνει ένα θανατηφόρο «ατύχημα» όταν ανακαλύπτει τυχαία κάποια στοιχεία, που δείχνουν ότι ο διευθυντής της εταιρείας όπου εργάζεται κρύβει ένα σκοτεινό μυστικό. Αναστημένη από γάτες ως «Κατγούμαν», η Πέισιενς αποκτά το χάρισμα της δύναμης και των εξαιρετικά έντονων αισθήσεων μιας γάτας. Παίζουν: Halle Berry, Benjamin Bratt, Sharon Stone. Σκηνοθεσία: Pitof (2004) Σκηνοθεσία: Pitof. Πρωταγωνιστούν: Halle Berry, Benjamin Bratt, Sharon Stone. (2004).(c)</desc>
+    <desc lang="el">Η Πέισιενς, υπάλληλος εταιρείας, παθαίνει ένα θανατηφόρο «ατύχημα» όταν ανακαλύπτει τυχαία κάποια στοιχεία, που δείχνουν ότι ο διευθυντής της εταιρείας όπου εργάζεται κρύβει ένα σκοτεινό μυστικό. Αναστημένη από γάτες ως «Κατγούμαν», η Πέισιενς αποκτά το χάρισμα της δύναμης και των εξαιρετικά έντονων αισθήσεων μιας γάτας. Παίζουν: Halle Berry, Benjamin Bratt, Sharon Stone. Σκηνοθεσία: Pitof (2004) Σκηνοθεσία: Pitof. Πρωταγωνιστούν: Halle Berry, Benjamin Bratt, Sharon Stone. (2004).</desc>
   </programme>
   <programme start="20230115190500 +0200" stop="20230115210000 +0200" channel="RIK">
     <title lang="el">Military Wives</title>
-    <desc lang="el">Με τους συζύγους τους να λείπουν αφού υπηρετούν στο Αφγανιστάν, μια παρέα γυναικών πίσω στην πατρίδα δημιουργούν μια χορωδία και δεν αργούν να βρεθούν στο επίκεντρο του ενδιαφέροντος των μέσων ενημέρωσης και ενός παγκόσμιου κινήματος. Σκηνοθεσία: Peter Cattaneo. Πρωταγωνιστούν: Kristin Scott Thomas, Sharon Horgan, Emma Lowndes. (2019).(c)</desc>
+    <desc lang="el">Με τους συζύγους τους να λείπουν αφού υπηρετούν στο Αφγανιστάν, μια παρέα γυναικών πίσω στην πατρίδα δημιουργούν μια χορωδία και δεν αργούν να βρεθούν στο επίκεντρο του ενδιαφέροντος των μέσων ενημέρωσης και ενός παγκόσμιου κινήματος. Σκηνοθεσία: Peter Cattaneo. Πρωταγωνιστούν: Kristin Scott Thomas, Sharon Horgan, Emma Lowndes. (2019).</desc>
   </programme>
   <programme start="20230115210000 +0200" stop="20230115223500 +0200" channel="RIK">
     <title lang="el">We Die Young</title>
-    <desc lang="el">Παγιδευμένο στον αδίστακτο κόσμο των συμμοριών, ένα 14χρονο αγόρι προσπαθεί να κάνει ό,τι περνάει από το χέρι του για να βεβαιωθεί ότι ο μικρός του αδερφός δεν θα έχει την ίδια τύχη. Η ευκαιρία του εμφανίζεται όταν φτάνει στη γειτονιά ένας βετεράνος πολέμου. Σκηνοθεσία: Lior Geller. Πρωταγωνιστούν: Jean-Claude Van Damme, David Castaneda, Elijah Rodriguez. (2019).(c)</desc>
+    <desc lang="el">Παγιδευμένο στον αδίστακτο κόσμο των συμμοριών, ένα 14χρονο αγόρι προσπαθεί να κάνει ό,τι περνάει από το χέρι του για να βεβαιωθεί ότι ο μικρός του αδερφός δεν θα έχει την ίδια τύχη. Η ευκαιρία του εμφανίζεται όταν φτάνει στη γειτονιά ένας βετεράνος πολέμου. Σκηνοθεσία: Lior Geller. Πρωταγωνιστούν: Jean-Claude Van Damme, David Castaneda, Elijah Rodriguez. (2019).</desc>
   </programme>
-  <programme start="20230115224500 +0200" stop="20230116000000 +0200" channel="RIK">
-    <title lang="el">The Look of Love</title>
-    <desc lang="el">Μετά τον πρόωρο θάνατο της κόρης του, ο Πολ Ρέιμοντ κάνει απολογισμό της ζωής του. Πρώην ταχυδακτυλουργός, ο Ρέιμοντ εξελίχθηκε σε μυθικά πετυχημένο μεγιστάνα του πορνό, γεγονός που θα τον έκανε τον πλουσιότερο άνθρωπο στη Βρετανία. Σκηνοθεσία: Michael Winterbottom. Πρωταγωνιστούν: Steve Coogan, Anna Friel, Tamsin Egerton. (2013).</desc>
+  <programme start="20230115223500 +0200" stop="20230116000000 +0200" channel="RIK">
+    <title lang="el">River Runs Red</title>
+    <desc lang="el">Όταν ο γιος ενός αφροαμερικανού δικαστή δολοφονείται σε έναν τροχαίο έλεγχο ρουτίνας που εξελίσσεται άσχημα και αθωώνονται οι δύο αστυνομικοί που εμπλέκονται, ο Δικαστής Τσαρλς Κόουλμαν παίρνει τον νόμο στα χέρια του για να βεβαιωθεί ότι θα αποδοθεί δικαιοσύνη. Σκηνοθεσία: Wes Miller. Πρωταγωνιστούν: Taye Diggs, John Cusack, George Lopez. (2018).</desc>
   </programme>
   <programme start="20230116000000 +0200" stop="20230116002500 +0200" channel="RIK">
     <title lang="el">Ο Άλεξ και η Παρέα του Κ3 ΕΠ45</title>
@@ -4976,7 +5100,7 @@
     <desc lang="el">Ο Πήτερ Πάρκερ γίνεται δεκτός σε λύκειο για παιδιά με έφεση στις επιστήμες. Ο Πήτερ αποδέχεται τον άλλο του εαυτό και πολεμά σούπερ κακούς, ενώ το σχολείο επηρεάζει τις σχέσεις του και ο καλύτερός του φίλος παίρνει τον κακό δρόμο. (2017).</desc>
   </programme>
   <programme start="20230116095000 +0200" stop="20230116101500 +0200" channel="RIK">
-    <title lang="el">Ghostforce Κ1 ΕΠ19</title>
+    <title lang="el">Ghostforce Κ1 ΕΠ21</title>
     <desc lang="el">Η Ghostforce δημιουργείται για να πολεμήσει τα φαντάσματα στη Νέα Υόρκη. (2021).</desc>
   </programme>
   <programme start="20230116101500 +0200" stop="20230116104000 +0200" channel="RIK">
@@ -5020,7 +5144,7 @@
     <desc lang="el">Ο Πήτερ Πάρκερ γίνεται δεκτός σε λύκειο για παιδιά με έφεση στις επιστήμες. Ο Πήτερ αποδέχεται τον άλλο του εαυτό και πολεμά σούπερ κακούς, ενώ το σχολείο επηρεάζει τις σχέσεις του και ο καλύτερός του φίλος παίρνει τον κακό δρόμο. (2017).</desc>
   </programme>
   <programme start="20230116142500 +0200" stop="20230116145000 +0200" channel="RIK">
-    <title lang="el">Ghostforce Κ1 ΕΠ19</title>
+    <title lang="el">Ghostforce Κ1 ΕΠ21</title>
     <desc lang="el">Η Ghostforce δημιουργείται για να πολεμήσει τα φαντάσματα στη Νέα Υόρκη. (2021).</desc>
   </programme>
   <programme start="20230116145000 +0200" stop="20230116151500 +0200" channel="RIK">
@@ -5052,8 +5176,8 @@
     <desc lang="el">Ο Μπούκερ προσπαθεί απεγνωσμένα να πάει την Κάμι σε ένα χορό. (2021).</desc>
   </programme>
   <programme start="20230116172500 +0200" stop="20230116175000 +0200" channel="RIK">
-    <title lang="el">Οι Κακοί του Βάλεϊ Βιού Κ1 ΕΠ5</title>
-    <desc lang="el">Η πρώτη Γιορτή της Μητέρας της οικογένειας κακοποιών. (2022).</desc>
+    <title lang="el">Chip 'n' Dale: Park Life Season 1 Κ1 ΕΠ1</title>
+    <desc lang="el">Chip 'n' Dale: Park Life Season 1 (2021).</desc>
   </programme>
   <programme start="20230116175000 +0200" stop="20230116181500 +0200" channel="RIK">
     <title lang="el">Chip 'n' Dale: Park Life Season 1 Κ1 ΕΠ1</title>
@@ -5121,699 +5245,687 @@
   </programme>
   <programme start="20230110030000 +0200" stop="20230110040000 +0200" channel="BBC World">
     <title lang="el">Bloomberg Markets: China Open</title>
-    <desc lang="el">The definitive guide to the markets in Hong Kong and on the mainland. Rishaad Salamat, David Ingles, Tom Mackenzie and Yvonne Man bring you the latest analysis to get you ready for the trading day.(c)</desc>
+    <desc lang="el">The definitive guide to the markets in Hong Kong and on the mainland. Rishaad Salamat, David Ingles, Tom Mackenzie and Yvonne Man bring you the latest analysis to get you ready for the trading day.</desc>
   </programme>
   <programme start="20230110040000 +0200" stop="20230110060000 +0200" channel="BBC World">
     <title lang="el">Bloomberg Markets: Asia</title>
-    <desc lang="el">Live from Hong Kong, Bloomberg Markets: Asia brings you the most important global business and breaking markets news information as it happens.(c)</desc>
+    <desc lang="el">Live from Hong Kong, Bloomberg Markets: Asia brings you the most important global business and breaking markets news information as it happens.</desc>
   </programme>
   <programme start="20230110060000 +0200" stop="20230110080000 +0200" channel="BBC World">
     <title lang="el">Bloomberg Daybreak: Middle East</title>
-    <desc lang="el">Live from Dubai, connecting Asian markets to the European opens. The show focuses on global macro issues with a Middle Eastern context.(c)</desc>
+    <desc lang="el">Live from Dubai, connecting Asian markets to the European opens. The show focuses on global macro issues with a Middle Eastern context.</desc>
   </programme>
   <programme start="20230110080000 +0200" stop="20230110090000 +0200" channel="BBC World">
     <title lang="el">Bloomberg Daybreak: Europe</title>
-    <desc lang="el">Live market reports from London and overnight news from Wall Street. Markets never sleep and neither does Bloomberg News. Track investments 24 hours a day, around the world.(c)</desc>
+    <desc lang="el">Live market reports from London and overnight news from Wall Street. Markets never sleep and neither does Bloomberg News. Track investments 24 hours a day, around the world.</desc>
   </programme>
   <programme start="20230110090000 +0200" stop="20230110100000 +0200" channel="BBC World">
     <title lang="el">Bloomberg Markets: Europe</title>
-    <desc lang="el">Anchored by Anna Edwards and Mark Cudmore, Bloomberg Markets: Europe is a fast-paced hour of news and analysis, building towards the drama and excitement of the start of trading across the continent.(c)</desc>
+    <desc lang="el">Anchored by Anna Edwards and Mark Cudmore, Bloomberg Markets: Europe is a fast-paced hour of news and analysis, building towards the drama and excitement of the start of trading across the continent.</desc>
   </programme>
   <programme start="20230110100000 +0200" stop="20230110110000 +0200" channel="BBC World">
     <title lang="el">Bloomberg Markets: European Open</title>
-    <desc lang="el">Live from London, Bloomberg Markets: European Open is focused on bringing you the most important global business and breaking markets news and information as it happens.(c)</desc>
+    <desc lang="el">Live from London, Bloomberg Markets: European Open is focused on bringing you the most important global business and breaking markets news and information as it happens.</desc>
   </programme>
   <programme start="20230110110000 +0200" stop="20230110120000 +0200" channel="BBC World">
     <title lang="el">Bloomberg Surveillance: Early Edition</title>
-    <desc lang="el">Bloomberg Surveillance: Early Edition with Francine Lacqua live from London, bringing insight on global markets and the top business stories of the day.(c)</desc>
+    <desc lang="el">Bloomberg Surveillance: Early Edition with Francine Lacqua live from London, bringing insight on global markets and the top business stories of the day.</desc>
   </programme>
   <programme start="20230110120000 +0200" stop="20230110130000 +0200" channel="BBC World">
     <title lang="el">Bloomberg Surveillance: Early Edition</title>
-    <desc lang="el">Bloomberg Surveillance: Early Edition with Francine Lacqua live from London, bringing insight on global markets and the top business stories of the day.(c)</desc>
+    <desc lang="el">Bloomberg Surveillance: Early Edition with Francine Lacqua live from London, bringing insight on global markets and the top business stories of the day.</desc>
   </programme>
   <programme start="20230110130000 +0200" stop="20230110160000 +0200" channel="BBC World">
     <title lang="el">Bloomberg Surveillance</title>
-    <desc lang="el">Live from London and New York, Bloomberg Surveillance brings you insight on global markets and the top business stories of the day.(c)</desc>
+    <desc lang="el">Live from London and New York, Bloomberg Surveillance brings you insight on global markets and the top business stories of the day.</desc>
   </programme>
   <programme start="20230110160000 +0200" stop="20230110170000 +0200" channel="BBC World">
     <title lang="el">Bloomberg: The Open</title>
-    <desc lang="el">Jonathan Ferro hosts this programme showcasing the most insightful and informative Bloomberg charts to help position a global audience for the trading day.(c)</desc>
+    <desc lang="el">Jonathan Ferro hosts this programme showcasing the most insightful and informative Bloomberg charts to help position a global audience for the trading day.</desc>
   </programme>
   <programme start="20230110170000 +0200" stop="20230110180000 +0200" channel="BBC World">
     <title lang="el">Bloomberg Markets: Americas</title>
-    <desc lang="el">Live from New York, Bloomberg Markets: Americas is focused on bringing you the most important global business and breaking markets news and information as it happens.(c)</desc>
+    <desc lang="el">Live from New York, Bloomberg Markets: Americas is focused on bringing you the most important global business and breaking markets news and information as it happens.</desc>
   </programme>
   <programme start="20230110180000 +0200" stop="20230110190000 +0200" channel="BBC World">
     <title lang="el">Bloomberg Markets: European Close</title>
-    <desc lang="el">Bloomberg Markets: European Close analyses the major market moving stories across the day in Europe, hears from the biggest newsmakers and showcases the unrivalled expertise of Bloomberg News.(c)</desc>
+    <desc lang="el">Bloomberg Markets: European Close analyses the major market moving stories across the day in Europe, hears from the biggest newsmakers and showcases the unrivalled expertise of Bloomberg News.</desc>
   </programme>
   <programme start="20230110190000 +0200" stop="20230110200000 +0200" channel="BBC World">
     <title lang="el">Bloomberg: Balance of Power</title>
-    <desc lang="el">Bloomberg: Balance of Power focuses on the politics and policies being shaped by the agenda of President Trump's administration.(c)</desc>
+    <desc lang="el">Bloomberg: Balance of Power focuses on the politics and policies being shaped by the agenda of President Trump's administration.</desc>
   </programme>
   <programme start="20230110200000 +0200" stop="20230110203000 +0200" channel="BBC World">
     <title lang="el">Bloomberg Crypto</title>
-    <desc lang="el">Bloomberg Crypto covers the people, transactions, and technology shaping decentralised finance. Your weekly source for the latest news, analysis and interviews with the most influential stakeholders.(c)</desc>
+    <desc lang="el">Bloomberg Crypto covers the people, transactions, and technology shaping decentralised finance. Your weekly source for the latest news, analysis and interviews with the most influential stakeholders.</desc>
   </programme>
   <programme start="20230110203000 +0200" stop="20230110210000 +0200" channel="BBC World">
     <title lang="el">Bloomberg Markets</title>
-    <desc lang="el">Bloomberg Markets is focused on bringing you the most important global business and breaking markets news and information as it happens.(c)</desc>
+    <desc lang="el">Bloomberg Markets is focused on bringing you the most important global business and breaking markets news and information as it happens.</desc>
   </programme>
   <programme start="20230110210000 +0200" stop="20230110220000 +0200" channel="BBC World">
     <title lang="el">Bloomberg Technology</title>
-    <desc lang="el">The only daily news programme focused exclusively on technology, innovation and the future of business. Hosted by Emily Chang in San Francisco.(c)</desc>
+    <desc lang="el">The only daily news programme focused exclusively on technology, innovation and the future of business. Hosted by Emily Chang in San Francisco.</desc>
   </programme>
   <programme start="20230110220000 +0200" stop="20230111000000 +0200" channel="BBC World">
     <title lang="el">Bloomberg Markets: The Close</title>
-    <desc lang="el">This fast-paced programme is the quintessential market close show leading up to the final minutes and seconds before the closing bell on Wall Street with the latest news, data and expert analysis.(c)</desc>
+    <desc lang="el">This fast-paced programme is the quintessential market close show leading up to the final minutes and seconds before the closing bell on Wall Street with the latest news, data and expert analysis.</desc>
   </programme>
   <programme start="20230111000000 +0200" stop="20230111010000 +0200" channel="BBC World">
     <title lang="el">MTV Rewind: 2011</title>
-    <desc lang="el">Step into the MTV Time Machine and travel back to 2011 to check out what tracks were stealing our hearts and ruling the charts!(c)</desc>
+    <desc lang="el">Step into the MTV Time Machine and travel back to 2011 to check out what tracks were stealing our hearts and ruling the charts!</desc>
   </programme>
   <programme start="20230111010000 +0200" stop="20230111022900 +0200" channel="BBC World">
     <title lang="el">Dua Lipa x Ariana Grande</title>
-    <desc lang="el">We're bringing you back to back hits from global superstars Dua Lipa and Ariana Grande, all in one ultimate playlist! Enjoy!(c)</desc>
+    <desc lang="el">We're bringing you back to back hits from global superstars Dua Lipa and Ariana Grande, all in one ultimate playlist! Enjoy!</desc>
   </programme>
   <programme start="20230111022900 +0200" stop="20230111025800 +0200" channel="BBC World">
     <title lang="el">Hot Right Now!</title>
-    <desc lang="el">We bring you the very hottest music videos in the world right now, alongside some scorching live performances!(c)</desc>
+    <desc lang="el">We bring you the very hottest music videos in the world right now, alongside some scorching live performances!</desc>
   </programme>
   <programme start="20230111025800 +0200" stop="20230111035900 +0200" channel="BBC World">
     <title lang="el">The Rock Zone!</title>
-    <desc lang="el">You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!(c)</desc>
+    <desc lang="el">You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!</desc>
   </programme>
   <programme start="20230111035900 +0200" stop="20230111044500 +0200" channel="BBC World">
     <title lang="el">MTV Unplugged: Bastille</title>
-    <desc lang="el">British rock band Bastille takes to the MTV Unplugged stage for a spine-tingling re-imagined performance of their most loved tracks. Featuring 'Pompeii', 'Good Grief', and 'Happier'. (2021).(c)</desc>
+    <desc lang="el">British rock band Bastille takes to the MTV Unplugged stage for a spine-tingling re-imagined performance of their most loved tracks. Featuring 'Pompeii', 'Good Grief', and 'Happier'. (2021).</desc>
   </programme>
   <programme start="20230111044500 +0200" stop="20230111053100 +0200" channel="BBC World">
     <title lang="el">MTV Unplugged Κ1 ΕΠ1</title>
-    <desc lang="el">The MTV Unplugged sessions are back, and Biffy Clyro are the latest act to tread the legendary stage. Recorded at Camden's iconic Roundhouse, see the Biff perform some of their best-loved tracks. (2017).(c)</desc>
+    <desc lang="el">The MTV Unplugged sessions are back, and Biffy Clyro are the latest act to tread the legendary stage. Recorded at Camden's iconic Roundhouse, see the Biff perform some of their best-loved tracks. (2017).</desc>
   </programme>
   <programme start="20230111053100 +0200" stop="20230111065900 +0200" channel="BBC World">
     <title lang="el">HD Hits</title>
-    <desc lang="el">We've got big hits and they're even bigger in high def baby!(c)</desc>
+    <desc lang="el">We've got big hits and they're even bigger in high def baby!</desc>
   </programme>
   <programme start="20230111065900 +0200" stop="20230111080000 +0200" channel="BBC World">
     <title lang="el">Global Beats!</title>
-    <desc lang="el">Tune in for a selection of the biggest beats that are taking over the world!(c)</desc>
+    <desc lang="el">Tune in for a selection of the biggest beats that are taking over the world!</desc>
   </programme>
   <programme start="20230111080000 +0200" stop="20230111090000 +0200" channel="BBC World">
     <title lang="el">MTV Rewind</title>
-    <desc lang="el">Step into the MTV Time Machine and travel back to 2012 to check out what tracks were stealing our hearts and ruling the charts!(c)</desc>
+    <desc lang="el">Step into the MTV Time Machine and travel back to 2012 to check out what tracks were stealing our hearts and ruling the charts!</desc>
   </programme>
   <programme start="20230111090000 +0200" stop="20230111103000 +0200" channel="BBC World">
     <title lang="el">21st Century Stars Of Hip Hop &amp; R&amp;B! Top 20</title>
-    <desc lang="el">Check out our playlist of the Top 20 R&amp;B and Hip Hop stars of the century so far!(c)</desc>
+    <desc lang="el">Check out our playlist of the Top 20 R&amp;B and Hip Hop stars of the century so far!</desc>
   </programme>
   <programme start="20230111103000 +0200" stop="20230111110000 +0200" channel="BBC World">
     <title lang="el">Hot Right Now!</title>
-    <desc lang="el">We bring you the very hottest music videos in the world right now, alongside some scorching live performances!(c)</desc>
+    <desc lang="el">We bring you the very hottest music videos in the world right now, alongside some scorching live performances!</desc>
   </programme>
   <programme start="20230111110000 +0200" stop="20230111120000 +0200" channel="BBC World">
     <title lang="el">Global Beats!</title>
-    <desc lang="el">Tune in for a selection of the biggest beats that are taking over the world!(c)</desc>
+    <desc lang="el">Tune in for a selection of the biggest beats that are taking over the world!</desc>
   </programme>
   <programme start="20230111120000 +0200" stop="20230111130000 +0200" channel="BBC World">
     <title lang="el">The Rock Zone!</title>
-    <desc lang="el">You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!(c)</desc>
+    <desc lang="el">You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!</desc>
   </programme>
   <programme start="20230111130000 +0200" stop="20230111132500 +0200" channel="BBC World">
     <title lang="el">My Life On MTV Κ01 ΕΠ6</title>
-    <desc lang="el">There are teen idols...and then there are Jobros and Usher. Both have been in the music biz for decades, and we have the footage to prove it! (S1, ep6) (2020).(c)</desc>
+    <desc lang="el">There are teen idols...and then there are Jobros and Usher. Both have been in the music biz for decades, and we have the footage to prove it! (S1, ep6) (2020).</desc>
   </programme>
   <programme start="20230111132500 +0200" stop="20230111134500 +0200" channel="BBC World">
     <title lang="el">My Life On MTV Κ01 ΕΠ3</title>
-    <desc lang="el">One network. Four decades. Thousands of unforgettable moments from every groundbreaking artist. Now the network that made them stars, is telling their stories in a new way. (S1, ep3) (2020).(c)</desc>
+    <desc lang="el">One network. Four decades. Thousands of unforgettable moments from every groundbreaking artist. Now the network that made them stars, is telling their stories in a new way. (S1, ep3) (2020).</desc>
   </programme>
   <programme start="20230111134500 +0200" stop="20230111141000 +0200" channel="BBC World">
     <title lang="el">My Life On MTV Κ01 ΕΠ1</title>
-    <desc lang="el">One network. Four decades. Thousands of unforgettable moments from every groundbreaking artist. Now the network that made them stars, is telling their stories in a new way. (S1, ep1) (2020).(c)</desc>
+    <desc lang="el">One network. Four decades. Thousands of unforgettable moments from every groundbreaking artist. Now the network that made them stars, is telling their stories in a new way. (S1, ep1) (2020).</desc>
   </programme>
   <programme start="20230111141000 +0200" stop="20230111143000 +0200" channel="BBC World">
     <title lang="el">My Life On MTV Κ01 ΕΠ4</title>
-    <desc lang="el">One network. Four decades. Thousands of unforgettable moments from every groundbreaking artist. Now the network that made them stars, is telling their stories in a new way. (S1, ep4) (2020).(c)</desc>
+    <desc lang="el">One network. Four decades. Thousands of unforgettable moments from every groundbreaking artist. Now the network that made them stars, is telling their stories in a new way. (S1, ep4) (2020).</desc>
   </programme>
   <programme start="20230111143000 +0200" stop="20230111160000 +0200" channel="BBC World">
     <title lang="el">HD Hits</title>
-    <desc lang="el">We've got big hits and they're even bigger in high def baby!(c)</desc>
+    <desc lang="el">We've got big hits and they're even bigger in high def baby!</desc>
   </programme>
   <programme start="20230111160000 +0200" stop="20230111170000 +0200" channel="BBC World">
     <title lang="el">MTV Rewind</title>
-    <desc lang="el">Step into the MTV Time Machine and travel back to 2012 to check out what tracks were stealing our hearts and ruling the charts!(c)</desc>
+    <desc lang="el">Step into the MTV Time Machine and travel back to 2012 to check out what tracks were stealing our hearts and ruling the charts!</desc>
   </programme>
   <programme start="20230111170000 +0200" stop="20230111183000 +0200" channel="BBC World">
     <title lang="el">21st Century Stars Of Hip Hop &amp; R&amp;B! Top 20</title>
-    <desc lang="el">Check out our playlist of the Top 20 R&amp;B and Hip Hop stars of the century so far!(c)</desc>
+    <desc lang="el">Check out our playlist of the Top 20 R&amp;B and Hip Hop stars of the century so far!</desc>
   </programme>
   <programme start="20230111183000 +0200" stop="20230111190000 +0200" channel="BBC World">
     <title lang="el">Hot Right Now!</title>
-    <desc lang="el">We bring you the very hottest music videos in the world right now, alongside some scorching live performances!(c)</desc>
+    <desc lang="el">We bring you the very hottest music videos in the world right now, alongside some scorching live performances!</desc>
   </programme>
   <programme start="20230111190000 +0200" stop="20230111200000 +0200" channel="BBC World">
     <title lang="el">Global Beats!</title>
-    <desc lang="el">Tune in for a selection of the biggest beats that are taking over the world!(c)</desc>
+    <desc lang="el">Tune in for a selection of the biggest beats that are taking over the world!</desc>
   </programme>
   <programme start="20230111200000 +0200" stop="20230111210000 +0200" channel="BBC World">
     <title lang="el">The Rock Zone!</title>
-    <desc lang="el">You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!(c)</desc>
+    <desc lang="el">You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!</desc>
   </programme>
   <programme start="20230111210000 +0200" stop="20230111214500 +0200" channel="BBC World">
     <title lang="el">MTV Unplugged: Bastille</title>
-    <desc lang="el">British rock band Bastille takes to the MTV Unplugged stage for a spine-tingling re-imagined performance of their most loved tracks. Featuring 'Pompeii', 'Good Grief', and 'Happier'. (2021).(c)</desc>
+    <desc lang="el">British rock band Bastille takes to the MTV Unplugged stage for a spine-tingling re-imagined performance of their most loved tracks. Featuring 'Pompeii', 'Good Grief', and 'Happier'. (2021).</desc>
   </programme>
   <programme start="20230111214500 +0200" stop="20230111223000 +0200" channel="BBC World">
     <title lang="el">MTV Unplugged Κ1 ΕΠ1</title>
-    <desc lang="el">The MTV Unplugged sessions are back, and Biffy Clyro are the latest act to tread the legendary stage. Recorded at Camden's iconic Roundhouse, see the Biff perform some of their best-loved tracks. (2017).(c)</desc>
+    <desc lang="el">The MTV Unplugged sessions are back, and Biffy Clyro are the latest act to tread the legendary stage. Recorded at Camden's iconic Roundhouse, see the Biff perform some of their best-loved tracks. (2017).</desc>
   </programme>
   <programme start="20230111223000 +0200" stop="20230111235000 +0200" channel="BBC World">
     <title lang="el">HD Hits</title>
-    <desc lang="el">We've got big hits and they're even bigger in high def baby!(c)</desc>
+    <desc lang="el">We've got big hits and they're even bigger in high def baby!</desc>
   </programme>
   <programme start="20230111235000 +0200" stop="20230112005000 +0200" channel="BBC World">
     <title lang="el">ΒΡΑΒΕΊΟ Earthshot: Η ΑΝΆΚΑΜΨΗ ΤΟΥ ΠΛΑΝΉΤΗ ΜΑΣ Κ1 ΕΠ3</title>
-    <desc lang="el">Μια εξέταση του παγκόσμιου προβλήματος της ρύπανσης, από τον πρίγκιπα Γουίλιαμ και μέλη του Συμβουλίου των Βραβείων Earthshot, μεταξύ των οποίων ο σερ Ντέιβιντ Άτενμπρο και η Γιαπωνέζα αστροναύτης Ναόκο Γιαμαζάκι. 3/5 (2021).(c)</desc>
+    <desc lang="el">Μια εξέταση του παγκόσμιου προβλήματος της ρύπανσης, από τον πρίγκιπα Γουίλιαμ και μέλη του Συμβουλίου των Βραβείων Earthshot, μεταξύ των οποίων ο σερ Ντέιβιντ Άτενμπρο και η Γιαπωνέζα αστροναύτης Ναόκο Γιαμαζάκι. 3/5 (2021).</desc>
   </programme>
   <programme start="20230112005000 +0200" stop="20230112014500 +0200" channel="BBC World">
     <title lang="el">ΔΥΝΑΣΤΕΊΕΣ Κ2 ΕΠ2</title>
-    <desc lang="el">Μια μητέρα-πούμα καλείται να πολεμήσει τους εχθρούς της, να κυνηγήσει θηράματα σχεδόν τριπλάσια σε μέγεθος από την ίδια και να αντέξει τον άγριο καιρό των βουνών της Παταγονίας, στην προσπάθειά της να μεγαλώσει τέσσερα μικρά - τη μεγαλύτερη γέννα της μέχρι στιγμής. 2/6 Σκηνοθεσία: Felicity Lanchester. (2020).(c)</desc>
+    <desc lang="el">Μια μητέρα-πούμα καλείται να πολεμήσει τους εχθρούς της, να κυνηγήσει θηράματα σχεδόν τριπλάσια σε μέγεθος από την ίδια και να αντέξει τον άγριο καιρό των βουνών της Παταγονίας, στην προσπάθειά της να μεγαλώσει τέσσερα μικρά - τη μεγαλύτερη γέννα της μέχρι στιγμής. 2/6 Σκηνοθεσία: Felicity Lanchester. (2020).</desc>
   </programme>
   <programme start="20230112014500 +0200" stop="20230112024000 +0200" channel="BBC World">
     <title lang="el">Κατασκοπεύοντας Άγρια Είδη Κ2 ΕΠ2</title>
-    <desc lang="el">Ανά την υφήλιο το εποχιακό ρολόι του πλανήτη οδηγεί τα ζώα σε πολλές παράξενες συνάξεις. Τώρα για πρώτη φορά, οι κατάσκοποι της άγριας φύσης αντιμετωπίζουν κοινές δοκιμασίες με τα ζώα που παρακολουθούν και διαπιστώνουν για ποιο λόγο ταξιδεύουν προκειμένου να παρευρεθούν σε αυτές. 2/4 Σκηνοθεσία: John Downer. Πρωταγωνιστούν: David Tennant. (2019).(c)</desc>
+    <desc lang="el">Ανά την υφήλιο το εποχιακό ρολόι του πλανήτη οδηγεί τα ζώα σε πολλές παράξενες συνάξεις. Τώρα για πρώτη φορά, οι κατάσκοποι της άγριας φύσης αντιμετωπίζουν κοινές δοκιμασίες με τα ζώα που παρακολουθούν και διαπιστώνουν για ποιο λόγο ταξιδεύουν προκειμένου να παρευρεθούν σε αυτές. 2/4 Σκηνοθεσία: John Downer. Πρωταγωνιστούν: David Tennant. (2019).</desc>
   </programme>
   <programme start="20230112024000 +0200" stop="20230112032500 +0200" channel="BBC World">
     <title lang="el">Εκεί Που Ζουν Οι Άγριοι Με Τον Μπεν Φογκλ Κ7 ΕΠ3</title>
-    <desc lang="el">Στο Μποκέτ, ο Μπεν συναντά την Άντι, τον Ρικ και τον γιο τους Κόουλ, μια οικογένεια που κατάγεται από το Όρεγκον των ΗΠΑ. Εκεί θα μάθει γιατί εγκατέλειψαν την άνετη ζωή τους στις Ηνωμένες Πολιτείες και ήρθαν εδώ για να δημιουργήσουν μια μοναδική φυτεία καφέ. 3/12 Σκηνοθεσία: Nicola Tremain, Dimitri Collingridge. (2019).(c)</desc>
+    <desc lang="el">Στο Μποκέτ, ο Μπεν συναντά την Άντι, τον Ρικ και τον γιο τους Κόουλ, μια οικογένεια που κατάγεται από το Όρεγκον των ΗΠΑ. Εκεί θα μάθει γιατί εγκατέλειψαν την άνετη ζωή τους στις Ηνωμένες Πολιτείες και ήρθαν εδώ για να δημιουργήσουν μια μοναδική φυτεία καφέ. 3/12 Σκηνοθεσία: Nicola Tremain, Dimitri Collingridge. (2019).</desc>
   </programme>
   <programme start="20230112032500 +0200" stop="20230112041000 +0200" channel="BBC World">
     <title lang="el">ΑΠΊΣΤΕΥΤΑ ΤΑΞΊΔΙΑ ΜΕ ΤΟΝ ΣΆΙΜΟΝ ΡΙΒ Κ1 ΕΠ1</title>
-    <desc lang="el">Στο πρώτο επεισόδιο, ο Σάιμον επιστρέφει στους απίθανους χαρακτήρες που γνώρισε κατά τα ταξίδια του στον κόσμο και μαθαίνει τα νέα ενός δεκάχρονου αγοριού, το οποίο βρήκε να εργάζεται κάτω από φρικτές συνθήκες στο Μπανγκλαντές. 1/4 Πρωταγωνιστούν: Simon Reeve. (2021).(c)</desc>
+    <desc lang="el">Στο πρώτο επεισόδιο, ο Σάιμον επιστρέφει στους απίθανους χαρακτήρες που γνώρισε κατά τα ταξίδια του στον κόσμο και μαθαίνει τα νέα ενός δεκάχρονου αγοριού, το οποίο βρήκε να εργάζεται κάτω από φρικτές συνθήκες στο Μπανγκλαντές. 1/4 Πρωταγωνιστούν: Simon Reeve. (2021).</desc>
   </programme>
   <programme start="20230112041000 +0200" stop="20230112051500 +0200" channel="BBC World">
     <title lang="el">ΒΡΑΒΕΊΟ Earthshot: Η ΑΝΆΚΑΜΨΗ ΤΟΥ ΠΛΑΝΉΤΗ ΜΑΣ Κ1 ΕΠ3</title>
-    <desc lang="el">Μια εξέταση του παγκόσμιου προβλήματος της ρύπανσης, από τον πρίγκιπα Γουίλιαμ και μέλη του Συμβουλίου των Βραβείων Earthshot, μεταξύ των οποίων ο σερ Ντέιβιντ Άτενμπρο και η Γιαπωνέζα αστροναύτης Ναόκο Γιαμαζάκι. 3/5 (2021).(c)</desc>
+    <desc lang="el">Μια εξέταση του παγκόσμιου προβλήματος της ρύπανσης, από τον πρίγκιπα Γουίλιαμ και μέλη του Συμβουλίου των Βραβείων Earthshot, μεταξύ των οποίων ο σερ Ντέιβιντ Άτενμπρο και η Γιαπωνέζα αστροναύτης Ναόκο Γιαμαζάκι. 3/5 (2021).</desc>
   </programme>
   <programme start="20230112051500 +0200" stop="20230112061500 +0200" channel="BBC World">
     <title lang="el">ΔΥΝΑΣΤΕΊΕΣ Κ2 ΕΠ2</title>
-    <desc lang="el">Μια μητέρα-πούμα καλείται να πολεμήσει τους εχθρούς της, να κυνηγήσει θηράματα σχεδόν τριπλάσια σε μέγεθος από την ίδια και να αντέξει τον άγριο καιρό των βουνών της Παταγονίας, στην προσπάθειά της να μεγαλώσει τέσσερα μικρά - τη μεγαλύτερη γέννα της μέχρι στιγμής. 2/6 Σκηνοθεσία: Felicity Lanchester. (2020).(c)</desc>
+    <desc lang="el">Μια μητέρα-πούμα καλείται να πολεμήσει τους εχθρούς της, να κυνηγήσει θηράματα σχεδόν τριπλάσια σε μέγεθος από την ίδια και να αντέξει τον άγριο καιρό των βουνών της Παταγονίας, στην προσπάθειά της να μεγαλώσει τέσσερα μικρά - τη μεγαλύτερη γέννα της μέχρι στιγμής. 2/6 Σκηνοθεσία: Felicity Lanchester. (2020).</desc>
   </programme>
   <programme start="20230112061500 +0200" stop="20230112070000 +0200" channel="BBC World">
     <title lang="el">Εκεί Που Ζουν Οι Άγριοι Με Τον Μπεν Φογκλ Κ7 ΕΠ3</title>
-    <desc lang="el">Στο Μποκέτ, ο Μπεν συναντά την Άντι, τον Ρικ και τον γιο τους Κόουλ, μια οικογένεια που κατάγεται από το Όρεγκον των ΗΠΑ. Εκεί θα μάθει γιατί εγκατέλειψαν την άνετη ζωή τους στις Ηνωμένες Πολιτείες και ήρθαν εδώ για να δημιουργήσουν μια μοναδική φυτεία καφέ. 3/12 Σκηνοθεσία: Nicola Tremain, Dimitri Collingridge. (2019).(c)</desc>
+    <desc lang="el">Στο Μποκέτ, ο Μπεν συναντά την Άντι, τον Ρικ και τον γιο τους Κόουλ, μια οικογένεια που κατάγεται από το Όρεγκον των ΗΠΑ. Εκεί θα μάθει γιατί εγκατέλειψαν την άνετη ζωή τους στις Ηνωμένες Πολιτείες και ήρθαν εδώ για να δημιουργήσουν μια μοναδική φυτεία καφέ. 3/12 Σκηνοθεσία: Nicola Tremain, Dimitri Collingridge. (2019).</desc>
   </programme>
   <programme start="20230112070000 +0200" stop="20230112074500 +0200" channel="BBC World">
     <title lang="el">ΟΙ ΩΡΑΙΌΤΕΡΕΣ ΔΙΑΔΡΟΜΈΣ ΜΕ ΤΡΈΝΟ Κ4 ΕΠ10</title>
-    <desc lang="el">Από τη γη του ήλιου του μεσονυκτίου στη Νορβηγία μέχρι τα επιβλητικά βουνά της Νέας Ζηλανδίας, αυτή η σειρά παρουσιάζει έξι εκπληκτικά όμορφες σιδηροδρομικές διαδρομές. Σε κάθε μία γνωρίζουμε τους ανθρώπους που εργάζονται και ζουν κατά μήκος αυτών των ξεχωριστών σιδηροδρομικών γραμμών. 10/10 (2019).(c)</desc>
+    <desc lang="el">Από τη γη του ήλιου του μεσονυκτίου στη Νορβηγία μέχρι τα επιβλητικά βουνά της Νέας Ζηλανδίας, αυτή η σειρά παρουσιάζει έξι εκπληκτικά όμορφες σιδηροδρομικές διαδρομές. Σε κάθε μία γνωρίζουμε τους ανθρώπους που εργάζονται και ζουν κατά μήκος αυτών των ξεχωριστών σιδηροδρομικών γραμμών. 10/10 (2019).</desc>
   </programme>
   <programme start="20230112074500 +0200" stop="20230112075500 +0200" channel="BBC World">
     <title lang="el">ΓΑΛΆΖΙΟΣ ΠΛΑΝΉΤΗΣ 2: ΣΤΑ ΓΥΡΊΣΜΑΤΑ Κ1 ΕΠ6</title>
-    <desc lang="el">Μια ματιά στις ιστορίες πίσω από τις πιο αλησμόνητες στιγμές του Γαλάζιου πλανήτη 2. Ανακαλύψτε πώς γυρίστηκε αυτή η εκπληκτική σειρά, καθώς τα συνεργεία παρουσιάζουν τις προσπάθειες που κατέβαλαν και την πρωτοποριακή τεχνολογία που χρησιμοποίησαν, για να καταγράψουν εντυπωσιακό υλικό απ' όλο τον κόσμο. 6/6 (2017).(c)</desc>
+    <desc lang="el">Μια ματιά στις ιστορίες πίσω από τις πιο αλησμόνητες στιγμές του Γαλάζιου πλανήτη 2. Ανακαλύψτε πώς γυρίστηκε αυτή η εκπληκτική σειρά, καθώς τα συνεργεία παρουσιάζουν τις προσπάθειες που κατέβαλαν και την πρωτοποριακή τεχνολογία που χρησιμοποίησαν, για να καταγράψουν εντυπωσιακό υλικό απ' όλο τον κόσμο. 6/6 (2017).</desc>
   </programme>
   <programme start="20230112075500 +0200" stop="20230112082000 +0200" channel="BBC World">
     <title lang="el">60 Θανάσιμα Ζώα Κ4 ΕΠ9</title>
-    <desc lang="el">Ο Στιβ και η ομάδα είναι στο Σάνι Λοντζ στο τροπικό δάσος του Αμαζονίου για να βρουν ένα από τα πιο τρομερά φίδια στον κόσμο: τον βόθρωπα. Ο εντοπισμός είναι δύσκολος στην πυκνή ζούγκλα, και με τόσα ζώα που ξεγελούν τον Στιβ, μπορεί να βρει τελικά άλλο φίδι... 9/11 Σκηνοθεσία: Kirstine Davidson. Πρωταγωνιστούν: Steve Backshall. (2020).(c)</desc>
+    <desc lang="el">Ο Στιβ και η ομάδα είναι στο Σάνι Λοντζ στο τροπικό δάσος του Αμαζονίου για να βρουν ένα από τα πιο τρομερά φίδια στον κόσμο: τον βόθρωπα. Ο εντοπισμός είναι δύσκολος στην πυκνή ζούγκλα, και με τόσα ζώα που ξεγελούν τον Στιβ, μπορεί να βρει τελικά άλλο φίδι... 9/11 Σκηνοθεσία: Kirstine Davidson. Πρωταγωνιστούν: Steve Backshall. (2020).</desc>
   </programme>
   <programme start="20230112082000 +0200" stop="20230112090500 +0200" channel="BBC World">
     <title lang="el">Μπεν Φογκλ: Επιστροφή Στη Φύση Κ2 ΕΠ1</title>
-    <desc lang="el">Ο Μπεν επιστρέφει στη Νέα Ζηλανδία, για να συναντηθεί με τα μέλη της οικογένειας Λονγκ, που ζουν σαν κυνηγοί-τροφοσυλλέκτες στο Νότιο Νησί της χώρας, σε μια περιοχή που απέχει δύο μέρες με τα πόδια από τον κοντινότερο δρόμο. Άραγε, πώς έχουν διαχειριστεί τα παιδιά την ανατροφή τους σε τόσο απομονωμένο περιβάλλον, και πώς έχουν διατηρήσει τη σχέση τους οι γονείς; 1/6 Σκηνοθεσία: Dimitri Collingridge. Πρωταγωνιστούν: Ben Fogle. (2019).(c)</desc>
+    <desc lang="el">Ο Μπεν επιστρέφει στη Νέα Ζηλανδία, για να συναντηθεί με τα μέλη της οικογένειας Λονγκ, που ζουν σαν κυνηγοί-τροφοσυλλέκτες στο Νότιο Νησί της χώρας, σε μια περιοχή που απέχει δύο μέρες με τα πόδια από τον κοντινότερο δρόμο. Άραγε, πώς έχουν διαχειριστεί τα παιδιά την ανατροφή τους σε τόσο απομονωμένο περιβάλλον, και πώς έχουν διατηρήσει τη σχέση τους οι γονείς; 1/6 Σκηνοθεσία: Dimitri Collingridge. Πρωταγωνιστούν: Ben Fogle. (2019).</desc>
   </programme>
   <programme start="20230112090500 +0200" stop="20230112095500 +0200" channel="BBC World">
     <title lang="el">ΕΔΈΜ: Ο ΠΑΡΘΈΝΟΣ ΠΛΑΝΉΤΗΣ Κ1 ΕΠ1</title>
-    <desc lang="el">Η Βόρνεο είναι το μεγαλύτερο τροπικό νησί του κόσμου, το οποίο φιλοξενεί έως 40.000 είδη φυτών και ζώων. 1/6 Σκηνοθεσία: Helena Bonham Carter. Πρωταγωνιστούν: Helena Bonham Carter. (2021).(c)</desc>
+    <desc lang="el">Η Βόρνεο είναι το μεγαλύτερο τροπικό νησί του κόσμου, το οποίο φιλοξενεί έως 40.000 είδη φυτών και ζώων. 1/6 Σκηνοθεσία: Helena Bonham Carter. Πρωταγωνιστούν: Helena Bonham Carter. (2021).</desc>
   </programme>
   <programme start="20230112095500 +0200" stop="20230112104000 +0200" channel="BBC World">
     <title lang="el">Η ΖΩΉ ΥΠΌ ΤΟ ΜΗΔΈΝ Κ5 ΕΠ8</title>
-    <desc lang="el">Με το λιώσιμο των πάγων οι κάτοικοι της Αλάσκας παραμένουν αποφασισμένοι να ξεπεράσουν και τα τελευταία εμπόδια του εξαντλητικού χειμώνα. Ενώ ο Τζες καθαρίζει το σπίτι των σκύλων από το χιόνι ο Γκλεν πηγαίνει στη λίμνη με το νέο του αεροπλάνο. 8/16 Πρωταγωνιστούν: James Franzo. (2017).(c)</desc>
+    <desc lang="el">Με το λιώσιμο των πάγων οι κάτοικοι της Αλάσκας παραμένουν αποφασισμένοι να ξεπεράσουν και τα τελευταία εμπόδια του εξαντλητικού χειμώνα. Ενώ ο Τζες καθαρίζει το σπίτι των σκύλων από το χιόνι ο Γκλεν πηγαίνει στη λίμνη με το νέο του αεροπλάνο. 8/16 Πρωταγωνιστούν: James Franzo. (2017).</desc>
   </programme>
   <programme start="20230112104000 +0200" stop="20230112105500 +0200" channel="BBC World">
     <title lang="el">ΓΑΛΆΖΙΟΣ ΠΛΑΝΉΤΗΣ 2: ΣΤΑ ΓΥΡΊΣΜΑΤΑ Κ1 ΕΠ6</title>
-    <desc lang="el">Μια ματιά στις ιστορίες πίσω από τις πιο αλησμόνητες στιγμές του Γαλάζιου πλανήτη 2. Ανακαλύψτε πώς γυρίστηκε αυτή η εκπληκτική σειρά, καθώς τα συνεργεία παρουσιάζουν τις προσπάθειες που κατέβαλαν και την πρωτοποριακή τεχνολογία που χρησιμοποίησαν, για να καταγράψουν εντυπωσιακό υλικό απ' όλο τον κόσμο. 6/6 (2017).(c)</desc>
+    <desc lang="el">Μια ματιά στις ιστορίες πίσω από τις πιο αλησμόνητες στιγμές του Γαλάζιου πλανήτη 2. Ανακαλύψτε πώς γυρίστηκε αυτή η εκπληκτική σειρά, καθώς τα συνεργεία παρουσιάζουν τις προσπάθειες που κατέβαλαν και την πρωτοποριακή τεχνολογία που χρησιμοποίησαν, για να καταγράψουν εντυπωσιακό υλικό απ' όλο τον κόσμο. 6/6 (2017).</desc>
   </programme>
   <programme start="20230112105500 +0200" stop="20230112114500 +0200" channel="BBC World">
     <title lang="el">ΣΤΑ ΆΔΥΤΑ ΕΡΓΟΣΤΑΣΊΩΝ Κ6 ΕΠ3</title>
-    <desc lang="el">Ο Γκρεγκ Γουάλας επισκέπτεται ένα εργοστάσιο στην ύπαιθρο του Σόμερσετ, που παράγει ένα εκατομμύριο κουτάκια γιαούρτι κάθε 24 ώρες, ενώ η Τσέρι Χίλεϊ δίνει ένα χεράκι στη μεγαλύτερη συγκομιδή μαύρου φραγκοστάφυλου στο Ηνωμένο Βασίλειο. 3/10 Σκηνοθεσία: Will Aspinall, Sam Bailey, Michael Rees. Πρωταγωνιστούν: Gregg Wallace, Ruth Goodman, Cherry Healey. (2020).(c)</desc>
+    <desc lang="el">Ο Γκρεγκ Γουάλας επισκέπτεται ένα εργοστάσιο στην ύπαιθρο του Σόμερσετ, που παράγει ένα εκατομμύριο κουτάκια γιαούρτι κάθε 24 ώρες, ενώ η Τσέρι Χίλεϊ δίνει ένα χεράκι στη μεγαλύτερη συγκομιδή μαύρου φραγκοστάφυλου στο Ηνωμένο Βασίλειο. 3/10 Σκηνοθεσία: Will Aspinall, Sam Bailey, Michael Rees. Πρωταγωνιστούν: Gregg Wallace, Ruth Goodman, Cherry Healey. (2020).</desc>
   </programme>
   <programme start="20230112114500 +0200" stop="20230112123000 +0200" channel="BBC World">
     <title lang="el">ΟΙ ΩΡΑΙΌΤΕΡΕΣ ΔΙΑΔΡΟΜΈΣ ΜΕ ΤΡΈΝΟ Κ4 ΕΠ10</title>
-    <desc lang="el">Από τη γη του ήλιου του μεσονυκτίου στη Νορβηγία μέχρι τα επιβλητικά βουνά της Νέας Ζηλανδίας, αυτή η σειρά παρουσιάζει έξι εκπληκτικά όμορφες σιδηροδρομικές διαδρομές. Σε κάθε μία γνωρίζουμε τους ανθρώπους που εργάζονται και ζουν κατά μήκος αυτών των ξεχωριστών σιδηροδρομικών γραμμών. 10/10 (2019).(c)</desc>
+    <desc lang="el">Από τη γη του ήλιου του μεσονυκτίου στη Νορβηγία μέχρι τα επιβλητικά βουνά της Νέας Ζηλανδίας, αυτή η σειρά παρουσιάζει έξι εκπληκτικά όμορφες σιδηροδρομικές διαδρομές. Σε κάθε μία γνωρίζουμε τους ανθρώπους που εργάζονται και ζουν κατά μήκος αυτών των ξεχωριστών σιδηροδρομικών γραμμών. 10/10 (2019).</desc>
   </programme>
   <programme start="20230112123000 +0200" stop="20230112131500 +0200" channel="BBC World">
     <title lang="el">Μπεν Φογκλ: Επιστροφή Στη Φύση Κ2 ΕΠ1</title>
-    <desc lang="el">Ο Μπεν επιστρέφει στη Νέα Ζηλανδία, για να συναντηθεί με τα μέλη της οικογένειας Λονγκ, που ζουν σαν κυνηγοί-τροφοσυλλέκτες στο Νότιο Νησί της χώρας, σε μια περιοχή που απέχει δύο μέρες με τα πόδια από τον κοντινότερο δρόμο. Άραγε, πώς έχουν διαχειριστεί τα παιδιά την ανατροφή τους σε τόσο απομονωμένο περιβάλλον, και πώς έχουν διατηρήσει τη σχέση τους οι γονείς; 1/6 Σκηνοθεσία: Dimitri Collingridge. Πρωταγωνιστούν: Ben Fogle. (2019).(c)</desc>
+    <desc lang="el">Ο Μπεν επιστρέφει στη Νέα Ζηλανδία, για να συναντηθεί με τα μέλη της οικογένειας Λονγκ, που ζουν σαν κυνηγοί-τροφοσυλλέκτες στο Νότιο Νησί της χώρας, σε μια περιοχή που απέχει δύο μέρες με τα πόδια από τον κοντινότερο δρόμο. Άραγε, πώς έχουν διαχειριστεί τα παιδιά την ανατροφή τους σε τόσο απομονωμένο περιβάλλον, και πώς έχουν διατηρήσει τη σχέση τους οι γονείς; 1/6 Σκηνοθεσία: Dimitri Collingridge. Πρωταγωνιστούν: Ben Fogle. (2019).</desc>
   </programme>
   <programme start="20230112131500 +0200" stop="20230112140500 +0200" channel="BBC World">
     <title lang="el">ΕΔΈΜ: Ο ΠΑΡΘΈΝΟΣ ΠΛΑΝΉΤΗΣ Κ1 ΕΠ1</title>
-    <desc lang="el">Η Βόρνεο είναι το μεγαλύτερο τροπικό νησί του κόσμου, το οποίο φιλοξενεί έως 40.000 είδη φυτών και ζώων. 1/6 Σκηνοθεσία: Helena Bonham Carter. Πρωταγωνιστούν: Helena Bonham Carter. (2021).(c)</desc>
+    <desc lang="el">Η Βόρνεο είναι το μεγαλύτερο τροπικό νησί του κόσμου, το οποίο φιλοξενεί έως 40.000 είδη φυτών και ζώων. 1/6 Σκηνοθεσία: Helena Bonham Carter. Πρωταγωνιστούν: Helena Bonham Carter. (2021).</desc>
   </programme>
   <programme start="20230112140500 +0200" stop="20230112145000 +0200" channel="BBC World">
     <title lang="el">Η ΖΩΉ ΥΠΌ ΤΟ ΜΗΔΈΝ Κ5 ΕΠ8</title>
-    <desc lang="el">Με το λιώσιμο των πάγων οι κάτοικοι της Αλάσκας παραμένουν αποφασισμένοι να ξεπεράσουν και τα τελευταία εμπόδια του εξαντλητικού χειμώνα. Ενώ ο Τζες καθαρίζει το σπίτι των σκύλων από το χιόνι ο Γκλεν πηγαίνει στη λίμνη με το νέο του αεροπλάνο. 8/16 Πρωταγωνιστούν: James Franzo. (2017).(c)</desc>
+    <desc lang="el">Με το λιώσιμο των πάγων οι κάτοικοι της Αλάσκας παραμένουν αποφασισμένοι να ξεπεράσουν και τα τελευταία εμπόδια του εξαντλητικού χειμώνα. Ενώ ο Τζες καθαρίζει το σπίτι των σκύλων από το χιόνι ο Γκλεν πηγαίνει στη λίμνη με το νέο του αεροπλάνο. 8/16 Πρωταγωνιστούν: James Franzo. (2017).</desc>
   </programme>
   <programme start="20230112145000 +0200" stop="20230112154000 +0200" channel="BBC World">
     <title lang="el">ΣΤΑ ΆΔΥΤΑ ΕΡΓΟΣΤΑΣΊΩΝ Κ6 ΕΠ3</title>
-    <desc lang="el">Ο Γκρεγκ Γουάλας επισκέπτεται ένα εργοστάσιο στην ύπαιθρο του Σόμερσετ, που παράγει ένα εκατομμύριο κουτάκια γιαούρτι κάθε 24 ώρες, ενώ η Τσέρι Χίλεϊ δίνει ένα χεράκι στη μεγαλύτερη συγκομιδή μαύρου φραγκοστάφυλου στο Ηνωμένο Βασίλειο. 3/10 Σκηνοθεσία: Will Aspinall, Sam Bailey, Michael Rees. Πρωταγωνιστούν: Gregg Wallace, Ruth Goodman, Cherry Healey. (2020).(c)</desc>
+    <desc lang="el">Ο Γκρεγκ Γουάλας επισκέπτεται ένα εργοστάσιο στην ύπαιθρο του Σόμερσετ, που παράγει ένα εκατομμύριο κουτάκια γιαούρτι κάθε 24 ώρες, ενώ η Τσέρι Χίλεϊ δίνει ένα χεράκι στη μεγαλύτερη συγκομιδή μαύρου φραγκοστάφυλου στο Ηνωμένο Βασίλειο. 3/10 Σκηνοθεσία: Will Aspinall, Sam Bailey, Michael Rees. Πρωταγωνιστούν: Gregg Wallace, Ruth Goodman, Cherry Healey. (2020).</desc>
   </programme>
   <programme start="20230112154000 +0200" stop="20230112162500 +0200" channel="BBC World">
     <title lang="el">ΟΙ ΩΡΑΙΌΤΕΡΕΣ ΔΙΑΔΡΟΜΈΣ ΜΕ ΤΡΈΝΟ Κ4 ΕΠ10</title>
-    <desc lang="el">Από τη γη του ήλιου του μεσονυκτίου στη Νορβηγία μέχρι τα επιβλητικά βουνά της Νέας Ζηλανδίας, αυτή η σειρά παρουσιάζει έξι εκπληκτικά όμορφες σιδηροδρομικές διαδρομές. Σε κάθε μία γνωρίζουμε τους ανθρώπους που εργάζονται και ζουν κατά μήκος αυτών των ξεχωριστών σιδηροδρομικών γραμμών. 10/10 (2019).(c)</desc>
+    <desc lang="el">Από τη γη του ήλιου του μεσονυκτίου στη Νορβηγία μέχρι τα επιβλητικά βουνά της Νέας Ζηλανδίας, αυτή η σειρά παρουσιάζει έξι εκπληκτικά όμορφες σιδηροδρομικές διαδρομές. Σε κάθε μία γνωρίζουμε τους ανθρώπους που εργάζονται και ζουν κατά μήκος αυτών των ξεχωριστών σιδηροδρομικών γραμμών. 10/10 (2019).</desc>
   </programme>
   <programme start="20230112162500 +0200" stop="20230112171000 +0200" channel="BBC World">
     <title lang="el">Μπεν Φογκλ: Επιστροφή Στη Φύση Κ2 ΕΠ1</title>
-    <desc lang="el">Ο Μπεν επιστρέφει στη Νέα Ζηλανδία, για να συναντηθεί με τα μέλη της οικογένειας Λονγκ, που ζουν σαν κυνηγοί-τροφοσυλλέκτες στο Νότιο Νησί της χώρας, σε μια περιοχή που απέχει δύο μέρες με τα πόδια από τον κοντινότερο δρόμο. Άραγε, πώς έχουν διαχειριστεί τα παιδιά την ανατροφή τους σε τόσο απομονωμένο περιβάλλον, και πώς έχουν διατηρήσει τη σχέση τους οι γονείς; 1/6 Σκηνοθεσία: Dimitri Collingridge. Πρωταγωνιστούν: Ben Fogle. (2019).(c)</desc>
+    <desc lang="el">Ο Μπεν επιστρέφει στη Νέα Ζηλανδία, για να συναντηθεί με τα μέλη της οικογένειας Λονγκ, που ζουν σαν κυνηγοί-τροφοσυλλέκτες στο Νότιο Νησί της χώρας, σε μια περιοχή που απέχει δύο μέρες με τα πόδια από τον κοντινότερο δρόμο. Άραγε, πώς έχουν διαχειριστεί τα παιδιά την ανατροφή τους σε τόσο απομονωμένο περιβάλλον, και πώς έχουν διατηρήσει τη σχέση τους οι γονείς; 1/6 Σκηνοθεσία: Dimitri Collingridge. Πρωταγωνιστούν: Ben Fogle. (2019).</desc>
   </programme>
   <programme start="20230112171000 +0200" stop="20230112180000 +0200" channel="BBC World">
     <title lang="el">ΕΔΈΜ: Ο ΠΑΡΘΈΝΟΣ ΠΛΑΝΉΤΗΣ Κ1 ΕΠ2</title>
-    <desc lang="el">Η Έρημος της Ναμίμπια αποτελεί μια από τις παλαιότερες ερήμους στον κόσμο, και επιπλέον παρουσιάζει τεράστια ποικιλομορφία. 2/6 Σκηνοθεσία: Helena Bonham Carter. Πρωταγωνιστούν: Helena Bonham Carter. (2021).(c)</desc>
+    <desc lang="el">Η Έρημος της Ναμίμπια αποτελεί μια από τις παλαιότερες ερήμους στον κόσμο, και επιπλέον παρουσιάζει τεράστια ποικιλομορφία. 2/6 Σκηνοθεσία: Helena Bonham Carter. Πρωταγωνιστούν: Helena Bonham Carter. (2021).</desc>
   </programme>
   <programme start="20230112180000 +0200" stop="20230112184500 +0200" channel="BBC World">
     <title lang="el">Η ΖΩΉ ΥΠΌ ΤΟ ΜΗΔΈΝ Κ5 ΕΠ9</title>
-    <desc lang="el">Οι πάγοι στην Αλάσκα λιώνουν κι οι κάτοικοί της απολαμβάνουν ευκολότερες διαδρομές και περισσότερα μέσα επιβίωσης. Εκμεταλλεύονται τον καιρό για να κυνηγήσουν αποδημητικά πουλιά, να προστατέψουν τις σκηνές από πλημμύρες, και διαπλέοντας ποτάμια να συλλέξουν κρέας και δέρματα. 9/16 Πρωταγωνιστούν: James Franzo. (2017).(c)</desc>
+    <desc lang="el">Οι πάγοι στην Αλάσκα λιώνουν κι οι κάτοικοί της απολαμβάνουν ευκολότερες διαδρομές και περισσότερα μέσα επιβίωσης. Εκμεταλλεύονται τον καιρό για να κυνηγήσουν αποδημητικά πουλιά, να προστατέψουν τις σκηνές από πλημμύρες, και διαπλέοντας ποτάμια να συλλέξουν κρέας και δέρματα. 9/16 Πρωταγωνιστούν: James Franzo. (2017).</desc>
   </programme>
   <programme start="20230112184500 +0200" stop="20230112194000 +0200" channel="BBC World">
     <title lang="el">ΣΤΑ ΆΔΥΤΑ ΕΡΓΟΣΤΑΣΊΩΝ Κ6 ΕΠ4</title>
-    <desc lang="el">Η κρίση του κορονοϊού προκάλεσε έκρηξη των πωλήσεων στα φακελάκια τσαγιού, με το εργοστάσιο να αυξάνει την παραγωγή κατά 28 εκατομμύρια, στα 109 εκατομμύρια φακελάκια τσαγιού την εβδομάδα. Ο Γκρεγκ κάνει μια αναδρομή στην πρώτη του επίσκεψη στο εργοστάσιο και στο σύνολο της διαδικασίας παραγωγής. 4/10 Σκηνοθεσία: Will Aspinall, Sam Bailey, Michael Rees. Πρωταγωνιστούν: Gregg Wallace, Ruth Goodman, Cherry Healey. (2020).(c)</desc>
+    <desc lang="el">Η κρίση του κορονοϊού προκάλεσε έκρηξη των πωλήσεων στα φακελάκια τσαγιού, με το εργοστάσιο να αυξάνει την παραγωγή κατά 28 εκατομμύρια, στα 109 εκατομμύρια φακελάκια τσαγιού την εβδομάδα. Ο Γκρεγκ κάνει μια αναδρομή στην πρώτη του επίσκεψη στο εργοστάσιο και στο σύνολο της διαδικασίας παραγωγής. 4/10 Σκηνοθεσία: Will Aspinall, Sam Bailey, Michael Rees. Πρωταγωνιστούν: Gregg Wallace, Ruth Goodman, Cherry Healey. (2020).</desc>
   </programme>
   <programme start="20230112194000 +0200" stop="20230112202500 +0200" channel="BBC World">
     <title lang="el">Οι Ωραιότερες Διαδρομές Με Τρένο Κ1 ΕΠ1</title>
-    <desc lang="el">Στη Νορβηγία ακολουθούμε μια σιδηροδρομική διαδρομή που ξεκινά από την πρωτεύουσα Όσλο και φτάνει μέχρι και το Μπόντο, εντός του Αρκτικού Κύκλου. Το πρώτο κομμάτι της διαδρομής είναι η γραμμή Ντόβρε, που καταλήγει στο απομακρυσμένο και μαγευτικό Τροντχάιμ στον βορρά. 1/6 Σκηνοθεσία: Andy Robbins. (2020).(c)</desc>
+    <desc lang="el">Στη Νορβηγία ακολουθούμε μια σιδηροδρομική διαδρομή που ξεκινά από την πρωτεύουσα Όσλο και φτάνει μέχρι και το Μπόντο, εντός του Αρκτικού Κύκλου. Το πρώτο κομμάτι της διαδρομής είναι η γραμμή Ντόβρε, που καταλήγει στο απομακρυσμένο και μαγευτικό Τροντχάιμ στον βορρά. 1/6 Σκηνοθεσία: Andy Robbins. (2020).</desc>
   </programme>
   <programme start="20230112202500 +0200" stop="20230112211500 +0200" channel="BBC World">
     <title lang="el">Στα Άδυτα Εργοστασίων Κ5 ΕΠ3</title>
-    <desc lang="el">Ο Γκρεγκ Ουάλας βρίσκεται στη Γαλλία σε ένα τεράστιο εργοστάσιο παρασκευής κρουασάν με ημερήσια παραγωγή 336 χιλιάδες τεμάχια. Παρακολουθεί την παραγωγή των κρουασάν από την παραλαβή 21 τόνων βουτύρου μέχρι και την αποστολή τους σε καταστήματα. 3/9 Σκηνοθεσία: Simon Smith. Πρωταγωνιστούν: Gregg Wallace, Cherry Healey, Ruth Davidson. (2019).(c)</desc>
+    <desc lang="el">Ο Γκρεγκ Ουάλας βρίσκεται στη Γαλλία σε ένα τεράστιο εργοστάσιο παρασκευής κρουασάν με ημερήσια παραγωγή 336 χιλιάδες τεμάχια. Παρακολουθεί την παραγωγή των κρουασάν από την παραλαβή 21 τόνων βουτύρου μέχρι και την αποστολή τους σε καταστήματα. 3/9 Σκηνοθεσία: Simon Smith. Πρωταγωνιστούν: Gregg Wallace, Cherry Healey, Ruth Davidson. (2019).</desc>
   </programme>
   <programme start="20230112211500 +0200" stop="20230112220500 +0200" channel="BBC World">
     <title lang="el">ΑΠΊΘΑΝΑ ΖΏΑ Κ1 ΕΠ2</title>
-    <desc lang="el">Απίστευτα στοιχεία και μύθοι για το βασίλειο των ζώων διερευνώνται προκειμένου να επαληθευτούν. Μπορεί ένας αετός να σηκώσει ένα παιδί; 2/10 Πρωταγωνιστούν: Tim Warwood, Adam Gendle. (2019).(c)</desc>
+    <desc lang="el">Απίστευτα στοιχεία και μύθοι για το βασίλειο των ζώων διερευνώνται προκειμένου να επαληθευτούν. Μπορεί ένας αετός να σηκώσει ένα παιδί; 2/10 Πρωταγωνιστούν: Tim Warwood, Adam Gendle. (2019).</desc>
   </programme>
   <programme start="20230112220500 +0200" stop="20230112230000 +0200" channel="BBC World">
     <title lang="el">ΓΉΙΝΑ ΘΑΎΜΑΤΑ Κ1 ΕΠ4</title>
-    <desc lang="el">Το μεγαλύτερο από όλα τα θαύματα της Γης απλώνεται σε χιλιάδες χιλιόμετρα νυχτερινού ουρανού: το Βόρειο Σέλας. Η άγρια αρκτική φύση της βόρειας Σουηδίας αποτελεί ένα από τα ιδανικότερα μέρη για να το ατενίσετε. Ανακαλύψτε πώς δημιουργήθηκε, παρατηρώντας την ομορφιά των ολικών εκλείψεων, μια μαζική μετανάστευση χελωνών στην Κόστα Ρίκα και ισχυρές παλιρροϊκές δίνες στη δυτική ακτή της Σκωτίας. 4/4 (2022).(c)</desc>
+    <desc lang="el">Το μεγαλύτερο από όλα τα θαύματα της Γης απλώνεται σε χιλιάδες χιλιόμετρα νυχτερινού ουρανού: το Βόρειο Σέλας. Η άγρια αρκτική φύση της βόρειας Σουηδίας αποτελεί ένα από τα ιδανικότερα μέρη για να το ατενίσετε. Ανακαλύψτε πώς δημιουργήθηκε, παρατηρώντας την ομορφιά των ολικών εκλείψεων, μια μαζική μετανάστευση χελωνών στην Κόστα Ρίκα και ισχυρές παλιρροϊκές δίνες στη δυτική ακτή της Σκωτίας. 4/4 (2022).</desc>
   </programme>
   <programme start="20230112232000 +0200" stop="20230113000500 +0200" channel="BBC World">
     <title lang="el">Good Trouble Κ4 ΕΠ18</title>
-    <desc lang="el">Τώρα που η Ιζαμπέλα θέλει να δώσει το μωρό για υιοθεσία, ο Γκέιλ αποφασίζει τι ρόλο θέλει να έχει στη ζωή του παιδιού του. Πρωταγωνιστούν: Maia Mitchell,Cierra Ramirez,Zuri Adele,Sherry Cola,Emma Hunton,Tommy Martinez,Josh Pence,Priscilla Quintana. (2021).(c)</desc>
-  </programme>
-  <programme start="20230112230000 +0200" stop="20230112235000 +0200" channel="BBC World">
-    <title lang="el">ΘΑΎΜΑΤΑ ΤΟΥ ΗΛΙΑΚΟΎ ΣΥΣΤΉΜΑΤΟΣ Κ1 ΕΠ3</title>
-    <desc lang="el">Ερευνούμε πώς μπορεί ένας μανδύας αερίων να δημιουργεί μερικά από τα πιο εντυπωσιακά θεάματα στο ηλιακό σύστημα. 3/5 Σκηνοθεσία: Chris Holt. (2010).(c)</desc>
+    <desc lang="el">Τώρα που η Ιζαμπέλα θέλει να δώσει το μωρό για υιοθεσία, ο Γκέιλ αποφασίζει τι ρόλο θέλει να έχει στη ζωή του παιδιού του. Πρωταγωνιστούν: Maia Mitchell,Cierra Ramirez,Zuri Adele,Sherry Cola,Emma Hunton,Tommy Martinez,Josh Pence,Priscilla Quintana. (2021).</desc>
   </programme>
   <programme start="20230113000500 +0200" stop="20230113005000 +0200" channel="BBC World">
     <title lang="el">Grey's Anatomy Κ14 ΕΠ20</title>
-    <desc lang="el">Κατά τη διάρκεια των παρουσιάσεων στο συνέδριο για τη Μέρα Χειρουργικής Καινοτομίας στο Grey Sloan, η Arizona μοιράζει μπισκότα που έχει φτιάξει ένας ευγνώμων ασθενής της χωρίς να γνωρίζει ότι περιέχουν ένα ιδιαίτερο συστατικό. Πρωταγωνιστούν: Ellen Pompeo,Justin Chambers,Chandra Wilson,James Pickens Jr.. (2017).(c)</desc>
+    <desc lang="el">Κατά τη διάρκεια των παρουσιάσεων στο συνέδριο για τη Μέρα Χειρουργικής Καινοτομίας στο Grey Sloan, η Arizona μοιράζει μπισκότα που έχει φτιάξει ένας ευγνώμων ασθενής της χωρίς να γνωρίζει ότι περιέχουν ένα ιδιαίτερο συστατικό. Πρωταγωνιστούν: Ellen Pompeo,Justin Chambers,Chandra Wilson,James Pickens Jr.. (2017).</desc>
   </programme>
   <programme start="20230113005000 +0200" stop="20230113011500 +0200" channel="BBC World">
     <title lang="el">The King of Queens Κ3 ΕΠ11</title>
-    <desc lang="el">Έχουν έρθει τα Χριστούγεννα και οι Heffernan βλέπουν ότι έχουν καινούριο γείτονα, ο οποίος τυχαίνει να είναι ο Lou Ferrigno. Πρωταγωνιστούν: Kevin James, Leah Remini, Jerry Stiller, Nicole Sullivan, Patton Oswalt, Gary Valentine. (2000).(c)</desc>
+    <desc lang="el">Έχουν έρθει τα Χριστούγεννα και οι Heffernan βλέπουν ότι έχουν καινούριο γείτονα, ο οποίος τυχαίνει να είναι ο Lou Ferrigno. Πρωταγωνιστούν: Kevin James, Leah Remini, Jerry Stiller, Nicole Sullivan, Patton Oswalt, Gary Valentine. (2000).</desc>
   </programme>
   <programme start="20230113011500 +0200" stop="20230113013500 +0200" channel="BBC World">
     <title lang="el">The King of Queens Κ3 ΕΠ12</title>
-    <desc lang="el">Doug και Carrie συναντούν ένα εκνευριστικό ζευγάρι που τυχαίνει να παντρεύεται. Το ζευγάρι τους καλεί στον γάμο και ο Doug με την Carrie λένε ότι θα πάνε σίγουρα. Πρωταγωνιστούν: Kevin James, Leah Remini, Jerry Stiller, Nicole Sullivan, Patton Oswalt, Gary Valentine. (2000).(c)</desc>
+    <desc lang="el">Doug και Carrie συναντούν ένα εκνευριστικό ζευγάρι που τυχαίνει να παντρεύεται. Το ζευγάρι τους καλεί στον γάμο και ο Doug με την Carrie λένε ότι θα πάνε σίγουρα. Πρωταγωνιστούν: Kevin James, Leah Remini, Jerry Stiller, Nicole Sullivan, Patton Oswalt, Gary Valentine. (2000).</desc>
   </programme>
   <programme start="20230113013500 +0200" stop="20230113022000 +0200" channel="BBC World">
     <title lang="el">Law &amp; Order: Special Victims Unit Κ15 ΕΠ11</title>
-    <desc lang="el">Μετά από ένα δείπνο στο σπίτι της Benson, οι Amaro και Rollins βλέπουν έναν αστυνομικό να κυνηγά έναν ύποπτο για εμπόριο ναρκωτικών. Πρωταγωνιστούν: Mariska Hargitay,Ice-T,Danny Pino,Kelli Giddish. (2012).(c)</desc>
+    <desc lang="el">Μετά από ένα δείπνο στο σπίτι της Benson, οι Amaro και Rollins βλέπουν έναν αστυνομικό να κυνηγά έναν ύποπτο για εμπόριο ναρκωτικών. Πρωταγωνιστούν: Mariska Hargitay,Ice-T,Danny Pino,Kelli Giddish. (2012).</desc>
   </programme>
   <programme start="20230113022000 +0200" stop="20230113024000 +0200" channel="BBC World">
     <title lang="el">Modern Family Κ3 ΕΠ14</title>
-    <desc lang="el">Ο Phil είναι τόσο απασχολημένος με το τρόπο που θα εντυπωσιάσει το νέο του πελάτη, Tad, ώστε δεν αντιλαμβάνεται πόσο προκλητικά συμπεριφέρεται ο Tad, προς τη Claire. Πρωταγωνιστούν: Ed O'Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2011).(c)</desc>
+    <desc lang="el">Ο Phil είναι τόσο απασχολημένος με το τρόπο που θα εντυπωσιάσει το νέο του πελάτη, Tad, ώστε δεν αντιλαμβάνεται πόσο προκλητικά συμπεριφέρεται ο Tad, προς τη Claire. Πρωταγωνιστούν: Ed O'Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2011).</desc>
   </programme>
   <programme start="20230113024000 +0200" stop="20230113030500 +0200" channel="BBC World">
     <title lang="el">Modern Family Κ3 ΕΠ15</title>
-    <desc lang="el">Ο Phil και η Claire καταφέρνουν να πουλήσουν ένα σπίτι σε φίλους του Mitch και του Cam. Για να γιορτάσουν το χαρμόσυνο γεγονός, τους προσκαλούν σε δείπνο, όπου όλοι επιδίδονται σε υπερβολική κατανάλωση αλκοόλ. Πρωταγωνιστούν: Ed O'Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2011).(c)</desc>
+    <desc lang="el">Ο Phil και η Claire καταφέρνουν να πουλήσουν ένα σπίτι σε φίλους του Mitch και του Cam. Για να γιορτάσουν το χαρμόσυνο γεγονός, τους προσκαλούν σε δείπνο, όπου όλοι επιδίδονται σε υπερβολική κατανάλωση αλκοόλ. Πρωταγωνιστούν: Ed O'Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2011).</desc>
   </programme>
   <programme start="20230113030500 +0200" stop="20230113035000 +0200" channel="BBC World">
     <title lang="el">Million Dollar Listing: New York Κ5 ΕΠ5</title>
-    <desc lang="el">Ένα τηλεφώνημα δίνει νέα πνοή στον Fredrik για μια ιδιοκτησία, αλλά έρχεται αντιμέτωπος με μια παγίδα που δεν περίμενε ποτέ. Ο Ryan κάνει τα πάντα για να εξυπηρετήσει έναν πιθανό αγοραστή αλλά δεν παίρνει κανένα αντάλλαγμα. Πρωταγωνιστούν: Ryan Serhant,Fredrik Eklund,Luis D. Ortiz. (2015).(c)</desc>
+    <desc lang="el">Ένα τηλεφώνημα δίνει νέα πνοή στον Fredrik για μια ιδιοκτησία, αλλά έρχεται αντιμέτωπος με μια παγίδα που δεν περίμενε ποτέ. Ο Ryan κάνει τα πάντα για να εξυπηρετήσει έναν πιθανό αγοραστή αλλά δεν παίρνει κανένα αντάλλαγμα. Πρωταγωνιστούν: Ryan Serhant,Fredrik Eklund,Luis D. Ortiz. (2015).</desc>
   </programme>
   <programme start="20230113035000 +0200" stop="20230113043500 +0200" channel="BBC World">
     <title lang="el">Good Trouble Κ4 ΕΠ18</title>
-    <desc lang="el">Τώρα που η Ιζαμπέλα θέλει να δώσει το μωρό για υιοθεσία, ο Γκέιλ αποφασίζει τι ρόλο θέλει να έχει στη ζωή του παιδιού του. Πρωταγωνιστούν: Maia Mitchell,Cierra Ramirez,Zuri Adele,Sherry Cola,Emma Hunton,Tommy Martinez,Josh Pence,Priscilla Quintana. (2021).(c)</desc>
+    <desc lang="el">Τώρα που η Ιζαμπέλα θέλει να δώσει το μωρό για υιοθεσία, ο Γκέιλ αποφασίζει τι ρόλο θέλει να έχει στη ζωή του παιδιού του. Πρωταγωνιστούν: Maia Mitchell,Cierra Ramirez,Zuri Adele,Sherry Cola,Emma Hunton,Tommy Martinez,Josh Pence,Priscilla Quintana. (2021).</desc>
   </programme>
   <programme start="20230113043500 +0200" stop="20230113052000 +0200" channel="BBC World">
     <title lang="el">Good Trouble Κ3 ΕΠ5</title>
-    <desc lang="el">Η Mariana και η ομάδα της Fight Club ετοιμάζονται να προωθήσουν την εφαρμογή τους σε έναν προγραμματιστή αλλά είναι η ομάδα πραγματικά παθιασμένη με τη δημιουργία της; Πρωταγωνιστούν: Maia Mitchel,Cierra Ramirez,Roger Bart,Zuri Adele. (2020).(c)</desc>
+    <desc lang="el">Η Mariana και η ομάδα της Fight Club ετοιμάζονται να προωθήσουν την εφαρμογή τους σε έναν προγραμματιστή αλλά είναι η ομάδα πραγματικά παθιασμένη με τη δημιουργία της; Πρωταγωνιστούν: Maia Mitchel,Cierra Ramirez,Roger Bart,Zuri Adele. (2020).</desc>
   </programme>
   <programme start="20230113052000 +0200" stop="20230113060000 +0200" channel="BBC World">
     <title lang="el">Station 19 Κ2 ΕΠ12</title>
-    <desc lang="el">Ενώ προσπαθεί να βοηθήσει τα θύματα ενός ατυχήματος σε έναν απόμερο δρόμο, η Vic βρίσκει το κουράγιο να διαχειριστεί μια δύσκολη κατάσταση. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss. (2018).(c)</desc>
+    <desc lang="el">Ενώ προσπαθεί να βοηθήσει τα θύματα ενός ατυχήματος σε έναν απόμερο δρόμο, η Vic βρίσκει το κουράγιο να διαχειριστεί μια δύσκολη κατάσταση. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss. (2018).</desc>
   </programme>
   <programme start="20230113060000 +0200" stop="20230113065000 +0200" channel="BBC World">
     <title lang="el">Law &amp; Order: Special Victims Unit Κ15 ΕΠ10</title>
-    <desc lang="el">Η δίκη του κατά συρροή βιαστή William Lewis φέρνει για άλλη μια φορά την Benson αντιμέτωπη με τον άνθρωπο που της επιτέθηκε και το στρες που βιώνει ενώ θυμάται τις επιθέσεις, δημιουργεί εμπόδια στην ανάρρωσή της. Πρωταγωνιστούν: Mariska Hargitay,Ice-T,Danny Pino,Kelli Giddish. (2012).(c)</desc>
+    <desc lang="el">Η δίκη του κατά συρροή βιαστή William Lewis φέρνει για άλλη μια φορά την Benson αντιμέτωπη με τον άνθρωπο που της επιτέθηκε και το στρες που βιώνει ενώ θυμάται τις επιθέσεις, δημιουργεί εμπόδια στην ανάρρωσή της. Πρωταγωνιστούν: Mariska Hargitay,Ice-T,Danny Pino,Kelli Giddish. (2012).</desc>
   </programme>
   <programme start="20230113065000 +0200" stop="20230113071000 +0200" channel="BBC World">
     <title lang="el">The King of Queens Κ3 ΕΠ9</title>
-    <desc lang="el">Doug και Carrie προσέχουν τα παιδιά του Deacon και της Kelly ενώ εκείνοι λείπουν. Όταν ένα από τα παιδιά τούς βλέπει να κάνουν έρωτα στο υπνοδωμάτιο των Palmer, πρέπει να σιγουρευτούν ότι δεν θα το πει στους γονείς του. Πρωταγωνιστούν: Kevin James, Leah Remini, Jerry Stiller, Nicole Sullivan, Patton Oswalt, Gary Valentine. (2000).(c)</desc>
+    <desc lang="el">Doug και Carrie προσέχουν τα παιδιά του Deacon και της Kelly ενώ εκείνοι λείπουν. Όταν ένα από τα παιδιά τούς βλέπει να κάνουν έρωτα στο υπνοδωμάτιο των Palmer, πρέπει να σιγουρευτούν ότι δεν θα το πει στους γονείς του. Πρωταγωνιστούν: Kevin James, Leah Remini, Jerry Stiller, Nicole Sullivan, Patton Oswalt, Gary Valentine. (2000).</desc>
   </programme>
   <programme start="20230113071000 +0200" stop="20230113073500 +0200" channel="BBC World">
     <title lang="el">The King of Queens Κ3 ΕΠ10</title>
-    <desc lang="el">Όταν ο Arthur πηγαίνει στη δουλειά της Carrie, του προσφέρουν εργασία, κάτι που αρχίζει να την εκνευρίζει. Ο Doug προσπαθεί να γίνει ο Κύριος Απρίλιος για την εταιρεία του αλλά ο Deacon είναι αυτός που τον εμποδίζει. Πρωταγωνιστούν: Kevin James, Leah Remini, Jerry Stiller, Nicole Sullivan, Patton Oswalt, Gary Valentine. (2000).(c)</desc>
+    <desc lang="el">Όταν ο Arthur πηγαίνει στη δουλειά της Carrie, του προσφέρουν εργασία, κάτι που αρχίζει να την εκνευρίζει. Ο Doug προσπαθεί να γίνει ο Κύριος Απρίλιος για την εταιρεία του αλλά ο Deacon είναι αυτός που τον εμποδίζει. Πρωταγωνιστούν: Kevin James, Leah Remini, Jerry Stiller, Nicole Sullivan, Patton Oswalt, Gary Valentine. (2000).</desc>
   </programme>
   <programme start="20230113073500 +0200" stop="20230113082000 +0200" channel="BBC World">
     <title lang="el">Castle Κ1 ΕΠ9</title>
-    <desc lang="el">Ο Καστλ ανταγωνίζεται τον πρώην της Μπέκετ, έναν γοητευτικό πράκτορα του FBI που διερευνά την εξαφάνιση ενός μικρού κοριτσιού. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2009).(c)</desc>
+    <desc lang="el">Ο Καστλ ανταγωνίζεται τον πρώην της Μπέκετ, έναν γοητευτικό πράκτορα του FBI που διερευνά την εξαφάνιση ενός μικρού κοριτσιού. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2009).</desc>
   </programme>
   <programme start="20230113082000 +0200" stop="20230113090500 +0200" channel="BBC World">
     <title lang="el">Masterchef Κ12 ΕΠ2</title>
-    <desc lang="el">Τρεις σεφ που είχαν πάρει μέρος στο παιδικό Masterchef, έρχονται να διαγωνιστούν για πρώτη φορά ως ενήλικες. Πρωταγωνιστούν: Gordon Ramsay,Aarón Sanchez,Joe Bastianich. (2022).(c)</desc>
+    <desc lang="el">Τρεις σεφ που είχαν πάρει μέρος στο παιδικό Masterchef, έρχονται να διαγωνιστούν για πρώτη φορά ως ενήλικες. Πρωταγωνιστούν: Gordon Ramsay,Aarón Sanchez,Joe Bastianich. (2022).</desc>
   </programme>
   <programme start="20230113090500 +0200" stop="20230113095000 +0200" channel="BBC World">
     <title lang="el">Million Dollar Listing: New York Κ5 ΕΠ5</title>
-    <desc lang="el">Ένα τηλεφώνημα δίνει νέα πνοή στον Fredrik για μια ιδιοκτησία, αλλά έρχεται αντιμέτωπος με μια παγίδα που δεν περίμενε ποτέ. Ο Ryan κάνει τα πάντα για να εξυπηρετήσει έναν πιθανό αγοραστή αλλά δεν παίρνει κανένα αντάλλαγμα. Πρωταγωνιστούν: Ryan Serhant,Fredrik Eklund,Luis D. Ortiz. (2015).(c)</desc>
+    <desc lang="el">Ένα τηλεφώνημα δίνει νέα πνοή στον Fredrik για μια ιδιοκτησία, αλλά έρχεται αντιμέτωπος με μια παγίδα που δεν περίμενε ποτέ. Ο Ryan κάνει τα πάντα για να εξυπηρετήσει έναν πιθανό αγοραστή αλλά δεν παίρνει κανένα αντάλλαγμα. Πρωταγωνιστούν: Ryan Serhant,Fredrik Eklund,Luis D. Ortiz. (2015).</desc>
   </programme>
   <programme start="20230113095000 +0200" stop="20230113101000 +0200" channel="BBC World">
     <title lang="el">Modern Family Κ3 ΕΠ14</title>
-    <desc lang="el">Ο Phil είναι τόσο απασχολημένος με το τρόπο που θα εντυπωσιάσει το νέο του πελάτη, Tad, ώστε δεν αντιλαμβάνεται πόσο προκλητικά συμπεριφέρεται ο Tad, προς τη Claire. Πρωταγωνιστούν: Ed O'Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2011).(c)</desc>
+    <desc lang="el">Ο Phil είναι τόσο απασχολημένος με το τρόπο που θα εντυπωσιάσει το νέο του πελάτη, Tad, ώστε δεν αντιλαμβάνεται πόσο προκλητικά συμπεριφέρεται ο Tad, προς τη Claire. Πρωταγωνιστούν: Ed O'Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2011).</desc>
   </programme>
   <programme start="20230113101000 +0200" stop="20230113103000 +0200" channel="BBC World">
     <title lang="el">Modern Family Κ3 ΕΠ15</title>
-    <desc lang="el">Ο Phil και η Claire καταφέρνουν να πουλήσουν ένα σπίτι σε φίλους του Mitch και του Cam. Για να γιορτάσουν το χαρμόσυνο γεγονός, τους προσκαλούν σε δείπνο, όπου όλοι επιδίδονται σε υπερβολική κατανάλωση αλκοόλ. Πρωταγωνιστούν: Ed O'Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2011).(c)</desc>
+    <desc lang="el">Ο Phil και η Claire καταφέρνουν να πουλήσουν ένα σπίτι σε φίλους του Mitch και του Cam. Για να γιορτάσουν το χαρμόσυνο γεγονός, τους προσκαλούν σε δείπνο, όπου όλοι επιδίδονται σε υπερβολική κατανάλωση αλκοόλ. Πρωταγωνιστούν: Ed O'Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2011).</desc>
   </programme>
   <programme start="20230113103000 +0200" stop="20230113111500 +0200" channel="BBC World">
     <title lang="el">Good Trouble Κ3 ΕΠ5</title>
-    <desc lang="el">Η Mariana και η ομάδα της Fight Club ετοιμάζονται να προωθήσουν την εφαρμογή τους σε έναν προγραμματιστή αλλά είναι η ομάδα πραγματικά παθιασμένη με τη δημιουργία της; Πρωταγωνιστούν: Maia Mitchel,Cierra Ramirez,Roger Bart,Zuri Adele. (2020).(c)</desc>
+    <desc lang="el">Η Mariana και η ομάδα της Fight Club ετοιμάζονται να προωθήσουν την εφαρμογή τους σε έναν προγραμματιστή αλλά είναι η ομάδα πραγματικά παθιασμένη με τη δημιουργία της; Πρωταγωνιστούν: Maia Mitchel,Cierra Ramirez,Roger Bart,Zuri Adele. (2020).</desc>
   </programme>
   <programme start="20230113111500 +0200" stop="20230113120000 +0200" channel="BBC World">
     <title lang="el">Station 19 Κ2 ΕΠ12</title>
-    <desc lang="el">Ενώ προσπαθεί να βοηθήσει τα θύματα ενός ατυχήματος σε έναν απόμερο δρόμο, η Vic βρίσκει το κουράγιο να διαχειριστεί μια δύσκολη κατάσταση. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss. (2018).(c)</desc>
+    <desc lang="el">Ενώ προσπαθεί να βοηθήσει τα θύματα ενός ατυχήματος σε έναν απόμερο δρόμο, η Vic βρίσκει το κουράγιο να διαχειριστεί μια δύσκολη κατάσταση. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss. (2018).</desc>
   </programme>
   <programme start="20230113120000 +0200" stop="20230113124500 +0200" channel="BBC World">
     <title lang="el">Law &amp; Order: Special Victims Unit Κ15 ΕΠ11</title>
-    <desc lang="el">Μετά από ένα δείπνο στο σπίτι της Benson, οι Amaro και Rollins βλέπουν έναν αστυνομικό να κυνηγά έναν ύποπτο για εμπόριο ναρκωτικών. Πρωταγωνιστούν: Mariska Hargitay,Ice-T,Danny Pino,Kelli Giddish. (2012).(c)</desc>
+    <desc lang="el">Μετά από ένα δείπνο στο σπίτι της Benson, οι Amaro και Rollins βλέπουν έναν αστυνομικό να κυνηγά έναν ύποπτο για εμπόριο ναρκωτικών. Πρωταγωνιστούν: Mariska Hargitay,Ice-T,Danny Pino,Kelli Giddish. (2012).</desc>
   </programme>
   <programme start="20230113124500 +0200" stop="20230113133000 +0200" channel="BBC World">
     <title lang="el">Castle Κ1 ΕΠ10</title>
-    <desc lang="el">While investigating the brutal murder of a plastic surgeon, Castle and Beckett threaten to upend a federal case in order to find the killer. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2009).(c)</desc>
+    <desc lang="el">While investigating the brutal murder of a plastic surgeon, Castle and Beckett threaten to upend a federal case in order to find the killer. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2009).</desc>
   </programme>
   <programme start="20230113133000 +0200" stop="20230113141000 +0200" channel="BBC World">
     <title lang="el">Grey's Anatomy Κ14 ΕΠ20</title>
-    <desc lang="el">Κατά τη διάρκεια των παρουσιάσεων στο συνέδριο για τη Μέρα Χειρουργικής Καινοτομίας στο Grey Sloan, η Arizona μοιράζει μπισκότα που έχει φτιάξει ένας ευγνώμων ασθενής της χωρίς να γνωρίζει ότι περιέχουν ένα ιδιαίτερο συστατικό. Πρωταγωνιστούν: Ellen Pompeo,Justin Chambers,Chandra Wilson,James Pickens Jr.. (2017).(c)</desc>
+    <desc lang="el">Κατά τη διάρκεια των παρουσιάσεων στο συνέδριο για τη Μέρα Χειρουργικής Καινοτομίας στο Grey Sloan, η Arizona μοιράζει μπισκότα που έχει φτιάξει ένας ευγνώμων ασθενής της χωρίς να γνωρίζει ότι περιέχουν ένα ιδιαίτερο συστατικό. Πρωταγωνιστούν: Ellen Pompeo,Justin Chambers,Chandra Wilson,James Pickens Jr.. (2017).</desc>
   </programme>
   <programme start="20230113141000 +0200" stop="20230113143500 +0200" channel="BBC World">
     <title lang="el">The King of Queens Κ3 ΕΠ11</title>
-    <desc lang="el">Έχουν έρθει τα Χριστούγεννα και οι Heffernan βλέπουν ότι έχουν καινούριο γείτονα, ο οποίος τυχαίνει να είναι ο Lou Ferrigno. Πρωταγωνιστούν: Kevin James, Leah Remini, Jerry Stiller, Nicole Sullivan, Patton Oswalt, Gary Valentine. (2000).(c)</desc>
+    <desc lang="el">Έχουν έρθει τα Χριστούγεννα και οι Heffernan βλέπουν ότι έχουν καινούριο γείτονα, ο οποίος τυχαίνει να είναι ο Lou Ferrigno. Πρωταγωνιστούν: Kevin James, Leah Remini, Jerry Stiller, Nicole Sullivan, Patton Oswalt, Gary Valentine. (2000).</desc>
   </programme>
   <programme start="20230113143500 +0200" stop="20230113145500 +0200" channel="BBC World">
     <title lang="el">The King of Queens Κ3 ΕΠ12</title>
-    <desc lang="el">Doug και Carrie συναντούν ένα εκνευριστικό ζευγάρι που τυχαίνει να παντρεύεται. Το ζευγάρι τους καλεί στον γάμο και ο Doug με την Carrie λένε ότι θα πάνε σίγουρα. Πρωταγωνιστούν: Kevin James, Leah Remini, Jerry Stiller, Nicole Sullivan, Patton Oswalt, Gary Valentine. (2000).(c)</desc>
+    <desc lang="el">Doug και Carrie συναντούν ένα εκνευριστικό ζευγάρι που τυχαίνει να παντρεύεται. Το ζευγάρι τους καλεί στον γάμο και ο Doug με την Carrie λένε ότι θα πάνε σίγουρα. Πρωταγωνιστούν: Kevin James, Leah Remini, Jerry Stiller, Nicole Sullivan, Patton Oswalt, Gary Valentine. (2000).</desc>
   </programme>
   <programme start="20230113145500 +0200" stop="20230113154000 +0200" channel="BBC World">
     <title lang="el">Good Trouble Κ3 ΕΠ6</title>
-    <desc lang="el">Η Callie συναντά τον Jamie τυχαία σε ένα εστιατόριο και προσπαθεί να τον κάνει να ζηλέψει. Η Mariana προσκαλεί τη Rachel, μέλος του Fight Club, να μείνει προσωρινά μαζί της. Πρωταγωνιστούν: Maia Mitchel,Cierra Ramirez,Roger Bart,Zuri Adele. (2020).(c)</desc>
+    <desc lang="el">Η Callie συναντά τον Jamie τυχαία σε ένα εστιατόριο και προσπαθεί να τον κάνει να ζηλέψει. Η Mariana προσκαλεί τη Rachel, μέλος του Fight Club, να μείνει προσωρινά μαζί της. Πρωταγωνιστούν: Maia Mitchel,Cierra Ramirez,Roger Bart,Zuri Adele. (2020).</desc>
   </programme>
   <programme start="20230113154000 +0200" stop="20230113162500 +0200" channel="BBC World">
     <title lang="el">Million Dollar Listing: New York Κ5 ΕΠ6</title>
-    <desc lang="el">Για ένα καινούριο κτήριο στο NoHo, ο Fredrik τρελαίνεται και καλεί το πνεύμα ενός διάσημου νεκρού. Πρωταγωνιστούν: Ryan Serhant, Fredrik Eklund, Luis Ortiz, Tyler Whitman,Steve Gold. (2015).(c)</desc>
+    <desc lang="el">Για ένα καινούριο κτήριο στο NoHo, ο Fredrik τρελαίνεται και καλεί το πνεύμα ενός διάσημου νεκρού. Πρωταγωνιστούν: Ryan Serhant, Fredrik Eklund, Luis Ortiz, Tyler Whitman,Steve Gold. (2015).</desc>
   </programme>
   <programme start="20230113162500 +0200" stop="20230113171000 +0200" channel="BBC World">
     <title lang="el">Station 19 Κ2 ΕΠ13</title>
-    <desc lang="el">Μια διακοπή ρεύματος στο Σιάτλ δημιουργεί επικίνδυνες καταστάσεις σε όλη την πόλη και τα μέλη του Station 19 καλούνται για διάφορους λόγους, όπως για να βρουν ένα κορίτσι που έχει εξαφανιστεί και να βοηθήσουν έναν άνδρα που βρίσκεται σε μηχανική υποστήριξη. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss. (2018).(c)</desc>
+    <desc lang="el">Μια διακοπή ρεύματος στο Σιάτλ δημιουργεί επικίνδυνες καταστάσεις σε όλη την πόλη και τα μέλη του Station 19 καλούνται για διάφορους λόγους, όπως για να βρουν ένα κορίτσι που έχει εξαφανιστεί και να βοηθήσουν έναν άνδρα που βρίσκεται σε μηχανική υποστήριξη. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss. (2018).</desc>
   </programme>
   <programme start="20230113171000 +0200" stop="20230113175500 +0200" channel="BBC World">
     <title lang="el">Law &amp; Order: Special Victims Unit Κ15 ΕΠ12</title>
-    <desc lang="el">Όταν μια ανήλικη που το έχει σκάσει βρίσκεται χτυπημένη και βιασμένη, οδηγεί την ομάδα στον ιδιοκτήτη ενός στριπτιτζάδικου, ο οποίος αρνείται οποιαδήποτε ανάμιξη. Πρωταγωνιστούν: Mariska Hargitay,Ice-T,Danny Pino,Kelli Giddish. (2012).(c)</desc>
+    <desc lang="el">Όταν μια ανήλικη που το έχει σκάσει βρίσκεται χτυπημένη και βιασμένη, οδηγεί την ομάδα στον ιδιοκτήτη ενός στριπτιτζάδικου, ο οποίος αρνείται οποιαδήποτε ανάμιξη. Πρωταγωνιστούν: Mariska Hargitay,Ice-T,Danny Pino,Kelli Giddish. (2012).</desc>
   </programme>
   <programme start="20230113175500 +0200" stop="20230113184000 +0200" channel="BBC World">
     <title lang="el">Castle Κ2 ΕΠ1</title>
-    <desc lang="el">Ο Καστλ αναλογίζεται πώς να συμφιλιωθεί με την Μπέκετ και να πώς να τελειώσει το βιβλίο του, όταν οι δυο τους καλούνται να ερευνήσουν τον φόνο ενός άνδρα που βρέθηκε μπλεγμένος στα κλαδιά ενός δέντρου. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2010).(c)</desc>
+    <desc lang="el">Ο Καστλ αναλογίζεται πώς να συμφιλιωθεί με την Μπέκετ και να πώς να τελειώσει το βιβλίο του, όταν οι δυο τους καλούνται να ερευνήσουν τον φόνο ενός άνδρα που βρέθηκε μπλεγμένος στα κλαδιά ενός δέντρου. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2010).</desc>
   </programme>
   <programme start="20230113184000 +0200" stop="20230113192500 +0200" channel="BBC World">
     <title lang="el">Grey's Anatomy Κ14 ΕΠ21</title>
-    <desc lang="el">Το νοσοκομείο αντιμετωπίζει μία κρίση εξαιτίας κατηγοριών εναντίον του Harper Avery. Πρωταγωνιστούν: Ellen Pompeo,Justin Chambers,Chandra Wilson,James Pickens Jr.. (2017).(c)</desc>
+    <desc lang="el">Το νοσοκομείο αντιμετωπίζει μία κρίση εξαιτίας κατηγοριών εναντίον του Harper Avery. Πρωταγωνιστούν: Ellen Pompeo,Justin Chambers,Chandra Wilson,James Pickens Jr.. (2017).</desc>
   </programme>
   <programme start="20230113192500 +0200" stop="20230113195000 +0200" channel="BBC World">
     <title lang="el">The King of Queens Κ3 ΕΠ13</title>
-    <desc lang="el">Για να δει το επικείμενο Super Bowl σε τηλεόραση υψηλής ευκρίνειας, ο Doug οργανώνει ένα σχέδιο για να κάνει την αδερφή του, Stephanie, να βγει με το πλούσιο αφεντικό της Carrie. Πρωταγωνιστούν: Kevin James, Leah Remini, Jerry Stiller, Nicole Sullivan, Patton Oswalt, Gary Valentine. (2000).(c)</desc>
+    <desc lang="el">Για να δει το επικείμενο Super Bowl σε τηλεόραση υψηλής ευκρίνειας, ο Doug οργανώνει ένα σχέδιο για να κάνει την αδερφή του, Stephanie, να βγει με το πλούσιο αφεντικό της Carrie. Πρωταγωνιστούν: Kevin James, Leah Remini, Jerry Stiller, Nicole Sullivan, Patton Oswalt, Gary Valentine. (2000).</desc>
   </programme>
   <programme start="20230113195000 +0200" stop="20230113201500 +0200" channel="BBC World">
     <title lang="el">The King of Queens Κ3 ΕΠ14</title>
-    <desc lang="el">Ο Doug πρόκειται να κάνει ένα πάρτι με πέιντμπολ για τον Deacon. Ωστόσο, θυμώνει με την Carrie γιατί βρίσκει τον Deacon ελκυστικό. Πρωταγωνιστούν: Kevin James, Leah Remini, Jerry Stiller, Nicole Sullivan, Patton Oswalt, Gary Valentine. (2000).(c)</desc>
+    <desc lang="el">Ο Doug πρόκειται να κάνει ένα πάρτι με πέιντμπολ για τον Deacon. Ωστόσο, θυμώνει με την Carrie γιατί βρίσκει τον Deacon ελκυστικό. Πρωταγωνιστούν: Kevin James, Leah Remini, Jerry Stiller, Nicole Sullivan, Patton Oswalt, Gary Valentine. (2000).</desc>
   </programme>
   <programme start="20230113201500 +0200" stop="20230113203500 +0200" channel="BBC World">
     <title lang="el">Modern Family Κ3 ΕΠ16</title>
-    <desc lang="el">Είναι μια μέρα γεμάτη ανησυχητικές διαπιστώσεις όταν ο Mitchell καταφέρνει να καταστρέψει μια από τις πιο σημαντικές στιγμές του Jay στο γκολφ. Ο Phil ακούει κάτι που ενδέχεται να αλλάξει τον τρόπο που βλέπει τη κόρη του. Πρωταγωνιστούν: Ed O'Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2011).(c)</desc>
+    <desc lang="el">Είναι μια μέρα γεμάτη ανησυχητικές διαπιστώσεις όταν ο Mitchell καταφέρνει να καταστρέψει μια από τις πιο σημαντικές στιγμές του Jay στο γκολφ. Ο Phil ακούει κάτι που ενδέχεται να αλλάξει τον τρόπο που βλέπει τη κόρη του. Πρωταγωνιστούν: Ed O'Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2011).</desc>
   </programme>
   <programme start="20230113203500 +0200" stop="20230113210000 +0200" channel="BBC World">
     <title lang="el">Modern Family Κ3 ΕΠ17</title>
-    <desc lang="el">Λόγο του ότι τα γενέθλια του Cameron είναι στις 29 Φεβρουαρίου, και οι ευκαρίες για να τα γιορτάσει είναι σπάνιες, ο Mitchell αγχώνεται για να τα οργανώσει όλα τέλεια. Πρωταγωνιστούν: Ed O'Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2011).(c)</desc>
+    <desc lang="el">Λόγο του ότι τα γενέθλια του Cameron είναι στις 29 Φεβρουαρίου, και οι ευκαρίες για να τα γιορτάσει είναι σπάνιες, ο Mitchell αγχώνεται για να τα οργανώσει όλα τέλεια. Πρωταγωνιστούν: Ed O'Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2011).</desc>
   </programme>
   <programme start="20230113210000 +0200" stop="20230113214500 +0200" channel="BBC World">
     <title lang="el">Masterchef Κ12 ΕΠ3</title>
-    <desc lang="el">Με μόλις τρεις ποδιές να έχουν απομείνει, οι κριτές δίνουν την ευκαιρία σε μερικούς τυχερούς σεφ να επιστρέψουν στην κουζίνα. Πρωταγωνιστούν: Gordon Ramsay,Aarón Sanchez,Joe Bastianich. (2022).(c)</desc>
+    <desc lang="el">Με μόλις τρεις ποδιές να έχουν απομείνει, οι κριτές δίνουν την ευκαιρία σε μερικούς τυχερούς σεφ να επιστρέψουν στην κουζίνα. Πρωταγωνιστούν: Gordon Ramsay,Aarón Sanchez,Joe Bastianich. (2022).</desc>
   </programme>
   <programme start="20230113214500 +0200" stop="20230113223500 +0200" channel="BBC World">
     <title lang="el">Good Trouble Κ4 ΕΠ18</title>
-    <desc lang="el">Τώρα που η Ιζαμπέλα θέλει να δώσει το μωρό για υιοθεσία, ο Γκέιλ αποφασίζει τι ρόλο θέλει να έχει στη ζωή του παιδιού του. Πρωταγωνιστούν: Maia Mitchell,Cierra Ramirez,Zuri Adele,Sherry Cola,Emma Hunton,Tommy Martinez,Josh Pence,Priscilla Quintana. (2021).(c)</desc>
+    <desc lang="el">Τώρα που η Ιζαμπέλα θέλει να δώσει το μωρό για υιοθεσία, ο Γκέιλ αποφασίζει τι ρόλο θέλει να έχει στη ζωή του παιδιού του. Πρωταγωνιστούν: Maia Mitchell,Cierra Ramirez,Zuri Adele,Sherry Cola,Emma Hunton,Tommy Martinez,Josh Pence,Priscilla Quintana. (2021).</desc>
   </programme>
   <programme start="20230113223500 +0200" stop="20230113232000 +0200" channel="BBC World">
     <title lang="el">Castle Κ2 ΕΠ2</title>
-    <desc lang="el">Ο Καστλ στοιχηματίζει ότι με την Μπέκετ θα λύσουν πρώτοι μια υπόθεση. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2010).(c)</desc>
+    <desc lang="el">Ο Καστλ στοιχηματίζει ότι με την Μπέκετ θα λύσουν πρώτοι μια υπόθεση. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2010).</desc>
   </programme>
   <programme start="20230113232000 +0200" stop="20230113233000 +0200" channel="BBC World">
     <title lang="el">Masterchef Κ12 ΕΠ3</title>
-    <desc lang="el">Με μόλις τρεις ποδιές να έχουν απομείνει, οι κριτές δίνουν την ευκαιρία σε μερικούς τυχερούς σεφ να επιστρέψουν στην κουζίνα. Πρωταγωνιστούν: Gordon Ramsay,Aarón Sanchez,Joe Bastianich. (2022).(c)</desc>
+    <desc lang="el">Με μόλις τρεις ποδιές να έχουν απομείνει, οι κριτές δίνουν την ευκαιρία σε μερικούς τυχερούς σεφ να επιστρέψουν στην κουζίνα. Πρωταγωνιστούν: Gordon Ramsay,Aarón Sanchez,Joe Bastianich. (2022).</desc>
   </programme>
   <programme start="20230113233000 +0200" stop="20230114002000 +0200" channel="BBC World">
     <title lang="el">Ο κύριος Μαγκού Κ1</title>
-    <desc lang="el">Ο κύριος Μαγκού είναι ένας πλούσιος συνταξιούχος που μπλέκει σε μια σειρά κωμικές καταστάσεις, λόγω της έντονης μυωπίας του. Πρωταγωνιστούν: Ian Hanlin, Colin Murdock. (2019).(c)</desc>
+    <desc lang="el">Ο κύριος Μαγκού είναι ένας πλούσιος συνταξιούχος που μπλέκει σε μια σειρά κωμικές καταστάσεις, λόγω της έντονης μυωπίας του. Πρωταγωνιστούν: Ian Hanlin, Colin Murdock. (2019).</desc>
   </programme>
   <programme start="20230114002000 +0200" stop="20230114010500 +0200" channel="BBC World">
     <title lang="el">Mr Bean: ιστορίες κινουμένων σχεδίων Κ1</title>
-    <desc lang="el">Ο αλλοπρόσαλλος αλλά ξεκαρδιστικά αστείος κύριος Μπιν και ο καλύτερός του φίλος (ένα λούτρινο αρκουδάκι) προσπαθούν, μεταξύ άλλων, να αποφύγουν την εξοργισμένη σπιτονοικοκυρά ή μια μοχθηρή μονόφθαλμη γάτα. (2002).(c)</desc>
+    <desc lang="el">Ο αλλοπρόσαλλος αλλά ξεκαρδιστικά αστείος κύριος Μπιν και ο καλύτερός του φίλος (ένα λούτρινο αρκουδάκι) προσπαθούν, μεταξύ άλλων, να αποφύγουν την εξοργισμένη σπιτονοικοκυρά ή μια μοχθηρή μονόφθαλμη γάτα. (2002).</desc>
   </programme>
   <programme start="20230114010500 +0200" stop="20230114014500 +0200" channel="BBC World">
     <title lang="el">Ο Γκρίζι και τα λέμινγκ Κ1</title>
-    <desc lang="el">Ακόμα και μια γιγάντια δίμετρη αρκούδα δεν είναι εύκολο να απαλλαγεί από τα ενοχλητικά λέμινγκς, όμως έχει πλάκα να τους παρακολουθεί κανείς να προσπαθούν να τη φέρουν ο ένας στον άλλον, καταστρώνοντας πονηρά σχέδια. Σκηνοθεσία: Victor Moulin. Πρωταγωνιστούν: Pierre-Alain de Garrigues, Josselin Charier,. (2016).(c)</desc>
+    <desc lang="el">Ακόμα και μια γιγάντια δίμετρη αρκούδα δεν είναι εύκολο να απαλλαγεί από τα ενοχλητικά λέμινγκς, όμως έχει πλάκα να τους παρακολουθεί κανείς να προσπαθούν να τη φέρουν ο ένας στον άλλον, καταστρώνοντας πονηρά σχέδια. Σκηνοθεσία: Victor Moulin. Πρωταγωνιστούν: Pierre-Alain de Garrigues, Josselin Charier,. (2016).</desc>
   </programme>
   <programme start="20230114014500 +0200" stop="20230114023000 +0200" channel="BBC World">
     <title lang="el">Mr Bean: ιστορίες κινουμένων σχεδίων Κ2</title>
-    <desc lang="el">Ο αλλοπρόσαλλος αλλά ξεκαρδιστικά αστείος κύριος Μπιν και ο καλύτερός του φίλος (ένα λούτρινο αρκουδάκι) προσπαθούν, μεταξύ άλλων, να αποφύγουν την εξοργισμένη σπιτονοικοκυρά ή μια μοχθηρή μονόφθαλμη γάτα. Πρωταγωνιστούν: Rowan Atkinson. (2015).(c)</desc>
+    <desc lang="el">Ο αλλοπρόσαλλος αλλά ξεκαρδιστικά αστείος κύριος Μπιν και ο καλύτερός του φίλος (ένα λούτρινο αρκουδάκι) προσπαθούν, μεταξύ άλλων, να αποφύγουν την εξοργισμένη σπιτονοικοκυρά ή μια μοχθηρή μονόφθαλμη γάτα. Πρωταγωνιστούν: Rowan Atkinson. (2015).</desc>
   </programme>
   <programme start="20230114023000 +0200" stop="20230114031500 +0200" channel="BBC World">
     <title lang="el">Ο κύριος Μαγκού Κ1</title>
-    <desc lang="el">Ο κύριος Μαγκού είναι ένας πλούσιος συνταξιούχος που μπλέκει σε μια σειρά κωμικές καταστάσεις, λόγω της έντονης μυωπίας του. Πρωταγωνιστούν: Ian Hanlin, Colin Murdock. (2019).(c)</desc>
+    <desc lang="el">Ο κύριος Μαγκού είναι ένας πλούσιος συνταξιούχος που μπλέκει σε μια σειρά κωμικές καταστάσεις, λόγω της έντονης μυωπίας του. Πρωταγωνιστούν: Ian Hanlin, Colin Murdock. (2019).</desc>
   </programme>
   <programme start="20230114031500 +0200" stop="20230114040000 +0200" channel="BBC World">
     <title lang="el">Ο Γκρίζι και τα λέμινγκ Κ1</title>
-    <desc lang="el">Ακόμα και μια γιγάντια δίμετρη αρκούδα δεν είναι εύκολο να απαλλαγεί από τα ενοχλητικά λέμινγκς, όμως έχει πλάκα να τους παρακολουθεί κανείς να προσπαθούν να τη φέρουν ο ένας στον άλλον, καταστρώνοντας πονηρά σχέδια. Σκηνοθεσία: Victor Moulin. Πρωταγωνιστούν: Pierre-Alain de Garrigues, Josselin Charier,. (2016).(c)</desc>
+    <desc lang="el">Ακόμα και μια γιγάντια δίμετρη αρκούδα δεν είναι εύκολο να απαλλαγεί από τα ενοχλητικά λέμινγκς, όμως έχει πλάκα να τους παρακολουθεί κανείς να προσπαθούν να τη φέρουν ο ένας στον άλλον, καταστρώνοντας πονηρά σχέδια. Σκηνοθεσία: Victor Moulin. Πρωταγωνιστούν: Pierre-Alain de Garrigues, Josselin Charier,. (2016).</desc>
   </programme>
   <programme start="20230114040000 +0200" stop="20230114044000 +0200" channel="BBC World">
     <title lang="el">Ο Γκρίζι και τα λέμινγκ Κ1</title>
-    <desc lang="el">Ακόμα και μια γιγάντια δίμετρη αρκούδα δεν είναι εύκολο να απαλλαγεί από τα ενοχλητικά λέμινγκς, όμως έχει πλάκα να τους παρακολουθεί κανείς να προσπαθούν να τη φέρουν ο ένας στον άλλον, καταστρώνοντας πονηρά σχέδια. Σκηνοθεσία: Victor Moulin. Πρωταγωνιστούν: Pierre-Alain de Garrigues, Josselin Charier,. (2016).(c)</desc>
+    <desc lang="el">Ακόμα και μια γιγάντια δίμετρη αρκούδα δεν είναι εύκολο να απαλλαγεί από τα ενοχλητικά λέμινγκς, όμως έχει πλάκα να τους παρακολουθεί κανείς να προσπαθούν να τη φέρουν ο ένας στον άλλον, καταστρώνοντας πονηρά σχέδια. Σκηνοθεσία: Victor Moulin. Πρωταγωνιστούν: Pierre-Alain de Garrigues, Josselin Charier,. (2016).</desc>
   </programme>
   <programme start="20230114044000 +0200" stop="20230114053500 +0200" channel="BBC World">
     <title lang="el">Mr Bean: ιστορίες κινουμένων σχεδίων Κ2</title>
-    <desc lang="el">Ο αλλοπρόσαλλος αλλά ξεκαρδιστικά αστείος κύριος Μπιν και ο καλύτερός του φίλος (ένα λούτρινο αρκουδάκι) προσπαθούν, μεταξύ άλλων, να αποφύγουν την εξοργισμένη σπιτονοικοκυρά ή μια μοχθηρή μονόφθαλμη γάτα. Πρωταγωνιστούν: Rowan Atkinson. (2015).(c)</desc>
+    <desc lang="el">Ο αλλοπρόσαλλος αλλά ξεκαρδιστικά αστείος κύριος Μπιν και ο καλύτερός του φίλος (ένα λούτρινο αρκουδάκι) προσπαθούν, μεταξύ άλλων, να αποφύγουν την εξοργισμένη σπιτονοικοκυρά ή μια μοχθηρή μονόφθαλμη γάτα. Πρωταγωνιστούν: Rowan Atkinson. (2015).</desc>
   </programme>
   <programme start="20230114053500 +0200" stop="20230114061500 +0200" channel="BBC World">
     <title lang="el">Mr Bean: ιστορίες κινουμένων σχεδίων Κ1</title>
-    <desc lang="el">Ο αλλοπρόσαλλος αλλά ξεκαρδιστικά αστείος κύριος Μπιν και ο καλύτερός του φίλος (ένα λούτρινο αρκουδάκι) προσπαθούν, μεταξύ άλλων, να αποφύγουν την εξοργισμένη σπιτονοικοκυρά ή μια μοχθηρή μονόφθαλμη γάτα. (2002).(c)</desc>
+    <desc lang="el">Ο αλλοπρόσαλλος αλλά ξεκαρδιστικά αστείος κύριος Μπιν και ο καλύτερός του φίλος (ένα λούτρινο αρκουδάκι) προσπαθούν, μεταξύ άλλων, να αποφύγουν την εξοργισμένη σπιτονοικοκυρά ή μια μοχθηρή μονόφθαλμη γάτα. (2002).</desc>
   </programme>
   <programme start="20230114061500 +0200" stop="20230114070000 +0200" channel="BBC World">
     <title lang="el">Τομ και Τζέρι Κ3</title>
-    <desc lang="el">Μια ολοκαίνουρια εκδοχή των κλασικών χαρακτήρων, με όλη την τρέλα και το πανδαιμόνιο να παραμένουν απαράλλαχτα. Παρακολουθήστε τον Τομ και τον Τζέρι να οργανώνουν τη μια μηχανορραφία μετά την άλλη. Σκηνοθεσία: Darrell Van Citters,. (2016).(c)</desc>
+    <desc lang="el">Μια ολοκαίνουρια εκδοχή των κλασικών χαρακτήρων, με όλη την τρέλα και το πανδαιμόνιο να παραμένουν απαράλλαχτα. Παρακολουθήστε τον Τομ και τον Τζέρι να οργανώνουν τη μια μηχανορραφία μετά την άλλη. Σκηνοθεσία: Darrell Van Citters,. (2016).</desc>
   </programme>
   <programme start="20230114070000 +0200" stop="20230114074500 +0200" channel="BBC World">
     <title lang="el">Ο Γκρίζι και τα λέμινγκ Κ1</title>
-    <desc lang="el">Ακόμα και μια γιγάντια δίμετρη αρκούδα δεν είναι εύκολο να απαλλαγεί από τα ενοχλητικά λέμινγκς, όμως έχει πλάκα να τους παρακολουθεί κανείς να προσπαθούν να τη φέρουν ο ένας στον άλλον, καταστρώνοντας πονηρά σχέδια. Σκηνοθεσία: Victor Moulin. Πρωταγωνιστούν: Pierre-Alain de Garrigues, Josselin Charier,. (2016).(c)</desc>
+    <desc lang="el">Ακόμα και μια γιγάντια δίμετρη αρκούδα δεν είναι εύκολο να απαλλαγεί από τα ενοχλητικά λέμινγκς, όμως έχει πλάκα να τους παρακολουθεί κανείς να προσπαθούν να τη φέρουν ο ένας στον άλλον, καταστρώνοντας πονηρά σχέδια. Σκηνοθεσία: Victor Moulin. Πρωταγωνιστούν: Pierre-Alain de Garrigues, Josselin Charier,. (2016).</desc>
   </programme>
   <programme start="20230114074500 +0200" stop="20230114080500 +0200" channel="BBC World">
     <title lang="el">Mr Bean: ιστορίες κινουμένων σχεδίων Κ2</title>
-    <desc lang="el">Ο αλλοπρόσαλλος αλλά ξεκαρδιστικά αστείος κύριος Μπιν και ο καλύτερός του φίλος (ένα λούτρινο αρκουδάκι) προσπαθούν, μεταξύ άλλων, να αποφύγουν την εξοργισμένη σπιτονοικοκυρά ή μια μοχθηρή μονόφθαλμη γάτα. Πρωταγωνιστούν: Rowan Atkinson. (2015).(c)</desc>
+    <desc lang="el">Ο αλλοπρόσαλλος αλλά ξεκαρδιστικά αστείος κύριος Μπιν και ο καλύτερός του φίλος (ένα λούτρινο αρκουδάκι) προσπαθούν, μεταξύ άλλων, να αποφύγουν την εξοργισμένη σπιτονοικοκυρά ή μια μοχθηρή μονόφθαλμη γάτα. Πρωταγωνιστούν: Rowan Atkinson. (2015).</desc>
   </programme>
   <programme start="20230114080500 +0200" stop="20230114083000 +0200" channel="BBC World">
     <title lang="el">Mr Bean: ιστορίες κινουμένων σχεδίων Κ2</title>
-    <desc lang="el">Ο αλλοπρόσαλλος αλλά ξεκαρδιστικά αστείος κύριος Μπιν και ο καλύτερός του φίλος (ένα λούτρινο αρκουδάκι) προσπαθούν, μεταξύ άλλων, να αποφύγουν την εξοργισμένη σπιτονοικοκυρά ή μια μοχθηρή μονόφθαλμη γάτα. Πρωταγωνιστούν: Rowan Atkinson. (2015).(c)</desc>
+    <desc lang="el">Ο αλλοπρόσαλλος αλλά ξεκαρδιστικά αστείος κύριος Μπιν και ο καλύτερός του φίλος (ένα λούτρινο αρκουδάκι) προσπαθούν, μεταξύ άλλων, να αποφύγουν την εξοργισμένη σπιτονοικοκυρά ή μια μοχθηρή μονόφθαλμη γάτα. Πρωταγωνιστούν: Rowan Atkinson. (2015).</desc>
   </programme>
   <programme start="20230114083000 +0200" stop="20230114091500 +0200" channel="BBC World">
     <title lang="el">Ο κύριος Μαγκού Κ1</title>
-    <desc lang="el">Ο κύριος Μαγκού είναι ένας πλούσιος συνταξιούχος που μπλέκει σε μια σειρά κωμικές καταστάσεις, λόγω της έντονης μυωπίας του. Πρωταγωνιστούν: Ian Hanlin, Colin Murdock. (2019).(c)</desc>
+    <desc lang="el">Ο κύριος Μαγκού είναι ένας πλούσιος συνταξιούχος που μπλέκει σε μια σειρά κωμικές καταστάσεις, λόγω της έντονης μυωπίας του. Πρωταγωνιστούν: Ian Hanlin, Colin Murdock. (2019).</desc>
   </programme>
   <programme start="20230114091500 +0200" stop="20230114100000 +0200" channel="BBC World">
     <title lang="el">Τομ και Τζέρι Κ3</title>
-    <desc lang="el">Μια ολοκαίνουρια εκδοχή των κλασικών χαρακτήρων, με όλη την τρέλα και το πανδαιμόνιο να παραμένουν απαράλλαχτα. Παρακολουθήστε τον Τομ και τον Τζέρι να οργανώνουν τη μια μηχανορραφία μετά την άλλη. Σκηνοθεσία: Darrell Van Citters,. (2017).(c)</desc>
+    <desc lang="el">Μια ολοκαίνουρια εκδοχή των κλασικών χαρακτήρων, με όλη την τρέλα και το πανδαιμόνιο να παραμένουν απαράλλαχτα. Παρακολουθήστε τον Τομ και τον Τζέρι να οργανώνουν τη μια μηχανορραφία μετά την άλλη. Σκηνοθεσία: Darrell Van Citters,. (2017).</desc>
   </programme>
   <programme start="20230114100000 +0200" stop="20230114102000 +0200" channel="BBC World">
     <title lang="el">Μόλι Κ1</title>
-    <desc lang="el">Το Μόλι ακολουθεί τις περιπέτειες ενός αισιόδοξου νεαρού τυφλοπόντικα που κυκλοφορεί στις υπόγειες στοές του μυστικού βασιλείου του και μπλέκει σε πολλούς καλοπροαίρετους μπελάδες στην πορεία. Αλλά με επιμονή, ευρηματικότητα και φίλους που τον βοηθούν, ο Μόλι βρίσκει πάντα έναν έξυπνο τρόπο να ξεμπλέξει από κρίσιμες καταστάσεις. Πρωταγωνιστούν: Warwick Davis, Gemma Arterton. (2021).(c)</desc>
+    <desc lang="el">Το Μόλι ακολουθεί τις περιπέτειες ενός αισιόδοξου νεαρού τυφλοπόντικα που κυκλοφορεί στις υπόγειες στοές του μυστικού βασιλείου του και μπλέκει σε πολλούς καλοπροαίρετους μπελάδες στην πορεία. Αλλά με επιμονή, ευρηματικότητα και φίλους που τον βοηθούν, ο Μόλι βρίσκει πάντα έναν έξυπνο τρόπο να ξεμπλέξει από κρίσιμες καταστάσεις. Πρωταγωνιστούν: Warwick Davis, Gemma Arterton. (2021).</desc>
   </programme>
   <programme start="20230114102000 +0200" stop="20230114104500 +0200" channel="BBC World">
     <title lang="el">Μόλι Κ1</title>
-    <desc lang="el">Το Μόλι ακολουθεί τις περιπέτειες ενός αισιόδοξου νεαρού τυφλοπόντικα που κυκλοφορεί στις υπόγειες στοές του μυστικού βασιλείου του και μπλέκει σε πολλούς καλοπροαίρετους μπελάδες στην πορεία. Αλλά με επιμονή, ευρηματικότητα και φίλους που τον βοηθούν, ο Μόλι βρίσκει πάντα έναν έξυπνο τρόπο να ξεμπλέξει από κρίσιμες καταστάσεις. Πρωταγωνιστούν: Warwick Davis, Gemma Arterton. (2021).(c)</desc>
+    <desc lang="el">Το Μόλι ακολουθεί τις περιπέτειες ενός αισιόδοξου νεαρού τυφλοπόντικα που κυκλοφορεί στις υπόγειες στοές του μυστικού βασιλείου του και μπλέκει σε πολλούς καλοπροαίρετους μπελάδες στην πορεία. Αλλά με επιμονή, ευρηματικότητα και φίλους που τον βοηθούν, ο Μόλι βρίσκει πάντα έναν έξυπνο τρόπο να ξεμπλέξει από κρίσιμες καταστάσεις. Πρωταγωνιστούν: Warwick Davis, Gemma Arterton. (2021).</desc>
   </programme>
   <programme start="20230114104500 +0200" stop="20230114113000 +0200" channel="BBC World">
     <title lang="el">Τόμας &amp;Φίλοι (aka: Τόμας το Τρενάκι) Κ25</title>
-    <desc lang="el">Το σόου ακολουθεί τις περιπέτειες μιας άταχτης Ατμομηχανής, του Τόμας, και των φίλων του. Ο κόσμος του Τόμας, οριοθετημένος στο φανταστικό νησί Σόντορ, όπου όλα τα οχήματα έχουν δική τους προσωπικότητα, είναι ένα ειδυλλιακό μέρος όπου όλοι πρόθυμα ασπάζονται τους καλούς τρόπους, τη σκληρή δουλειά και την επιθυμία να είναι πραγματικά χρήσιμοι, που θεωρείται ο απόλυτος έπαινος για μια ατμομηχανή! Πρωταγωνιστούν: Michael Angelis. (2021).(c)</desc>
+    <desc lang="el">Το σόου ακολουθεί τις περιπέτειες μιας άταχτης Ατμομηχανής, του Τόμας, και των φίλων του. Ο κόσμος του Τόμας, οριοθετημένος στο φανταστικό νησί Σόντορ, όπου όλα τα οχήματα έχουν δική τους προσωπικότητα, είναι ένα ειδυλλιακό μέρος όπου όλοι πρόθυμα ασπάζονται τους καλούς τρόπους, τη σκληρή δουλειά και την επιθυμία να είναι πραγματικά χρήσιμοι, που θεωρείται ο απόλυτος έπαινος για μια ατμομηχανή! Πρωταγωνιστούν: Michael Angelis. (2021).</desc>
   </programme>
   <programme start="20230114113000 +0200" stop="20230114121000 +0200" channel="BBC World">
     <title lang="el">Λούκας, η Αράχνη Κ1</title>
-    <desc lang="el">Κάθε μέρα είναι μια περιπέτεια με τον Λούκας, την Αράχνη! Δείτε τον κόσμο από μια τελείως νέα οπτική γωνία, γνωρίστε τους φίλους του Λούκας και γελάστε πολύ στην πορεία! Ελάτε να γνωρίσετε την πιο χαριτωμένη αράχνη στο Λούκας, η Αράχνη! Πρωταγωνιστούν: Lucas Slice. (2021).(c)</desc>
+    <desc lang="el">Κάθε μέρα είναι μια περιπέτεια με τον Λούκας, την Αράχνη! Δείτε τον κόσμο από μια τελείως νέα οπτική γωνία, γνωρίστε τους φίλους του Λούκας και γελάστε πολύ στην πορεία! Ελάτε να γνωρίσετε την πιο χαριτωμένη αράχνη στο Λούκας, η Αράχνη! Πρωταγωνιστούν: Lucas Slice. (2021).</desc>
   </programme>
   <programme start="20230114121000 +0200" stop="20230114125500 +0200" channel="BBC World">
     <title lang="el">Ποκογιό Κ4</title>
-    <desc lang="el">Ο Ποκογιό είναι ένα παιχνιδιάρικο, περίεργο αγοράκι που του αρέσει να μαθαίνει και να εξερευνά! Ελάτε να χορέψουμε, να τραγουδήσουμε και να διασκεδάσουμε με τον Ποκογιό! Σκηνοθεσία: Alfonso Rodríguez,Álejandro Hidalgo,. Πρωταγωνιστούν: Gigi Hart, Noelia Rodríguez,. (2019).(c)</desc>
+    <desc lang="el">Ο Ποκογιό είναι ένα παιχνιδιάρικο, περίεργο αγοράκι που του αρέσει να μαθαίνει και να εξερευνά! Ελάτε να χορέψουμε, να τραγουδήσουμε και να διασκεδάσουμε με τον Ποκογιό! Σκηνοθεσία: Alfonso Rodríguez,Álejandro Hidalgo,. Πρωταγωνιστούν: Gigi Hart, Noelia Rodríguez,. (2019).</desc>
   </programme>
   <programme start="20230114125500 +0200" stop="20230114131500 +0200" channel="BBC World">
     <title lang="el">Μόλι Κ1</title>
-    <desc lang="el">Το Μόλι ακολουθεί τις περιπέτειες ενός αισιόδοξου νεαρού τυφλοπόντικα που κυκλοφορεί στις υπόγειες στοές του μυστικού βασιλείου του και μπλέκει σε πολλούς καλοπροαίρετους μπελάδες στην πορεία. Αλλά με επιμονή, ευρηματικότητα και φίλους που τον βοηθούν, ο Μόλι βρίσκει πάντα έναν έξυπνο τρόπο να ξεμπλέξει από κρίσιμες καταστάσεις. Πρωταγωνιστούν: Warwick Davis, Gemma Arterton. (2021).(c)</desc>
+    <desc lang="el">Το Μόλι ακολουθεί τις περιπέτειες ενός αισιόδοξου νεαρού τυφλοπόντικα που κυκλοφορεί στις υπόγειες στοές του μυστικού βασιλείου του και μπλέκει σε πολλούς καλοπροαίρετους μπελάδες στην πορεία. Αλλά με επιμονή, ευρηματικότητα και φίλους που τον βοηθούν, ο Μόλι βρίσκει πάντα έναν έξυπνο τρόπο να ξεμπλέξει από κρίσιμες καταστάσεις. Πρωταγωνιστούν: Warwick Davis, Gemma Arterton. (2021).</desc>
   </programme>
   <programme start="20230114131500 +0200" stop="20230114134000 +0200" channel="BBC World">
     <title lang="el">Μόλι Κ1</title>
-    <desc lang="el">Το Μόλι ακολουθεί τις περιπέτειες ενός αισιόδοξου νεαρού τυφλοπόντικα που κυκλοφορεί στις υπόγειες στοές του μυστικού βασιλείου του και μπλέκει σε πολλούς καλοπροαίρετους μπελάδες στην πορεία. Αλλά με επιμονή, ευρηματικότητα και φίλους που τον βοηθούν, ο Μόλι βρίσκει πάντα έναν έξυπνο τρόπο να ξεμπλέξει από κρίσιμες καταστάσεις. Πρωταγωνιστούν: Warwick Davis, Gemma Arterton. (2021).(c)</desc>
+    <desc lang="el">Το Μόλι ακολουθεί τις περιπέτειες ενός αισιόδοξου νεαρού τυφλοπόντικα που κυκλοφορεί στις υπόγειες στοές του μυστικού βασιλείου του και μπλέκει σε πολλούς καλοπροαίρετους μπελάδες στην πορεία. Αλλά με επιμονή, ευρηματικότητα και φίλους που τον βοηθούν, ο Μόλι βρίσκει πάντα έναν έξυπνο τρόπο να ξεμπλέξει από κρίσιμες καταστάσεις. Πρωταγωνιστούν: Warwick Davis, Gemma Arterton. (2021).</desc>
   </programme>
   <programme start="20230114134000 +0200" stop="20230114142500 +0200" channel="BBC World">
     <title lang="el">Mush-Mush And The Mushables Κ1</title>
-    <desc lang="el">Το Mush-Mush and the Mushables είναι μια ιστορία με διασκεδαστικούς μύκητες! Ο Mush-Mush και οι φίλοι του είναι μικροσκοπικοί φύλακες του δάσους που μπλέκουν σε περιπέτειες στον θαυμαστό και άγριο κόσμο της φύσης! Ζήστε την περιπέτεια μαζί τους καθώς μαθαίνουν για τις μοναδικές τους ικανότητες, διασκεδάζουν και ανακαλύπτουν ότι υπάρχουν πολλά να μάθουν για την ενηλικίωση! Σκηνοθεσία: Joeri Christiaen. Πρωταγωνιστούν: Jules de Jongh, Teresa Gallagher, Kaycie Chase,. (2020).(c)</desc>
+    <desc lang="el">Το Mush-Mush and the Mushables είναι μια ιστορία με διασκεδαστικούς μύκητες! Ο Mush-Mush και οι φίλοι του είναι μικροσκοπικοί φύλακες του δάσους που μπλέκουν σε περιπέτειες στον θαυμαστό και άγριο κόσμο της φύσης! Ζήστε την περιπέτεια μαζί τους καθώς μαθαίνουν για τις μοναδικές τους ικανότητες, διασκεδάζουν και ανακαλύπτουν ότι υπάρχουν πολλά να μάθουν για την ενηλικίωση! Σκηνοθεσία: Joeri Christiaen. Πρωταγωνιστούν: Jules de Jongh, Teresa Gallagher, Kaycie Chase,. (2020).</desc>
   </programme>
   <programme start="20230114142500 +0200" stop="20230114145000 +0200" channel="BBC World">
     <title lang="el">Μόλι Κ1</title>
-    <desc lang="el">Το Μόλι ακολουθεί τις περιπέτειες ενός αισιόδοξου νεαρού τυφλοπόντικα που κυκλοφορεί στις υπόγειες στοές του μυστικού βασιλείου του και μπλέκει σε πολλούς καλοπροαίρετους μπελάδες στην πορεία. Αλλά με επιμονή, ευρηματικότητα και φίλους που τον βοηθούν, ο Μόλι βρίσκει πάντα έναν έξυπνο τρόπο να ξεμπλέξει από κρίσιμες καταστάσεις. Πρωταγωνιστούν: Warwick Davis, Gemma Arterton. (2021).(c)</desc>
+    <desc lang="el">Το Μόλι ακολουθεί τις περιπέτειες ενός αισιόδοξου νεαρού τυφλοπόντικα που κυκλοφορεί στις υπόγειες στοές του μυστικού βασιλείου του και μπλέκει σε πολλούς καλοπροαίρετους μπελάδες στην πορεία. Αλλά με επιμονή, ευρηματικότητα και φίλους που τον βοηθούν, ο Μόλι βρίσκει πάντα έναν έξυπνο τρόπο να ξεμπλέξει από κρίσιμες καταστάσεις. Πρωταγωνιστούν: Warwick Davis, Gemma Arterton. (2021).</desc>
   </programme>
   <programme start="20230114145000 +0200" stop="20230114154500 +0200" channel="BBC World">
     <title lang="el">Lamput Κ3 ΕΠ33</title>
-    <desc lang="el">Έξυπνος όσο και ευλύγιστος, ο Lamput δραπετεύει από το μυστικό εργαστήριο όπου δημιουργήθηκε, προκαλώντας στους κατασκευαστές του φρενίτιδα καθώς προσπαθούν σκληρά να τον συλλάβουν. Εκείνος όμως καταφέρνει πάντα να ξεγλιστράει. Σκηνοθεσία: Anand Babu,Vaibhav Kumaresh,. (2020).(c)</desc>
+    <desc lang="el">Έξυπνος όσο και ευλύγιστος, ο Lamput δραπετεύει από το μυστικό εργαστήριο όπου δημιουργήθηκε, προκαλώντας στους κατασκευαστές του φρενίτιδα καθώς προσπαθούν σκληρά να τον συλλάβουν. Εκείνος όμως καταφέρνει πάντα να ξεγλιστράει. Σκηνοθεσία: Anand Babu,Vaibhav Kumaresh,. (2020).</desc>
   </programme>
   <programme start="20230114154500 +0200" stop="20230114163000 +0200" channel="BBC World">
     <title lang="el">Τομ και Τζέρι Κ2</title>
-    <desc lang="el">Μια ολοκαίνουρια εκδοχή των κλασικών χαρακτήρων, με όλη την τρέλα και το πανδαιμόνιο να παραμένουν απαράλλαχτα. Παρακολουθήστε τον Τομ και τον Τζέρι να οργανώνουν τη μια μηχανορραφία μετά την άλλη. Σκηνοθεσία: Darrell Van Citters,. (2016).(c)</desc>
+    <desc lang="el">Μια ολοκαίνουρια εκδοχή των κλασικών χαρακτήρων, με όλη την τρέλα και το πανδαιμόνιο να παραμένουν απαράλλαχτα. Παρακολουθήστε τον Τομ και τον Τζέρι να οργανώνουν τη μια μηχανορραφία μετά την άλλη. Σκηνοθεσία: Darrell Van Citters,. (2016).</desc>
   </programme>
   <programme start="20230114163000 +0200" stop="20230114174000 +0200" channel="BBC World">
     <title lang="el">Τομ και Τζέρι στο διάστημα</title>
-    <desc lang="el">Μετά από ένα από τα γνώριμα κυνηγητά τους, ο Τομ και ο Τζέρι βρίσκονται παγιδευμένοι σε ένα διαστημόπλοιο με προορισμό τον Άρη, όπου θα πέσει πάνω τους το βάρος να σώσουν τη Γη από τους εξωγήινους! Σκηνοθεσία: Bill Kopp,. (2004).(c)</desc>
+    <desc lang="el">Μετά από ένα από τα γνώριμα κυνηγητά τους, ο Τομ και ο Τζέρι βρίσκονται παγιδευμένοι σε ένα διαστημόπλοιο με προορισμό τον Άρη, όπου θα πέσει πάνω τους το βάρος να σώσουν τη Γη από τους εξωγήινους! Σκηνοθεσία: Bill Kopp,. (2004).</desc>
   </programme>
   <programme start="20230114174000 +0200" stop="20230114182500 +0200" channel="BBC World">
     <title lang="el">Σκούμπι Ντου Κ2</title>
-    <desc lang="el">Ο Σκούμπι Ντου και η παρέα του επιστρέφουν για να λύσουν ακόμα πιο ξεκαρδιστικά και τρομακτικά μυστήρια. Σκηνοθεσία: Russell Calabrese,. (2003).(c)</desc>
+    <desc lang="el">Ο Σκούμπι Ντου και η παρέα του επιστρέφουν για να λύσουν ακόμα πιο ξεκαρδιστικά και τρομακτικά μυστήρια. Σκηνοθεσία: Russell Calabrese,. (2003).</desc>
   </programme>
   <programme start="20230114182500 +0200" stop="20230114190500 +0200" channel="BBC World">
     <title lang="el">Ο Γκρίζι και τα λέμινγκ Κ3</title>
-    <desc lang="el">Ακόμα και μια γιγάντια δίμετρη αρκούδα δεν είναι εύκολο να απαλλαγεί από τα ενοχλητικά λέμινγκς, όμως έχει πλάκα να τους παρακολουθεί κανείς να προσπαθούν να τη φέρουν ο ένας στον άλλον, καταστρώνοντας πονηρά σχέδια. Σκηνοθεσία: Victor-Emmanuel Moulin,Victor Moulin,. Πρωταγωνιστούν: Pierre-Alain de Garrigues, Josselin Charier,. (2021).(c)</desc>
+    <desc lang="el">Ακόμα και μια γιγάντια δίμετρη αρκούδα δεν είναι εύκολο να απαλλαγεί από τα ενοχλητικά λέμινγκς, όμως έχει πλάκα να τους παρακολουθεί κανείς να προσπαθούν να τη φέρουν ο ένας στον άλλον, καταστρώνοντας πονηρά σχέδια. Σκηνοθεσία: Victor-Emmanuel Moulin,Victor Moulin,. Πρωταγωνιστούν: Pierre-Alain de Garrigues, Josselin Charier,. (2021).</desc>
   </programme>
   <programme start="20230114190500 +0200" stop="20230114195000 +0200" channel="BBC World">
     <title lang="el">Ο κύριος Μαγκού Κ1</title>
-    <desc lang="el">Ο κύριος Μαγκού είναι ένας πλούσιος συνταξιούχος που μπλέκει σε μια σειρά κωμικές καταστάσεις, λόγω της έντονης μυωπίας του. Πρωταγωνιστούν: Ian Hanlin, Colin Murdock. (2019).(c)</desc>
+    <desc lang="el">Ο κύριος Μαγκού είναι ένας πλούσιος συνταξιούχος που μπλέκει σε μια σειρά κωμικές καταστάσεις, λόγω της έντονης μυωπίας του. Πρωταγωνιστούν: Ian Hanlin, Colin Murdock. (2019).</desc>
   </programme>
   <programme start="20230114195000 +0200" stop="20230114204000 +0200" channel="BBC World">
     <title lang="el">Ψυχραιμία, Σκούμπι-Ντου! Κ1</title>
-    <desc lang="el">Η κλασική αγαπημένη παρέα του Σκούμπι επιστρέφει με σύγχρονη κωμική διάθεση. Το σχολείο έχει τελειώσει και, έχοντας μπροστά της ένα τελευταίο καλοκαίρι για να ξεφαντώσει, η παρέα αποφασίζει να ταξιδέψει με τη Μυστηριομηχανή, αλλά τέρατα και χάος μπαίνουν στον δρόμο τους. Σκηνοθεσία: Shaunt Nigoghossian,Andy Thom,. (2016).(c)</desc>
+    <desc lang="el">Η κλασική αγαπημένη παρέα του Σκούμπι επιστρέφει με σύγχρονη κωμική διάθεση. Το σχολείο έχει τελειώσει και, έχοντας μπροστά της ένα τελευταίο καλοκαίρι για να ξεφαντώσει, η παρέα αποφασίζει να ταξιδέψει με τη Μυστηριομηχανή, αλλά τέρατα και χάος μπαίνουν στον δρόμο τους. Σκηνοθεσία: Shaunt Nigoghossian,Andy Thom,. (2016).</desc>
   </programme>
   <programme start="20230114204000 +0200" stop="20230114212000 +0200" channel="BBC World">
     <title lang="el">Τομ και Τζέρι Κ2</title>
-    <desc lang="el">Μια ολοκαίνουρια εκδοχή των κλασικών χαρακτήρων, με όλη την τρέλα και το πανδαιμόνιο να παραμένουν απαράλλαχτα. Παρακολουθήστε τον Τομ και τον Τζέρι να οργανώνουν τη μια μηχανορραφία μετά την άλλη. Σκηνοθεσία: Darrell Van Citters,. (2018).(c)</desc>
+    <desc lang="el">Μια ολοκαίνουρια εκδοχή των κλασικών χαρακτήρων, με όλη την τρέλα και το πανδαιμόνιο να παραμένουν απαράλλαχτα. Παρακολουθήστε τον Τομ και τον Τζέρι να οργανώνουν τη μια μηχανορραφία μετά την άλλη. Σκηνοθεσία: Darrell Van Citters,. (2018).</desc>
   </programme>
   <programme start="20230114212000 +0200" stop="20230114220500 +0200" channel="BBC World">
     <title lang="el">Ο Γκρίζι και τα λέμινγκ Κ1</title>
-    <desc lang="el">Ακόμα και μια γιγάντια δίμετρη αρκούδα δεν είναι εύκολο να απαλλαγεί από τα ενοχλητικά λέμινγκς, όμως έχει πλάκα να τους παρακολουθεί κανείς να προσπαθούν να τη φέρουν ο ένας στον άλλον, καταστρώνοντας πονηρά σχέδια. Σκηνοθεσία: Victor Moulin. Πρωταγωνιστούν: Pierre-Alain de Garrigues, Josselin Charier,. (2016).(c)</desc>
+    <desc lang="el">Ακόμα και μια γιγάντια δίμετρη αρκούδα δεν είναι εύκολο να απαλλαγεί από τα ενοχλητικά λέμινγκς, όμως έχει πλάκα να τους παρακολουθεί κανείς να προσπαθούν να τη φέρουν ο ένας στον άλλον, καταστρώνοντας πονηρά σχέδια. Σκηνοθεσία: Victor Moulin. Πρωταγωνιστούν: Pierre-Alain de Garrigues, Josselin Charier,. (2016).</desc>
   </programme>
   <programme start="20230114220500 +0200" stop="20230114225000 +0200" channel="BBC World">
     <title lang="el">Ψυχραιμία, Σκούμπι-Ντου! Κ1</title>
-    <desc lang="el">Η κλασική αγαπημένη παρέα του Σκούμπι επιστρέφει με σύγχρονη κωμική διάθεση. Το σχολείο έχει τελειώσει και, έχοντας μπροστά της ένα τελευταίο καλοκαίρι για να ξεφαντώσει, η παρέα αποφασίζει να ταξιδέψει με τη Μυστηριομηχανή, αλλά τέρατα και χάος μπαίνουν στον δρόμο τους. Σκηνοθεσία: Jeff Mednikow,. (2016).(c)</desc>
+    <desc lang="el">Η κλασική αγαπημένη παρέα του Σκούμπι επιστρέφει με σύγχρονη κωμική διάθεση. Το σχολείο έχει τελειώσει και, έχοντας μπροστά της ένα τελευταίο καλοκαίρι για να ξεφαντώσει, η παρέα αποφασίζει να ταξιδέψει με τη Μυστηριομηχανή, αλλά τέρατα και χάος μπαίνουν στον δρόμο τους. Σκηνοθεσία: Jeff Mednikow,. (2016).</desc>
   </programme>
   <programme start="20230114230000 +0200" stop="20230115005000 +0200" channel="BBC World">
     <title lang="el">ΛΑΡΑ ΚΡΟΦΤ (Lara Croft:Tomb Raider)</title>
-    <desc lang="el">Ένα μυστικό από το παρελθόν του πατέρα της θα οδηγήσει τη Λάρα σε μία από τις μεγαλύτερες προκλήσεις της ζωής της: στο Τρίγωνο του Φωτός, ένα θρυλικό αντικείμενο που έχει τη δυνατότητα να παραλλάσσει τον χώρο και τον χρόνο. Η Λάρα πρέπει να ανακαλύψει το Τρίγωνο πριν αυτό πέσει στα χέρια των Ιλουμινάτι, μιας μυστικής οργάνωσης που σκοπό της έχει να κατακτήσει τον κόσμο.(n)</desc>
-  </programme>
-  <programme start="20230114225000 +0200" stop="20230114233500 +0200" channel="BBC World">
-    <title lang="el">Σκούμπι Ντου: Μάντεψε ποιος Κ1</title>
-    <desc lang="el">Ο Φρεντ, η Δάφνη, η Βέλμα, ο Σάγκι και ο Σκούμπι-Ντου ενώνουν τις δυνάμεις τους με διάσημους καλεσμένους προκειμένου να διαλευκάνουν μυστήρια. Σκηνοθεσία: Mike Milo,. (2019).(c)</desc>
+    <desc lang="el">Ένα μυστικό από το παρελθόν του πατέρα της θα οδηγήσει τη Λάρα σε μία από τις μεγαλύτερες προκλήσεις της ζωής της: στο Τρίγωνο του Φωτός, ένα θρυλικό αντικείμενο που έχει τη δυνατότητα να παραλλάσσει τον χώρο και τον χρόνο. Η Λάρα πρέπει να ανακαλύψει το Τρίγωνο πριν αυτό πέσει στα χέρια των Ιλουμινάτι, μιας μυστικής οργάνωσης που σκοπό της έχει να κατακτήσει τον κόσμο.</desc>
   </programme>
   <programme start="20230115005000 +0200" stop="20230115014000 +0200" channel="BBC World">
     <title lang="el">4ΧΧΧ4 (E)</title>
-    <desc lang="el">Τέσσερις γυναίκες ξανασυναντιούνται μετά από μεγάλο χρονικό διάστημα. Αφορμή για το reunion είναι η επιστροφή της Λυδίας από το εξωτερικό και ο επικείμενος γάμος της. Η Βερόνικα, η Ανδρονίκη και η Βούλα θα είναι οι κουμπάρες. Όμως, η σχέση της Λυδίας με το σύντροφό της, Μάξιμο, κρύβει ένα μυστικό που σοκάρει τις φιλενάδες. Η συζήτηση που θα ανοίξει για τις σχέσεις τους θα τις οδηγήσει σε περίεργα μονοπάτια. Οι τέσσερις φίλες αποφασίζουν να τσεκάρουν την πίστη των αντρών τους.(n)</desc>
+    <desc lang="el">Τέσσερις γυναίκες ξανασυναντιούνται μετά από μεγάλο χρονικό διάστημα. Αφορμή για το reunion είναι η επιστροφή της Λυδίας από το εξωτερικό και ο επικείμενος γάμος της. Η Βερόνικα, η Ανδρονίκη και η Βούλα θα είναι οι κουμπάρες. Όμως, η σχέση της Λυδίας με το σύντροφό της, Μάξιμο, κρύβει ένα μυστικό που σοκάρει τις φιλενάδες. Η συζήτηση που θα ανοίξει για τις σχέσεις τους θα τις οδηγήσει σε περίεργα μονοπάτια. Οι τέσσερις φίλες αποφασίζουν να τσεκάρουν την πίστη των αντρών τους.</desc>
   </programme>
   <programme start="20230115014000 +0200" stop="20230115023000 +0200" channel="BBC World">
     <title lang="el">ΤΑΜΑΜ ΙΙ (E)</title>
-    <desc lang="el">O 50χρονος Μετίν είναι ένας Τούρκος κουρέας που ζει και εργάζεται μόνιμα στην Αθήνα και ζει με τα δυο του παιδιά, τον 17χρονο Τσεμ και την 15χρονη Ντιλέκ. Ο Μετίν ερωτεύεται την 45χρονη Μυρτώ, ολιστική–εναλλακτική ψυχαναλύτρια, που επίσης ζει και εργάζεται στην Αθήνα με τα δυο της παιδιά, την 16χρονη Έλλη και τον 13χρονο Νίκο. Ο έρωτας είναι κεραυνοβόλος και το ζευγάρι αποφασίζει να ζήσουν όλοι μαζί σαν οικογένεια.(n)</desc>
+    <desc lang="el">O 50χρονος Μετίν είναι ένας Τούρκος κουρέας που ζει και εργάζεται μόνιμα στην Αθήνα και ζει με τα δυο του παιδιά, τον 17χρονο Τσεμ και την 15χρονη Ντιλέκ. Ο Μετίν ερωτεύεται την 45χρονη Μυρτώ, ολιστική–εναλλακτική ψυχαναλύτρια, που επίσης ζει και εργάζεται στην Αθήνα με τα δυο της παιδιά, την 16χρονη Έλλη και τον 13χρονο Νίκο. Ο έρωτας είναι κεραυνοβόλος και το ζευγάρι αποφασίζει να ζήσουν όλοι μαζί σαν οικογένεια.</desc>
   </programme>
   <programme start="20230115023000 +0200" stop="20230115032000 +0200" channel="BBC World">
     <title lang="el">Solo ΚΑΡΙΕΡΑ (E)</title>
-    <desc lang="el">Η Ελισάβετ, η Μαίρη και η Φιλιώ είναι τρεις γυναίκες διαφορετικές μεταξύ τους με κοινό στοιχείο έναν αποτυχημένο γάμο. Εργάζονται σε κατάστημα καλλυντικών και εκεί μοιράζονται τα προβλήματά τους μετά το χωρισμό και τις σκέψεις τους για το μέλλον.(n)</desc>
+    <desc lang="el">Η Ελισάβετ, η Μαίρη και η Φιλιώ είναι τρεις γυναίκες διαφορετικές μεταξύ τους με κοινό στοιχείο έναν αποτυχημένο γάμο. Εργάζονται σε κατάστημα καλλυντικών και εκεί μοιράζονται τα προβλήματά τους μετά το χωρισμό και τις σκέψεις τους για το μέλλον.</desc>
   </programme>
   <programme start="20230115032000 +0200" stop="20230115041000 +0200" channel="BBC World">
     <title lang="el">Η ΕΚΔΡΟΜΗ (E)</title>
-    <desc lang="el">Μέσα στο καταχείμωνο, σε άγριες καιρικές συνθήκες, 13 άτομα βρίσκονται εγκλωβισμένα σε ένα ξενοδοχείο-καταφύγιο, στην απομακρυσμένη πλευρά ενός βουνού. Άγνωστοι μεταξύ τους, οι περισσότεροι. βρέθηκαν εκεί με διαφορετική αφορμή ο καθένας.(n)</desc>
+    <desc lang="el">Μέσα στο καταχείμωνο, σε άγριες καιρικές συνθήκες, 13 άτομα βρίσκονται εγκλωβισμένα σε ένα ξενοδοχείο-καταφύγιο, στην απομακρυσμένη πλευρά ενός βουνού. Άγνωστοι μεταξύ τους, οι περισσότεροι. βρέθηκαν εκεί με διαφορετική αφορμή ο καθένας.</desc>
   </programme>
   <programme start="20230115041000 +0200" stop="20230115050000 +0200" channel="BBC World">
     <title lang="el">ΙΩΑΝΝΑ ΤΗΣ ΚΑΡΔΙΑΣ</title>
-    <desc lang="el">Η Ιωάννα, είναι ένα αξιαγάπητο κορίτσι. Σπουδάζει Ψυχολογία στο Πανεπιστήμιο και παράλληλα ασχολείται με την κολύμβηση. Οι γονείς της, όπως και οι φίλοι της, της έχουν ιδιαίτερη αδυναμία. Η ξεγνοιασιά, όμως, των νεανικών της χρόνων θα κλονιστεί ανεπανόρθωτα από ένα απρόσμενο γεγονός που σημαδεύει την ψυχή της. Η Ιωάννα βλέπει ολόκληρο τον κόσμο της να καταρρέει και αναγκάζεται να τα ξαναπιάσει όλα απ την αρχή, αναστατώνοντας τη ζωή των δικών της ανθρώπων...(n)</desc>
+    <desc lang="el">Η Ιωάννα, είναι ένα αξιαγάπητο κορίτσι. Σπουδάζει Ψυχολογία στο Πανεπιστήμιο και παράλληλα ασχολείται με την κολύμβηση. Οι γονείς της, όπως και οι φίλοι της, της έχουν ιδιαίτερη αδυναμία. Η ξεγνοιασιά, όμως, των νεανικών της χρόνων θα κλονιστεί ανεπανόρθωτα από ένα απρόσμενο γεγονός που σημαδεύει την ψυχή της. Η Ιωάννα βλέπει ολόκληρο τον κόσμο της να καταρρέει και αναγκάζεται να τα ξαναπιάσει όλα απ την αρχή, αναστατώνοντας τη ζωή των δικών της ανθρώπων...</desc>
   </programme>
   <programme start="20230115050000 +0200" stop="20230115055000 +0200" channel="BBC World">
     <title lang="el">ΤΑ ΜΑΧΑΙΡΩΜΑΤΑ (E)</title>
-    <desc lang="el">H Kαίτη μια απλή λογίστρια και μάνα ενός αγοριού που μεγαλώνει μόνη της, κληρονομεί ένα καμπαρέ. Αφοσιώνεται διστακτικά στη νέα καριέρα της και βρίσκεται ανάμεσα σε δυο άντρες. Ποιος θα την κερδίσει, ο πανούργος άνθρωπος της νύχτας ή ο καλοκάγαθος αστυνομικός;.(n)</desc>
+    <desc lang="el">H Kαίτη μια απλή λογίστρια και μάνα ενός αγοριού που μεγαλώνει μόνη της, κληρονομεί ένα καμπαρέ. Αφοσιώνεται διστακτικά στη νέα καριέρα της και βρίσκεται ανάμεσα σε δυο άντρες. Ποιος θα την κερδίσει, ο πανούργος άνθρωπος της νύχτας ή ο καλοκάγαθος αστυνομικός;.</desc>
   </programme>
   <programme start="20230115055000 +0200" stop="20230115062000 +0200" channel="BBC World">
     <title lang="el">ΟΙ ΝΤΕΤΕΚΤΙΒ (E)</title>
-    <desc lang="el">ΟΙ ΝΤΕΤΕΚΤΙΒ (E).(n)</desc>
+    <desc lang="el">ΟΙ ΝΤΕΤΕΚΤΙΒ (E).</desc>
   </programme>
   <programme start="20230115062000 +0200" stop="20230115071000 +0200" channel="BBC World">
     <title lang="el">ΤΟ ΠΙΟ ΓΛΥΚΟ ΜΟΥ ΨΕΜΑ (E)</title>
-    <desc lang="el">Μια δικηγόρος με λογοτεχνικές φιλοδοξίες και ένας γοητευτικός επαρχιώτης, είναι τα κεντρικά πρόσωπα αυτής της πρωτότυπης, αισθηματικής κωμωδίας. Στην προσπάθειά της να καταξιωθεί ως συγγραφέας, η νομικός στέλνει το βιβλίο της σε έναν εκδοτικό οίκο υπογράφοντας με αντρικό όνομα. Η παράτολμη αυτή κίνηση την οδηγεί σε μια σειρά απίστευτων παρεξηγήσεων, αφού η εκδοτική εταιρία εκτός από το βιβλίο, θέλει να "πουλήσει" και την εικόνα ενός άντρα συγγραφέα-sex symbol.(n)</desc>
+    <desc lang="el">Μια δικηγόρος με λογοτεχνικές φιλοδοξίες και ένας γοητευτικός επαρχιώτης, είναι τα κεντρικά πρόσωπα αυτής της πρωτότυπης, αισθηματικής κωμωδίας. Στην προσπάθειά της να καταξιωθεί ως συγγραφέας, η νομικός στέλνει το βιβλίο της σε έναν εκδοτικό οίκο υπογράφοντας με αντρικό όνομα. Η παράτολμη αυτή κίνηση την οδηγεί σε μια σειρά απίστευτων παρεξηγήσεων, αφού η εκδοτική εταιρία εκτός από το βιβλίο, θέλει να "πουλήσει" και την εικόνα ενός άντρα συγγραφέα-sex symbol.</desc>
   </programme>
   <programme start="20230115071000 +0200" stop="20230115081500 +0200" channel="BBC World">
     <title lang="el">O ΚΟΣΜΟΣ ΝΑ ΧΑΛΑΣΕΙ (E)</title>
-    <desc lang="el">Από την μια η ευκατάστατη αστική οικογένεια των Γαλένων που έχει μια μεγάλη γαλακτοβιομηχανία και από την άλλη η λαϊκή μεσοαστική των Κούελων που έχει μια μικρή γαλακτο-βιοτεχνία. Αυτές οι δυο οικογένειες έχουν μεταξύ τους μια βεντέτα από το παρελθόν. Όμως, τα παιδιά τους ερωτεύονται και αποφασίζουν να παντρευτούν ο κόσμος να χαλάσει... Πλέον είναι αυτονόητο πως αυτός ο γάμος θα χαλάσει κόσμο. Ο γάμος τελικά θα γίνει αλλά οι δυο αιώνιοι εχθροί δεν το βάζουν κάτω.(n)</desc>
+    <desc lang="el">Από την μια η ευκατάστατη αστική οικογένεια των Γαλένων που έχει μια μεγάλη γαλακτοβιομηχανία και από την άλλη η λαϊκή μεσοαστική των Κούελων που έχει μια μικρή γαλακτο-βιοτεχνία. Αυτές οι δυο οικογένειες έχουν μεταξύ τους μια βεντέτα από το παρελθόν. Όμως, τα παιδιά τους ερωτεύονται και αποφασίζουν να παντρευτούν ο κόσμος να χαλάσει... Πλέον είναι αυτονόητο πως αυτός ο γάμος θα χαλάσει κόσμο. Ο γάμος τελικά θα γίνει αλλά οι δυο αιώνιοι εχθροί δεν το βάζουν κάτω.</desc>
   </programme>
   <programme start="20230115081500 +0200" stop="20230115093000 +0200" channel="BBC World">
     <title lang="el">Santa ΓΙΟΛΑΝΤΑ (E)</title>
-    <desc lang="el">Ένα χωριό του σήμερα, χτισμένο κάπου έξω από την πόλη... Άνθρωποι απλοί, καθημερινοί...που δεν μισούν, δεν πολυλογούν, δεν αγαπούν το χρήμα, δεν ζούνε με το ψέμα, δεν έχουν πάθη, δεν κάνουν λάθη, δεν έχουν φθαρεί, δεν έχουν τσακωθεί, δεν έχουν ματαιοδοξία, δεν τους νικά η υποκρισία. Όλα αυτά είναι γέννημα της φαντασίας μας και δεν έχουν καμία σχέση με πραγματικά γεγονότα...δυστυχώς.(n)</desc>
+    <desc lang="el">Ένα χωριό του σήμερα, χτισμένο κάπου έξω από την πόλη... Άνθρωποι απλοί, καθημερινοί...που δεν μισούν, δεν πολυλογούν, δεν αγαπούν το χρήμα, δεν ζούνε με το ψέμα, δεν έχουν πάθη, δεν κάνουν λάθη, δεν έχουν φθαρεί, δεν έχουν τσακωθεί, δεν έχουν ματαιοδοξία, δεν τους νικά η υποκρισία. Όλα αυτά είναι γέννημα της φαντασίας μας και δεν έχουν καμία σχέση με πραγματικά γεγονότα...δυστυχώς.</desc>
   </programme>
   <programme start="20230115093000 +0200" stop="20230115111000 +0200" channel="BBC World">
     <title lang="el">ΠΡΩΤΗ ΣΤΑΓΟΝΑ II (E)</title>
-    <desc lang="el">Ένας 35άρης χάνει ξαφνικά την δουλειά του με αποτέλεσμα να μην μπορεί να προσφέρει τίποτε στην υλίστρια γυναίκα του η οποία τελικά τον διώχνει από το σπίτι. Καταρρακωμένος και χωρίς ιδιαίτερες επιλογές αποφασίζει να επιστρέψει στο χωριό του παππού του, εκεί όπου έζησε τα ανέμελα παιδικά του χρόνια. Η ζωή του αρχίζει να γεμίζει ξανά μέσα από την προσπάθεια του να φτιάξει το εγκαταλελειμμένο αγρόκτημα με τα αμπέλια έχοντας σαν συμπαραστάτη το μουγκό του χωριού.(n)</desc>
+    <desc lang="el">Ένας 35άρης χάνει ξαφνικά την δουλειά του με αποτέλεσμα να μην μπορεί να προσφέρει τίποτε στην υλίστρια γυναίκα του η οποία τελικά τον διώχνει από το σπίτι. Καταρρακωμένος και χωρίς ιδιαίτερες επιλογές αποφασίζει να επιστρέψει στο χωριό του παππού του, εκεί όπου έζησε τα ανέμελα παιδικά του χρόνια. Η ζωή του αρχίζει να γεμίζει ξανά μέσα από την προσπάθεια του να φτιάξει το εγκαταλελειμμένο αγρόκτημα με τα αμπέλια έχοντας σαν συμπαραστάτη το μουγκό του χωριού.</desc>
   </programme>
   <programme start="20230115111000 +0200" stop="20230115120000 +0200" channel="BBC World">
     <title lang="el">ΤΟ ΣΟΪ ΜΟΥ ΜΕΣΑ (E)</title>
-    <desc lang="el">Η Στεφανία είναι άσος στις κομπίνες. Σε συνεργασία με τον εραστή της, την οικονόμο της και την κόρη της, έχει "γδύσει" πολλά κορόιδα, όμως αυτή τη φορά ετοιμάζει το πιο καλοστημένο κόλπο στην ιστορία της. Το σχέδιο είναι απλό. Επιλέγουν το θύμα τους, τον Τζιμ, έναν πάμπλουτο Ελληνοαμερικανό. Βρίσκουν συνεργούς πέντε καταχρεωμένους και απεγνωσμένους ανθρώπους, που θα έκαναν τα πάντα έναντι αμοιβής. Πείθουν το θύμα ότι η συμμορία είναι η από χρόνια χαμένη του οικογένεια...(n)</desc>
+    <desc lang="el">Η Στεφανία είναι άσος στις κομπίνες. Σε συνεργασία με τον εραστή της, την οικονόμο της και την κόρη της, έχει "γδύσει" πολλά κορόιδα, όμως αυτή τη φορά ετοιμάζει το πιο καλοστημένο κόλπο στην ιστορία της. Το σχέδιο είναι απλό. Επιλέγουν το θύμα τους, τον Τζιμ, έναν πάμπλουτο Ελληνοαμερικανό. Βρίσκουν συνεργούς πέντε καταχρεωμένους και απεγνωσμένους ανθρώπους, που θα έκαναν τα πάντα έναντι αμοιβής. Πείθουν το θύμα ότι η συμμορία είναι η από χρόνια χαμένη του οικογένεια...</desc>
   </programme>
   <programme start="20230115120000 +0200" stop="20230115125000 +0200" channel="BBC World">
     <title lang="el">ΥΓΕΙΑ ΠΑΝΩ ΑΠ'ΌΛΑ ΧΙ</title>
-    <desc lang="el">ΥΓΕΙΑ ΠΑΝΩ ΑΠ'ΌΛΑ ΧΙ.(n)</desc>
+    <desc lang="el">ΥΓΕΙΑ ΠΑΝΩ ΑΠ'ΌΛΑ ΧΙ.</desc>
   </programme>
   <programme start="20230115125000 +0200" stop="20230115143000 +0200" channel="BBC World">
     <title lang="el">Ο ΠΟΛΕΜΟΣ ΤΩΝ ΑΣΤΡΩΝ (E)</title>
-    <desc lang="el">Τα ζώδια ζωντανεύουν και πρωταγωνιστούν στη μοναδική, αστρολογική κωμωδία της ελληνικής τηλεόρασης. Φλερτάρουν μεταξύ τους, κάνουν σεξ, ερωτεύονται, εκνευρίζονται, παρεξηγούνται, καβγαδίζουν, κάνουν απιστίες, εκδικούνται. Παράλληλα ο αστρολόγος Γιώργος Πανόπουλος, με εγκυρότητα αλλά και χιούμορ, σχολιάζει, εξηγεί και προβλέπει τις εξελίξεις. Κι εμείς μαθαίνουμε τι λένε τα άστρα για τη σχέση μας και τι μπορεί να πάθουμε στα καλά καθούμενα αν μπλέξουμε με λάθος ζώδιο.(n)</desc>
+    <desc lang="el">Τα ζώδια ζωντανεύουν και πρωταγωνιστούν στη μοναδική, αστρολογική κωμωδία της ελληνικής τηλεόρασης. Φλερτάρουν μεταξύ τους, κάνουν σεξ, ερωτεύονται, εκνευρίζονται, παρεξηγούνται, καβγαδίζουν, κάνουν απιστίες, εκδικούνται. Παράλληλα ο αστρολόγος Γιώργος Πανόπουλος, με εγκυρότητα αλλά και χιούμορ, σχολιάζει, εξηγεί και προβλέπει τις εξελίξεις. Κι εμείς μαθαίνουμε τι λένε τα άστρα για τη σχέση μας και τι μπορεί να πάθουμε στα καλά καθούμενα αν μπλέξουμε με λάθος ζώδιο.</desc>
   </programme>
   <programme start="20230115143000 +0200" stop="20230115155000 +0200" channel="BBC World">
     <title lang="el">Casa De Mikel IV (E)</title>
-    <desc lang="el">Ο Μιχάλης Σοφοκλέους υποδέχεται ξεχωριστούς καλεσμένους που μοιράζονται μαζί του στιγμές γνωστές και άγνωστες της ζωής και της καριέρας τους. Σάτιρα και μιμήσεις, σπαρταριστά σκετσάκια σε συνδυασμό με το μοναδικό χάρισμα του Μιχάλη Σοφοκλέους να μεταδίδει γέλιο και χαρά, τα Σαββατόβραδα θα είναι απολαυστικά.(n)</desc>
+    <desc lang="el">Ο Μιχάλης Σοφοκλέους υποδέχεται ξεχωριστούς καλεσμένους που μοιράζονται μαζί του στιγμές γνωστές και άγνωστες της ζωής και της καριέρας τους. Σάτιρα και μιμήσεις, σπαρταριστά σκετσάκια σε συνδυασμό με το μοναδικό χάρισμα του Μιχάλη Σοφοκλέους να μεταδίδει γέλιο και χαρά, τα Σαββατόβραδα θα είναι απολαυστικά.</desc>
   </programme>
   <programme start="20230115155000 +0200" stop="20230115164000 +0200" channel="BBC World">
     <title lang="el">5Χ5 II (E)</title>
-    <desc lang="el">5Χ5 II (E).(n)</desc>
+    <desc lang="el">5Χ5 II (E).</desc>
   </programme>
   <programme start="20230115164000 +0200" stop="20230115173000 +0200" channel="BBC World">
     <title lang="el">5Χ5 II (E)</title>
-    <desc lang="el">5Χ5 II (E).(n)</desc>
+    <desc lang="el">5Χ5 II (E).</desc>
   </programme>
   <programme start="20230115173000 +0200" stop="20230115180000 +0200" channel="BBC World">
     <title lang="el">ΠΟΙΟΣ ΠΑΠΑΔΟΠΟΥΛΟΣ; (E)</title>
-    <desc lang="el">ΠΟΙΟΣ ΠΑΠΑΔΟΠΟΥΛΟΣ; (E).(n)</desc>
+    <desc lang="el">ΠΟΙΟΣ ΠΑΠΑΔΟΠΟΥΛΟΣ; (E).</desc>
   </programme>
   <programme start="20230115180000 +0200" stop="20230115181500 +0200" channel="BBC World">
     <title lang="el">ΤΑ ΝΕΑ ΣΕ 10'</title>
-    <desc lang="el">30/0/8/21.(n)</desc>
+    <desc lang="el">30/0/8/21.</desc>
   </programme>
   <programme start="20230115181500 +0200" stop="20230115183000 +0200" channel="BBC World">
     <title lang="el">...συνέχεια ΠΟΙΟΣ ΠΑΠΑΔΟΠΟΥΛΟΣ; (E)</title>
-    <desc lang="el">...συνέχεια ΠΟΙΟΣ ΠΑΠΑΔΟΠΟΥΛΟΣ; (E).(n)</desc>
+    <desc lang="el">...συνέχεια ΠΟΙΟΣ ΠΑΠΑΔΟΠΟΥΛΟΣ; (E).</desc>
   </programme>
   <programme start="20230115183000 +0200" stop="20230115201500 +0200" channel="BBC World">
     <title lang="el">Rouk Zouk Special (E)</title>
-    <desc lang="el">Rouk Zouk Special (E).(n)</desc>
+    <desc lang="el">Rouk Zouk Special (E).</desc>
   </programme>
   <programme start="20230115201500 +0200" stop="20230115211500 +0200" channel="BBC World">
     <title lang="el">ΤΑ ΝΕΑ ΤΟΥ ΑΝΤΕΝΝΑ</title>
-    <desc lang="el">30/0/8/21.(n)</desc>
+    <desc lang="el">30/0/8/21.</desc>
   </programme>
   <programme start="20230115211500 +0200" stop="20230115230000 +0200" channel="BBC World">
     <title lang="el">ΓΑΜΠΡΟΣ ΤΗΣ ΣΥΜΦΟΡΑΣ (Meet the Parents)</title>
-    <desc lang="el">Ο Γκρεγκ, ένας νοσοκόμος από το Σικάγο, ταξιδεύει μαζί με την εκλεκτή της καρδιάς του, Παμ, στη Νέα Υόρκη, ώστε να γνωρίσει τους δικούς της. Οι δυο ερωτευμένοι νέοι σκοπεύουν να επισημοποιήσουν τη σχέση τους. Ωστόσο, το Σαββατοκύριακο στο σπίτι των γονιών της Παμ, αποδεικνύεται σωστός εφιάλτης για τον μέλλοντα γαμπρό. Ο πατέρας της, Τζακ, βετεράνος της CIA και παλαιών αρχών, αντιμετωπίζει με καχυποψία τον Γκρεγκ.(n)</desc>
-  </programme>
-  <programme start="20230109000000 +0000" stop="20230109235900 +0000" channel="ERT NEWS">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
+    <desc lang="el">Ο Γκρεγκ, ένας νοσοκόμος από το Σικάγο, ταξιδεύει μαζί με την εκλεκτή της καρδιάς του, Παμ, στη Νέα Υόρκη, ώστε να γνωρίσει τους δικούς της. Οι δυο ερωτευμένοι νέοι σκοπεύουν να επισημοποιήσουν τη σχέση τους. Ωστόσο, το Σαββατοκύριακο στο σπίτι των γονιών της Παμ, αποδεικνύεται σωστός εφιάλτης για τον μέλλοντα γαμπρό. Ο πατέρας της, Τζακ, βετεράνος της CIA και παλαιών αρχών, αντιμετωπίζει με καχυποψία τον Γκρεγκ.</desc>
   </programme>
   <programme start="20230110000000 +0000" stop="20230110235900 +0000" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
@@ -5843,7 +5955,7 @@
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
-  <programme start="20230109000000 +0000" stop="20230109235900 +0000" channel="ERT1.">
+  <programme start="20230117000000 +0000" stop="20230117235900 +0000" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
@@ -5872,6 +5984,10 @@
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
   <programme start="20230116000000 +0000" stop="20230116235900 +0000" channel="ERT1.">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
+  </programme>
+  <programme start="20230117000000 +0000" stop="20230117235900 +0000" channel="ERT1.">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
