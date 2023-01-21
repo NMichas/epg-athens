@@ -331,28 +331,28 @@
   </programme>
   <programme start="20230128000000 +0200" stop="20230128060000 +0200" channel="EXTRA">
     <title lang="el">Τηλεαγορές</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.(n)</desc>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
     <rating system="GR">
       <value>0</value>
     </rating>
   </programme>
   <programme start="20230128060000 +0200" stop="20230128120000 +0200" channel="EXTRA">
     <title lang="el">Τηλεαγορές</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.(n)</desc>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
     <rating system="GR">
       <value>0</value>
     </rating>
   </programme>
   <programme start="20230128120000 +0200" stop="20230128180000 +0200" channel="EXTRA">
     <title lang="el">Τηλεαγορές</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.(n)</desc>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
     <rating system="GR">
       <value>0</value>
     </rating>
   </programme>
   <programme start="20230128180000 +0200" stop="20230129000000 +0200" channel="EXTRA">
     <title lang="el">Τηλεαγορές</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.(n)</desc>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
     <rating system="GR">
       <value>0</value>
     </rating>
@@ -5092,10 +5092,6 @@
     <title lang="el">(Πολύ) άτακτοι σκύλοι Κ3 ΕΠ11</title>
     <desc lang="el">Το 9 μηνών μπόρντερ κόλι, Ρίβερ, κλοτσάει τους πάντες και τα πάντα. Ο 16 εβδομάδων Στάφι γαντζώνεται πάνω στον ιδιοκτήτη του. Η Λούσι προκαλεί χάος στο κομμωτήριο σκύλων του ιδιοκτήτη της.(c)</desc>
   </programme>
-  <programme start="20230126224500 +0200" stop="20230127003500 +0200" channel="RIK">
-    <title lang="el">The Bachelor 2</title>
-    <desc lang="el">Ένας φίλος απ’ τα παλιά ετοιμάζεται να παντρευτεί, οπότε οι αγαπημένοι μας ήρωες δεν θα χάσουν την ευκαιρία για εργένικο πάρτι. Υπάρχει μια σημαντική διαφορά όμως που θα δοκιμάσει τις αντοχές τους: Ο γάμος θα γίνει στην Κρήτη και οι κρητικοί συγγενείς της νύφης δεν αστειεύονται καθόλου. Νέοι φίλοι αλλά και εχθροί θα μπουν στην παρέα. Θα αντιμετωπίσουν κρητικές βεντέτες και βέβαια τις συνέπειες του πιο επικού εργένικου πάρτι που έγινε ποτέ. Σκηνοθεσία: Yiannis Papadakos. Πρωταγωνιστούν: Yannis Tsimitselis, Thanasis Viskadourakis, Nikos Vourliotis. (2017).(c)</desc>
-  </programme>
   <programme start="20230126220000 +0200" stop="20230126225000 +0200" channel="RIK">
     <title lang="el">Τμήμα Τροχαίας Κ11 ΕΠ4</title>
     <desc lang="el">Η ομάδα δέχεται μια κλήση για να βοηθήσει στην καταδίωξη ενός μαύρου αυτοκινήτου που σχετίζεται με μια ένοπλη ληστεία.(c)</desc>
@@ -5103,6 +5099,10 @@
   <programme start="20230126225000 +0200" stop="20230126234000 +0200" channel="RIK">
     <title lang="el">Άπιστοι Κ8 ΕΠ11</title>
     <desc lang="el">Πλάνα από κρυφές κάμερες ιδιωτικών ερευνητών της εκπομπής επιβεβαιώνουν τον χειρότερο εφιάλτη ενός ακόμα υποψιασμένου συζύγου. (2014).(c)</desc>
+  </programme>
+  <programme start="20230126224500 +0200" stop="20230127003500 +0200" channel="RIK">
+    <title lang="el">The Bachelor 2</title>
+    <desc lang="el">Ένας φίλος απ’ τα παλιά ετοιμάζεται να παντρευτεί, οπότε οι αγαπημένοι μας ήρωες δεν θα χάσουν την ευκαιρία για εργένικο πάρτι. Υπάρχει μια σημαντική διαφορά όμως που θα δοκιμάσει τις αντοχές τους: Ο γάμος θα γίνει στην Κρήτη και οι κρητικοί συγγενείς της νύφης δεν αστειεύονται καθόλου. Νέοι φίλοι αλλά και εχθροί θα μπουν στην παρέα. Θα αντιμετωπίσουν κρητικές βεντέτες και βέβαια τις συνέπειες του πιο επικού εργένικου πάρτι που έγινε ποτέ. Σκηνοθεσία: Yiannis Papadakos. Πρωταγωνιστούν: Yannis Tsimitselis, Thanasis Viskadourakis, Nikos Vourliotis. (2017).(c)</desc>
   </programme>
   <programme start="20230127003500 +0200" stop="20230127030000 +0200" channel="RIK">
     <title lang="el">Blair Witch</title>
@@ -5290,675 +5290,675 @@
   </programme>
   <programme start="20230122010000 +0200" stop="20230122013000 +0200" channel="BBC World">
     <title lang="el">News Live</title>
-    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).(c)</desc>
+    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).</desc>
   </programme>
   <programme start="20230122013000 +0200" stop="20230122020000 +0200" channel="BBC World">
     <title lang="el">Witness</title>
-    <desc lang="el">The leader of an opera troupe fights to keep her community together when their theatre in downtown Shanghai is suddenly slated for demolition. (2023).(c)</desc>
+    <desc lang="el">The leader of an opera troupe fights to keep her community together when their theatre in downtown Shanghai is suddenly slated for demolition. (2023).</desc>
   </programme>
   <programme start="20230122020000 +0200" stop="20230122023000 +0200" channel="BBC World">
     <title lang="el">News Live</title>
-    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).(c)</desc>
+    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).</desc>
   </programme>
   <programme start="20230122023000 +0200" stop="20230122030000 +0200" channel="BBC World">
     <title lang="el">Inside Story Κ1</title>
-    <desc lang="el">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond. (2023).(c)</desc>
+    <desc lang="el">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond. (2023).</desc>
   </programme>
   <programme start="20230122030000 +0200" stop="20230122033000 +0200" channel="BBC World">
     <title lang="el">The Bottom Line ΕΠ3</title>
-    <desc lang="el">Al Jazeera English gets to the bottom line on US politics and policies and how they affect the world. (2023).(c)</desc>
+    <desc lang="el">Al Jazeera English gets to the bottom line on US politics and policies and how they affect the world. (2023).</desc>
   </programme>
   <programme start="20230122033000 +0200" stop="20230122040000 +0200" channel="BBC World">
     <title lang="el">Earthrise Κ3</title>
-    <desc lang="el">Earthrise looks at ways of healing one of the silent and often forgotten casualties of war - the environment. (2019).(c)</desc>
+    <desc lang="el">Earthrise looks at ways of healing one of the silent and often forgotten casualties of war - the environment. (2019).</desc>
   </programme>
   <programme start="20230122040000 +0200" stop="20230122043000 +0200" channel="BBC World">
     <title lang="el">News Live</title>
-    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).(c)</desc>
+    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).</desc>
   </programme>
   <programme start="20230122043000 +0200" stop="20230122050000 +0200" channel="BBC World">
     <title lang="el">The Listening Post ΕΠ3</title>
-    <desc lang="el">What is being reported by world media and how? Richard Gizbert guides you through the global news maze. (2023).(c)</desc>
+    <desc lang="el">What is being reported by world media and how? Richard Gizbert guides you through the global news maze. (2023).</desc>
   </programme>
   <programme start="20230122050000 +0200" stop="20230122053000 +0200" channel="BBC World">
     <title lang="el">News Live</title>
-    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).(c)</desc>
+    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).</desc>
   </programme>
   <programme start="20230122053000 +0200" stop="20230122060000 +0200" channel="BBC World">
     <title lang="el">Counting the Cost ΕΠ3</title>
-    <desc lang="el">The show features the economical stories that shape our world and has an effect on the lives of the common human beings. (2023).(c)</desc>
+    <desc lang="el">The show features the economical stories that shape our world and has an effect on the lives of the common human beings. (2023).</desc>
   </programme>
   <programme start="20230122060000 +0200" stop="20230122063000 +0200" channel="BBC World">
     <title lang="el">News Live</title>
-    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).(c)</desc>
+    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).</desc>
   </programme>
   <programme start="20230122063000 +0200" stop="20230122070000 +0200" channel="BBC World">
     <title lang="el">UpFront ΕΠ17</title>
-    <desc lang="el">Scholars Anthea Butler, Kristin Du Mez, and Amanda Tyler discusses Christian Nationalism in the U.S. and the line between Church and State. (2022).(c)</desc>
+    <desc lang="el">Scholars Anthea Butler, Kristin Du Mez, and Amanda Tyler discusses Christian Nationalism in the U.S. and the line between Church and State. (2022).</desc>
   </programme>
   <programme start="20230122070000 +0200" stop="20230122073000 +0200" channel="BBC World">
     <title lang="el">News Live</title>
-    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).(c)</desc>
+    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).</desc>
   </programme>
   <programme start="20230122073000 +0200" stop="20230122080000 +0200" channel="BBC World">
     <title lang="el">People and Power</title>
-    <desc lang="el">Behind the scenes as Burma's pro-democracy rebels fight back against government repression. (2022).(c)</desc>
+    <desc lang="el">Behind the scenes as Burma's pro-democracy rebels fight back against government repression. (2022).</desc>
   </programme>
   <programme start="20230122080000 +0200" stop="20230122090000 +0200" channel="BBC World">
     <title lang="el">The El Masri Case</title>
-    <desc lang="el">The 2004 abduction and torture of German citizen Khalid El Masri exposed the CIA's rendition programme and the effects still resonate nearly twenty years later. (2022).(c)</desc>
+    <desc lang="el">The 2004 abduction and torture of German citizen Khalid El Masri exposed the CIA's rendition programme and the effects still resonate nearly twenty years later. (2022).</desc>
   </programme>
   <programme start="20230122090000 +0200" stop="20230122093000 +0200" channel="BBC World">
     <title lang="el">News Live</title>
-    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).(c)</desc>
+    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).</desc>
   </programme>
   <programme start="20230122093000 +0200" stop="20230122100000 +0200" channel="BBC World">
     <title lang="el">Inside Story Κ1</title>
-    <desc lang="el">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond. (2023).(c)</desc>
+    <desc lang="el">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond. (2023).</desc>
   </programme>
   <programme start="20230122100000 +0200" stop="20230122103000 +0200" channel="BBC World">
     <title lang="el">News Live</title>
-    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).(c)</desc>
+    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).</desc>
   </programme>
   <programme start="20230122103000 +0200" stop="20230122110000 +0200" channel="BBC World">
     <title lang="el">Talk to Al Jazeera Κ2</title>
-    <desc lang="el">Africa's first Pritzker Prize winning architect discusses his inspiring journey. (2022).(c)</desc>
+    <desc lang="el">Africa's first Pritzker Prize winning architect discusses his inspiring journey. (2022).</desc>
   </programme>
   <programme start="20230122110000 +0200" stop="20230122113000 +0200" channel="BBC World">
     <title lang="el">News Live</title>
-    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).(c)</desc>
+    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).</desc>
   </programme>
   <programme start="20230122113000 +0200" stop="20230122120000 +0200" channel="BBC World">
     <title lang="el">All Hail The Algorithm</title>
-    <desc lang="el">Are biometrics protecting or seriously compromising our privacy? (2019).(c)</desc>
+    <desc lang="el">Are biometrics protecting or seriously compromising our privacy? (2019).</desc>
   </programme>
   <programme start="20230122120000 +0200" stop="20230122130000 +0200" channel="BBC World">
     <title lang="el">Newshour</title>
-    <desc lang="el">In-depth global news is presented.(c)</desc>
+    <desc lang="el">In-depth global news is presented.</desc>
   </programme>
   <programme start="20230122130000 +0200" stop="20230122133000 +0200" channel="BBC World">
     <title lang="el">News Live</title>
-    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).(c)</desc>
+    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).</desc>
   </programme>
   <programme start="20230122133000 +0200" stop="20230122140000 +0200" channel="BBC World">
     <title lang="el">Inside Story Κ1</title>
-    <desc lang="el">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond. (2023).(c)</desc>
+    <desc lang="el">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond. (2023).</desc>
   </programme>
   <programme start="20230122140000 +0200" stop="20230122150000 +0200" channel="BBC World">
     <title lang="el">Al Jazeera World Κ13</title>
-    <desc lang="el">The story of Arabesque, a unique musical form that emerged from a ban on Arab music in the early Turkish Republic, now enjoyed by millions in Turkiye. (2023).(c)</desc>
+    <desc lang="el">The story of Arabesque, a unique musical form that emerged from a ban on Arab music in the early Turkish Republic, now enjoyed by millions in Turkiye. (2023).</desc>
   </programme>
   <programme start="20230122150000 +0200" stop="20230122160000 +0200" channel="BBC World">
     <title lang="el">Newshour</title>
-    <desc lang="el">In-depth global news is presented.(c)</desc>
+    <desc lang="el">In-depth global news is presented.</desc>
   </programme>
   <programme start="20230122160000 +0200" stop="20230122163000 +0200" channel="BBC World">
     <title lang="el">News Live</title>
-    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).(c)</desc>
+    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).</desc>
   </programme>
   <programme start="20230122163000 +0200" stop="20230122170000 +0200" channel="BBC World">
     <title lang="el">The Listening Post ΕΠ3</title>
-    <desc lang="el">What is being reported by world media and how? Richard Gizbert guides you through the global news maze. (2023).(c)</desc>
+    <desc lang="el">What is being reported by world media and how? Richard Gizbert guides you through the global news maze. (2023).</desc>
   </programme>
   <programme start="20230122170000 +0200" stop="20230122180000 +0200" channel="BBC World">
     <title lang="el">Newshour</title>
-    <desc lang="el">In-depth global news is presented.(c)</desc>
+    <desc lang="el">In-depth global news is presented.</desc>
   </programme>
   <programme start="20230122180000 +0200" stop="20230122183000 +0200" channel="BBC World">
     <title lang="el">News Live</title>
-    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).(c)</desc>
+    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).</desc>
   </programme>
   <programme start="20230122183000 +0200" stop="20230122190000 +0200" channel="BBC World">
     <title lang="el">101 East</title>
-    <desc lang="el">As Singapore steps up its pace of executions, 101 East investigates government claims that the death penalty deters drug trafficking (2023).(c)</desc>
+    <desc lang="el">As Singapore steps up its pace of executions, 101 East investigates government claims that the death penalty deters drug trafficking (2023).</desc>
   </programme>
   <programme start="20230122190000 +0200" stop="20230122193000 +0200" channel="BBC World">
     <title lang="el">News Live</title>
-    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).(c)</desc>
+    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).</desc>
   </programme>
   <programme start="20230122193000 +0200" stop="20230122200000 +0200" channel="BBC World">
     <title lang="el">Inside Story Κ1</title>
-    <desc lang="el">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond. (2023).(c)</desc>
+    <desc lang="el">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond. (2023).</desc>
   </programme>
   <programme start="20230122200000 +0200" stop="20230122210000 +0200" channel="BBC World">
     <title lang="el">Newshour</title>
-    <desc lang="el">In-depth global news is presented.(c)</desc>
+    <desc lang="el">In-depth global news is presented.</desc>
   </programme>
   <programme start="20230122210000 +0200" stop="20230122213000 +0200" channel="BBC World">
     <title lang="el">News Live</title>
-    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).(c)</desc>
+    <desc lang="el">Get the latest news every evening about what is happening around the globe. (2019).</desc>
   </programme>
   <programme start="20230122213000 +0200" stop="20230122220000 +0200" channel="BBC World">
     <title lang="el">Talk to Al Jazeera Κ2</title>
-    <desc lang="el">Africa's first Pritzker Prize winning architect discusses his inspiring journey. (2022).(c)</desc>
+    <desc lang="el">Africa's first Pritzker Prize winning architect discusses his inspiring journey. (2022).</desc>
   </programme>
   <programme start="20230122220000 +0200" stop="20230122230000 +0200" channel="BBC World">
     <title lang="el">Witness</title>
-    <desc lang="el">Twenty-two year old Jazz survived multiple suicide attempts and is now taking on a system in New Zealand she believes is failing her generation. (2021).(c)</desc>
+    <desc lang="el">Twenty-two year old Jazz survived multiple suicide attempts and is now taking on a system in New Zealand she believes is failing her generation. (2021).</desc>
   </programme>
   <programme start="20230122230000 +0200" stop="20230123000000 +0200" channel="BBC World">
     <title lang="el">Newshour</title>
-    <desc lang="el">In-depth global news is presented.(c)</desc>
+    <desc lang="el">In-depth global news is presented.</desc>
   </programme>
   <programme start="20230123000000 +0200" stop="20230123003000 +0200" channel="BBC World">
     <title lang="el">Χωρίς όρια με τη Lisa Vanderpump Κ1 ΕΠ7</title>
-    <desc lang="el">Η Lisa φέρνει το Λονδίνο στο Μπέβερλι Χιλς και η βραδιά απογειώνεται με κρασί, Σπότιντ Ντικ και πιπεράτα σχόλια της Sheryl προς την οικοδέσποινα. Πρωταγωνιστούν: Lisa Vanderpump, Mario Lopez, Sheryl Underwood. (2021).(c)</desc>
+    <desc lang="el">Η Lisa φέρνει το Λονδίνο στο Μπέβερλι Χιλς και η βραδιά απογειώνεται με κρασί, Σπότιντ Ντικ και πιπεράτα σχόλια της Sheryl προς την οικοδέσποινα. Πρωταγωνιστούν: Lisa Vanderpump, Mario Lopez, Sheryl Underwood. (2021).</desc>
   </programme>
   <programme start="20230123003000 +0200" stop="20230123010000 +0200" channel="BBC World">
     <title lang="el">Χωρίς όρια με τη Lisa Vanderpump Κ1 ΕΠ8</title>
-    <desc lang="el">Η Lisa υποδέχεται τους καλεσμένους της με το χαρακτηριστικό της στιλ, διακόσμηση και γευστικές επιλογές. Η ουσία βρίσκεται στα ζυμαρικά με αστακό! Πρωταγωνιστούν: Lisa Vanderpump, Jim Jefferies, James Kennedy. (2021).(c)</desc>
+    <desc lang="el">Η Lisa υποδέχεται τους καλεσμένους της με το χαρακτηριστικό της στιλ, διακόσμηση και γευστικές επιλογές. Η ουσία βρίσκεται στα ζυμαρικά με αστακό! Πρωταγωνιστούν: Lisa Vanderpump, Jim Jefferies, James Kennedy. (2021).</desc>
   </programme>
   <programme start="20230123010000 +0200" stop="20230123020000 +0200" channel="BBC World">
     <title lang="el">Με Πάσα Ειλικρίνεια με την Λαβέρν Κοξ Κ1 ΕΠ3</title>
-    <desc lang="el">Τιμώντας την ΛΟΑΤΚΙ+ κοινότητα, η Λαβέρν βρίσκεται στη συντροφιά της τρανς ηθοποιού και τραγουδίστριας Αντζέλικα Ρος και της κωμικού Κάμερον Εσποζίτο. Πρωταγωνιστούν: Laverne Cox. (2022).(c)</desc>
+    <desc lang="el">Τιμώντας την ΛΟΑΤΚΙ+ κοινότητα, η Λαβέρν βρίσκεται στη συντροφιά της τρανς ηθοποιού και τραγουδίστριας Αντζέλικα Ρος και της κωμικού Κάμερον Εσποζίτο. Πρωταγωνιστούν: Laverne Cox. (2022).</desc>
   </programme>
   <programme start="20230123020000 +0200" stop="20230123030000 +0200" channel="BBC World">
     <title lang="el">Δρ 90210 Κ1 ΕΠ3</title>
-    <desc lang="el">Η δρ Lee βοηθά μια 60χρονη να φαίνεται όσο νέα αισθάνεται, η δρ Cat αναλαμβάνει μια σύζυγο αθλητή, ενώ η δρ Q φροντίζει για τα μαλλιά του συζύγου της. Πρωταγωνιστούν: Cat Begovic, Suzanne Quardt, Kelly Killeen, Michelle Lee. (2020).(c)</desc>
+    <desc lang="el">Η δρ Lee βοηθά μια 60χρονη να φαίνεται όσο νέα αισθάνεται, η δρ Cat αναλαμβάνει μια σύζυγο αθλητή, ενώ η δρ Q φροντίζει για τα μαλλιά του συζύγου της. Πρωταγωνιστούν: Cat Begovic, Suzanne Quardt, Kelly Killeen, Michelle Lee. (2020).</desc>
   </programme>
   <programme start="20230123030000 +0200" stop="20230123040000 +0200" channel="BBC World">
     <title lang="el">Δρ 90210 Κ1 ΕΠ4</title>
-    <desc lang="el">Η δρ Q αναλαμβάνει μια επέμβαση δύο φάσεων, μια γυναίκα με σκαφοειδή θώρακα ζητά βοήθεια από τη δρα Kelly, ενώ ασθενής θέλει να αποκτήσει λακκάκια. Πρωταγωνιστούν: Cat Begovic, Suzanne Quardt, Kelly Killeen, Michelle Lee. (2020).(c)</desc>
+    <desc lang="el">Η δρ Q αναλαμβάνει μια επέμβαση δύο φάσεων, μια γυναίκα με σκαφοειδή θώρακα ζητά βοήθεια από τη δρα Kelly, ενώ ασθενής θέλει να αποκτήσει λακκάκια. Πρωταγωνιστούν: Cat Begovic, Suzanne Quardt, Kelly Killeen, Michelle Lee. (2020).</desc>
   </programme>
   <programme start="20230123040000 +0200" stop="20230123050000 +0200" channel="BBC World">
     <title lang="el">Σχεδόν διάσημοι: Η ζωή στο ράντσο Κ1 ΕΠ7</title>
-    <desc lang="el">Ο ανταγωνισμός του Χάρι και του Όστιν φτάνει σε οριακό σημείο. Οι “αγρότες” δένονται μιλώντας για το ταραγμένο παρελθόν και τα κρυφά ζόρια τους. Πρωταγωνιστούν: Taylor-Ann Hasselhoff, Austin Sopp, Jasmin Lawrence, Harry James Thornton, Myles O'Neal, Hana Giraldo, Redmond Parker, Ebie Wright. (2022).(c)</desc>
+    <desc lang="el">Ο ανταγωνισμός του Χάρι και του Όστιν φτάνει σε οριακό σημείο. Οι “αγρότες” δένονται μιλώντας για το ταραγμένο παρελθόν και τα κρυφά ζόρια τους. Πρωταγωνιστούν: Taylor-Ann Hasselhoff, Austin Sopp, Jasmin Lawrence, Harry James Thornton, Myles O'Neal, Hana Giraldo, Redmond Parker, Ebie Wright. (2022).</desc>
   </programme>
   <programme start="20230123050000 +0200" stop="20230123060000 +0200" channel="BBC World">
     <title lang="el">Σχεδόν διάσημοι: Η ζωή στο ράντσο Κ1 ΕΠ8</title>
-    <desc lang="el">Οι Όστιν και Χάνα παλεύουν να χειριστούν τα συναισθήματά τους. Ενώ κοντεύει η μέρα της επαναλειτουργίας, οι “αγρότες” ανακαλύπτουν τα καθήκοντά τους. Πρωταγωνιστούν: Taylor-Ann Hasselhoff, Austin Sopp, Jasmin Lawrence, Harry James Thornton, Myles O'Neal, Hana Giraldo, Redmond Parker, Ebie Wright. (2022).(c)</desc>
+    <desc lang="el">Οι Όστιν και Χάνα παλεύουν να χειριστούν τα συναισθήματά τους. Ενώ κοντεύει η μέρα της επαναλειτουργίας, οι “αγρότες” ανακαλύπτουν τα καθήκοντά τους. Πρωταγωνιστούν: Taylor-Ann Hasselhoff, Austin Sopp, Jasmin Lawrence, Harry James Thornton, Myles O'Neal, Hana Giraldo, Redmond Parker, Ebie Wright. (2022).</desc>
   </programme>
   <programme start="20230123060000 +0200" stop="20230123070000 +0200" channel="BBC World">
     <title lang="el">Σχεδόν διάσημοι: Η ζωή στο ράντσο Κ1 ΕΠ9</title>
-    <desc lang="el">Οι αγρότες υποδέχονται επισκέπτες στο Ράντσο Σάντλμπακ. Μετά από λίγα λόγια των διάσημων γονιών τους, η διαμονή τους στο ράντσο φτάνει στο τέλος της. Πρωταγωνιστούν: Taylor-Ann Hasselhoff, Austin Sopp, Jasmin Lawrence, Harry James Thornton, Myles O'Neal, Hana Giraldo, Redmond Parker, Ebie Wright. (2022).(c)</desc>
+    <desc lang="el">Οι αγρότες υποδέχονται επισκέπτες στο Ράντσο Σάντλμπακ. Μετά από λίγα λόγια των διάσημων γονιών τους, η διαμονή τους στο ράντσο φτάνει στο τέλος της. Πρωταγωνιστούν: Taylor-Ann Hasselhoff, Austin Sopp, Jasmin Lawrence, Harry James Thornton, Myles O'Neal, Hana Giraldo, Redmond Parker, Ebie Wright. (2022).</desc>
   </programme>
   <programme start="20230123070000 +0200" stop="20230123080000 +0200" channel="BBC World">
     <title lang="el">Τζουλιάνα &amp;Μπιλ Κ6 ΕΠ6</title>
-    <desc lang="el">Η Τζουλιάνα κάνει πάρτι-έκπληξη για τα 70ά γενέθλια της γιαγιας Ντιπάντι. Στο μεταξύ με τον Μπιλ αντιμετωπίζουν τα προβλήματα του Ντιουκ στο ταξίδι. Πρωταγωνιστούν: Giuliana Rancic, Bill Rancic. (2009).(c)</desc>
+    <desc lang="el">Η Τζουλιάνα κάνει πάρτι-έκπληξη για τα 70ά γενέθλια της γιαγιας Ντιπάντι. Στο μεταξύ με τον Μπιλ αντιμετωπίζουν τα προβλήματα του Ντιουκ στο ταξίδι. Πρωταγωνιστούν: Giuliana Rancic, Bill Rancic. (2009).</desc>
   </programme>
   <programme start="20230123080000 +0200" stop="20230123090000 +0200" channel="BBC World">
     <title lang="el">Τζουλιάνα &amp;Μπιλ Κ6 ΕΠ7</title>
-    <desc lang="el">Ο Μπιλ μιλάει στην Τζουλιάνα για τη συνήθειά της να κρύβει πράγματα, μα ετοιμάζει κι έκπληξη για την πρώτη φορά που γιορτάζει τη γιορτή της Μητέρας. Πρωταγωνιστούν: Giuliana Rancic, Bill Rancic. (2009).(c)</desc>
+    <desc lang="el">Ο Μπιλ μιλάει στην Τζουλιάνα για τη συνήθειά της να κρύβει πράγματα, μα ετοιμάζει κι έκπληξη για την πρώτη φορά που γιορτάζει τη γιορτή της Μητέρας. Πρωταγωνιστούν: Giuliana Rancic, Bill Rancic. (2009).</desc>
   </programme>
   <programme start="20230123090000 +0200" stop="20230123100000 +0200" channel="BBC World">
     <title lang="el">Παιχνίδια Διασήμων Κ2 ΕΠ3</title>
-    <desc lang="el">Ο Kevin Hart συναντά τους Ludacris και Eudoxie Bridges, Nelly και Shantel Jackson και T-Pain και Vanessa Fraction. Πρωταγωνιστούν: Kevin Hart. (2021).(c)</desc>
+    <desc lang="el">Ο Kevin Hart συναντά τους Ludacris και Eudoxie Bridges, Nelly και Shantel Jackson και T-Pain και Vanessa Fraction. Πρωταγωνιστούν: Kevin Hart. (2021).</desc>
   </programme>
   <programme start="20230123100000 +0200" stop="20230123110000 +0200" channel="BBC World">
     <title lang="el">Παιχνίδια Διασήμων Κ2 ΕΠ4</title>
-    <desc lang="el">Ο Kevin Hart συναντά τους Kenan Thompson και Chris Redd, Asif Mandvi και Shaifali Puri, καθώς και την Lauren Ash με τhν ξαδέρφη της, Christy. Πρωταγωνιστούν: Kevin Hart. (2021).(c)</desc>
+    <desc lang="el">Ο Kevin Hart συναντά τους Kenan Thompson και Chris Redd, Asif Mandvi και Shaifali Puri, καθώς και την Lauren Ash με τhν ξαδέρφη της, Christy. Πρωταγωνιστούν: Kevin Hart. (2021).</desc>
   </programme>
   <programme start="20230123110000 +0200" stop="20230123120000 +0200" channel="BBC World">
     <title lang="el">Cavallari από την αρχή ως το τέλος Κ2 ΕΠ8</title>
-    <desc lang="el">Η Kristin και ο Jay πάνε στο Cabo San Lucas για να χαρούν τον ήλιο και να θερμάνουν τη σχέση τους. Οι εντάσεις μεταξύ Reagan και Βrittainy αυξάνονται. Πρωταγωνιστούν: Kristin Cavallari, Jay Cutler. (2019).(c)</desc>
+    <desc lang="el">Η Kristin και ο Jay πάνε στο Cabo San Lucas για να χαρούν τον ήλιο και να θερμάνουν τη σχέση τους. Οι εντάσεις μεταξύ Reagan και Βrittainy αυξάνονται. Πρωταγωνιστούν: Kristin Cavallari, Jay Cutler. (2019).</desc>
   </programme>
   <programme start="20230123120000 +0200" stop="20230123130000 +0200" channel="BBC World">
     <title lang="el">Cavallari από την αρχή ως το τέλος Κ2 ΕΠ9</title>
-    <desc lang="el">Όταν φίλοι της Kristin επισκέπονται το ζευγάρι στο Cabo, δημιουργείται ένταση. Stone και Brittany διαφωνούν για τους στόχους της σχέσης τους. Πρωταγωνιστούν: Kristin Cavallari, Jay Cutler. (2019).(c)</desc>
+    <desc lang="el">Όταν φίλοι της Kristin επισκέπονται το ζευγάρι στο Cabo, δημιουργείται ένταση. Stone και Brittany διαφωνούν για τους στόχους της σχέσης τους. Πρωταγωνιστούν: Kristin Cavallari, Jay Cutler. (2019).</desc>
   </programme>
   <programme start="20230123130000 +0200" stop="20230123133000 +0200" channel="BBC World">
     <title lang="el">Διαφορές Διασήμων Κ1 ΕΠ4</title>
-    <desc lang="el">Οι Τζάστιν Μπαλντόνι και Άντι Γκράμμερ λύνουν τις διαφορές τους με μια μαγειρική μάχη εμπνευσμένη από τα κοινωνικά μέσα. Παρουσιάζει ο Τζόελ Μακ Χέιλ. Πρωταγωνιστούν: Joel McHale. (2022).(c)</desc>
+    <desc lang="el">Οι Τζάστιν Μπαλντόνι και Άντι Γκράμμερ λύνουν τις διαφορές τους με μια μαγειρική μάχη εμπνευσμένη από τα κοινωνικά μέσα. Παρουσιάζει ο Τζόελ Μακ Χέιλ. Πρωταγωνιστούν: Joel McHale. (2022).</desc>
   </programme>
   <programme start="20230123133000 +0200" stop="20230123140000 +0200" channel="BBC World">
     <title lang="el">Δείτε Ζωντανά Ό,τι Συμβαίνει Κ20 ΕΠ11</title>
-    <desc lang="el">Ο παρουσιαστής Άντι Κόεν συζητά θέματα της ποπ κουλτούρας με τους καλεσμένους και τους θεατές του. (2023).(c)</desc>
+    <desc lang="el">Ο παρουσιαστής Άντι Κόεν συζητά θέματα της ποπ κουλτούρας με τους καλεσμένους και τους θεατές του. (2023).</desc>
   </programme>
   <programme start="20230123140000 +0200" stop="20230123150000 +0200" channel="BBC World">
     <title lang="el">Η Kourtney και η Kim στο Μαϊάμι Κ5 ΕΠ10</title>
-    <desc lang="el">Ο Σκοτ ταξιδεύει στους βάλτους για να κυνηγήσει αλιγάτορες. Η επιθυμία της Κιμ να ακολουθεί τη μόδα την οδηγεί στο να ξοδέψει όλες της τις οικονομίες. Πρωταγωνιστούν: Kourtney Kardashian, Kim Kardashian. (2013).(c)</desc>
+    <desc lang="el">Ο Σκοτ ταξιδεύει στους βάλτους για να κυνηγήσει αλιγάτορες. Η επιθυμία της Κιμ να ακολουθεί τη μόδα την οδηγεί στο να ξοδέψει όλες της τις οικονομίες. Πρωταγωνιστούν: Kourtney Kardashian, Kim Kardashian. (2013).</desc>
   </programme>
   <programme start="20230123150000 +0200" stop="20230123160000 +0200" channel="BBC World">
     <title lang="el">Η Kourtney και η Kim στο Μαϊάμι Κ5 ΕΠ11</title>
-    <desc lang="el">Η Κιμ υποπτεύεται ότι ο Σκοτ κάτι σκαρώνει και ζητά από ιδιωτικό ντετέκτιβ να τον παρακολουθεί, ενώ η Κόρτνι σκέφτεται να υποκαταστήσει την Κλόι. Πρωταγωνιστούν: Kourtney Kardashian, Kim Kardashian. (2013).(c)</desc>
+    <desc lang="el">Η Κιμ υποπτεύεται ότι ο Σκοτ κάτι σκαρώνει και ζητά από ιδιωτικό ντετέκτιβ να τον παρακολουθεί, ενώ η Κόρτνι σκέφτεται να υποκαταστήσει την Κλόι. Πρωταγωνιστούν: Kourtney Kardashian, Kim Kardashian. (2013).</desc>
   </programme>
   <programme start="20230123160000 +0200" stop="20230123170000 +0200" channel="BBC World">
     <title lang="el">Total Bellas Κ6 ΕΠ2</title>
-    <desc lang="el">Η Brie πιέζει τη Nicole να λύσει τις διαφορές με την οικογένεια. Η Nicole νιώθει άβολα όταν ο Artem αρχίζει να περνάει χρόνο με τη μητέρα της. Πρωταγωνιστούν: Nikki Bella, Brie Bella. (2020).(c)</desc>
+    <desc lang="el">Η Brie πιέζει τη Nicole να λύσει τις διαφορές με την οικογένεια. Η Nicole νιώθει άβολα όταν ο Artem αρχίζει να περνάει χρόνο με τη μητέρα της. Πρωταγωνιστούν: Nikki Bella, Brie Bella. (2020).</desc>
   </programme>
   <programme start="20230123170000 +0200" stop="20230123180000 +0200" channel="BBC World">
     <title lang="el">Total Bellas Κ6 ΕΠ3</title>
-    <desc lang="el">Η οικογένεια πάει στο Flagstaff για ένα ασυνήθιστο ταξίδι του μέλιτος. ΗNicole και ο Artem δείχνουν να μην έχουν αποφασίσει ακόμη για το μέλλον τους. Πρωταγωνιστούν: Nikki Bella, Brie Bella. (2020).(c)</desc>
+    <desc lang="el">Η οικογένεια πάει στο Flagstaff για ένα ασυνήθιστο ταξίδι του μέλιτος. ΗNicole και ο Artem δείχνουν να μην έχουν αποφασίσει ακόμη για το μέλλον τους. Πρωταγωνιστούν: Nikki Bella, Brie Bella. (2020).</desc>
   </programme>
   <programme start="20230123180000 +0200" stop="20230123190000 +0200" channel="BBC World">
     <title lang="el">Σώμα για Εκδίκηση με την Khloé Kardashian Κ2 ΕΠ8</title>
-    <desc lang="el">Μετά από μια οδυνηρή εμπειρία απιστίας, η Rebecca θέλει να δείξει στον πρώην ότι δεν της έκαμψε το ηθικό ούτε κλόνισε την εμπιστοσύνη στον εαυτό της. Πρωταγωνιστούν: Khloé Kardashian. (2017).(c)</desc>
+    <desc lang="el">Μετά από μια οδυνηρή εμπειρία απιστίας, η Rebecca θέλει να δείξει στον πρώην ότι δεν της έκαμψε το ηθικό ούτε κλόνισε την εμπιστοσύνη στον εαυτό της. Πρωταγωνιστούν: Khloé Kardashian. (2017).</desc>
   </programme>
   <programme start="20230123190000 +0200" stop="20230123200000 +0200" channel="BBC World">
     <title lang="el">Σώμα για Εκδίκηση με την Khloé Kardashian Κ3 ΕΠ1</title>
-    <desc lang="el">Σε αυτόν τον κύκλο του Revenge Body, η Khloe καταλαβαίνει καλύτερα τους συμμετάσχοντες, καθώς επιχειρεί κι εκείνη να χάσει βάρος μαζί τους. Πρωταγωνιστούν: Khloé Kardashian. (2019).(c)</desc>
+    <desc lang="el">Σε αυτόν τον κύκλο του Revenge Body, η Khloe καταλαβαίνει καλύτερα τους συμμετάσχοντες, καθώς επιχειρεί κι εκείνη να χάσει βάρος μαζί τους. Πρωταγωνιστούν: Khloé Kardashian. (2019).</desc>
   </programme>
   <programme start="20230123200000 +0200" stop="20230123210000 +0200" channel="BBC World">
     <title lang="el">Μέντιουμ του Χόλιγουντ, με τον Tyler Henry Κ2 ΕΠ2</title>
-    <desc lang="el">Ο Tyler είναι ένα 19χρονο μέντιουμ, που όχι μόνο επικοινωνεί με τα πνεύματα και διαβάζει το μέλλον, αλλά αναγνωρίζει και πιθανά προβλήματα υγείας. Πρωταγωνιστούν: DE-P. (2016).(c)</desc>
+    <desc lang="el">Ο Tyler είναι ένα 19χρονο μέντιουμ, που όχι μόνο επικοινωνεί με τα πνεύματα και διαβάζει το μέλλον, αλλά αναγνωρίζει και πιθανά προβλήματα υγείας. Πρωταγωνιστούν: DE-P. (2016).</desc>
   </programme>
   <programme start="20230123210000 +0200" stop="20230123220000 +0200" channel="BBC World">
     <title lang="el">Μέντιουμ του Χόλιγουντ, με τον Tyler Henry Κ2 ΕΠ3</title>
-    <desc lang="el">Ο Tyler είναι ένα 19χρονο μέντιουμ, που όχι μόνο επικοινωνεί με τα πνεύματα και διαβάζει το μέλλον, αλλά αναγνωρίζει και πιθανά προβλήματα υγείας. Πρωταγωνιστούν: DE-P. (2016).(c)</desc>
+    <desc lang="el">Ο Tyler είναι ένα 19χρονο μέντιουμ, που όχι μόνο επικοινωνεί με τα πνεύματα και διαβάζει το μέλλον, αλλά αναγνωρίζει και πιθανά προβλήματα υγείας. Πρωταγωνιστούν: DE-P. (2016).</desc>
   </programme>
   <programme start="20230123220000 +0200" stop="20230123230000 +0200" channel="BBC World">
     <title lang="el">Παραμορφωμένοι από τη φύση Κ1 ΕΠ6</title>
-    <desc lang="el">Οι γιατροί συναντούν μια ασθενή, της οποίας το πρόβλημα στο στήθος ολοένα διογκώνεται, και μια γυναίκα με προβλήματα στη μύτη. Πρωταγωνιστούν: Terry Dubrow, Paul Nassif. (2016).(c)</desc>
+    <desc lang="el">Οι γιατροί συναντούν μια ασθενή, της οποίας το πρόβλημα στο στήθος ολοένα διογκώνεται, και μια γυναίκα με προβλήματα στη μύτη. Πρωταγωνιστούν: Terry Dubrow, Paul Nassif. (2016).</desc>
   </programme>
   <programme start="20230123230000 +0200" stop="20230124000000 +0200" channel="BBC World">
     <title lang="el">Παραμορφωμένοι από τη φύση Κ1 ΕΠ7</title>
-    <desc lang="el">Οι γιατροί βοηθούν μια γυναίκα με πρόβλημα στη μύτη και μια φοιτήτρια με υπερμεγέθη στήθη, και εξετάζουν την Tiffany Pollard. Πρωταγωνιστούν: Terry Dubrow, Paul Nassif. (2016).(c)</desc>
+    <desc lang="el">Οι γιατροί βοηθούν μια γυναίκα με πρόβλημα στη μύτη και μια φοιτήτρια με υπερμεγέθη στήθη, και εξετάζουν την Tiffany Pollard. Πρωταγωνιστούν: Terry Dubrow, Paul Nassif. (2016).</desc>
   </programme>
   <programme start="20230124000000 +0200" stop="20230124010000 +0200" channel="BBC World">
     <title lang="el">Κυνηγοί Θησαυρών Κ14 ΕΠ16</title>
-    <desc lang="el">Ο Ντρου και ο Τι επισκέπτονται ένα ζυθοποιείο στο Σεντ Όστελ της Κορνουάλης. Η περιπέτειά τους στα νοτιοδυτικά περιλαμβάνει ακόμα μια στάση στην Πενζάνς και θαλάσσιο σέρφινγκ. (2020).(c)</desc>
+    <desc lang="el">Ο Ντρου και ο Τι επισκέπτονται ένα ζυθοποιείο στο Σεντ Όστελ της Κορνουάλης. Η περιπέτειά τους στα νοτιοδυτικά περιλαμβάνει ακόμα μια στάση στην Πενζάνς και θαλάσσιο σέρφινγκ. (2020).</desc>
   </programme>
   <programme start="20230124010000 +0200" stop="20230124020000 +0200" channel="BBC World">
     <title lang="el">Θανάσιμη Ψαριά Κ18 ΕΠ16</title>
-    <desc lang="el">Μια από τις πιο φονικές δουλειές στον κόσμο είναι του ψαρά βασιλικών καβουριών στην Αλάσκα, που αψηφά τα επικίνδυνα κύματα της Βεριγγείου Θάλασσας αναζητώντας τα πολύτιμα εδέσματα. (2022).(c)</desc>
+    <desc lang="el">Μια από τις πιο φονικές δουλειές στον κόσμο είναι του ψαρά βασιλικών καβουριών στην Αλάσκα, που αψηφά τα επικίνδυνα κύματα της Βεριγγείου Θάλασσας αναζητώντας τα πολύτιμα εδέσματα. (2022).</desc>
   </programme>
   <programme start="20230124020000 +0200" stop="20230124040000 +0200" channel="BBC World">
     <title lang="el">Γυμνοί και Φοβισμένοι Κ7 ΕΠ15</title>
-    <desc lang="el">Δύο επιβιωτιστές πρέπει να επιζήσουν για 21 μέρες χωρίς τροφή, νερό ή ρούχα σε μια από τις πιο ακραίες και απομακρυσμένες τοποθεσίες του κόσμου. Πώς θα τα καταφέρουν; (2017).(c)</desc>
+    <desc lang="el">Δύο επιβιωτιστές πρέπει να επιζήσουν για 21 μέρες χωρίς τροφή, νερό ή ρούχα σε μια από τις πιο ακραίες και απομακρυσμένες τοποθεσίες του κόσμου. Πώς θα τα καταφέρουν; (2017).</desc>
   </programme>
   <programme start="20230124040000 +0200" stop="20230124050000 +0200" channel="BBC World">
     <title lang="el">Γυμνοί και Φοβισμένοι: Μόνοι Κ1 ΕΠ3</title>
-    <desc lang="el">Περικυκλωμένη από λιοντάρια και ύαινες, η κορυφαία επιβιωτίστρια Λέισι Τζόουνς αντιμετωπίζει την αφρικανική σαβάνα απομονωμένη και άυπνη. (2019).(c)</desc>
+    <desc lang="el">Περικυκλωμένη από λιοντάρια και ύαινες, η κορυφαία επιβιωτίστρια Λέισι Τζόουνς αντιμετωπίζει την αφρικανική σαβάνα απομονωμένη και άυπνη. (2019).</desc>
   </programme>
   <programme start="20230124050000 +0200" stop="20230124060000 +0200" channel="BBC World">
     <title lang="el">Τετράτροχες Ευκαιρίες Κ12 ΕΠ17</title>
-    <desc lang="el">Ο Μάικ ενθουσιάζεται όταν βρίσκει ένα καλτ VW Corrado κουπέ με μόνο έναν προηγούμενο ιδιοκτήτη, σε εξαιρετική τιμή. Όμως τα φτηνά αυτοκίνητα κρύβουν ακριβές εκπλήξεις... (2014).(c)</desc>
+    <desc lang="el">Ο Μάικ ενθουσιάζεται όταν βρίσκει ένα καλτ VW Corrado κουπέ με μόνο έναν προηγούμενο ιδιοκτήτη, σε εξαιρετική τιμή. Όμως τα φτηνά αυτοκίνητα κρύβουν ακριβές εκπλήξεις... (2014).</desc>
   </programme>
   <programme start="20230124060000 +0200" stop="20230124070000 +0200" channel="BBC World">
     <title lang="el">Τετράτροχες Ευκαιρίες Κ13 ΕΠ16</title>
-    <desc lang="el">Ο Μάικ ανακαλύπτει μια Maserati Bi-Turbo του 1985 που μετατράπηκε σε ηλεκτρική στις αρχές της δεκαετίας του '90. Το πρώτο τους ηλεκτρικό αυτοκίνητο θα είναι, άραγε, επικερδές; (2016).(c)</desc>
+    <desc lang="el">Ο Μάικ ανακαλύπτει μια Maserati Bi-Turbo του 1985 που μετατράπηκε σε ηλεκτρική στις αρχές της δεκαετίας του '90. Το πρώτο τους ηλεκτρικό αυτοκίνητο θα είναι, άραγε, επικερδές; (2016).</desc>
   </programme>
   <programme start="20230124070000 +0200" stop="20230124080000 +0200" channel="BBC World">
     <title lang="el">Τετράτροχες Ευκαιρίες Κ14 ΕΠ17</title>
-    <desc lang="el">Ο Μάικ βρίσκει ένα από τα πρώτα SUV, το International Harvester Scout 800A του 1970. Ο Αντ θα χρειαστεί να επισκευάσει το κιβώτιο μεταφοράς και να αντικαταστήσει το εσωτερικό. (2017).(c)</desc>
+    <desc lang="el">Ο Μάικ βρίσκει ένα από τα πρώτα SUV, το International Harvester Scout 800A του 1970. Ο Αντ θα χρειαστεί να επισκευάσει το κιβώτιο μεταφοράς και να αντικαταστήσει το εσωτερικό. (2017).</desc>
   </programme>
   <programme start="20230124080000 +0200" stop="20230124090000 +0200" channel="BBC World">
     <title lang="el">Τετράτροχες Ευκαιρίες Κ17 ΕΠ1</title>
-    <desc lang="el">Ο έμπορος αυτοκινήτων Μάικ Μπρούερ επιστρέφει στη Βρετανία! Μαζί με τον άσο μηχανικό Μαρκ «Έλβις» Πρίστλεϊ, σκοπεύει να εντοπίζει, να ανακαινίζει και να μεταπουλά θρυλικά μοντέλα. (2021).(c)</desc>
+    <desc lang="el">Ο έμπορος αυτοκινήτων Μάικ Μπρούερ επιστρέφει στη Βρετανία! Μαζί με τον άσο μηχανικό Μαρκ «Έλβις» Πρίστλεϊ, σκοπεύει να εντοπίζει, να ανακαινίζει και να μεταπουλά θρυλικά μοντέλα. (2021).</desc>
   </programme>
   <programme start="20230124090000 +0200" stop="20230124093000 +0200" channel="BBC World">
     <title lang="el">Πώς Φτιάχνονται; Κ21 ΕΠ17</title>
-    <desc lang="el">Όλο και περισσότερα αντικείμενα της καθημερινότητας μπαίνουν στο μικροσκόπιο, όπως οι πόρτες των αντιβομβαρδιστικών καταφυγίων, τα κραγιόν και οι τεχνητοί φοίνικες. (2014).(c)</desc>
+    <desc lang="el">Όλο και περισσότερα αντικείμενα της καθημερινότητας μπαίνουν στο μικροσκόπιο, όπως οι πόρτες των αντιβομβαρδιστικών καταφυγίων, τα κραγιόν και οι τεχνητοί φοίνικες. (2014).</desc>
   </programme>
   <programme start="20230124093000 +0200" stop="20230124100000 +0200" channel="BBC World">
     <title lang="el">Πώς Φτιάχνονται; Κ24 ΕΠ17</title>
-    <desc lang="el">Μάθετε πώς φτιάχνονται οι κεφαλές των ξυριστικών μηχανών, τα κέικ με μπανάνα και σοκολάτα, τα αυτόματα μηχανήματα πώλησης και οι υπολογιστές καταδύσεων. (2015).(c)</desc>
+    <desc lang="el">Μάθετε πώς φτιάχνονται οι κεφαλές των ξυριστικών μηχανών, τα κέικ με μπανάνα και σοκολάτα, τα αυτόματα μηχανήματα πώλησης και οι υπολογιστές καταδύσεων. (2015).</desc>
   </programme>
   <programme start="20230124100000 +0200" stop="20230124103000 +0200" channel="BBC World">
     <title lang="el">Θαμμένα στην Αποθήκη Κ1 ΕΠ17</title>
-    <desc lang="el">Στο Χέρεφορντσιρ, ο Χένρι και ο Σαμ ανακαλύπτουν αποθήκες γεμάτες από μηχανές και αυτόγυρα, παράξενα και υπέροχα οχήματα, και κατόπιν ξετρυπώνουν ένα κλασικό βρετανικό κομμάτι. (2015).(c)</desc>
+    <desc lang="el">Στο Χέρεφορντσιρ, ο Χένρι και ο Σαμ ανακαλύπτουν αποθήκες γεμάτες από μηχανές και αυτόγυρα, παράξενα και υπέροχα οχήματα, και κατόπιν ξετρυπώνουν ένα κλασικό βρετανικό κομμάτι. (2015).</desc>
   </programme>
   <programme start="20230124103000 +0200" stop="20230124110000 +0200" channel="BBC World">
     <title lang="el">Μάχες Αποσκευών Κ1 ΕΠ4</title>
-    <desc lang="el">Στην Ατλάντα μπαίνει σε πλειστηριασμό ένα φορτίο που έμεινε στα αζήτητα. Ο Μπίλι και ο Μαρκ ενδιαφέρονται για στρατιωτικά αντικείμενα, ενώ οι Μάρτιν ανακαλύπτουν κάτι ασυνήθιστο! (2012).(c)</desc>
+    <desc lang="el">Στην Ατλάντα μπαίνει σε πλειστηριασμό ένα φορτίο που έμεινε στα αζήτητα. Ο Μπίλι και ο Μαρκ ενδιαφέρονται για στρατιωτικά αντικείμενα, ενώ οι Μάρτιν ανακαλύπτουν κάτι ασυνήθιστο! (2012).</desc>
   </programme>
   <programme start="20230124110000 +0200" stop="20230124120000 +0200" channel="BBC World">
     <title lang="el">Κατάδυση για Χρυσό Κ10 ΕΠ17</title>
-    <desc lang="el">Ένας νέος πυρετός του χρυσού είναι σε εξέλιξη, αλλά το πολύτιμο μέταλλο βρίσκεται στον βυθό της Βεριγγείου. Μια χούφτα άνθρωποι ρισκάρουν πρόθυμα για να το φέρουν στην επιφάνεια. (2021).(c)</desc>
+    <desc lang="el">Ένας νέος πυρετός του χρυσού είναι σε εξέλιξη, αλλά το πολύτιμο μέταλλο βρίσκεται στον βυθό της Βεριγγείου. Μια χούφτα άνθρωποι ρισκάρουν πρόθυμα για να το φέρουν στην επιφάνεια. (2021).</desc>
   </programme>
   <programme start="20230124120000 +0200" stop="20230124130000 +0200" channel="BBC World">
     <title lang="el">Κυνηγοί Θησαυρών Κ11 ΕΠ8</title>
-    <desc lang="el">Ο Ντρου κάνει σκληρά παζάρια στο Φρομ του Σόμερσετ. Στο Ντάμφρισαϊρ πάει σε ένα κτήμα που ανήκει στην ίδια οικογένεια για πολλές γενιές και είναι γεμάτο συναρπαστικές αντίκες. (2017).(c)</desc>
+    <desc lang="el">Ο Ντρου κάνει σκληρά παζάρια στο Φρομ του Σόμερσετ. Στο Ντάμφρισαϊρ πάει σε ένα κτήμα που ανήκει στην ίδια οικογένεια για πολλές γενιές και είναι γεμάτο συναρπαστικές αντίκες. (2017).</desc>
   </programme>
   <programme start="20230124130000 +0200" stop="20230124140000 +0200" channel="BBC World">
     <title lang="el">Τετράτροχες Ευκαιρίες Κ17 ΕΠ1</title>
-    <desc lang="el">Ο έμπορος αυτοκινήτων Μάικ Μπρούερ επιστρέφει στη Βρετανία! Μαζί με τον άσο μηχανικό Μαρκ «Έλβις» Πρίστλεϊ, σκοπεύει να εντοπίζει, να ανακαινίζει και να μεταπουλά θρυλικά μοντέλα. (2021).(c)</desc>
+    <desc lang="el">Ο έμπορος αυτοκινήτων Μάικ Μπρούερ επιστρέφει στη Βρετανία! Μαζί με τον άσο μηχανικό Μαρκ «Έλβις» Πρίστλεϊ, σκοπεύει να εντοπίζει, να ανακαινίζει και να μεταπουλά θρυλικά μοντέλα. (2021).</desc>
   </programme>
   <programme start="20230124140000 +0200" stop="20230124150000 +0200" channel="BBC World">
     <title lang="el">Στον Πυρετό του Χρυσού: Φρέντι Ντοτζ, Διασώστης Ορυχείων Κ1 ΕΠ10</title>
-    <desc lang="el">Βαθιά στην Αλάσκα, ο Φρέντι κι ο Χουάν βοηθούν τον ερασιτέχνη Κλέι να μετατρέψει το προβληματικό ορυχείο του σε κερδοφόρα επιχείρηση, με λίγη βοήθεια από παλιούς συμμαθητές του. (2021).(c)</desc>
+    <desc lang="el">Βαθιά στην Αλάσκα, ο Φρέντι κι ο Χουάν βοηθούν τον ερασιτέχνη Κλέι να μετατρέψει το προβληματικό ορυχείο του σε κερδοφόρα επιχείρηση, με λίγη βοήθεια από παλιούς συμμαθητές του. (2021).</desc>
   </programme>
   <programme start="20230124150000 +0200" stop="20230124160000 +0200" channel="BBC World">
     <title lang="el">Στον Πυρετό του Χρυσού: Φρέντι Ντοτζ, Διασώστης Ορυχείων Κ1 ΕΠ11</title>
-    <desc lang="el">Στη δυσκολότερή τους πρόκληση, ο Φρέντι κι ο Χουάν πετάνε σε ένα απομακρυσμένο ορυχείο στην Αλάσκα, για να βοηθήσουν τρεις μεταλλωρύχους που έχουν μία δεκαετία να δουν κέρδη. (2021).(c)</desc>
+    <desc lang="el">Στη δυσκολότερή τους πρόκληση, ο Φρέντι κι ο Χουάν πετάνε σε ένα απομακρυσμένο ορυχείο στην Αλάσκα, για να βοηθήσουν τρεις μεταλλωρύχους που έχουν μία δεκαετία να δουν κέρδη. (2021).</desc>
   </programme>
   <programme start="20230124160000 +0200" stop="20230124170000 +0200" channel="BBC World">
     <title lang="el">Στον Πυρετό του Χρυσού: Φρέντι Ντοτζ, Διασώστης Ορυχείων Κ1 ΕΠ12</title>
-    <desc lang="el">Ο Φρέντι κι ο Χουάν επιστρέφουν στον επιβλητικό ποταμό Κλοντάικ, για να βοηθήσουν ένα ζευγάρι να σώσει το προβληματικό ορυχείο του από το χείλος της χρεοκοπίας. (2021).(c)</desc>
+    <desc lang="el">Ο Φρέντι κι ο Χουάν επιστρέφουν στον επιβλητικό ποταμό Κλοντάικ, για να βοηθήσουν ένα ζευγάρι να σώσει το προβληματικό ορυχείο του από το χείλος της χρεοκοπίας. (2021).</desc>
   </programme>
   <programme start="20230124170000 +0200" stop="20230124173000 +0200" channel="BBC World">
     <title lang="el">Θαμμένα στην Αποθήκη Κ1 ΕΠ17</title>
-    <desc lang="el">Στο Χέρεφορντσιρ, ο Χένρι και ο Σαμ ανακαλύπτουν αποθήκες γεμάτες από μηχανές και αυτόγυρα, παράξενα και υπέροχα οχήματα, και κατόπιν ξετρυπώνουν ένα κλασικό βρετανικό κομμάτι. (2015).(c)</desc>
+    <desc lang="el">Στο Χέρεφορντσιρ, ο Χένρι και ο Σαμ ανακαλύπτουν αποθήκες γεμάτες από μηχανές και αυτόγυρα, παράξενα και υπέροχα οχήματα, και κατόπιν ξετρυπώνουν ένα κλασικό βρετανικό κομμάτι. (2015).</desc>
   </programme>
   <programme start="20230124173000 +0200" stop="20230124180000 +0200" channel="BBC World">
     <title lang="el">Μάχες Αποσκευών Κ1 ΕΠ4</title>
-    <desc lang="el">Στην Ατλάντα μπαίνει σε πλειστηριασμό ένα φορτίο που έμεινε στα αζήτητα. Ο Μπίλι και ο Μαρκ ενδιαφέρονται για στρατιωτικά αντικείμενα, ενώ οι Μάρτιν ανακαλύπτουν κάτι ασυνήθιστο! (2012).(c)</desc>
+    <desc lang="el">Στην Ατλάντα μπαίνει σε πλειστηριασμό ένα φορτίο που έμεινε στα αζήτητα. Ο Μπίλι και ο Μαρκ ενδιαφέρονται για στρατιωτικά αντικείμενα, ενώ οι Μάρτιν ανακαλύπτουν κάτι ασυνήθιστο! (2012).</desc>
   </programme>
   <programme start="20230124180000 +0200" stop="20230124190000 +0200" channel="BBC World">
     <title lang="el">Κυνηγοί Θησαυρών Κ14 ΕΠ17</title>
-    <desc lang="el">Στο Κότσγουολντς, ο Ντρου περιεργάζεται μια εντυπωσιακή έπαυλη. Έπειτα, επισκέπτεται ένα πρώην παρεκκλήσι στο Μπέρνλι γεμάτο αντίκες, και μια έκθεση αυτοκινήτων στο Τζέρσεϊ. (2020).(c)</desc>
+    <desc lang="el">Στο Κότσγουολντς, ο Ντρου περιεργάζεται μια εντυπωσιακή έπαυλη. Έπειτα, επισκέπτεται ένα πρώην παρεκκλήσι στο Μπέρνλι γεμάτο αντίκες, και μια έκθεση αυτοκινήτων στο Τζέρσεϊ. (2020).</desc>
   </programme>
   <programme start="20230124190000 +0200" stop="20230124193000 +0200" channel="BBC World">
     <title lang="el">Πώς Φτιάχνονται; Κ25 ΕΠ17</title>
-    <desc lang="el">Όλο και περισσότερα καθημερινά αντικείμενα μπαίνουν στο μικροσκόπιο. Ποιες διαδικασίες παραγωγής κρύβονται πίσω από κοινά αντικείμενα όπως οι κυψέλες κι οι κουζίνες από χυτοσίδηρο; (2017).(c)</desc>
+    <desc lang="el">Όλο και περισσότερα καθημερινά αντικείμενα μπαίνουν στο μικροσκόπιο. Ποιες διαδικασίες παραγωγής κρύβονται πίσω από κοινά αντικείμενα όπως οι κυψέλες κι οι κουζίνες από χυτοσίδηρο; (2017).</desc>
   </programme>
   <programme start="20230124193000 +0200" stop="20230124200000 +0200" channel="BBC World">
     <title lang="el">Πώς Γίνεται; Κ14 ΕΠ17</title>
-    <desc lang="el">Πώς γίνεται η τροφοδοσία της επόμενης γενιάς αγωνιστικών αυτοκινήτων, που λειτουργούν με ηλεκτρισμό; Επίσης, πώς φτιάχνεται το υδρόμελο, το αγαπημένο ποτό των τρομερών Βίκινγκς; (2016).(c)</desc>
+    <desc lang="el">Πώς γίνεται η τροφοδοσία της επόμενης γενιάς αγωνιστικών αυτοκινήτων, που λειτουργούν με ηλεκτρισμό; Επίσης, πώς φτιάχνεται το υδρόμελο, το αγαπημένο ποτό των τρομερών Βίκινγκς; (2016).</desc>
   </programme>
   <programme start="20230124200000 +0200" stop="20230124210000 +0200" channel="BBC World">
     <title lang="el">Τετράτροχες Ευκαιρίες Κ16 ΕΠ14</title>
-    <desc lang="el">Ο Μάικ και ο Αντ καλωσορίζουν στο εργαστήριό τους ένα ιστορικό κομμάτι: ένα International Harvester Travelall του 1968, πρόγονο του σύγχρονου SUV. (2020).(c)</desc>
+    <desc lang="el">Ο Μάικ και ο Αντ καλωσορίζουν στο εργαστήριό τους ένα ιστορικό κομμάτι: ένα International Harvester Travelall του 1968, πρόγονο του σύγχρονου SUV. (2020).</desc>
   </programme>
   <programme start="20230124210000 +0200" stop="20230124220000 +0200" channel="BBC World">
     <title lang="el">Στον Πυρετό του Χρυσού Κ13 ΕΠ14</title>
-    <desc lang="el">Οι χρυσωρύχοι του Γιούκον ρισκάρουν τα πάντα ελπίζοντας να χτυπήσουν φλέβα και να πλουτίσουν. Με νέους χρυσωρύχους, νέες περιοχές και μηχανήματα, το ρίσκο είναι υψηλότερο από ποτέ! (2022).(c)</desc>
+    <desc lang="el">Οι χρυσωρύχοι του Γιούκον ρισκάρουν τα πάντα ελπίζοντας να χτυπήσουν φλέβα και να πλουτίσουν. Με νέους χρυσωρύχους, νέες περιοχές και μηχανήματα, το ρίσκο είναι υψηλότερο από ποτέ! (2022).</desc>
   </programme>
   <programme start="20230124220000 +0200" stop="20230124230000 +0200" channel="BBC World">
     <title lang="el">Οι Άνθρωποι της Άγριας Αλάσκας Κ7 ΕΠ9</title>
-    <desc lang="el">Βαθιά μέσα στην ερημιά ζει μια οικογένεια που γεννήθηκε και μεγάλωσε στην άγρια φύση. Οι Μπράουν ζουν μακριά από τον πολιτισμό και βασίζονται ο ένας στον άλλο για να επιβιώσουν.(c)</desc>
+    <desc lang="el">Βαθιά μέσα στην ερημιά ζει μια οικογένεια που γεννήθηκε και μεγάλωσε στην άγρια φύση. Οι Μπράουν ζουν μακριά από τον πολιτισμό και βασίζονται ο ένας στον άλλο για να επιβιώσουν.</desc>
   </programme>
   <programme start="20230124230000 +0200" stop="20230125000000 +0200" channel="BBC World">
     <title lang="el">Στον Πυρετό του Χρυσού: Ορμητικά Ποτάμια Κ6 ΕΠ8</title>
-    <desc lang="el">Ο Ντακότα Φρεντ και ο γιος του Ντάστιν ρισκάρουν τη ζωή τους για να πλουτίσουν αναζητώντας φλέβες χρυσού και παρασύρονται κάτω από τα ορμητικά νερά ενός χειμάρρου της Αλάσκας.(c)</desc>
+    <desc lang="el">Ο Ντακότα Φρεντ και ο γιος του Ντάστιν ρισκάρουν τη ζωή τους για να πλουτίσουν αναζητώντας φλέβες χρυσού και παρασύρονται κάτω από τα ορμητικά νερά ενός χειμάρρου της Αλάσκας.</desc>
   </programme>
   <programme start="20230125000000 +0200" stop="20230125003000 +0200" channel="BBC World">
     <title lang="el">PACMAN</title>
-    <desc lang="el">Ο αγαπημένος ήρωας με την τεράστια όρεξη έρχεται ξανά κοντά σας με νέες περιπέτειες. Ο Πακμαν θα προσπαθήσει να σώσει για άλλη μια φορά τον ΚοσμοΠακ από τα σχέδια του Άρχοντα Μπιτρέιους και να βρει τους χαμένους γονείς του, με τη βοήθεια των φίλων του, Σίλι και Σπιράλ καθώς και τους Κυρίου Σι.(c)</desc>
+    <desc lang="el">Ο αγαπημένος ήρωας με την τεράστια όρεξη έρχεται ξανά κοντά σας με νέες περιπέτειες. Ο Πακμαν θα προσπαθήσει να σώσει για άλλη μια φορά τον ΚοσμοΠακ από τα σχέδια του Άρχοντα Μπιτρέιους και να βρει τους χαμένους γονείς του, με τη βοήθεια των φίλων του, Σίλι και Σπιράλ καθώς και τους Κυρίου Σι.</desc>
   </programme>
   <programme start="20230125003000 +0200" stop="20230125010000 +0200" channel="BBC World">
     <title lang="el">GLITTER FORCE</title>
-    <desc lang="el">Πέντε νεαρά κορίτσια μαθαίνουν ότι είναι υπερηρωίδες και ανήκουν στη θρυλική Αστραφτερή Ομάδα. Η αποστολή τους; Να υπερασπιστούν τη Γη από τους κακούς των παραμυθιών.(c)</desc>
+    <desc lang="el">Πέντε νεαρά κορίτσια μαθαίνουν ότι είναι υπερηρωίδες και ανήκουν στη θρυλική Αστραφτερή Ομάδα. Η αποστολή τους; Να υπερασπιστούν τη Γη από τους κακούς των παραμυθιών.</desc>
   </programme>
   <programme start="20230125010000 +0200" stop="20230125013000 +0200" channel="BBC World">
     <title lang="el">MAGIC BLOCKS</title>
-    <desc lang="el">Ο Ντάνι και η οικογένειά του ζουν στη Παιχνιδούπολη. Με το μαγικό του ρολόι επικοινωνεί με τον Δόκτωρα Πέιμποτ κάθε φορά που υπάρχει πρόβλημα στην πόλη. Ο Μπόμπο, η Λούλου και ο Κόκο, τρία ρομπότ από τουβλάκια δημιουργούν όλα τα ήδη σχημάτων για να βοηθήσουν τον Ντάνι και τους φίλους του στην Παιχνιδούπολη.(c)</desc>
+    <desc lang="el">Ο Ντάνι και η οικογένειά του ζουν στη Παιχνιδούπολη. Με το μαγικό του ρολόι επικοινωνεί με τον Δόκτωρα Πέιμποτ κάθε φορά που υπάρχει πρόβλημα στην πόλη. Ο Μπόμπο, η Λούλου και ο Κόκο, τρία ρομπότ από τουβλάκια δημιουργούν όλα τα ήδη σχημάτων για να βοηθήσουν τον Ντάνι και τους φίλους του στην Παιχνιδούπολη.</desc>
   </programme>
   <programme start="20230125013000 +0200" stop="20230125020000 +0200" channel="BBC World">
     <title lang="el">Πριγκίπισσα Σίσσυ</title>
-    <desc lang="el">Η Ελισάβετ είναι μια πανέμορφη έφηβη, που λατρεύει την ιππασία, αγαπάει πολύ τα ζωάκια και θα θυσίαζε τα πάντα για την οικογένειά της. Μπορεί να μοιάζει σαν όλα τα άλλα αριστοκρατικά κορίτσια της ηλικίας της, ωστόσο είναι ένα ελεύθερο και ατίθασο πνεύμα, μια πριγκίπισσα που ακούει μόνο στο υποκοριστικό Σίσσυ και σιχαίνεται να υπακούει σε κανόνες και αυτοκρατορικά πρωτόκολλα!(c)</desc>
+    <desc lang="el">Η Ελισάβετ είναι μια πανέμορφη έφηβη, που λατρεύει την ιππασία, αγαπάει πολύ τα ζωάκια και θα θυσίαζε τα πάντα για την οικογένειά της. Μπορεί να μοιάζει σαν όλα τα άλλα αριστοκρατικά κορίτσια της ηλικίας της, ωστόσο είναι ένα ελεύθερο και ατίθασο πνεύμα, μια πριγκίπισσα που ακούει μόνο στο υποκοριστικό Σίσσυ και σιχαίνεται να υπακούει σε κανόνες και αυτοκρατορικά πρωτόκολλα!</desc>
   </programme>
   <programme start="20230125020000 +0200" stop="20230125023000 +0200" channel="BBC World">
     <title lang="el">Πριγκίπισσα Σίσσυ</title>
-    <desc lang="el">Η Ελισάβετ είναι μια πανέμορφη έφηβη, που λατρεύει την ιππασία, αγαπάει πολύ τα ζωάκια και θα θυσίαζε τα πάντα για την οικογένειά της. Μπορεί να μοιάζει σαν όλα τα άλλα αριστοκρατικά κορίτσια της ηλικίας της, ωστόσο είναι ένα ελεύθερο και ατίθασο πνεύμα, μια πριγκίπισσα που ακούει μόνο στο υποκοριστικό Σίσσυ και σιχαίνεται να υπακούει σε κανόνες και αυτοκρατορικά πρωτόκολλα!(c)</desc>
+    <desc lang="el">Η Ελισάβετ είναι μια πανέμορφη έφηβη, που λατρεύει την ιππασία, αγαπάει πολύ τα ζωάκια και θα θυσίαζε τα πάντα για την οικογένειά της. Μπορεί να μοιάζει σαν όλα τα άλλα αριστοκρατικά κορίτσια της ηλικίας της, ωστόσο είναι ένα ελεύθερο και ατίθασο πνεύμα, μια πριγκίπισσα που ακούει μόνο στο υποκοριστικό Σίσσυ και σιχαίνεται να υπακούει σε κανόνες και αυτοκρατορικά πρωτόκολλα!</desc>
   </programme>
   <programme start="20230125023000 +0200" stop="20230125030000 +0200" channel="BBC World">
     <title lang="el">DIMITRI</title>
-    <desc lang="el">Εξαιτίας μιας σφοδρής καταιγίδας, ο Ντιμίτρι, ένα μικρό αποδημητικό πουλάκι που ταξιδεύει από την Ευρώπη με την οικογένειά του, χάνει τους γονείς του και πέφτει σε μια κοιλάδα στην Αφρική. Η Μακέμπα, η καμηλοπάρδαλη, αναλαμβάνει να τον φροντίσει και να τον προστατέψει μέχρι να ξαναβρεί τους γονείς του, ενώ ο μικρός Ντιμίτρι γνωρίζει νέους φίλους, νέα μέρη και την καθημερινή ζωή στην αφρικανική ήπειρο, που είναι γεμάτη περιπέτειες και εκπλήξεις!(c)</desc>
+    <desc lang="el">Εξαιτίας μιας σφοδρής καταιγίδας, ο Ντιμίτρι, ένα μικρό αποδημητικό πουλάκι που ταξιδεύει από την Ευρώπη με την οικογένειά του, χάνει τους γονείς του και πέφτει σε μια κοιλάδα στην Αφρική. Η Μακέμπα, η καμηλοπάρδαλη, αναλαμβάνει να τον φροντίσει και να τον προστατέψει μέχρι να ξαναβρεί τους γονείς του, ενώ ο μικρός Ντιμίτρι γνωρίζει νέους φίλους, νέα μέρη και την καθημερινή ζωή στην αφρικανική ήπειρο, που είναι γεμάτη περιπέτειες και εκπλήξεις!</desc>
   </programme>
   <programme start="20230125030000 +0200" stop="20230125033000 +0200" channel="BBC World">
     <title lang="el">Πριγκίπισσα Σίσσυ</title>
-    <desc lang="el">Η Ελισάβετ είναι μια πανέμορφη έφηβη, που λατρεύει την ιππασία, αγαπάει πολύ τα ζωάκια και θα θυσίαζε τα πάντα για την οικογένειά της. Μπορεί να μοιάζει σαν όλα τα άλλα αριστοκρατικά κορίτσια της ηλικίας της, ωστόσο είναι ένα ελεύθερο και ατίθασο πνεύμα, μια πριγκίπισσα που ακούει μόνο στο υποκοριστικό Σίσσυ και σιχαίνεται να υπακούει σε κανόνες και αυτοκρατορικά πρωτόκολλα!(c)</desc>
+    <desc lang="el">Η Ελισάβετ είναι μια πανέμορφη έφηβη, που λατρεύει την ιππασία, αγαπάει πολύ τα ζωάκια και θα θυσίαζε τα πάντα για την οικογένειά της. Μπορεί να μοιάζει σαν όλα τα άλλα αριστοκρατικά κορίτσια της ηλικίας της, ωστόσο είναι ένα ελεύθερο και ατίθασο πνεύμα, μια πριγκίπισσα που ακούει μόνο στο υποκοριστικό Σίσσυ και σιχαίνεται να υπακούει σε κανόνες και αυτοκρατορικά πρωτόκολλα!</desc>
   </programme>
   <programme start="20230125033000 +0200" stop="20230125040000 +0200" channel="BBC World">
     <title lang="el">VOOPA</title>
-    <desc lang="el">Πρόκειται για ένα επικό παραμύθι που αναβιώνει στο μακρινό δάσος της φυλής των Γκούλας, των «λιλιπούτειων ανθρώπων». Ο πρωταγωνιστής, ο μικρός Βούπα, είναι ένα χαρισματικό και ιδιαίτερο παιδί. ο Βούπα και οι φίλοι του είναι πολύ αστείοι, τόσο στην εμφάνισή τους όσο και στο χαρακτήρα τους. Μπλέκουν συνέχεια σε περιπέτειες, μέσα από τις οποίες όμως μαθαίνουν καινούρια πράγματα για τον άνθρωπο, την οικογένεια, τη φιλία, αλλά και τη φύση και το περιβάλλον μας.(c)</desc>
+    <desc lang="el">Πρόκειται για ένα επικό παραμύθι που αναβιώνει στο μακρινό δάσος της φυλής των Γκούλας, των «λιλιπούτειων ανθρώπων». Ο πρωταγωνιστής, ο μικρός Βούπα, είναι ένα χαρισματικό και ιδιαίτερο παιδί. ο Βούπα και οι φίλοι του είναι πολύ αστείοι, τόσο στην εμφάνισή τους όσο και στο χαρακτήρα τους. Μπλέκουν συνέχεια σε περιπέτειες, μέσα από τις οποίες όμως μαθαίνουν καινούρια πράγματα για τον άνθρωπο, την οικογένεια, τη φιλία, αλλά και τη φύση και το περιβάλλον μας.</desc>
   </programme>
   <programme start="20230125040000 +0200" stop="20230125043000 +0200" channel="BBC World">
     <title lang="el">MAGIC BLOCKS</title>
-    <desc lang="el">Ο Ντάνι και η οικογένειά του ζουν στη Παιχνιδούπολη. Με το μαγικό του ρολόι επικοινωνεί με τον Δόκτωρα Πέιμποτ κάθε φορά που υπάρχει πρόβλημα στην πόλη. Ο Μπόμπο, η Λούλου και ο Κόκο, τρία ρομπότ από τουβλάκια δημιουργούν όλα τα ήδη σχημάτων για να βοηθήσουν τον Ντάνι και τους φίλους του στην Παιχνιδούπολη.(c)</desc>
+    <desc lang="el">Ο Ντάνι και η οικογένειά του ζουν στη Παιχνιδούπολη. Με το μαγικό του ρολόι επικοινωνεί με τον Δόκτωρα Πέιμποτ κάθε φορά που υπάρχει πρόβλημα στην πόλη. Ο Μπόμπο, η Λούλου και ο Κόκο, τρία ρομπότ από τουβλάκια δημιουργούν όλα τα ήδη σχημάτων για να βοηθήσουν τον Ντάνι και τους φίλους του στην Παιχνιδούπολη.</desc>
   </programme>
   <programme start="20230125043000 +0200" stop="20230125050000 +0200" channel="BBC World">
     <title lang="el">TIMO</title>
-    <desc lang="el">Η Θεά Τάιμο προσπαθεί να προστατεύσει τα ξωτικά και τα άγρια ζώα που κατοικούν στο πανέμορφο βουνό Τάιμο από την καταστροφική μανία των ανθρώπων δημιουργώντας έναν φανταστικό κόσμο που θα μπορέσει να τους φιλοξενήσει. Για να τα καταφέρει θα πρέπει να συλλέξει όλες τις αλυσίδες φωτός με τη βοήθεια της Νεράιδας του Λευκού Τσαγιού.(c)</desc>
+    <desc lang="el">Η Θεά Τάιμο προσπαθεί να προστατεύσει τα ξωτικά και τα άγρια ζώα που κατοικούν στο πανέμορφο βουνό Τάιμο από την καταστροφική μανία των ανθρώπων δημιουργώντας έναν φανταστικό κόσμο που θα μπορέσει να τους φιλοξενήσει. Για να τα καταφέρει θα πρέπει να συλλέξει όλες τις αλυσίδες φωτός με τη βοήθεια της Νεράιδας του Λευκού Τσαγιού.</desc>
   </programme>
   <programme start="20230125050000 +0200" stop="20230125053000 +0200" channel="BBC World">
     <title lang="el">HERB FAMILY</title>
-    <desc lang="el">Μια ομάδα υπέροχων ξωτικών μπλέκεται σε μια επική ιστορία του καλού ενάντια στο κακό. Τελικός στόχος της ομάδας είναι να βρουν και τα 101 θρυλικά ξωτικά και να προστατεύσουν την υγεία των ανθρώπων.(c)</desc>
+    <desc lang="el">Μια ομάδα υπέροχων ξωτικών μπλέκεται σε μια επική ιστορία του καλού ενάντια στο κακό. Τελικός στόχος της ομάδας είναι να βρουν και τα 101 θρυλικά ξωτικά και να προστατεύσουν την υγεία των ανθρώπων.</desc>
   </programme>
   <programme start="20230125053000 +0200" stop="20230125060000 +0200" channel="BBC World">
     <title lang="el">PRETTY CURE</title>
-    <desc lang="el">Μια ομάδα μαγικών κοριτσιών, οι Pretty Cure, προστατεύουν τον κόσμο, παλεύοντας με τις δυνάμεις του κακού. Θα επικρατήσουν ή θα καταφέρουν οι δυνάμεις του κακού να νικήσουν, βυθίζοντας τον κόσμο στο σκοτάδι και την καταχνιά;.(c)</desc>
+    <desc lang="el">Μια ομάδα μαγικών κοριτσιών, οι Pretty Cure, προστατεύουν τον κόσμο, παλεύοντας με τις δυνάμεις του κακού. Θα επικρατήσουν ή θα καταφέρουν οι δυνάμεις του κακού να νικήσουν, βυθίζοντας τον κόσμο στο σκοτάδι και την καταχνιά;.</desc>
   </programme>
   <programme start="20230125060000 +0200" stop="20230125063000 +0200" channel="BBC World">
     <title lang="el">HERB FAMILY</title>
-    <desc lang="el">Μια ομάδα υπέροχων ξωτικών μπλέκεται σε μια επική ιστορία του καλού ενάντια στο κακό. Τελικός στόχος της ομάδας είναι να βρουν και τα 101 θρυλικά ξωτικά και να προστατεύσουν την υγεία των ανθρώπων.(c)</desc>
+    <desc lang="el">Μια ομάδα υπέροχων ξωτικών μπλέκεται σε μια επική ιστορία του καλού ενάντια στο κακό. Τελικός στόχος της ομάδας είναι να βρουν και τα 101 θρυλικά ξωτικά και να προστατεύσουν την υγεία των ανθρώπων.</desc>
   </programme>
   <programme start="20230125063000 +0200" stop="20230125070000 +0200" channel="BBC World">
     <title lang="el">DIMITRI</title>
-    <desc lang="el">Εξαιτίας μιας σφοδρής καταιγίδας, ο Ντιμίτρι, ένα μικρό αποδημητικό πουλάκι που ταξιδεύει από την Ευρώπη με την οικογένειά του, χάνει τους γονείς του και πέφτει σε μια κοιλάδα στην Αφρική. Η Μακέμπα, η καμηλοπάρδαλη, αναλαμβάνει να τον φροντίσει και να τον προστατέψει μέχρι να ξαναβρεί τους γονείς του, ενώ ο μικρός Ντιμίτρι γνωρίζει νέους φίλους, νέα μέρη και την καθημερινή ζωή στην αφρικανική ήπειρο, που είναι γεμάτη περιπέτειες και εκπλήξεις!(c)</desc>
+    <desc lang="el">Εξαιτίας μιας σφοδρής καταιγίδας, ο Ντιμίτρι, ένα μικρό αποδημητικό πουλάκι που ταξιδεύει από την Ευρώπη με την οικογένειά του, χάνει τους γονείς του και πέφτει σε μια κοιλάδα στην Αφρική. Η Μακέμπα, η καμηλοπάρδαλη, αναλαμβάνει να τον φροντίσει και να τον προστατέψει μέχρι να ξαναβρεί τους γονείς του, ενώ ο μικρός Ντιμίτρι γνωρίζει νέους φίλους, νέα μέρη και την καθημερινή ζωή στην αφρικανική ήπειρο, που είναι γεμάτη περιπέτειες και εκπλήξεις!</desc>
   </programme>
   <programme start="20230125070000 +0200" stop="20230125073000 +0200" channel="BBC World">
     <title lang="el">Chuggington</title>
-    <desc lang="el">Ακολουθήστε τις περιπέτειες των Koko, Wilson και Brewster, τρεις κινητήρες που εκπαιδεύονται μαθαίνοντας να οδηγείτε τις ράγες της ζωής για να γίνετε πλήρεις τσάγκερ.(c)</desc>
+    <desc lang="el">Ακολουθήστε τις περιπέτειες των Koko, Wilson και Brewster, τρεις κινητήρες που εκπαιδεύονται μαθαίνοντας να οδηγείτε τις ράγες της ζωής για να γίνετε πλήρεις τσάγκερ.</desc>
   </programme>
   <programme start="20230125073000 +0200" stop="20230125080000 +0200" channel="BBC World">
     <title lang="el">Chloe’s Closet</title>
-    <desc lang="el">Η Κλόη είναι μια χαριτωμένη μικρή, με μεγάλη φαντασία. Απολαύστε τις μαγικές περιπέτειες της γλυκιάς Κλόη και της παρέας της (Τara, Jet, Danny, Riley, Lillian, Mac και Carys) ενώ παίζουν στην ντουλάπα του δωματίου της.(c)</desc>
+    <desc lang="el">Η Κλόη είναι μια χαριτωμένη μικρή, με μεγάλη φαντασία. Απολαύστε τις μαγικές περιπέτειες της γλυκιάς Κλόη και της παρέας της (Τara, Jet, Danny, Riley, Lillian, Mac και Carys) ενώ παίζουν στην ντουλάπα του δωματίου της.</desc>
   </programme>
   <programme start="20230125080000 +0200" stop="20230125083000 +0200" channel="BBC World">
     <title lang="el">ZIG &amp; SHARKO</title>
-    <desc lang="el">Η πεινασμένη ύαινα Ζιγκ προσπαθεί διαρκώς να φάει τη Μαρίνα τη γοργόνα για μεσημεριανό, αλλά ο πιστός της φίλος Σάρκο έρχεται πάντα να τη σώσει εγκαίρως.(c)</desc>
+    <desc lang="el">Η πεινασμένη ύαινα Ζιγκ προσπαθεί διαρκώς να φάει τη Μαρίνα τη γοργόνα για μεσημεριανό, αλλά ο πιστός της φίλος Σάρκο έρχεται πάντα να τη σώσει εγκαίρως.</desc>
   </programme>
   <programme start="20230125083000 +0200" stop="20230125090000 +0200" channel="BBC World">
     <title lang="el">DIMITRI</title>
-    <desc lang="el">Εξαιτίας μιας σφοδρής καταιγίδας, ο Ντιμίτρι, ένα μικρό αποδημητικό πουλάκι που ταξιδεύει από την Ευρώπη με την οικογένειά του, χάνει τους γονείς του και πέφτει σε μια κοιλάδα στην Αφρική. Η Μακέμπα, η καμηλοπάρδαλη, αναλαμβάνει να τον φροντίσει και να τον προστατέψει μέχρι να ξαναβρεί τους γονείς του, ενώ ο μικρός Ντιμίτρι γνωρίζει νέους φίλους, νέα μέρη και την καθημερινή ζωή στην αφρικανική ήπειρο, που είναι γεμάτη περιπέτειες και εκπλήξεις!(c)</desc>
+    <desc lang="el">Εξαιτίας μιας σφοδρής καταιγίδας, ο Ντιμίτρι, ένα μικρό αποδημητικό πουλάκι που ταξιδεύει από την Ευρώπη με την οικογένειά του, χάνει τους γονείς του και πέφτει σε μια κοιλάδα στην Αφρική. Η Μακέμπα, η καμηλοπάρδαλη, αναλαμβάνει να τον φροντίσει και να τον προστατέψει μέχρι να ξαναβρεί τους γονείς του, ενώ ο μικρός Ντιμίτρι γνωρίζει νέους φίλους, νέα μέρη και την καθημερινή ζωή στην αφρικανική ήπειρο, που είναι γεμάτη περιπέτειες και εκπλήξεις!</desc>
   </programme>
   <programme start="20230125090000 +0200" stop="20230125093000 +0200" channel="BBC World">
     <title lang="el">KIKORIKI</title>
-    <desc lang="el">Μια ομάδα κεφάτων φίλων που αποτελείται από έναν λαγό, ένα σκαντζόχοιρο και άλλα χαριτωμένα ζωάκια διασκεδάζει λύνοντας καθημερινά προβλήματα, λέγοντας ιστορίες και παίρνοντας πολύτιμα μαθήματα ζωής.(c)</desc>
+    <desc lang="el">Μια ομάδα κεφάτων φίλων που αποτελείται από έναν λαγό, ένα σκαντζόχοιρο και άλλα χαριτωμένα ζωάκια διασκεδάζει λύνοντας καθημερινά προβλήματα, λέγοντας ιστορίες και παίρνοντας πολύτιμα μαθήματα ζωής.</desc>
   </programme>
   <programme start="20230125093000 +0200" stop="20230125100000 +0200" channel="BBC World">
     <title lang="el">MAGIC BLOCKS</title>
-    <desc lang="el">Ο Ντάνι και η οικογένειά του ζουν στη Παιχνιδούπολη. Με το μαγικό του ρολόι επικοινωνεί με τον Δόκτωρα Πέιμποτ κάθε φορά που υπάρχει πρόβλημα στην πόλη. Ο Μπόμπο, η Λούλου και ο Κόκο, τρία ρομπότ από τουβλάκια δημιουργούν όλα τα ήδη σχημάτων για να βοηθήσουν τον Ντάνι και τους φίλους του στην Παιχνιδούπολη.(c)</desc>
+    <desc lang="el">Ο Ντάνι και η οικογένειά του ζουν στη Παιχνιδούπολη. Με το μαγικό του ρολόι επικοινωνεί με τον Δόκτωρα Πέιμποτ κάθε φορά που υπάρχει πρόβλημα στην πόλη. Ο Μπόμπο, η Λούλου και ο Κόκο, τρία ρομπότ από τουβλάκια δημιουργούν όλα τα ήδη σχημάτων για να βοηθήσουν τον Ντάνι και τους φίλους του στην Παιχνιδούπολη.</desc>
   </programme>
   <programme start="20230125100000 +0200" stop="20230125103000 +0200" channel="BBC World">
     <title lang="el">Popples</title>
-    <desc lang="el">Το Popples είναι μια παιδική κωμική σειρά κινουμένων σχεδίων υψηλής ενέργειας για ένα καταπληκτικό είδος πλασμάτων που μπορούν να σκάσουν μέσα και έξω από μια μπάλα. Η ιστορία καθοδηγείται από τον αισιόδοξο κωμικό ενθουσιασμό των BPP (Best Popple Pals): Bubbles, Sunny, Lulu, Izzy και Yikes.(c)</desc>
+    <desc lang="el">Το Popples είναι μια παιδική κωμική σειρά κινουμένων σχεδίων υψηλής ενέργειας για ένα καταπληκτικό είδος πλασμάτων που μπορούν να σκάσουν μέσα και έξω από μια μπάλα. Η ιστορία καθοδηγείται από τον αισιόδοξο κωμικό ενθουσιασμό των BPP (Best Popple Pals): Bubbles, Sunny, Lulu, Izzy και Yikes.</desc>
   </programme>
   <programme start="20230125103000 +0200" stop="20230125110000 +0200" channel="BBC World">
     <title lang="el">ΤΡΙΑ ΣΚΙΟΥΡΑΚΙΑ</title>
-    <desc lang="el">Μια φορά κι έναν καιρό... υπήρχαν τρία σκιουράκια. Ήταν πολύ χαριτωμένα... αλλά λίγο τρελούτσικα. Ζούσαν ευτυχισμένα σ’ ένα υπέροχο δάσος με όλων των ειδών τους ξηρούς καρπούς. Ήταν ένας πραγματικός παράδεισος... αν εξαιρέσεις τον αγριόγατο που τους κυνηγούσε συνέχεια. Όταν τα σκιουράκια του έκοψαν κατά λάθος την ουρά, η εκδικητική αγριόγατα ορκίστηκε ότι θα της το πληρώσουν ακριβά. Κι έτσι η περιπέτεια ξεκινά για τα τρία σκιουράκια.(c)</desc>
+    <desc lang="el">Μια φορά κι έναν καιρό... υπήρχαν τρία σκιουράκια. Ήταν πολύ χαριτωμένα... αλλά λίγο τρελούτσικα. Ζούσαν ευτυχισμένα σ’ ένα υπέροχο δάσος με όλων των ειδών τους ξηρούς καρπούς. Ήταν ένας πραγματικός παράδεισος... αν εξαιρέσεις τον αγριόγατο που τους κυνηγούσε συνέχεια. Όταν τα σκιουράκια του έκοψαν κατά λάθος την ουρά, η εκδικητική αγριόγατα ορκίστηκε ότι θα της το πληρώσουν ακριβά. Κι έτσι η περιπέτεια ξεκινά για τα τρία σκιουράκια.</desc>
   </programme>
   <programme start="20230125110000 +0200" stop="20230125113000 +0200" channel="BBC World">
     <title lang="el">NONO</title>
-    <desc lang="el">Στο Underwood Springs, κάθε μέρα είναι μια όμορφη, χαρούμενη μέρα! Και κάθε πρωί ο ΝΟΝΟ ο γλυκός μας πλατυπόδαρος ξυπνάει με μια καταπληκτική νέα ιδέα που δεν βλέπει την ώρα να τη δοκιμάσει ...(c)</desc>
+    <desc lang="el">Στο Underwood Springs, κάθε μέρα είναι μια όμορφη, χαρούμενη μέρα! Και κάθε πρωί ο ΝΟΝΟ ο γλυκός μας πλατυπόδαρος ξυπνάει με μια καταπληκτική νέα ιδέα που δεν βλέπει την ώρα να τη δοκιμάσει ...</desc>
   </programme>
   <programme start="20230125113000 +0200" stop="20230125120000 +0200" channel="BBC World">
     <title lang="el">Ratata</title>
-    <desc lang="el">Ελάτε να γνωρίσετε την ξεκαρδιστική παρέα των ΡΑΤ Α ΤΑΤ. Οι πανούργοι ποντικοί διασκεδάζουν τους μικρούς φίλους με τις αστείες τους περιπέτειες.(c)</desc>
+    <desc lang="el">Ελάτε να γνωρίσετε την ξεκαρδιστική παρέα των ΡΑΤ Α ΤΑΤ. Οι πανούργοι ποντικοί διασκεδάζουν τους μικρούς φίλους με τις αστείες τους περιπέτειες.</desc>
   </programme>
   <programme start="20230125120000 +0200" stop="20230125123000 +0200" channel="BBC World">
     <title lang="el">INVENTION STORY</title>
-    <desc lang="el">Η Καροτοχώρα ήταν κάποτε μια ήσυχη πόλη χαμηλής τεχνολογίας, με κεριά, μηχανικά ρολόγια και ξυλόσομπες. Μέχρι που ήρθε στην πόλη ένας πανέξυπνος λαγός, ο Σίλας Χόπνερ. Με την βοήθεια μιας εφεύρεσης που μετατρέπει τα καρότα σε καύσιμα και πολλές άλλες εφευρέσεις καλυτερεύει τη ζωή όλων των κατοίκων ενώ μπλέκει σε πολύ διασκεδαστικές περιπέτειες.(c)</desc>
+    <desc lang="el">Η Καροτοχώρα ήταν κάποτε μια ήσυχη πόλη χαμηλής τεχνολογίας, με κεριά, μηχανικά ρολόγια και ξυλόσομπες. Μέχρι που ήρθε στην πόλη ένας πανέξυπνος λαγός, ο Σίλας Χόπνερ. Με την βοήθεια μιας εφεύρεσης που μετατρέπει τα καρότα σε καύσιμα και πολλές άλλες εφευρέσεις καλυτερεύει τη ζωή όλων των κατοίκων ενώ μπλέκει σε πολύ διασκεδαστικές περιπέτειες.</desc>
   </programme>
   <programme start="20230125123000 +0200" stop="20230125130000 +0200" channel="BBC World">
     <title lang="el">Panda And Krash</title>
-    <desc lang="el">Ακολουθήστε τον τρελό κούνελο Κρας και τον φίλο του Panda στις πιο συναρπαστικές και ξεκαρδιστικές περιπέτειες, όταν ζωντανεύουν μέσα σε ένα κατάστημα παιχνιδιών. Οι μικροί μας ήρωες συναντούν ένα σωρό προκλήσεις που καλούνται να αντιμετωπίσουν, παίρνοντας ταυτόχρονα, πολύτιμα μαθήματα ζωής.(c)</desc>
+    <desc lang="el">Ακολουθήστε τον τρελό κούνελο Κρας και τον φίλο του Panda στις πιο συναρπαστικές και ξεκαρδιστικές περιπέτειες, όταν ζωντανεύουν μέσα σε ένα κατάστημα παιχνιδιών. Οι μικροί μας ήρωες συναντούν ένα σωρό προκλήσεις που καλούνται να αντιμετωπίσουν, παίρνοντας ταυτόχρονα, πολύτιμα μαθήματα ζωής.</desc>
   </programme>
   <programme start="20230125130000 +0200" stop="20230125133000 +0200" channel="BBC World">
     <title lang="el">Chuggington</title>
-    <desc lang="el">Ακολουθήστε τις περιπέτειες των Koko, Wilson και Brewster, τρεις κινητήρες που εκπαιδεύονται μαθαίνοντας να οδηγείτε τις ράγες της ζωής για να γίνετε πλήρεις τσάγκερ.(c)</desc>
+    <desc lang="el">Ακολουθήστε τις περιπέτειες των Koko, Wilson και Brewster, τρεις κινητήρες που εκπαιδεύονται μαθαίνοντας να οδηγείτε τις ράγες της ζωής για να γίνετε πλήρεις τσάγκερ.</desc>
   </programme>
   <programme start="20230125133000 +0200" stop="20230125140000 +0200" channel="BBC World">
     <title lang="el">Bitz And Bob</title>
-    <desc lang="el">Το Bitz &amp; Bob είναι μια περιπέτεια, κωμωδία που περιστρέφεται γύρω από δύο αδέρφια και συνδυάζει αστείες και εφευρετικές ιστορίες με τις βασικές αρχές του STEAM (Επιστήμη, Τεχνολογία, Μηχανική, Τέχνες και Μαθηματικά).Σκοπός του είναι να ενθαρρύνει τα παιδιά να εμπλακούν στη χειροτεχνία, τη μηχανική, τα πειράματα και την εξερεύνηση.(c)</desc>
+    <desc lang="el">Το Bitz &amp; Bob είναι μια περιπέτεια, κωμωδία που περιστρέφεται γύρω από δύο αδέρφια και συνδυάζει αστείες και εφευρετικές ιστορίες με τις βασικές αρχές του STEAM (Επιστήμη, Τεχνολογία, Μηχανική, Τέχνες και Μαθηματικά).Σκοπός του είναι να ενθαρρύνει τα παιδιά να εμπλακούν στη χειροτεχνία, τη μηχανική, τα πειράματα και την εξερεύνηση.</desc>
   </programme>
   <programme start="20230125140000 +0200" stop="20230125143000 +0200" channel="BBC World">
     <title lang="el">Sabrina - The Secrets Of A Teenage Witch</title>
-    <desc lang="el">H Sabrina, ως έφηβη πλέον μάγισσα ζει δύο πολύ διαφορετικές ζωές.Από την μία εμφανίζεται ως μια κανονική μαθήτρια γυμνασίου και από την άλλη ως η κορυφαία μαθήτρια μαγείας στον κόσμο των μάγων. Όταν συγκρούονται οι δύο κόσμοι, η Sabrina είναι η μόνη που έχει τη δύναμη να πολεμήσει τους κακούς, ενώ καταφέρνει να κρατήσει τη μαγική ταυτότητά της μυστική από την ανθρωπότητα.(c)</desc>
+    <desc lang="el">H Sabrina, ως έφηβη πλέον μάγισσα ζει δύο πολύ διαφορετικές ζωές.Από την μία εμφανίζεται ως μια κανονική μαθήτρια γυμνασίου και από την άλλη ως η κορυφαία μαθήτρια μαγείας στον κόσμο των μάγων. Όταν συγκρούονται οι δύο κόσμοι, η Sabrina είναι η μόνη που έχει τη δύναμη να πολεμήσει τους κακούς, ενώ καταφέρνει να κρατήσει τη μαγική ταυτότητά της μυστική από την ανθρωπότητα.</desc>
   </programme>
   <programme start="20230125143000 +0200" stop="20230125150000 +0200" channel="BBC World">
     <title lang="el">Vroomiz</title>
-    <desc lang="el">Για αυτά τα αυτοκινοτοζωάκια κάθε μέρα στο Zipy city είναι μια ευκαιρία να διασκεδάσουν να γίνουν δημιουργικά και να συνεργαστούν για να λύσουν δύσκολα προβλήματα.(c)</desc>
+    <desc lang="el">Για αυτά τα αυτοκινοτοζωάκια κάθε μέρα στο Zipy city είναι μια ευκαιρία να διασκεδάσουν να γίνουν δημιουργικά και να συνεργαστούν για να λύσουν δύσκολα προβλήματα.</desc>
   </programme>
   <programme start="20230125150000 +0200" stop="20230125153000 +0200" channel="BBC World">
     <title lang="el">Super Wings</title>
-    <desc lang="el">Ένα αεροπλάνο με το όνομα Jett ταξιδεύει σε όλο τον κόσμο παραδίδοντας πακέτα στα παιδιά και λύνοντας προβλήματα με τους φίλους του, τους Super Wings.(c)</desc>
+    <desc lang="el">Ένα αεροπλάνο με το όνομα Jett ταξιδεύει σε όλο τον κόσμο παραδίδοντας πακέτα στα παιδιά και λύνοντας προβλήματα με τους φίλους του, τους Super Wings.</desc>
   </programme>
   <programme start="20230125153000 +0200" stop="20230125160000 +0200" channel="BBC World">
     <title lang="el">Keit And Mim Mim</title>
-    <desc lang="el">Η Κέιτ είναι ένα ζωηρό κορίτσι που, μαζί με τον Μιμ-Μιμ, τον αγαπημένο λαγό-παιχνίδι της, ταξιδεύει σε μία φανταστική χώρα, τη Μιμιλού, όπου ο Μιμ-Μιμ ζωντανεύει και γίνεται ένας μοναδικός σύντροφος.(c)</desc>
+    <desc lang="el">Η Κέιτ είναι ένα ζωηρό κορίτσι που, μαζί με τον Μιμ-Μιμ, τον αγαπημένο λαγό-παιχνίδι της, ταξιδεύει σε μία φανταστική χώρα, τη Μιμιλού, όπου ο Μιμ-Μιμ ζωντανεύει και γίνεται ένας μοναδικός σύντροφος.</desc>
   </programme>
   <programme start="20230125160000 +0200" stop="20230125163000 +0200" channel="BBC World">
     <title lang="el">KAELOO</title>
-    <desc lang="el">Ο Καελού, ο Κουακ Κουακ και ο Κύριος Γάτος ζουν με τους φίλους τους στην Σούπερ Ομορφοχώρα και βρίσκουν ένα σωρό διασκεδαστικούς τρόπους για να περάσουν τον χρόνο τους. Η ψυχαγωγία αποκτά καινούριο νόημα και οι κανόνες του παιχνιδιού αλλάζουν συνεχώς, προκαλώντας όμορφες περιπέτειες.(c)</desc>
+    <desc lang="el">Ο Καελού, ο Κουακ Κουακ και ο Κύριος Γάτος ζουν με τους φίλους τους στην Σούπερ Ομορφοχώρα και βρίσκουν ένα σωρό διασκεδαστικούς τρόπους για να περάσουν τον χρόνο τους. Η ψυχαγωγία αποκτά καινούριο νόημα και οι κανόνες του παιχνιδιού αλλάζουν συνεχώς, προκαλώντας όμορφες περιπέτειες.</desc>
   </programme>
   <programme start="20230125163000 +0200" stop="20230125170000 +0200" channel="BBC World">
     <title lang="el">Ρομπέν Των Δασών: Περιπέτειες Στο Σέργουντ</title>
-    <desc lang="el">Ο 10χρονος Ρομπέν των Δασών που μάχεται εναντίον του κακού και με τη συντροφιά των πιστών φίλων του Little John, Τακ, Μάριον και Σκάρλετ ανατρέπουν τα σχέδια του πονηρού Πρίγκιπα Ιωάννη.(c)</desc>
+    <desc lang="el">Ο 10χρονος Ρομπέν των Δασών που μάχεται εναντίον του κακού και με τη συντροφιά των πιστών φίλων του Little John, Τακ, Μάριον και Σκάρλετ ανατρέπουν τα σχέδια του πονηρού Πρίγκιπα Ιωάννη.</desc>
   </programme>
   <programme start="20230125170000 +0200" stop="20230125173000 +0200" channel="BBC World">
     <title lang="el">Pet Pals S5</title>
-    <desc lang="el">Ελάτε να γνωρίσετε τα PET PALS, τα πανέξυπνα ζωάκια που κατοικούν στην ΠΑΦ,  μια ήρεμη μικρή πόλη όπου τα πάντα λειτουργούν χάρη στη δύναμη του ανέμου.  Όμως, η κακιά Κορακο-μάγισσα είναι αποφασισμένη να ταράξει την ειρήνη της  πόλης ΠΑΦ και να πάρει στα χέρια της τον «Ανεμόμυλο» για να αποκτήσει τον  έλεγχο του ανέμου και ολόκληρης της πόλης.(c)</desc>
+    <desc lang="el">Ελάτε να γνωρίσετε τα PET PALS, τα πανέξυπνα ζωάκια που κατοικούν στην ΠΑΦ,  μια ήρεμη μικρή πόλη όπου τα πάντα λειτουργούν χάρη στη δύναμη του ανέμου.  Όμως, η κακιά Κορακο-μάγισσα είναι αποφασισμένη να ταράξει την ειρήνη της  πόλης ΠΑΦ και να πάρει στα χέρια της τον «Ανεμόμυλο» για να αποκτήσει τον  έλεγχο του ανέμου και ολόκληρης της πόλης.</desc>
   </programme>
   <programme start="20230125173000 +0200" stop="20230125180000 +0200" channel="BBC World">
     <title lang="el">Pincode</title>
-    <desc lang="el">Μια ομάδα κεφάτων φίλων που αποτελείται από έναν λαγό, ένα σκαντζόχοιρο και άλλα χαριτωμένα ζωάκια διασκεδάζει λύνοντας καθημερινά προβλήματα, λέγοντας ιστορίες και παίρνοντας πολύτιμα μαθήματα ζωής.(c)</desc>
+    <desc lang="el">Μια ομάδα κεφάτων φίλων που αποτελείται από έναν λαγό, ένα σκαντζόχοιρο και άλλα χαριτωμένα ζωάκια διασκεδάζει λύνοντας καθημερινά προβλήματα, λέγοντας ιστορίες και παίρνοντας πολύτιμα μαθήματα ζωής.</desc>
   </programme>
   <programme start="20230125180000 +0200" stop="20230125183000 +0200" channel="BBC World">
     <title lang="el">MIRACLE TUNES</title>
-    <desc lang="el">Η υπέροχη παρέα των Miracle Tunes έρχεται στην Ελλάδα για να σας διασκεδάσει και να σας ξεσηκώσει με τις φανταστικές μελωδίες της. Το συγκρότημα των κοριτσιών Miracle Tunes συγκεντρώνει ενέργεια από τις φαν του προκειμένου να αντιμετωπίσει έναν κακό δαίμονα και τους τρεις βοηθούς του που προσπαθούν να επιβάλλουν στη γη τις δυνάμεις του κακού.(c)</desc>
+    <desc lang="el">Η υπέροχη παρέα των Miracle Tunes έρχεται στην Ελλάδα για να σας διασκεδάσει και να σας ξεσηκώσει με τις φανταστικές μελωδίες της. Το συγκρότημα των κοριτσιών Miracle Tunes συγκεντρώνει ενέργεια από τις φαν του προκειμένου να αντιμετωπίσει έναν κακό δαίμονα και τους τρεις βοηθούς του που προσπαθούν να επιβάλλουν στη γη τις δυνάμεις του κακού.</desc>
   </programme>
   <programme start="20230125183000 +0200" stop="20230125190000 +0200" channel="BBC World">
     <title lang="el">Tobot Athlon</title>
-    <desc lang="el">Ο Kyle είναι ένας μαθητής δημοτικού σχολείου με πάθος για τα ρομπότ, ο οποίος, μαζί με τη μηχανικό μητέρα του, την Δρ Hughes, ονειρεύεται να συμμετάσχει στους αγώνες ρομπότ με την ομάδα ATHLON: τον Alpha,την Beta και την Theta. Εκεί θα γνωρίσουν τον πρωταθλητή των περσινών αγώνων Mavrik ο οποίος χρησιμοποιεί αθέμιτες μεθόδους για να παραμείνει ο νικητής.Ο Kyle, αποφασίζει να δώσει ένα καλό μάθημα στον Mavrik,δείχνοντας ότι η νίκη είναι δυνατή χωρίς εξαπάτηση.(c)</desc>
+    <desc lang="el">Ο Kyle είναι ένας μαθητής δημοτικού σχολείου με πάθος για τα ρομπότ, ο οποίος, μαζί με τη μηχανικό μητέρα του, την Δρ Hughes, ονειρεύεται να συμμετάσχει στους αγώνες ρομπότ με την ομάδα ATHLON: τον Alpha,την Beta και την Theta. Εκεί θα γνωρίσουν τον πρωταθλητή των περσινών αγώνων Mavrik ο οποίος χρησιμοποιεί αθέμιτες μεθόδους για να παραμείνει ο νικητής.Ο Kyle, αποφασίζει να δώσει ένα καλό μάθημα στον Mavrik,δείχνοντας ότι η νίκη είναι δυνατή χωρίς εξαπάτηση.</desc>
   </programme>
   <programme start="20230125190000 +0200" stop="20230125193000 +0200" channel="BBC World">
     <title lang="el">Playmobil Super 4</title>
-    <desc lang="el">Ο Πρίγκιπας Άλεξ, η γενναία πειρατίνα Ρούμπι, ο πανέξυπνος πράκτορας DNA, η γλυκιά νεράιδα Χαρά και ο χαριτωμένος Σπίθας αποτελούν την πιο δυνατή ομάδα. Προέρχονται από πέντε διαφορετικούς κόσμους με πολλές.Παρ ’όλες τις διαφορές τους, η φιλία και η ομαδικότητα κάνουν τους 4 Super ήρωες ανίκητους σε όλες τις περιπέτειες και τους κινδύνους ιδιαιτερότητες ο καθένας, όμως όλοι τους είναι έτοιμοι να αντιμετωπίσουν κάθε δύσκολη κατάσταση.(c)</desc>
+    <desc lang="el">Ο Πρίγκιπας Άλεξ, η γενναία πειρατίνα Ρούμπι, ο πανέξυπνος πράκτορας DNA, η γλυκιά νεράιδα Χαρά και ο χαριτωμένος Σπίθας αποτελούν την πιο δυνατή ομάδα. Προέρχονται από πέντε διαφορετικούς κόσμους με πολλές.Παρ ’όλες τις διαφορές τους, η φιλία και η ομαδικότητα κάνουν τους 4 Super ήρωες ανίκητους σε όλες τις περιπέτειες και τους κινδύνους ιδιαιτερότητες ο καθένας, όμως όλοι τους είναι έτοιμοι να αντιμετωπίσουν κάθε δύσκολη κατάσταση.</desc>
   </programme>
   <programme start="20230125193000 +0200" stop="20230125200000 +0200" channel="BBC World">
     <title lang="el">Danger Mouse</title>
-    <desc lang="el">Ο μεγαλύτερος σούπερ κατάσκοπος στον κόσμο,o Danger Mouse επιστρέφει για να σώσει την ανθρωπότητα με τη βοήθεια του χάμστερ του, Penfold και μιας συλλογής υπερσύγχρονων gadget.(c)</desc>
+    <desc lang="el">Ο μεγαλύτερος σούπερ κατάσκοπος στον κόσμο,o Danger Mouse επιστρέφει για να σώσει την ανθρωπότητα με τη βοήθεια του χάμστερ του, Penfold και μιας συλλογής υπερσύγχρονων gadget.</desc>
   </programme>
   <programme start="20230125200000 +0200" stop="20230125203000 +0200" channel="BBC World">
     <title lang="el">POWER RANGERS JUNGLE FURY</title>
-    <desc lang="el">Ο Casey Rhodes, h Lily Chilman και o Theo Martin επιλέγονται ως δάσκαλοι πολεμικών τεχνών της ακαδημίας τους, μετά το θάνατο του αρχηγού τους και την απελευθέρωση της κακής δαιμονικής οντότητας Dai Shi. Εν τω μεταξύ, ο Jarrod ο πρώην μαθητευόμενος της ακαδημίας βρίσκεται υπό τον έλεγχο του κακού Dai Shi.(c)</desc>
+    <desc lang="el">Ο Casey Rhodes, h Lily Chilman και o Theo Martin επιλέγονται ως δάσκαλοι πολεμικών τεχνών της ακαδημίας τους, μετά το θάνατο του αρχηγού τους και την απελευθέρωση της κακής δαιμονικής οντότητας Dai Shi. Εν τω μεταξύ, ο Jarrod ο πρώην μαθητευόμενος της ακαδημίας βρίσκεται υπό τον έλεγχο του κακού Dai Shi.</desc>
   </programme>
   <programme start="20230125203000 +0200" stop="20230125210000 +0200" channel="BBC World">
     <title lang="el">Infinity Nado</title>
-    <desc lang="el">Μία παρέα τεσσάρων φίλων ανακαλύπτουν μυστηριώδη Nado.Όλοι μαζί συνεργάζονται για να ακυρώσουν το σχέδιο του Σκοτεινού Στοιχειού που θέλει να καταστρέψει τον κόσμο.Θα καταφέρουν να νικήσουν τους εχθρούς? Απίστευτη δράση, δυνατές μάχες και ισχυρά Nado!(c)</desc>
+    <desc lang="el">Μία παρέα τεσσάρων φίλων ανακαλύπτουν μυστηριώδη Nado.Όλοι μαζί συνεργάζονται για να ακυρώσουν το σχέδιο του Σκοτεινού Στοιχειού που θέλει να καταστρέψει τον κόσμο.Θα καταφέρουν να νικήσουν τους εχθρούς? Απίστευτη δράση, δυνατές μάχες και ισχυρά Nado!</desc>
   </programme>
   <programme start="20230125210000 +0200" stop="20230125213000 +0200" channel="BBC World">
     <title lang="el">Bolts And Blip</title>
-    <desc lang="el">Ο Bolts και ο Blip είναι δύο κολλητοί φίλοι ρομπότ που ζουν στη Σελήνη, σε έναν πολιτισμό που κυριαρχείται από αθλητικά ρομπότ που παίρνουν μέρος στο πασίγνωστο Σεληνιακό Πρωτάθλημα Ρομποτικών Σπορ. Θα καταφέρουν με τη βοήθεια των φίλων τους να προκριθούν;.(c)</desc>
+    <desc lang="el">Ο Bolts και ο Blip είναι δύο κολλητοί φίλοι ρομπότ που ζουν στη Σελήνη, σε έναν πολιτισμό που κυριαρχείται από αθλητικά ρομπότ που παίρνουν μέρος στο πασίγνωστο Σεληνιακό Πρωτάθλημα Ρομποτικών Σπορ. Θα καταφέρουν με τη βοήθεια των φίλων τους να προκριθούν;.</desc>
   </programme>
   <programme start="20230125213000 +0200" stop="20230125220000 +0200" channel="BBC World">
     <title lang="el">Time Traveller Lukeluke</title>
-    <desc lang="el">Γνωρίστε τον Λουκ, ένα μικρό παιδί που δουλεύει ως αχθοφόρος στο ξενοδοχείο ΣΤΑΡ. Όμως ο Λουκ κρύβει ένα μεγάλο μυστικό. Είναι ένας ταξιδιώτης στο χρόνο που έχει τη δυνατότητα να μεταφέρεται σε διάφορους κόσμους και χρόνους, χρησιμοποιώντας ένα ασανσέρ – χρονομηχανή.(c)</desc>
+    <desc lang="el">Γνωρίστε τον Λουκ, ένα μικρό παιδί που δουλεύει ως αχθοφόρος στο ξενοδοχείο ΣΤΑΡ. Όμως ο Λουκ κρύβει ένα μεγάλο μυστικό. Είναι ένας ταξιδιώτης στο χρόνο που έχει τη δυνατότητα να μεταφέρεται σε διάφορους κόσμους και χρόνους, χρησιμοποιώντας ένα ασανσέρ – χρονομηχανή.</desc>
   </programme>
   <programme start="20230125220000 +0200" stop="20230125223000 +0200" channel="BBC World">
     <title lang="el">ZOMBIE DUMB</title>
-    <desc lang="el">O κόσμος έχει γεμίσει με ζόμπι! Όλα έχουν καταστραφεί και το μόνο που έχει μείνει πίσω είναι κάποια παιδιά ζόμπι, με διαφορετικές προσωπικότητες που περνούν διασκεδαστικές περιπέτειες.(c)</desc>
+    <desc lang="el">O κόσμος έχει γεμίσει με ζόμπι! Όλα έχουν καταστραφεί και το μόνο που έχει μείνει πίσω είναι κάποια παιδιά ζόμπι, με διαφορετικές προσωπικότητες που περνούν διασκεδαστικές περιπέτειες.</desc>
   </programme>
   <programme start="20230125223000 +0200" stop="20230125230000 +0200" channel="BBC World">
     <title lang="el">Twisted Whiskers</title>
-    <desc lang="el">Δεν υπάρχει τίποτα πιο αστείο και πιο ενδιαφέρον από το να κοιτάς τη ζωή από την οπτική ενός κατοικίδιου ζώου.Το Twisted Whiskers παρουσιάζει τις πιο ξεκαρδιστικές ιστορίες με πρωταγωνιστές μια σούπερ ομάδα από τα αγαπημένα μας κατοικίδια.(c)</desc>
+    <desc lang="el">Δεν υπάρχει τίποτα πιο αστείο και πιο ενδιαφέρον από το να κοιτάς τη ζωή από την οπτική ενός κατοικίδιου ζώου.Το Twisted Whiskers παρουσιάζει τις πιο ξεκαρδιστικές ιστορίες με πρωταγωνιστές μια σούπερ ομάδα από τα αγαπημένα μας κατοικίδια.</desc>
   </programme>
   <programme start="20230125230000 +0200" stop="20230125233000 +0200" channel="BBC World">
     <title lang="el">Oggy And The Cockroaches</title>
-    <desc lang="el">Ο Όγκι είναι μία μπλε γάτα, που περνά τις μέρες της ευχάριστα, τρώγοντας και βλέποντας τηλεόραση. Μόνο που στο ίδιο σπίτι ζουν και τρεις κατσαρίδες, που απολαμβάνουν να αναστατώνουν τη φαινομενικά ήρεμη ζωή του.(c)</desc>
+    <desc lang="el">Ο Όγκι είναι μία μπλε γάτα, που περνά τις μέρες της ευχάριστα, τρώγοντας και βλέποντας τηλεόραση. Μόνο που στο ίδιο σπίτι ζουν και τρεις κατσαρίδες, που απολαμβάνουν να αναστατώνουν τη φαινομενικά ήρεμη ζωή του.</desc>
   </programme>
   <programme start="20230125233000 +0200" stop="20230126000000 +0200" channel="BBC World">
     <title lang="el">ΜΠΑΚ ΚΑΙ ΜΠΑΝΤΙ</title>
-    <desc lang="el">Δύο αστεία φιλαράκια, Ο Μπακ και ο Μπάντι, έρχονται για να προσφέρουν μεγάλες δόσεις γέλιου και διασκέδασης. Το ασυνήθιστο δίδυμο προσπαθεί να κάνει τα πάντα για να επιβιώσει μαζεύοντας άχρηστα αντικείμενα ενώ μπλέκει σε ένα σωρό ξεκαρδιστικούς μπελάδες.(c)</desc>
+    <desc lang="el">Δύο αστεία φιλαράκια, Ο Μπακ και ο Μπάντι, έρχονται για να προσφέρουν μεγάλες δόσεις γέλιου και διασκέδασης. Το ασυνήθιστο δίδυμο προσπαθεί να κάνει τα πάντα για να επιβιώσει μαζεύοντας άχρηστα αντικείμενα ενώ μπλέκει σε ένα σωρό ξεκαρδιστικούς μπελάδες.</desc>
   </programme>
   <programme start="20230126000000 +0200" stop="20230126005500 +0200" channel="BBC World">
     <title lang="el">Ξενη Σειρα</title>
-    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ.(c)</desc>
+    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ.</desc>
   </programme>
   <programme start="20230126005500 +0200" stop="20230126015000 +0200" channel="BBC World">
     <title lang="el">Ξενη Σειρα</title>
-    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ.(c)</desc>
+    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ.</desc>
   </programme>
   <programme start="20230126015000 +0200" stop="20230126024000 +0200" channel="BBC World">
     <title lang="el">Ξενη Σειρα</title>
-    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ.(c)</desc>
+    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ.</desc>
   </programme>
   <programme start="20230126024000 +0200" stop="20230126033000 +0200" channel="BBC World">
     <title lang="el">Ξενη Σειρα</title>
-    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ.(c)</desc>
+    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ.</desc>
   </programme>
   <programme start="20230126033000 +0200" stop="20230126042000 +0200" channel="BBC World">
     <title lang="el">Ξενη Σειρα</title>
-    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ.(c)</desc>
+    <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ.</desc>
   </programme>
   <programme start="20230126042000 +0200" stop="20230126045000 +0200" channel="BBC World">
     <title lang="el">Αορατος Φακος</title>
-    <desc lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ, ΦΑΡΣΕΣ.(c)</desc>
+    <desc lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ, ΦΑΡΣΕΣ.</desc>
   </programme>
   <programme start="20230126045000 +0200" stop="20230126060000 +0200" channel="BBC World">
     <title lang="el">Με Άλλη Ματια V ( Ε )</title>
-    <desc lang="el">Ενημερωτική εκπομπή με τη Χριστιάνα Σταύρου σε ΕΠΑΝΑΛΗΨΗ.(c)</desc>
+    <desc lang="el">Ενημερωτική εκπομπή με τη Χριστιάνα Σταύρου σε ΕΠΑΝΑΛΗΨΗ.</desc>
   </programme>
   <programme start="20230126060000 +0200" stop="20230126065500 +0200" channel="BBC World">
     <title lang="el">Το Ταξιδι Της Ζωης (E)</title>
-    <desc lang="el">Εκπομπή Λόγου με Κοινωνικά θέματα. Με την κλινική υπνοθεραπεύτρια ΑΤΖΙΛ ΛΟΥΠΕΣΚΟΥ ΘΕΜΑ της εκπομπής: ΔΙΑΙΣΘΗΣΗ, ΥΠΝΟΘΕΡΑΠΕΙΑ / ΕΡΩΤΗΣΕΙΣ &amp;ΑΠΑΝΤΗΣΕΙΣ Καλεσμένοι: ΘΟΔΩΡΗΣ ΚΑΛΙΜΤΖΑΚΗΣ, Δημοσιογράφος, ΜΑΡΓΑΡΙΤΑ ΜΠΑΡΠΑΡΗ, Κοινωνιολόγος.(c)</desc>
+    <desc lang="el">Εκπομπή Λόγου με Κοινωνικά θέματα. Με την κλινική υπνοθεραπεύτρια ΑΤΖΙΛ ΛΟΥΠΕΣΚΟΥ ΘΕΜΑ της εκπομπής: ΔΙΑΙΣΘΗΣΗ, ΥΠΝΟΘΕΡΑΠΕΙΑ / ΕΡΩΤΗΣΕΙΣ &amp;ΑΠΑΝΤΗΣΕΙΣ Καλεσμένοι: ΘΟΔΩΡΗΣ ΚΑΛΙΜΤΖΑΚΗΣ, Δημοσιογράφος, ΜΑΡΓΑΡΙΤΑ ΜΠΑΡΠΑΡΗ, Κοινωνιολόγος.</desc>
   </programme>
   <programme start="20230126065500 +0200" stop="20230126072500 +0200" channel="BBC World">
     <title lang="el">Ξενη Οικογενειακη Κωμικη Σειρα</title>
-    <desc lang="el">ΞΕΝΗ ΟΙΚΟΓΕΝΕΙΑΚΗ ΚΩΜΙΚΗ ΣΕΙΡΑ EP. 4, Season I.(c)</desc>
+    <desc lang="el">ΞΕΝΗ ΟΙΚΟΓΕΝΕΙΑΚΗ ΚΩΜΙΚΗ ΣΕΙΡΑ EP. 4, Season I.</desc>
   </programme>
   <programme start="20230126072500 +0200" stop="20230126074000 +0200" channel="BBC World">
     <title lang="el">Παιδικη Σειρα</title>
-    <desc lang="el">ΠΑΙΔΙΚΕΣ ΣΕΙΡΕΣ ΜΕΤΑΓΛΩΤΤΙΣΜΕΝΕΣ ΣΤΑ ΕΛΛΗΝΙΚΑ.(c)</desc>
+    <desc lang="el">ΠΑΙΔΙΚΕΣ ΣΕΙΡΕΣ ΜΕΤΑΓΛΩΤΤΙΣΜΕΝΕΣ ΣΤΑ ΕΛΛΗΝΙΚΑ.</desc>
   </programme>
   <programme start="20230126074000 +0200" stop="20230126082500 +0200" channel="BBC World">
     <title lang="el">Εξυπνες Γευσεις (Smart Γευσεισ) (E)</title>
-    <desc lang="el">Εκπομπή Μαγειρικής. Με τον σεφ Αντρέα Καβάζη. Οι συνταγές της ημέρας: 1. Burger Κοτόπουλου χωρίς Κιμά 2. Σαλάτα με Κρεμμυδάκι και Αβοκάντο.(c)</desc>
+    <desc lang="el">Εκπομπή Μαγειρικής. Με τον σεφ Αντρέα Καβάζη. Οι συνταγές της ημέρας: 1. Burger Κοτόπουλου χωρίς Κιμά 2. Σαλάτα με Κρεμμυδάκι και Αβοκάντο.</desc>
   </programme>
   <programme start="20230126082500 +0200" stop="20230126100000 +0200" channel="BBC World">
     <title lang="el">Ξενη Οικογενειακη Σειρα ( Ε )</title>
-    <desc lang="el">ΞΕΝΗ ΟΙΚΟΓΕΝΕΙΑΚΗ ΣΕΙΡΑ. Επεισόδιο: 6, Season II.(c)</desc>
+    <desc lang="el">ΞΕΝΗ ΟΙΚΟΓΕΝΕΙΑΚΗ ΣΕΙΡΑ. Επεισόδιο: 6, Season II.</desc>
   </programme>
   <programme start="20230126100000 +0200" stop="20230126125000 +0200" channel="BBC World">
     <title lang="el">Τηλεαγορα</title>
-    <desc lang="el">Τηλεοπτικός οδηγός αγορών.(c)</desc>
+    <desc lang="el">Τηλεοπτικός οδηγός αγορών.</desc>
   </programme>
   <programme start="20230126125000 +0200" stop="20230126135500 +0200" channel="BBC World">
     <title lang="el">Με Άλλη Ματια, Season V</title>
-    <desc lang="el">Εκπομπή: Εκ. 90 για τη σεζόν 2022/2023. Με τη δημοσιογράφο Χριστιάνα Σταύρου. Ενημερωτική εκπομπή με διευρυμένους ορίζοντες. Η εκπομπή θα ενημερώνει το κοινό για ό,τι το απασχολεί. Θέματα υγείας, ευεξίας, πολιτικής, οικονομίας... και με ένα παράθυρο στον κόσμο θα ενημερώνει για τις διεθνείς εξελίξεις, για ό,τι συμβαίνει...(c)</desc>
+    <desc lang="el">Εκπομπή: Εκ. 90 για τη σεζόν 2022/2023. Με τη δημοσιογράφο Χριστιάνα Σταύρου. Ενημερωτική εκπομπή με διευρυμένους ορίζοντες. Η εκπομπή θα ενημερώνει το κοινό για ό,τι το απασχολεί. Θέματα υγείας, ευεξίας, πολιτικής, οικονομίας... και με ένα παράθυρο στον κόσμο θα ενημερώνει για τις διεθνείς εξελίξεις, για ό,τι συμβαίνει...</desc>
   </programme>
   <programme start="20230126135500 +0200" stop="20230126153000 +0200" channel="BBC World">
     <title lang="el">Ξενη Οικογενειακη Ταινια</title>
-    <desc lang="el">ΞΕΝΗ ΤΑΙΝΙΑ: ΟΙΚΟΓΕΝΕΙΑΚΗ, ΠΕΡΙΠΕΤΕΙΑ, ΔΡΑΜΑ.(c)</desc>
+    <desc lang="el">ΞΕΝΗ ΤΑΙΝΙΑ: ΟΙΚΟΓΕΝΕΙΑΚΗ, ΠΕΡΙΠΕΤΕΙΑ, ΔΡΑΜΑ.</desc>
   </programme>
   <programme start="20230126153000 +0200" stop="20230126181000 +0200" channel="BBC World">
     <title lang="el">Τηλεαγορα</title>
-    <desc lang="el">Τηλεοπτικός οδηγός αγορών.(c)</desc>
+    <desc lang="el">Τηλεοπτικός οδηγός αγορών.</desc>
   </programme>
   <programme start="20230126181000 +0200" stop="20230126182500 +0200" channel="BBC World">
     <title lang="el">Συντομο Δελτιο Ειδησεων</title>
-    <desc lang="el">ΣΥΝΤΟΜΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ κατανοητό και από άτομα με οπτικοακουστική αναπηρία.(c)</desc>
+    <desc lang="el">ΣΥΝΤΟΜΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ κατανοητό και από άτομα με οπτικοακουστική αναπηρία.</desc>
   </programme>
   <programme start="20230126182500 +0200" stop="20230126190000 +0200" channel="BBC World">
     <title lang="el">Ξενη Οικογενειακη Σειρα</title>
-    <desc lang="el">ΞΕΝΗ ΟΙΚΟΓΕΝΕΙΑΚΗ ΣΕΙΡΑ - ΚΩΜΩΔΙΑ / ΔΡΑΜΑ EP. 4, Season Ι.(c)</desc>
+    <desc lang="el">ΞΕΝΗ ΟΙΚΟΓΕΝΕΙΑΚΗ ΣΕΙΡΑ - ΚΩΜΩΔΙΑ / ΔΡΑΜΑ EP. 4, Season Ι.</desc>
   </programme>
   <programme start="20230126190000 +0200" stop="20230126193000 +0200" channel="BBC World">
     <title lang="el">Τηλεαγορα</title>
-    <desc lang="el">Τηλεοπτικός οδηγός αγορών.(c)</desc>
+    <desc lang="el">Τηλεοπτικός οδηγός αγορών.</desc>
   </programme>
   <programme start="20230126193000 +0200" stop="20230126200000 +0200" channel="BBC World">
     <title lang="el">Ειδησεις Στο Plus</title>
-    <desc lang="el">Οι ειδήσεις από το PLUS. δελτίο ειδήσεων, κατανοητό και από άτομα με οπτικοακουστική αναπηρία. Από τις 15 Ιουνίου 2020, με τη Χριστιάνα Σταύρου *** ΣΕ ΝΕΑ ΩΡΑ ΜΕΤΑΔΟΣΗΣ ΑΠΌ ΤΙΣ 25.02.2022.(c)</desc>
+    <desc lang="el">Οι ειδήσεις από το PLUS. δελτίο ειδήσεων, κατανοητό και από άτομα με οπτικοακουστική αναπηρία. Από τις 15 Ιουνίου 2020, με τη Χριστιάνα Σταύρου *** ΣΕ ΝΕΑ ΩΡΑ ΜΕΤΑΔΟΣΗΣ ΑΠΌ ΤΙΣ 25.02.2022.</desc>
   </programme>
   <programme start="20230126200000 +0200" stop="20230126201000 +0200" channel="BBC World">
     <title lang="el">Ο Καιρος</title>
-    <desc lang="el">ΟΙ ΠΡΟΒΛΕΨΕΙΣ ΤΗΣ ΜΕΤΕΡΕΩΛΟΓΙΚΗΣ ΥΠΗΡΕΣΙΑΣ ΓΙΑ ΤΟΝ ΚΑΙΡΟ.(c)</desc>
+    <desc lang="el">ΟΙ ΠΡΟΒΛΕΨΕΙΣ ΤΗΣ ΜΕΤΕΡΕΩΛΟΓΙΚΗΣ ΥΠΗΡΕΣΙΑΣ ΓΙΑ ΤΟΝ ΚΑΙΡΟ.</desc>
   </programme>
   <programme start="20230126201000 +0200" stop="20230126210500 +0200" channel="BBC World">
     <title lang="el">Ξενη Οικογενειακη Σειρα ( Ε )</title>
-    <desc lang="el">ΞΕΝΗ ΟΙΚΟΓΕΝΕΙΑΚΗ ΣΕΙΡΑ. Επεισόδιο: 6, Season II.(c)</desc>
+    <desc lang="el">ΞΕΝΗ ΟΙΚΟΓΕΝΕΙΑΚΗ ΣΕΙΡΑ. Επεισόδιο: 6, Season II.</desc>
   </programme>
   <programme start="20230126210500 +0200" stop="20230126220500 +0200" channel="BBC World">
     <title lang="el">Ταξιδι Γευσεων Με Τον Σεφ Ανδρέα Κωνσταντίνου</title>
-    <desc lang="el">Εκπομπή Μαγειρικής με τον σεφ Ανδρέα Κωνσταντίνου. Εκπομπή: 25E (251). Για σήμερα ο σεφ μαγειρεύει: 1. Βοδινά Παϊδάκια με Πουρέ 2. Αμερικάνικο Cheesecake (το γλυκό της ημέρας).(c)</desc>
+    <desc lang="el">Εκπομπή Μαγειρικής με τον σεφ Ανδρέα Κωνσταντίνου. Εκπομπή: 25E (251). Για σήμερα ο σεφ μαγειρεύει: 1. Βοδινά Παϊδάκια με Πουρέ 2. Αμερικάνικο Cheesecake (το γλυκό της ημέρας).</desc>
   </programme>
   <programme start="20230126220500 +0200" stop="20230126221000 +0200" channel="BBC World">
     <title lang="el">Αορατος Φακος</title>
-    <desc lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ, ΦΑΡΣΕΣ.(c)</desc>
+    <desc lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ, ΦΑΡΣΕΣ.</desc>
   </programme>
   <programme start="20230126221000 +0200" stop="20230126233000 +0200" channel="BBC World">
     <title lang="el">Ξενη Ταινια</title>
-    <desc lang="el">ΞΕΝΗ ΤΑΙΝΙΑ: ΔΡΑΣΗ, ΔΡΑΜΑ, ΑΓΩΝΙΑ, ΘΡΙΛΕΡ.(c)</desc>
+    <desc lang="el">ΞΕΝΗ ΤΑΙΝΙΑ: ΔΡΑΣΗ, ΔΡΑΜΑ, ΑΓΩΝΙΑ, ΘΡΙΛΕΡ.</desc>
   </programme>
   <programme start="20230126233000 +0200" stop="20230126234500 +0200" channel="BBC World">
     <title lang="el">LA LIGA 2022-23: LA LIGA CHRONICLES</title>
-    <desc lang="el">LA LIGA 2022-23: LA LIGA CHRONICLES.(g)</desc>
+    <desc lang="el">LA LIGA 2022-23: LA LIGA CHRONICLES.</desc>
   </programme>
   <programme start="20230126234500 +0200" stop="20230127001000 +0200" channel="BBC World">
     <title lang="el">Μια γυναίκα πρωτοπόρος Κ21 ΕΠ8</title>
-    <desc lang="el">Η Ρι Ντράμοντ φτιάχνει ένα φαγώσιμο ευχαριστήριο πακέτο, που περιλαμβάνει λεμονάδα με σταφύλια, παλιομοδίτικο κοτόπουλο γιαχνί και ένα γλυκό κέικ με κρέμα από λεμόνι και σμέουρο.(g)</desc>
+    <desc lang="el">Η Ρι Ντράμοντ φτιάχνει ένα φαγώσιμο ευχαριστήριο πακέτο, που περιλαμβάνει λεμονάδα με σταφύλια, παλιομοδίτικο κοτόπουλο γιαχνί και ένα γλυκό κέικ με κρέμα από λεμόνι και σμέουρο.</desc>
   </programme>
   <programme start="20230127001000 +0200" stop="20230127003000 +0200" channel="BBC World">
     <title lang="el">Η πεντανόστιμη κυρία Μπράουν Κ2 ΕΠ11</title>
-    <desc lang="el">Η Κάρντια φτιάχνει ένα μεξικάνικο γεύμα με μια πινελιά αμερικάνικου Νότου: τάκος γατόψαρου με σαλάτα τριμμένου κόκκινου λάχανου, μεξικάνικη σαλάτα με καλαμπόκι και πίτα με πίνα κολάντα.(c)</desc>
+    <desc lang="el">Η Κάρντια φτιάχνει ένα μεξικάνικο γεύμα με μια πινελιά αμερικάνικου Νότου: τάκος γατόψαρου με σαλάτα τριμμένου κόκκινου λάχανου, μεξικάνικη σαλάτα με καλαμπόκι και πίτα με πίνα κολάντα.</desc>
   </programme>
   <programme start="20230127003000 +0200" stop="20230127005500 +0200" channel="BBC World">
     <title lang="el">Η πεντανόστιμη κυρία Μπράουν Κ2 ΕΠ12</title>
-    <desc lang="el">Η Κάρντια προσκαλεί τα αδέρφια της σε γεύμα. Αρχίζει με σιγοψημένο ντιπ κρεμμυδιού και συνεχίζει με λαζάνια του Νότου με λαχανικά, και σαλάτα του Καίσαρα με κέιλ.(c)</desc>
+    <desc lang="el">Η Κάρντια προσκαλεί τα αδέρφια της σε γεύμα. Αρχίζει με σιγοψημένο ντιπ κρεμμυδιού και συνεχίζει με λαζάνια του Νότου με λαχανικά, και σαλάτα του Καίσαρα με κέιλ.</desc>
   </programme>
   <programme start="20230127005500 +0200" stop="20230127014000 +0200" channel="BBC World">
     <title lang="el">Στην κουζίνα Κ21 ΕΠ9</title>
@@ -5998,111 +5998,111 @@
   </programme>
   <programme start="20230127072500 +0200" stop="20230127074500 +0200" channel="BBC World">
     <title lang="el">Οι άσοι της τούρτας Κ8 ΕΠ6</title>
-    <desc lang="el">Το Charm City Cakes δέχεται επίσκεψη από το country rock τρίο Avett Brothers, ενώ ο Νταφ καλείται να φτιάξει μια τούρτα για το τηλεοπτικό πλατό. Πώς να αρνηθείς όταν το ζητάει η Όπρα;.(c)</desc>
+    <desc lang="el">Το Charm City Cakes δέχεται επίσκεψη από το country rock τρίο Avett Brothers, ενώ ο Νταφ καλείται να φτιάξει μια τούρτα για το τηλεοπτικό πλατό. Πώς να αρνηθείς όταν το ζητάει η Όπρα;.</desc>
   </programme>
   <programme start="20230127074500 +0200" stop="20230127081000 +0200" channel="BBC World">
     <title lang="el">Οι άσοι της τούρτας Κ8 ΕΠ7</title>
-    <desc lang="el">Το ζαχαροπλαστείο δέχεται την πρόκληση να παρασκευάσει μια τούρτα-μοτοσυκλέτα σε πραγματικό μέγεθος, ενώ για την ίδια εκδήλωση καλούνται να φτιάξουν και ένα δεκαόροφο γλυκό!(c)</desc>
+    <desc lang="el">Το ζαχαροπλαστείο δέχεται την πρόκληση να παρασκευάσει μια τούρτα-μοτοσυκλέτα σε πραγματικό μέγεθος, ενώ για την ίδια εκδήλωση καλούνται να φτιάξουν και ένα δεκαόροφο γλυκό!</desc>
   </programme>
   <programme start="20230127081000 +0200" stop="20230127083000 +0200" channel="BBC World">
     <title lang="el">Οι άσοι της τούρτας Κ8 ΕΠ9</title>
-    <desc lang="el">Ο σεφ Νταφ αναμετριέται με τον Χαλότι Νγκάτα των Μπάλτιμορ Ρέιβενς. Ένας συμπαίκτης του παραγγέλνει μια τούρτα που θα μοιραστεί με την ομάδα πριν από τον αγώνα.(c)</desc>
+    <desc lang="el">Ο σεφ Νταφ αναμετριέται με τον Χαλότι Νγκάτα των Μπάλτιμορ Ρέιβενς. Ένας συμπαίκτης του παραγγέλνει μια τούρτα που θα μοιραστεί με την ομάδα πριν από τον αγώνα.</desc>
   </programme>
   <programme start="20230127083000 +0200" stop="20230127085500 +0200" channel="BBC World">
     <title lang="el">Οι άσοι της τούρτας Κ8 ΕΠ10</title>
-    <desc lang="el">Οι διακοσμητές του Charm City Cakes αντλούν από την ιστορία για τις επόμενες τούρτες τους: έναν Κινέζο πολεμιστή από τερακότα και ένα αντίγραφο του ναού του Αγίου Βασιλείου στη Ρωσία.(c)</desc>
+    <desc lang="el">Οι διακοσμητές του Charm City Cakes αντλούν από την ιστορία για τις επόμενες τούρτες τους: έναν Κινέζο πολεμιστή από τερακότα και ένα αντίγραφο του ναού του Αγίου Βασιλείου στη Ρωσία.</desc>
   </programme>
   <programme start="20230127085500 +0200" stop="20230127094000 +0200" channel="BBC World">
     <title lang="el">Οι άσοι της τούρτας Κ8 ΕΠ11</title>
-    <desc lang="el">Ο Νταφ φτιάχνει μια τούρτα για το παιδιατρικό αντικαρκινικό κέντρο Aflac της Ατλάντα, ενώ τον περιμένει μια έκπληξη για τα γενέθλιά του από το προσωπικό του Good Housekeeping.(c)</desc>
+    <desc lang="el">Ο Νταφ φτιάχνει μια τούρτα για το παιδιατρικό αντικαρκινικό κέντρο Aflac της Ατλάντα, ενώ τον περιμένει μια έκπληξη για τα γενέθλιά του από το προσωπικό του Good Housekeeping.</desc>
   </programme>
   <programme start="20230127094000 +0200" stop="20230127100000 +0200" channel="BBC World">
     <title lang="el">Οι άσοι της τούρτας Κ8 ΕΠ12</title>
-    <desc lang="el">Η ομάδα ταξιδεύει μέχρι την Καλιφόρνια για να φτιάξει μια τούρτα R2-D2 για το πάρτυ με αφορμή την ολοκλήρωση της δεύτερης σεζόν του πολέμου των Κλώνων.(c)</desc>
+    <desc lang="el">Η ομάδα ταξιδεύει μέχρι την Καλιφόρνια για να φτιάξει μια τούρτα R2-D2 για το πάρτυ με αφορμή την ολοκλήρωση της δεύτερης σεζόν του πολέμου των Κλώνων.</desc>
   </programme>
   <programme start="20230127100000 +0200" stop="20230127102500 +0200" channel="BBC World">
     <title lang="el">Ο Νταφ παίρνει την τούρτα Κ1 ΕΠ1</title>
-    <desc lang="el">Ο Νταφ Γκόλντμαν και η ομάδα του φτιάχνουν μια τούρτα γενεθλίων για μια φώκια ενός έτους. Στη συνέχεια, καλούνται να κατασκευάσουν 21 τούρτες με θέματα πουλιών.(c)</desc>
+    <desc lang="el">Ο Νταφ Γκόλντμαν και η ομάδα του φτιάχνουν μια τούρτα γενεθλίων για μια φώκια ενός έτους. Στη συνέχεια, καλούνται να κατασκευάσουν 21 τούρτες με θέματα πουλιών.</desc>
   </programme>
   <programme start="20230127102500 +0200" stop="20230127104500 +0200" channel="BBC World">
     <title lang="el">Ο Νταφ παίρνει την τούρτα Κ1 ΕΠ2</title>
-    <desc lang="el">Ο Νταφ Γκόλντμαν ετοιμάζεται για το σπουδαιότερο έργο του: τον γάμο του! Με την ομάδα του φτιάχνουν μια εξαώροφη κλασική γαμήλια τούρτα και μια τετραώροφη τούρτα για τον γαμπρό.(c)</desc>
+    <desc lang="el">Ο Νταφ Γκόλντμαν ετοιμάζεται για το σπουδαιότερο έργο του: τον γάμο του! Με την ομάδα του φτιάχνουν μια εξαώροφη κλασική γαμήλια τούρτα και μια τετραώροφη τούρτα για τον γαμπρό.</desc>
   </programme>
   <programme start="20230127104500 +0200" stop="20230127111000 +0200" channel="BBC World">
     <title lang="el">Ο Νταφ παίρνει την τούρτα Κ1 ΕΠ3</title>
-    <desc lang="el">Ο Νταφ φτιάχνει μια τούρτα με πρωταγωνιστές τα Μάπετ για κάποιους σπουδαστές. Έπειτα οργανώνει μια θεαματική παράδοση τούρτας προς τιμήν ενός εθελοντή σε φεστιβάλ στην Τσάιναταουν.(c)</desc>
+    <desc lang="el">Ο Νταφ φτιάχνει μια τούρτα με πρωταγωνιστές τα Μάπετ για κάποιους σπουδαστές. Έπειτα οργανώνει μια θεαματική παράδοση τούρτας προς τιμήν ενός εθελοντή σε φεστιβάλ στην Τσάιναταουν.</desc>
   </programme>
   <programme start="20230127111000 +0200" stop="20230127115500 +0200" channel="BBC World">
     <title lang="el">Ποιος θα κοπεί: Γλυκά Κ2 ΕΠ3</title>
-    <desc lang="el">Ένας διαγωνισμός με θέμα το πικνίκ αρχίζει με ένα μεγάλο, ζουμερό φρούτο σε διασκεδαστική μορφή. Στον δεύτερο γύρο κάνουν την εμφάνισή τους μια γλυκιά σαλάτα και μια αλμυρή έκπληξη.(c)</desc>
+    <desc lang="el">Ένας διαγωνισμός με θέμα το πικνίκ αρχίζει με ένα μεγάλο, ζουμερό φρούτο σε διασκεδαστική μορφή. Στον δεύτερο γύρο κάνουν την εμφάνισή τους μια γλυκιά σαλάτα και μια αλμυρή έκπληξη.</desc>
   </programme>
   <programme start="20230127115500 +0200" stop="20230127124000 +0200" channel="BBC World">
     <title lang="el">Ποιος θα κοπεί: Γλυκά Κ2 ΕΠ4</title>
-    <desc lang="el">Τέσσερις σεφ σκαρώνουν επιδόρπια επιβλητικής αρχιτεκτονικής. Πρώτα αντιμετωπίζουν την πρόκληση των εντοσθίων πάπιας κι έπειτα καταπιάνονται με γεύσεις σοκολάτας, φράουλας και φιστικιού.(c)</desc>
+    <desc lang="el">Τέσσερις σεφ σκαρώνουν επιδόρπια επιβλητικής αρχιτεκτονικής. Πρώτα αντιμετωπίζουν την πρόκληση των εντοσθίων πάπιας κι έπειτα καταπιάνονται με γεύσεις σοκολάτας, φράουλας και φιστικιού.</desc>
   </programme>
   <programme start="20230127124000 +0200" stop="20230127132500 +0200" channel="BBC World">
     <title lang="el">Ποιος θα κοπεί: Γλυκά Κ2 ΕΠ5</title>
-    <desc lang="el">Η δύναμη των λουλουδιών συναντά τη δύναμη των αλευριών, σε έναν διαγωνισμό επιδορπίων με θέμα τα άνθη! Αλατισμένα λουλούδια και ένα ανθοφόρο γλυκό ανεβάζουν ψηλά τον πήχη.(c)</desc>
+    <desc lang="el">Η δύναμη των λουλουδιών συναντά τη δύναμη των αλευριών, σε έναν διαγωνισμό επιδορπίων με θέμα τα άνθη! Αλατισμένα λουλούδια και ένα ανθοφόρο γλυκό ανεβάζουν ψηλά τον πήχη.</desc>
   </programme>
   <programme start="20230127132500 +0200" stop="20230127141000 +0200" channel="BBC World">
     <title lang="el">Ποιος θα κοπεί: Γλυκά Κ2 ΕΠ6</title>
-    <desc lang="el">Σε έναν διαγωνισμό με θέμα τα γενέθλια, οι σεφ δημιουργούν γιορταστικά γλυκά, αρχίζοντας από το ποπκόρν του πρώτου καλαθιού. Μια πινιάτα κάνει το κέφι να ξεχειλίσει στον δεύτερο γύρο.(c)</desc>
+    <desc lang="el">Σε έναν διαγωνισμό με θέμα τα γενέθλια, οι σεφ δημιουργούν γιορταστικά γλυκά, αρχίζοντας από το ποπκόρν του πρώτου καλαθιού. Μια πινιάτα κάνει το κέφι να ξεχειλίσει στον δεύτερο γύρο.</desc>
   </programme>
   <programme start="20230127141000 +0200" stop="20230127145500 +0200" channel="BBC World">
     <title lang="el">Ποιος θα κοπεί: Γλυκά Κ2 ΕΠ7</title>
-    <desc lang="el">Οι διαγωνιζόμενοι σεφ φτιάχνουν επιδόρπια με άξονα το τυρί. Το τυρί στη σχάρα στο πρώτο καλάθι λειτουργεί καθησυχαστικά, όμως η ανάδειξη της γλυκιάς πλευράς του δεν είναι απλή υπόθεση.(c)</desc>
+    <desc lang="el">Οι διαγωνιζόμενοι σεφ φτιάχνουν επιδόρπια με άξονα το τυρί. Το τυρί στη σχάρα στο πρώτο καλάθι λειτουργεί καθησυχαστικά, όμως η ανάδειξη της γλυκιάς πλευράς του δεν είναι απλή υπόθεση.</desc>
   </programme>
   <programme start="20230127145500 +0200" stop="20230127154000 +0200" channel="BBC World">
     <title lang="el">Η Έιμι Σούμερ μαθαίνει να μαγειρεύει Κ2 ΕΠ3</title>
-    <desc lang="el">Η Έιμι κι ο Κρις αναδημιουργούν τα αγαπημένα τους νεοϋορκέζικα σνακ που τρώγονται στο χέρι, όπως γαρίδες σε σος αστακού και σούσι. Ακόμη, φτιάχνουν μπουκίτσες πίτσας-μπέιγκελ για πάρτι.(c)</desc>
+    <desc lang="el">Η Έιμι κι ο Κρις αναδημιουργούν τα αγαπημένα τους νεοϋορκέζικα σνακ που τρώγονται στο χέρι, όπως γαρίδες σε σος αστακού και σούσι. Ακόμη, φτιάχνουν μπουκίτσες πίτσας-μπέιγκελ για πάρτι.</desc>
   </programme>
   <programme start="20230127154000 +0200" stop="20230127162500 +0200" channel="BBC World">
     <title lang="el">Σεφ με φονικά ένστικτα Κ9 ΕΠ7</title>
-    <desc lang="el">Κάθε σεφ έχει 25.000 δολάρια και την ευκαιρία να σαμποτάρει τους αντιπάλους του. Υλικά εξαφανίζονται και εργαλεία αχρηστεύονται καθώς οι σεφ προσπαθούν να μαγειρέψουν νόστιμα πιάτα.(c)</desc>
+    <desc lang="el">Κάθε σεφ έχει 25.000 δολάρια και την ευκαιρία να σαμποτάρει τους αντιπάλους του. Υλικά εξαφανίζονται και εργαλεία αχρηστεύονται καθώς οι σεφ προσπαθούν να μαγειρέψουν νόστιμα πιάτα.</desc>
   </programme>
   <programme start="20230127162500 +0200" stop="20230127171000 +0200" channel="BBC World">
     <title lang="el">Η μάχη του μπάρμπεκιου: Φλέι εναντίον Σάιμον Κ1 ΕΠ1</title>
-    <desc lang="el">Ο Μπόμπι Φλέι και ο Μάικλ Σάιμον μετράνε τα ταλέντα οκτώ κορυφαίων μετρ του μπάρμπεκιου. Πριν επιλέξουν ομάδες, διαγωνίζονται σε μια δοκιμασία μπάρμπεκιου στην πίσω αυλή.(c)</desc>
+    <desc lang="el">Ο Μπόμπι Φλέι και ο Μάικλ Σάιμον μετράνε τα ταλέντα οκτώ κορυφαίων μετρ του μπάρμπεκιου. Πριν επιλέξουν ομάδες, διαγωνίζονται σε μια δοκιμασία μπάρμπεκιου στην πίσω αυλή.</desc>
   </programme>
   <programme start="20230127171000 +0200" stop="20230127175500 +0200" channel="BBC World">
     <title lang="el">Εκδρομές χωρίς συνταγή με τους δοκιμαστές Κ1 ΕΠ2</title>
-    <desc lang="el">Οι Δοκιμαστές πηγαίνουν στο Λος Άντζελες για να ανακαλύψουν τα μυστικά των ταμάλες στο Κάζα Βέγκα! Ακόμα, ο Κάλεν Άλεν αξιολογεί δύο διαγωνισμούς με θέμα το Λος Άντζελες.(c)</desc>
+    <desc lang="el">Οι Δοκιμαστές πηγαίνουν στο Λος Άντζελες για να ανακαλύψουν τα μυστικά των ταμάλες στο Κάζα Βέγκα! Ακόμα, ο Κάλεν Άλεν αξιολογεί δύο διαγωνισμούς με θέμα το Λος Άντζελες.</desc>
   </programme>
   <programme start="20230127175500 +0200" stop="20230127184000 +0200" channel="BBC World">
     <title lang="el">Σούπερ μάρκετ υπό παρακολούθηση Κ2 ΕΠ4</title>
-    <desc lang="el">Οι σεφ καραδοκούν για τα ψώνια πελατών σούπερ μάρκετ στο Λας Βέγκας, με στόχο πάρτυ στο πάρκινγκ. Ακολουθεί ρομαντικό δείπνο με κεριά και ένας τελικός γύρος με φρούτα για επιδόρπιο.(c)</desc>
+    <desc lang="el">Οι σεφ καραδοκούν για τα ψώνια πελατών σούπερ μάρκετ στο Λας Βέγκας, με στόχο πάρτυ στο πάρκινγκ. Ακολουθεί ρομαντικό δείπνο με κεριά και ένας τελικός γύρος με φρούτα για επιδόρπιο.</desc>
   </programme>
   <programme start="20230127184000 +0200" stop="20230127192500 +0200" channel="BBC World">
     <title lang="el">Ποιος θα κοπεί Κ50 ΕΠ1</title>
-    <desc lang="el">Οι διαγωνιζόμενοι σεφ καλούνται να μαγειρέψουν με υλικά δημοφιλή στη δεκαετία του 1960. Ένα αναψυκτικό και ένα γλυκό κρέας συμπεριλαμβάνονται στο καλάθι των ορεκτικών.(c)</desc>
+    <desc lang="el">Οι διαγωνιζόμενοι σεφ καλούνται να μαγειρέψουν με υλικά δημοφιλή στη δεκαετία του 1960. Ένα αναψυκτικό και ένα γλυκό κρέας συμπεριλαμβάνονται στο καλάθι των ορεκτικών.</desc>
   </programme>
   <programme start="20230127192500 +0200" stop="20230127194500 +0200" channel="BBC World">
     <title lang="el">Φαγητά στην Παραλία με την Κέιτι Λι Κ2 ΕΠ6</title>
-    <desc lang="el">Η Κέιτι Λι ταξιδεύει από ακτή σε ακτή και αναζητά τα καλύτερα πιάτα σε ολόκληρο τον κόσμο. Δοκιμάζει τα πιο νόστιμα φρέσκα θαλασσινά, καθώς και τοπικούς μεζέδες στη σχάρα.(c)</desc>
+    <desc lang="el">Η Κέιτι Λι ταξιδεύει από ακτή σε ακτή και αναζητά τα καλύτερα πιάτα σε ολόκληρο τον κόσμο. Δοκιμάζει τα πιο νόστιμα φρέσκα θαλασσινά, καθώς και τοπικούς μεζέδες στη σχάρα.</desc>
   </programme>
   <programme start="20230127194500 +0200" stop="20230127200500 +0200" channel="BBC World">
     <title lang="el">Φαγητά στην Παραλία με την Κέιτι Λι Κ2 ΕΠ7</title>
-    <desc lang="el">Η Κέιτι Λι ταξιδεύει από ακτή σε ακτή και αναζητά τα καλύτερα πιάτα σε ολόκληρο τον κόσμο. Δοκιμάζει τα πιο νόστιμα φρέσκα θαλασσινά, καθώς και τοπικούς μεζέδες στη σχάρα.(c)</desc>
+    <desc lang="el">Η Κέιτι Λι ταξιδεύει από ακτή σε ακτή και αναζητά τα καλύτερα πιάτα σε ολόκληρο τον κόσμο. Δοκιμάζει τα πιο νόστιμα φρέσκα θαλασσινά, καθώς και τοπικούς μεζέδες στη σχάρα.</desc>
   </programme>
   <programme start="20230127200500 +0200" stop="20230127205000 +0200" channel="BBC World">
     <title lang="el">Επιχείρηση Εστιατόριο Κ18 ΕΠ6</title>
-    <desc lang="el">Ο Ρόμπερτ επισκέπτεται το Turnpike's Rest Stop στο Σπρινγκ Χιλ της Φλόριντα. Σύντομα αντιλαμβάνεται ότι πίσω από τα προβλήματα κρύβεται η κακή επικοινωνία και οι υπερμεγέθεις μπαγκέτες.(c)</desc>
+    <desc lang="el">Ο Ρόμπερτ επισκέπτεται το Turnpike's Rest Stop στο Σπρινγκ Χιλ της Φλόριντα. Σύντομα αντιλαμβάνεται ότι πίσω από τα προβλήματα κρύβεται η κακή επικοινωνία και οι υπερμεγέθεις μπαγκέτες.</desc>
   </programme>
   <programme start="20230127205000 +0200" stop="20230127213500 +0200" channel="BBC World">
     <title lang="el">Ο νικητής του ψησίματος Κ1 ΕΠ4</title>
-    <desc lang="el">Τέσσερις από τις κορυφαίες ομάδες ζαχαροπλαστικής στην Αμερική διαγωνίζονται σε διάφορες δημιουργικές προκλήσεις. Η νικήτρια ομάδα λαμβάνει χρηματικό έπαθλο ύψους 10.000 δολαρίων.(c)</desc>
+    <desc lang="el">Τέσσερις από τις κορυφαίες ομάδες ζαχαροπλαστικής στην Αμερική διαγωνίζονται σε διάφορες δημιουργικές προκλήσεις. Η νικήτρια ομάδα λαμβάνει χρηματικό έπαθλο ύψους 10.000 δολαρίων.</desc>
   </programme>
   <programme start="20230127213500 +0200" stop="20230127222000 +0200" channel="BBC World">
     <title lang="el">Σούπερ μάρκετ υπό παρακολούθηση Κ2 ΕΠ5</title>
-    <desc lang="el">Σεφ παραμονεύουν για τα καροτσάκια των πελατών σε σούπερ μάρκετ του Φίνιξ, για να μπορέσουν να φτιάξουν πρωινό στο χέρι. Ακόμη, κάτι πικάντικο ανεβάζει τη θερμοκρασία στο πάρκινγκ.(c)</desc>
+    <desc lang="el">Σεφ παραμονεύουν για τα καροτσάκια των πελατών σε σούπερ μάρκετ του Φίνιξ, για να μπορέσουν να φτιάξουν πρωινό στο χέρι. Ακόμη, κάτι πικάντικο ανεβάζει τη θερμοκρασία στο πάρκινγκ.</desc>
   </programme>
   <programme start="20230127222000 +0200" stop="20230127230500 +0200" channel="BBC World">
     <title lang="el">Στην κουζίνα Κ15 ΕΠ9</title>
-    <desc lang="el">Οι οικοδεσπότες παρουσιάζουν ένα σπουδαίο μενού για τις γιορτές. Ο ζαχαροπλάστης Τζος Σνάιντερ μαζί με τη γυναίκα του, ηθοποιό Άντζελα Κίνσεϊ, διακοσμούν τα γιορτινά μπισκότα.(c)</desc>
+    <desc lang="el">Οι οικοδεσπότες παρουσιάζουν ένα σπουδαίο μενού για τις γιορτές. Ο ζαχαροπλάστης Τζος Σνάιντερ μαζί με τη γυναίκα του, ηθοποιό Άντζελα Κίνσεϊ, διακοσμούν τα γιορτινά μπισκότα.</desc>
   </programme>
   <programme start="20230127230500 +0200" stop="20230127235000 +0200" channel="BBC World">
     <title lang="el">Στην κουζίνα Κ15 ΕΠ10</title>
-    <desc lang="el">Νέο έτος σημαίνει νέες συνταγές για μπραντς. Ο Τζέφρι φτιάχνει μια τορτίγια ισπανικής έμπνευσης, ενώ η Κέιτι συνδυάζει την πίτσα και τη βάφλα σε μπαστουνάκια σε σάλτσα ραντς.(c)</desc>
+    <desc lang="el">Νέο έτος σημαίνει νέες συνταγές για μπραντς. Ο Τζέφρι φτιάχνει μια τορτίγια ισπανικής έμπνευσης, ενώ η Κέιτι συνδυάζει την πίτσα και τη βάφλα σε μπαστουνάκια σε σάλτσα ραντς.</desc>
   </programme>
   <programme start="20230127235000 +0200" stop="20230128001500 +0200" channel="BBC World">
     <title lang="el">The Goldbergs Κ6 ΕΠ1</title>
