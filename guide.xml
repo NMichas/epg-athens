@@ -117,14 +117,17 @@
   </channel>
   <channel id="ERT 1">
     <display-name lang="el">ERT 1</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 2">
     <display-name lang="el">ERT 2</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176530&amp;t=1606877905302"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ERT 3">
     <display-name lang="el">ERT 3</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=96176482&amp;t=1606877899957"/>
     <url>http://www.cosmote.gr</url>
   </channel>
   <channel id="ΕRΤ SPORTS">
@@ -5558,9 +5561,9 @@
     <title lang="el">Άπιστοι Κ8 ΕΠ5</title>
     <desc lang="el">Πλάνα από κρυφές κάμερες ιδιωτικών ερευνητών της εκπομπής επιβεβαιώνουν τον χειρότερο εφιάλτη ενός ακόμα υποψιασμένου συζύγου. (2014).</desc>
   </programme>
-  <programme start="20230203225500 +0200" stop="20230204011000 +0200" channel="RIK">
-    <title lang="el">Vice</title>
-    <desc lang="el">Vice Σκηνοθεσία: Brian A. Miller. Πρωταγωνιστούν: Thomas Jane, Bruce Willis, Ambyr Childers. (2015).</desc>
+  <programme start="20230203225000 +0200" stop="20230203234000 +0200" channel="RIK">
+    <title lang="el">Έφηβοι δολοφόνοι Κ1 ΕΠ3</title>
+    <desc lang="el">Ο Μπεν Μόινιχαν κρίθηκε ένοχος για την απόπειρα δολοφονίας τριών γυναικών τις οποίες μαχαίρωσε γιατί δεν μπορούσε να χάσει την παρθενιά του.(c)</desc>
   </programme>
   <programme start="20230204011000 +0200" stop="20230204033500 +0200" channel="RIK">
     <title lang="el">The Lost City of Z</title>
@@ -6214,9 +6217,9 @@
     <title lang="el">Ξενη Neanikh Ταινια</title>
     <desc lang="el">ΞΕΝΗ ΤΑΙΝΙΑ: ΡΟΜΑΝΤΙΚΗ, ΑΙΣΘΗΜΑΤΙΚΗ, ΔΡΑΜΑ, ΜΟΥΣΙΚΗ.</desc>
   </programme>
-  <programme start="20230203235000 +0200" stop="20230204003500 +0200" channel="BBC World">
-    <title lang="el">Παιχνίδια μαναβικής με τον Γκάι Κ7 ΕΠ3</title>
-    <desc lang="el">Ο Γκάι Φιέρι κάνει τέσσερις ταλαντούχους σεφ να τρέχουν σε έναν μαγειρικό διαγωνισμό που απαιτεί εξαιρετικές ικανότητες και επιφυλάσσει μεγάλα έπαθλα.</desc>
+  <programme start="20230203220000 +0200" stop="20230203235500 +0200" channel="BBC World">
+    <title lang="el">Ξενη Ταινια</title>
+    <desc lang="el">ΞΕΝΗ ΤΑΙΝΙΑ: ΕΓΚΛΗΜΑ, ΔΡΑΣΗ, ΑΓΩΝΙΑ.(c)</desc>
   </programme>
   <programme start="20230204003500 +0200" stop="20230204012000 +0200" channel="BBC World">
     <title lang="el">Παιχνίδια μαναβικής με τον Γκάι Κ7 ΕΠ4</title>
