@@ -436,141 +436,6 @@
     <title lang="el">Bloomberg Markets</title>
     <desc lang="el">Bloomberg Markets is focused on bringing you the most important global business and breaking markets news and information as it happens.</desc>
   </programme>
-  <channel id="ALPHA">
-    <display-name lang="el">ALPHA</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ANT1">
-    <display-name lang="el">ANT1</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="OPEN BEYOND">
-    <display-name lang="el">OPEN BEYOND</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="M.tv">
-    <display-name lang="el">M.tv</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="SKAI">
-    <display-name lang="el">SKAI</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="STAR">
-    <display-name lang="el">STAR</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ART TV">
-    <display-name lang="el">ART TV</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ETV">
-    <display-name lang="el">ETV</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ART">
-    <display-name lang="el">ART</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="EXTRA">
-    <display-name lang="el">EXTRA</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ACTION24">
-    <display-name lang="el">ACTION24</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ATTICA TV">
-    <display-name lang="el">ATTICA TV</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="BLUE SKY">
-    <display-name lang="el">BLUE SKY</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="CHANNEL 9">
-    <display-name lang="el">CHANNEL 9</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="AE CHANNEL">
-    <display-name lang="el">A.EPSILON</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="HIGH TV">
-    <display-name lang="el">HIGH TV</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="KONTRA CHANNEL">
-    <display-name lang="el">KONTRA CHANNEL</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="MAD">
-    <display-name lang="el">MAD</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="RISE TV">
-    <display-name lang="el">RISE TV</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="NICKELODEON">
-    <display-name lang="el">NICKELODEON</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="SMILE">
-    <display-name lang="el">SMILE</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ALERT">
-    <display-name lang="el">ALERT</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="VOULI">
-    <display-name lang="el">Vouli</display-name>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="ERT 1">
-    <display-name lang="el">ERT 1</display-name>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="ERT 2">
-    <display-name lang="el">ERT 2</display-name>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="ERT 3">
-    <display-name lang="el">ERT 3</display-name>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="ΕRΤ SPORTS">
-    <display-name lang="el">ΕRΤ SPORTS</display-name>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="MEGA">
-    <display-name lang="el">MEGA</display-name>
-    <icon>https://www.megatv.com/wp-content/uploads/2020/10/facebook.jpeg</icon>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="TV5 Europe">
-    <display-name lang="en">TV5 Europe</display-name>
-    <icon>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV5-europe-Logo.svg/2560px-TV5-europe-Logo.svg.png</icon>
-    <url>http://www.theguardian.com</url>
-  </channel>
-  <channel id="RIK">
-    <display-name lang="el">RIK</display-name>
-    <icon>https://hellasjournal.com/wp-content/uploads/2015/10/RIK-KYPROS01.jpg</icon>
-    <url>http://www.cyta.com.cy</url>
-  </channel>
-  <channel id="BBC World">
-    <display-name lang="el">BBC World</display-name>
-    <icon>https://seeklogo.com/images/B/bbc-world-service-logo-62AE02F8D5-seeklogo.com.png</icon>
-    <url>http://www.cyta.com.cy</url>
-  </channel>
-  <channel id="ERT NEWS">
-    <display-name lang="en">ERT NEWS</display-name>
-    <icon>https://www.newsit.gr/wp-content/uploads/2022/08/ERTNEWS_melas_1200.jpg</icon>
-  </channel>
-  <channel id="ERT1.">
-    <display-name lang="en">ERT1.</display-name>
-  </channel>
   <programme start="20230520000000 +0300" stop="20230520003000 +0300" channel="BBC World">
     <title lang="el">BBC World News America</title>
     <desc lang="el">In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
@@ -1631,6 +1496,141 @@
     <title lang="el">Κινηματογραφικά Νέα</title>
     <desc lang="el">Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema! Νέες κυκλοφορίες, παραγωγές που σημειώνουν επιτυχία, διάσημοι πρωταγωνιστές και σκηνοθέτες παρελαύνουν στην οθόνη σας... Μαγκαζίνο.</desc>
   </programme>
+  <channel id="ALPHA">
+    <display-name lang="el">ALPHA</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ANT1">
+    <display-name lang="el">ANT1</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="OPEN BEYOND">
+    <display-name lang="el">OPEN BEYOND</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="M.tv">
+    <display-name lang="el">M.tv</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="SKAI">
+    <display-name lang="el">SKAI</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="STAR">
+    <display-name lang="el">STAR</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ART TV">
+    <display-name lang="el">ART TV</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ETV">
+    <display-name lang="el">ETV</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ART">
+    <display-name lang="el">ART</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="EXTRA">
+    <display-name lang="el">EXTRA</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ACTION24">
+    <display-name lang="el">ACTION24</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ATTICA TV">
+    <display-name lang="el">ATTICA TV</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="BLUE SKY">
+    <display-name lang="el">BLUE SKY</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="CHANNEL 9">
+    <display-name lang="el">CHANNEL 9</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="AE CHANNEL">
+    <display-name lang="el">A.EPSILON</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="HIGH TV">
+    <display-name lang="el">HIGH TV</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="KONTRA CHANNEL">
+    <display-name lang="el">KONTRA CHANNEL</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="MAD">
+    <display-name lang="el">MAD</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="RISE TV">
+    <display-name lang="el">RISE TV</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="NICKELODEON">
+    <display-name lang="el">NICKELODEON</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="SMILE">
+    <display-name lang="el">SMILE</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ALERT">
+    <display-name lang="el">ALERT</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="VOULI">
+    <display-name lang="el">Vouli</display-name>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="ERT 1">
+    <display-name lang="el">ERT 1</display-name>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="ERT 2">
+    <display-name lang="el">ERT 2</display-name>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="ERT 3">
+    <display-name lang="el">ERT 3</display-name>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="ΕRΤ SPORTS">
+    <display-name lang="el">ΕRΤ SPORTS</display-name>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="MEGA">
+    <display-name lang="el">MEGA</display-name>
+    <icon>https://www.megatv.com/wp-content/uploads/2020/10/facebook.jpeg</icon>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="TV5 Europe">
+    <display-name lang="en">TV5 Europe</display-name>
+    <icon>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV5-europe-Logo.svg/2560px-TV5-europe-Logo.svg.png</icon>
+    <url>http://www.theguardian.com</url>
+  </channel>
+  <channel id="RIK">
+    <display-name lang="el">RIK</display-name>
+    <icon>https://hellasjournal.com/wp-content/uploads/2015/10/RIK-KYPROS01.jpg</icon>
+    <url>http://www.cyta.com.cy</url>
+  </channel>
+  <channel id="BBC World">
+    <display-name lang="el">BBC World</display-name>
+    <icon>https://seeklogo.com/images/B/bbc-world-service-logo-62AE02F8D5-seeklogo.com.png</icon>
+    <url>http://www.cyta.com.cy</url>
+  </channel>
+  <channel id="ERT NEWS">
+    <display-name lang="en">ERT NEWS</display-name>
+    <icon>https://www.newsit.gr/wp-content/uploads/2022/08/ERTNEWS_melas_1200.jpg</icon>
+  </channel>
+  <channel id="ERT1.">
+    <display-name lang="en">ERT1.</display-name>
+  </channel>
   <programme start="20230520000000 +0100" stop="20230520235900 +0100" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
