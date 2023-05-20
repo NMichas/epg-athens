@@ -1,73 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V4.2.4.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <programme start="20230520020000 +0300" stop="20230520040000 +0300" channel="RIK">
-    <title lang="el">2023 WNBA REGULAR SEASON</title>
-    <desc lang="el">New York Liberty vs.Washington Mystics Live.</desc>
-  </programme>
-  <programme start="20230520040000 +0300" stop="20230520050000 +0300" channel="RIK">
-    <title lang="el">High Tops:</title>
-    <desc lang="el">Best of 2022-23 Season Part 2.</desc>
-  </programme>
-  <programme start="20230520050000 +0300" stop="20230520060000 +0300" channel="RIK">
-    <title lang="el">igh Tops:</title>
-    <desc lang="el">"Best of Lebron James".</desc>
-  </programme>
-  <programme start="20230520060000 +0300" stop="20230520063000 +0300" channel="RIK">
-    <title lang="el">NBA Action 3230</title>
-    <desc lang="el">NBA Action 3230.</desc>
-  </programme>
-  <programme start="20230520063000 +0300" stop="20230520080000 +0300" channel="RIK">
-    <title lang="el">Playoff Central</title>
-    <desc lang="el">Playoff Central.</desc>
-  </programme>
-  <programme start="20230520080000 +0300" stop="20230520093000 +0300" channel="RIK">
-    <title lang="el">Playoff Central</title>
-    <desc lang="el">Playoff Central.</desc>
-  </programme>
-  <programme start="20230520093000 +0300" stop="20230520110000 +0300" channel="RIK">
-    <title lang="el">Playoff Central</title>
-    <desc lang="el">Playoff Central.</desc>
-  </programme>
-  <programme start="20230520110000 +0300" stop="20230520120000 +0300" channel="RIK">
-    <title lang="el">High Tops:</title>
-    <desc lang="el">"Best of Lebron James".</desc>
-  </programme>
-  <programme start="20230520120000 +0300" stop="20230520140000 +0300" channel="RIK">
-    <title lang="el">2023 WNBA REGULAR SEASON</title>
-    <desc lang="el">Liberty vs. Mystics Tape.</desc>
-  </programme>
-  <programme start="20230520140000 +0300" stop="20230520150000 +0300" channel="RIK">
-    <title lang="el">Inside the NBA</title>
-    <desc lang="el">04-Apr-22.</desc>
-  </programme>
-  <programme start="20230520150000 +0300" stop="20230520170000 +0300" channel="RIK">
-    <title lang="el">2023 WNBA REGULAR SEASON</title>
-    <desc lang="el">Libery vs. Mystics Tape.</desc>
-  </programme>
-  <programme start="20230520170000 +0300" stop="20230520180000 +0300" channel="RIK">
-    <title lang="el">Inside the NBA</title>
-    <desc lang="el">04-Apr-22.</desc>
-  </programme>
-  <programme start="20230520180000 +0300" stop="20230520190000 +0300" channel="RIK">
-    <title lang="el">2023 PLAYOFF PLAYBACK</title>
-    <desc lang="el">Warriors/Kings Round 1 Game 1.</desc>
-  </programme>
-  <programme start="20230520190000 +0300" stop="20230520200000 +0300" channel="RIK">
-    <title lang="el">2023 PLAYOFF PLAYBACK</title>
-    <desc lang="el">Warriors/Kings Round 1 Game 2.</desc>
-  </programme>
-  <programme start="20230520200000 +0300" stop="20230520203000 +0300" channel="RIK">
-    <title lang="el">BAL ACTION 3007</title>
-    <desc lang="el">BAL ACTION 3007.</desc>
-  </programme>
-  <programme start="20230520203000 +0300" stop="20230520223000 +0300" channel="RIK">
-    <title lang="el">2023 BAL</title>
-    <desc lang="el">Al Ahly (Egypt) vs. REG (Rwanda) Live.</desc>
-  </programme>
-  <programme start="20230520223000 +0300" stop="20230521000000 +0300" channel="RIK">
-    <title lang="el">2023 DRAFT COMBINE</title>
-    <desc lang="el">Day 1 Delayed.</desc>
-  </programme>
+  <channel id="ALPHA">
+    <display-name lang="el">ALPHA</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ANT1">
+    <display-name lang="el">ANT1</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="OPEN BEYOND">
+    <display-name lang="el">OPEN BEYOND</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="M.tv">
+    <display-name lang="el">M.tv</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="SKAI">
+    <display-name lang="el">SKAI</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="STAR">
+    <display-name lang="el">STAR</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ART TV">
+    <display-name lang="el">ART TV</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ETV">
+    <display-name lang="el">ETV</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ART">
+    <display-name lang="el">ART</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="EXTRA">
+    <display-name lang="el">EXTRA</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ACTION24">
+    <display-name lang="el">ACTION24</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ATTICA TV">
+    <display-name lang="el">ATTICA TV</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="BLUE SKY">
+    <display-name lang="el">BLUE SKY</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="CHANNEL 9">
+    <display-name lang="el">CHANNEL 9</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="AE CHANNEL">
+    <display-name lang="el">A.EPSILON</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="HIGH TV">
+    <display-name lang="el">HIGH TV</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="KONTRA CHANNEL">
+    <display-name lang="el">KONTRA CHANNEL</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="MAD">
+    <display-name lang="el">MAD</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="RISE TV">
+    <display-name lang="el">RISE TV</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="NICKELODEON">
+    <display-name lang="el">NICKELODEON</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="SMILE">
+    <display-name lang="el">SMILE</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ALERT">
+    <display-name lang="el">ALERT</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="VOULI">
+    <display-name lang="el">Vouli</display-name>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="ERT 1">
+    <display-name lang="el">ERT 1</display-name>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="ERT 2">
+    <display-name lang="el">ERT 2</display-name>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="ERT 3">
+    <display-name lang="el">ERT 3</display-name>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="ΕRΤ SPORTS">
+    <display-name lang="el">ΕRΤ SPORTS</display-name>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="MEGA">
+    <display-name lang="el">MEGA</display-name>
+    <icon>https://www.megatv.com/wp-content/uploads/2020/10/facebook.jpeg</icon>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="TV5 Europe">
+    <display-name lang="en">TV5 Europe</display-name>
+    <icon>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV5-europe-Logo.svg/2560px-TV5-europe-Logo.svg.png</icon>
+    <url>http://www.theguardian.com</url>
+  </channel>
+  <channel id="RIK">
+    <display-name lang="el">RIK</display-name>
+    <icon>https://hellasjournal.com/wp-content/uploads/2015/10/RIK-KYPROS01.jpg</icon>
+    <url>http://www.cyta.com.cy</url>
+  </channel>
+  <channel id="BBC World">
+    <display-name lang="el">BBC World</display-name>
+    <icon>https://seeklogo.com/images/B/bbc-world-service-logo-62AE02F8D5-seeklogo.com.png</icon>
+    <url>http://www.cyta.com.cy</url>
+  </channel>
+  <channel id="ERT NEWS">
+    <display-name lang="en">ERT NEWS</display-name>
+    <icon>https://www.newsit.gr/wp-content/uploads/2022/08/ERTNEWS_melas_1200.jpg</icon>
+  </channel>
+  <channel id="ERT1.">
+    <display-name lang="en">ERT1.</display-name>
+  </channel>
   <programme start="20230521000000 +0300" stop="20230521060000 +0300" channel="RIK">
     <title lang="el">Novasportsextra2HD</title>
     <desc lang="el">Κάθε Σαββατοκύριακο, αλλά και μέσα στην εβδομάδα, παρακολουθήστε σε ζωντανή σύνδεση επιλεγμένες αναμετρήσεις από όλες τις διοργανώσεις.</desc>
@@ -369,236 +436,160 @@
     <desc lang="el">Bloomberg: Balance of Power focuses on the politics and policies being shaped by the agenda of President Trump's administration.</desc>
   </programme>
   <programme start="20230526010000 +0300" stop="20230526020000 +0300" channel="RIK">
-    <title lang="el">Bloomberg Daybreak: Australia</title>
-    <desc lang="el">Live from New York and Sydney. The latest news impacting markets, business and finance around the world.</desc>
+    <title lang="el">Bloomberg Wall Street Week</title>
+    <desc lang="el">David Westin speaks with top names in finance about the week's biggest issues on Wall Street.</desc>
   </programme>
-  <programme start="20230526020000 +0300" stop="20230526040000 +0300" channel="RIK">
-    <title lang="el">Bloomberg Daybreak: Asia</title>
-    <desc lang="el">Live from New York and Hong Kong, Bloomberg Daybreak: Asia brings you the essential stories from the close of the US markets to the open of trading across Asia.</desc>
-  </programme>
-  <programme start="20230526040000 +0300" stop="20230526050000 +0300" channel="RIK">
-    <title lang="el">Bloomberg Markets: China Open</title>
-    <desc lang="el">The definitive guide to the markets in Hong Kong and on the mainland. Rishaad Salamat, David Ingles, Tom Mackenzie and Yvonne Man bring you the latest analysis to get you ready for the trading day.</desc>
-  </programme>
-  <programme start="20230526050000 +0300" stop="20230526070000 +0300" channel="RIK">
-    <title lang="el">Bloomberg Markets: Asia</title>
-    <desc lang="el">Live from Hong Kong, Bloomberg Markets: Asia brings you the most important global business and breaking markets news information as it happens.</desc>
-  </programme>
-  <programme start="20230526070000 +0300" stop="20230526080000 +0300" channel="RIK">
-    <title lang="el">Bloomberg Daybreak: Middle East</title>
-    <desc lang="el">Live from Dubai, connecting Asian markets to the European opens. The show focuses on global macro issues with a Middle Eastern context.</desc>
-  </programme>
-  <programme start="20230526080000 +0300" stop="20230526090000 +0300" channel="RIK">
-    <title lang="el">Bloomberg Daybreak: Europe</title>
-    <desc lang="el">Live market reports from London and overnight news from Wall Street. Markets never sleep and neither does Bloomberg News. Track investments 24 hours a day, around the world.</desc>
-  </programme>
-  <programme start="20230526090000 +0300" stop="20230526100000 +0300" channel="RIK">
-    <title lang="el">Bloomberg Markets: Europe</title>
-    <desc lang="el">Anchored by Anna Edwards and Mark Cudmore, Bloomberg Markets: Europe is a fast-paced hour of news and analysis, building towards the drama and excitement of the start of trading across the continent.</desc>
-  </programme>
-  <programme start="20230526100000 +0300" stop="20230526110000 +0300" channel="RIK">
-    <title lang="el">Bloomberg Markets: European Open</title>
-    <desc lang="el">Live from London, Bloomberg Markets: European Open is focused on bringing you the most important global business and breaking markets news and information as it happens.</desc>
-  </programme>
-  <programme start="20230526110000 +0300" stop="20230526120000 +0300" channel="RIK">
-    <title lang="el">Bloomberg Surveillance: Early Edition</title>
-    <desc lang="el">Bloomberg Surveillance: Early Edition with Francine Lacqua live from London, bringing insight on global markets and the top business stories of the day.</desc>
-  </programme>
-  <programme start="20230526120000 +0300" stop="20230526130000 +0300" channel="RIK">
-    <title lang="el">Bloomberg Surveillance: Early Edition</title>
-    <desc lang="el">Bloomberg Surveillance: Early Edition with Francine Lacqua live from London, bringing insight on global markets and the top business stories of the day.</desc>
-  </programme>
-  <programme start="20230526130000 +0300" stop="20230526160000 +0300" channel="RIK">
-    <title lang="el">Bloomberg Surveillance</title>
-    <desc lang="el">Live from London and New York, Bloomberg Surveillance brings you insight on global markets and the top business stories of the day.</desc>
-  </programme>
-  <programme start="20230526160000 +0300" stop="20230526170000 +0300" channel="RIK">
-    <title lang="el">Bloomberg: The Open</title>
-    <desc lang="el">Jonathan Ferro hosts this programme showcasing the most insightful and informative Bloomberg charts to help position a global audience for the trading day.</desc>
-  </programme>
-  <programme start="20230526170000 +0300" stop="20230526180000 +0300" channel="RIK">
-    <title lang="el">Bloomberg Markets: Americas</title>
-    <desc lang="el">Live from New York, Bloomberg Markets: Americas is focused on bringing you the most important global business and breaking markets news and information as it happens.</desc>
-  </programme>
-  <programme start="20230526180000 +0300" stop="20230526190000 +0300" channel="RIK">
-    <title lang="el">Bloomberg Markets: European Close</title>
-    <desc lang="el">Bloomberg Markets: European Close analyses the major market moving stories across the day in Europe, hears from the biggest newsmakers and showcases the unrivalled expertise of Bloomberg News.</desc>
-  </programme>
-  <programme start="20230526190000 +0300" stop="20230526200000 +0300" channel="RIK">
-    <title lang="el">Bloomberg Technology</title>
-    <desc lang="el">The only daily news programme focused exclusively on technology, innovation and the future of business. Hosted by Emily Chang in San Francisco.</desc>
-  </programme>
-  <programme start="20230526200000 +0300" stop="20230526203000 +0300" channel="RIK">
-    <title lang="el">Bloomberg Real Yield</title>
-    <desc lang="el">Focusing on global issues and events that directly affect debt markets. Host Jonathan Ferro discusses stories from the fixed income world with the biggest names in the field.</desc>
-  </programme>
-  <programme start="20230526203000 +0300" stop="20230526210000 +0300" channel="RIK">
-    <title lang="el">Bloomberg Markets</title>
-    <desc lang="el">Bloomberg Markets is focused on bringing you the most important global business and breaking markets news and information as it happens.</desc>
-  </programme>
-  <programme start="20230520000000 +0300" stop="20230520003000 +0300" channel="BBC World">
-    <title lang="el">BBC World News America</title>
-    <desc lang="el">In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-  </programme>
-  <programme start="20230520003000 +0300" stop="20230520010000 +0300" channel="BBC World">
-    <title lang="el">HARDtalk</title>
-    <desc lang="el">In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
-  </programme>
-  <programme start="20230520010000 +0300" stop="20230520013000 +0300" channel="BBC World">
-    <title lang="el">BBC News</title>
-    <desc lang="el">The latest news from the BBC.</desc>
-  </programme>
-  <programme start="20230520013000 +0300" stop="20230520020000 +0300" channel="BBC World">
-    <title lang="el">Talking Business</title>
-    <desc lang="el">Examining the business stories and economic trends that are re-shaping our world.</desc>
-  </programme>
-  <programme start="20230520020000 +0300" stop="20230520030000 +0300" channel="BBC World">
+  <programme start="20230526020000 +0300" stop="20230526030000 +0300" channel="RIK">
     <title lang="el">Idea Generation</title>
-    <desc lang="el">Gabrielle Union. Actress, entrepreneur and activist Gabrielle Union takes us on a journey from her early days as a struggling actor in Los Angeles, to becoming a movie star, film producer and author.</desc>
+    <desc lang="el">Ideas are the global currency of the 21st century. But how do you come up with, execute, and operationalise one? The answers are what separates successful creative influences from everyone else.</desc>
   </programme>
-  <programme start="20230520030000 +0300" stop="20230520033000 +0300" channel="BBC World">
-    <title lang="el">Emma Barnett Meets... Κ1 ΕΠ20</title>
-    <desc lang="el">Jane Rosenberg. Emma Barnett is joined by courtroom sketch artist Jane Rosenberg, who has covered a number of high-profile cases, including Bill Cosby, Harvey Weinstein and Ghislaine Maxwell.</desc>
-  </programme>
-  <programme start="20230520033000 +0300" stop="20230520040000 +0300" channel="BBC World">
-    <title lang="el">Emma Barnett Meets... Κ1 ΕΠ2</title>
-    <desc lang="el">Elif Shafak. Emma Barnett meets the British-Turkish writer Elif Shafak. They discuss violence against women under Erdoğan, being investigated for writing fiction, and sexual identity in 2022.</desc>
-  </programme>
-  <programme start="20230520040000 +0300" stop="20230520043000 +0300" channel="BBC World">
-    <title lang="el">The David Rubenstein Show Κ8 ΕΠ19</title>
-    <desc lang="el">Penny Pritzker, Former US Commerce Secretary &amp; PSP Partners Chairman &amp; Founder. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
-  </programme>
-  <programme start="20230520043000 +0300" stop="20230520050000 +0300" channel="BBC World">
-    <title lang="el">A Conversation with Anwar Ibrahim</title>
-    <desc lang="el">Bloomberg talks with politician Anwar Ibrahim, president of Malaysia's People's Justice Party about his career and his hopes for his country.</desc>
-  </programme>
-  <programme start="20230520050000 +0300" stop="20230520060000 +0300" channel="BBC World">
-    <title lang="el">Bloomberg Wall Street Week</title>
-    <desc lang="el">David Westin speaks with top names in finance about the week's biggest issues on Wall Street.</desc>
-  </programme>
-  <programme start="20230520060000 +0300" stop="20230520063000 +0300" channel="BBC World">
-    <title lang="el">Athlete - Empire: Alex Rodriguez</title>
-    <desc lang="el">Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
-  </programme>
-  <programme start="20230520063000 +0300" stop="20230520070000 +0300" channel="BBC World">
-    <title lang="el">Athlete - Empire: Azzi Fudd</title>
-    <desc lang="el">Azzi Fudd is starting her sophomore year for the University of Connecticut Huskies, following in the footsteps of basketball's best while trailblazing a new path to profit.</desc>
-  </programme>
-  <programme start="20230520070000 +0300" stop="20230520073000 +0300" channel="BBC World">
-    <title lang="el">Bloomberg New Economy Gateway Europe: The World Reglobalizes</title>
-    <desc lang="el">From Ireland, the New Economy Gateway series brings together regional leaders to discuss, analyze and propose solutions to the global economy's most pressing problems.</desc>
-  </programme>
-  <programme start="20230520073000 +0300" stop="20230520080000 +0300" channel="BBC World">
-    <title lang="el">Leaders with Lacqua</title>
-    <desc lang="el">Mark Read WPP CEO. On the latest episode of Leaders with Lacqua, Mark Read joins Bloomberg's Francine Lacqua to discuss a new age of advertising and how to run a business fit for the 21st century.</desc>
-  </programme>
-  <programme start="20230520080000 +0300" stop="20230520090000 +0300" channel="BBC World">
-    <title lang="el">Odd Lots</title>
-    <desc lang="el">On Bloomberg's Odd Lots podcast, Joe Weisenthal and Tracy Alloway explore the most interesting topics in finance, markets, and economics.</desc>
-  </programme>
-  <programme start="20230520090000 +0300" stop="20230520093000 +0300" channel="BBC World">
-    <title lang="el">Business Of Sports</title>
-    <desc lang="el">Qatar's $200 Billion World Cup May Be Last of Its Kind. While Qatar has reportedly spent $200 billion, most nations are now unwilling to spend a fraction of that on mega-events like the World Cup.</desc>
-  </programme>
-  <programme start="20230520093000 +0300" stop="20230520100000 +0300" channel="BBC World">
-    <title lang="el">Business Of Sports</title>
-    <desc lang="el">Why F1's Toto Wolff Says Losing Is a Good Thing. As CEO l of the Mercedes-AMG F1 team, Toto Wolff commands a billion-dollar enterprise that had an unbelievable run of success - until now.</desc>
-  </programme>
-  <programme start="20230520100000 +0300" stop="20230520110000 +0300" channel="BBC World">
-    <title lang="el">Bloomberg Wall Street Week</title>
-    <desc lang="el">David Westin speaks with top names in finance about the week's biggest issues on Wall Street.</desc>
-  </programme>
-  <programme start="20230520110000 +0300" stop="20230520113000 +0300" channel="BBC World">
-    <title lang="el">Emma Barnett Meets... Κ1 ΕΠ20</title>
-    <desc lang="el">Jane Rosenberg. Emma Barnett is joined by courtroom sketch artist Jane Rosenberg, who has covered a number of high-profile cases, including Bill Cosby, Harvey Weinstein and Ghislaine Maxwell.</desc>
-  </programme>
-  <programme start="20230520113000 +0300" stop="20230520120000 +0300" channel="BBC World">
-    <title lang="el">Bloomberg New Economy Gateway Europe: The World Reglobalizes</title>
-    <desc lang="el">From Ireland, the New Economy Gateway series brings together regional leaders to discuss, analyze and propose solutions to the global economy's most pressing problems.</desc>
-  </programme>
-  <programme start="20230520120000 +0300" stop="20230520130000 +0300" channel="BBC World">
-    <title lang="el">Idea Generation</title>
-    <desc lang="el">Gabrielle Union. Actress, entrepreneur and activist Gabrielle Union takes us on a journey from her early days as a struggling actor in Los Angeles, to becoming a movie star, film producer and author.</desc>
-  </programme>
-  <programme start="20230520130000 +0300" stop="20230520140000 +0300" channel="BBC World">
-    <title lang="el">Bloomberg Wall Street Week</title>
-    <desc lang="el">David Westin speaks with top names in finance about the week's biggest issues on Wall Street.</desc>
-  </programme>
-  <programme start="20230520140000 +0300" stop="20230520143000 +0300" channel="BBC World">
-    <title lang="el">Emma Barnett Meets... Κ1 ΕΠ1</title>
+  <programme start="20230526030000 +0300" stop="20230526033000 +0300" channel="RIK">
+    <title lang="el">Emma Barnett Meets...</title>
     <desc lang="el">Emma Barnett meets the Chinese artist and dissident Ai Weiwei to talks about his detention in China, fighting for human rights and the art of protest.</desc>
   </programme>
-  <programme start="20230520143000 +0300" stop="20230520150000 +0300" channel="BBC World">
+  <programme start="20230526033000 +0300" stop="20230526040000 +0300" channel="RIK">
+    <title lang="el">Crypto IRL</title>
+    <desc lang="el">Tim Stenovic and Katie Greifeld make sense of the crypto world. From utility to energy to NFTs, from web3 to crime, this series is relaxed, conversational, accessible and full of insight.</desc>
+  </programme>
+  <programme start="20230526040000 +0300" stop="20230526043000 +0300" channel="RIK">
+    <title lang="el">The David Rubenstein Show</title>
+    <desc lang="el">Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+  </programme>
+  <programme start="20230526043000 +0300" stop="20230526050000 +0300" channel="RIK">
+    <title lang="el">Bloomberg Chief Future Officer</title>
+    <desc lang="el">Chief Financial Officers now play a critical role in shaping corporate strategy and positioning organisations to meet future challenges - this programme profiles them.</desc>
+  </programme>
+  <programme start="20230526050000 +0300" stop="20230526060000 +0300" channel="RIK">
+    <title lang="el">Bloomberg Wall Street Week</title>
+    <desc lang="el">David Westin speaks with top names in finance about the week's biggest issues on Wall Street.</desc>
+  </programme>
+  <programme start="20230526060000 +0300" stop="20230526063000 +0300" channel="RIK">
+    <title lang="el">Bloomberg Front Row</title>
+    <desc lang="el">Bloomberg talks with American banker and current CEO of Citigroup, Michael Corbat.</desc>
+  </programme>
+  <programme start="20230526063000 +0300" stop="20230526070000 +0300" channel="RIK">
+    <title lang="el">Bloomberg Chief Future Officer</title>
+    <desc lang="el">Chief Financial Officers now play a critical role in shaping corporate strategy and positioning organisations to meet future challenges - this programme profiles them.</desc>
+  </programme>
+  <programme start="20230526070000 +0300" stop="20230526073000 +0300" channel="RIK">
+    <title lang="el">Best of The Earthshot Prize 2022</title>
+    <desc lang="el">The Earthshot Prize 2022 is a global prize designed to incentivise change and help to repair our planet by awarding five winners each year for their contributions to environmentalism.</desc>
+  </programme>
+  <programme start="20230526073000 +0300" stop="20230526080000 +0300" channel="RIK">
+    <title lang="el">Accelerate</title>
+    <desc lang="el">An in-depth exploration of the science, ethos and implications of near-future transportation methods.</desc>
+  </programme>
+  <programme start="20230526080000 +0300" stop="20230526083000 +0300" channel="RIK">
+    <title lang="el">Bloomberg Chief Future Officer</title>
+    <desc lang="el">Chief Financial Officers now play a critical role in shaping corporate strategy and positioning organisations to meet future challenges - this programme profiles them.</desc>
+  </programme>
+  <programme start="20230526083000 +0300" stop="20230526090000 +0300" channel="RIK">
     <title lang="el">From The Ground Up</title>
     <desc lang="el">Bloomberg's Francine Lacqua speaks to chief executives and business leaders about what motivates them, the lessons they have learned and the challenges they face in their industries.</desc>
   </programme>
-  <programme start="20230520150000 +0300" stop="20230520153000 +0300" channel="BBC World">
-    <title lang="el">Bloomberg Wealth with David Rubenstein Κ3 ΕΠ2</title>
-    <desc lang="el">Blythe Masters, Motive Partners Founding Partner. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+  <programme start="20230526090000 +0300" stop="20230526093000 +0300" channel="RIK">
+    <title lang="el">Bloomberg Front Row</title>
+    <desc lang="el">Bloomberg talks with American banker and current CEO of Citigroup, Michael Corbat.</desc>
   </programme>
-  <programme start="20230520153000 +0300" stop="20230520160000 +0300" channel="BBC World">
-    <title lang="el">A Conversation with Anwar Ibrahim</title>
-    <desc lang="el">Bloomberg talks with politician Anwar Ibrahim, president of Malaysia's People's Justice Party about his career and his hopes for his country.</desc>
+  <programme start="20230526093000 +0300" stop="20230526100000 +0300" channel="RIK">
+    <title lang="el">Bloomberg Studio 1.0</title>
+    <desc lang="el">Bloomberg's Emily Chang interviews prominent business leaders.</desc>
   </programme>
-  <programme start="20230520160000 +0300" stop="20230520163000 +0300" channel="BBC World">
-    <title lang="el">The David Rubenstein Show Κ8 ΕΠ19</title>
-    <desc lang="el">Penny Pritzker, Former US Commerce Secretary &amp; PSP Partners Chairman &amp; Founder. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
-  </programme>
-  <programme start="20230520163000 +0300" stop="20230520170000 +0300" channel="BBC World">
-    <title lang="el">Bloomberg New Economy Gateway Europe: The World Reglobalizes</title>
-    <desc lang="el">From Ireland, the New Economy Gateway series brings together regional leaders to discuss, analyze and propose solutions to the global economy's most pressing problems.</desc>
-  </programme>
-  <programme start="20230520170000 +0300" stop="20230520180000 +0300" channel="BBC World">
+  <programme start="20230526100000 +0300" stop="20230526110000 +0300" channel="RIK">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week's biggest issues on Wall Street.</desc>
   </programme>
-  <programme start="20230520180000 +0300" stop="20230520183000 +0300" channel="BBC World">
-    <title lang="el">Bloomberg Wealth with David Rubenstein Κ3 ΕΠ2</title>
-    <desc lang="el">Blythe Masters, Motive Partners Founding Partner. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+  <programme start="20230526110000 +0300" stop="20230526113000 +0300" channel="RIK">
+    <title lang="el">Emma Barnett Meets...</title>
+    <desc lang="el">Emma Barnett meets the Chinese artist and dissident Ai Weiwei to talks about his detention in China, fighting for human rights and the art of protest.</desc>
   </programme>
-  <programme start="20230520183000 +0300" stop="20230520190000 +0300" channel="BBC World">
-    <title lang="el">Business Of Sports</title>
-    <desc lang="el">Qatar's $200 Billion World Cup May Be Last of Its Kind. While Qatar has reportedly spent $200 billion, most nations are now unwilling to spend a fraction of that on mega-events like the World Cup.</desc>
+  <programme start="20230526113000 +0300" stop="20230526120000 +0300" channel="RIK">
+    <title lang="el">Leaders with Lacqua Goes Green</title>
+    <desc lang="el">Episode One. Francine Lacqua sits down with the Honorable Al Gore, for the launch of her new monthly series featuring the most respected climate leaders working towards global change.</desc>
   </programme>
-  <programme start="20230520190000 +0300" stop="20230520193000 +0300" channel="BBC World">
-    <title lang="el">Emma Barnett Meets... Κ1 ΕΠ20</title>
-    <desc lang="el">Jane Rosenberg. Emma Barnett is joined by courtroom sketch artist Jane Rosenberg, who has covered a number of high-profile cases, including Bill Cosby, Harvey Weinstein and Ghislaine Maxwell.</desc>
-  </programme>
-  <programme start="20230520193000 +0300" stop="20230520200000 +0300" channel="BBC World">
+  <programme start="20230526120000 +0300" stop="20230526123000 +0300" channel="RIK">
     <title lang="el">Bloomberg Studio 1.0</title>
-    <desc lang="el">Andy Jassy, Amazon CEO. Bloomberg talks with Andy Jassy, who was selected by Jeff Bezos in 2021 to become Amazon's President and CEO.</desc>
+    <desc lang="el">Bloomberg's Emily Chang interviews prominent business leaders.</desc>
   </programme>
-  <programme start="20230520200000 +0300" stop="20230520203000 +0300" channel="BBC World">
-    <title lang="el">The David Rubenstein Show Κ8 ΕΠ19</title>
-    <desc lang="el">Penny Pritzker, Former US Commerce Secretary &amp; PSP Partners Chairman &amp; Founder. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+  <programme start="20230526123000 +0300" stop="20230526130000 +0300" channel="RIK">
+    <title lang="el">Bloomberg Front Row</title>
+    <desc lang="el">Bloomberg talks with American banker and current CEO of Citigroup, Michael Corbat.</desc>
   </programme>
-  <programme start="20230520203000 +0300" stop="20230520210000 +0300" channel="BBC World">
+  <programme start="20230526130000 +0300" stop="20230526140000 +0300" channel="RIK">
+    <title lang="el">Bloomberg Wall Street Week</title>
+    <desc lang="el">David Westin speaks with top names in finance about the week's biggest issues on Wall Street.</desc>
+  </programme>
+  <programme start="20230526140000 +0300" stop="20230526143000 +0300" channel="RIK">
+    <title lang="el">Bloomberg Chief Future Officer</title>
+    <desc lang="el">Chief Financial Officers now play a critical role in shaping corporate strategy and positioning organisations to meet future challenges - this programme profiles them.</desc>
+  </programme>
+  <programme start="20230526143000 +0300" stop="20230526150000 +0300" channel="RIK">
+    <title lang="el">Athlete - Empire: Chase Griffin</title>
+    <desc lang="el">Chase Griffin isn't the starting quarterback for UCLA. But in the first year that college athletics have allowed students to profit, he's making a bid to be the president of name, image, and likeness.</desc>
+  </programme>
+  <programme start="20230526150000 +0300" stop="20230526153000 +0300" channel="RIK">
     <title lang="el">Bloomberg Studio 1.0</title>
-    <desc lang="el">Phil Spencer, Microsoft Gaming CEO. Bloomberg talks to Phil Spencer, the CEO of Microsoft Gaming and head of the Xbox brand.</desc>
+    <desc lang="el">Bloomberg's Emily Chang interviews prominent business leaders.</desc>
   </programme>
-  <programme start="20230520210000 +0300" stop="20230520213000 +0300" channel="BBC World">
-    <title lang="el">Emma Barnett Meets... Κ1 ΕΠ17</title>
-    <desc lang="el">Frances Haugen. Emma Barnett meets data scientist and Facebook whistleblower Frances Haugen to discuss what compelled her to go public, and whether Mark Zuckerberg should leave the company.</desc>
+  <programme start="20230526153000 +0300" stop="20230526160000 +0300" channel="RIK">
+    <title lang="el">From The Ground Up</title>
+    <desc lang="el">Bloomberg's Francine Lacqua speaks to chief executives and business leaders about what motivates them, the lessons they have learned and the challenges they face in their industries.</desc>
   </programme>
-  <programme start="20230520213000 +0300" stop="20230520220000 +0300" channel="BBC World">
-    <title lang="el">Leaders with Lacqua</title>
-    <desc lang="el">Mark Read WPP CEO. On the latest episode of Leaders with Lacqua, Mark Read joins Bloomberg's Francine Lacqua to discuss a new age of advertising and how to run a business fit for the 21st century.</desc>
+  <programme start="20230526160000 +0300" stop="20230526163000 +0300" channel="RIK">
+    <title lang="el">The David Rubenstein Show</title>
+    <desc lang="el">Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
   </programme>
-  <programme start="20230520220000 +0300" stop="20230520223000 +0300" channel="BBC World">
-    <title lang="el">A Conversation with Anwar Ibrahim</title>
-    <desc lang="el">Bloomberg talks with politician Anwar Ibrahim, president of Malaysia's People's Justice Party about his career and his hopes for his country.</desc>
+  <programme start="20230526163000 +0300" stop="20230526170000 +0300" channel="RIK">
+    <title lang="el">Leaders with Lacqua Goes Green</title>
+    <desc lang="el">Episode One. Francine Lacqua sits down with the Honorable Al Gore, for the launch of her new monthly series featuring the most respected climate leaders working towards global change.</desc>
   </programme>
-  <programme start="20230520223000 +0300" stop="20230520230000 +0300" channel="BBC World">
+  <programme start="20230526170000 +0300" stop="20230526180000 +0300" channel="RIK">
+    <title lang="el">Bloomberg Wall Street Week</title>
+    <desc lang="el">David Westin speaks with top names in finance about the week's biggest issues on Wall Street.</desc>
+  </programme>
+  <programme start="20230526180000 +0300" stop="20230526183000 +0300" channel="RIK">
     <title lang="el">Bloomberg Studio 1.0</title>
-    <desc lang="el">Katie Haun, Haun Ventures CEO &amp; Founder. Katie Haun speaks about her transition from federal prosecutor to crypto convert and investor, and discusses the launch of her new firm Haun Ventures.</desc>
+    <desc lang="el">Bloomberg's Emily Chang interviews prominent business leaders.</desc>
   </programme>
-  <programme start="20230520230000 +0300" stop="20230520233000 +0300" channel="BBC World">
-    <title lang="el">Emma Barnett Meets... Κ1 ΕΠ20</title>
-    <desc lang="el">Jane Rosenberg. Emma Barnett is joined by courtroom sketch artist Jane Rosenberg, who has covered a number of high-profile cases, including Bill Cosby, Harvey Weinstein and Ghislaine Maxwell.</desc>
+  <programme start="20230526183000 +0300" stop="20230526190000 +0300" channel="RIK">
+    <title lang="el">Bloomberg Front Row</title>
+    <desc lang="el">Bloomberg talks with American banker and current CEO of Citigroup, Michael Corbat.</desc>
   </programme>
-  <programme start="20230520233000 +0300" stop="20230521000000 +0300" channel="BBC World">
-    <title lang="el">Leaders with Lacqua</title>
-    <desc lang="el">Mark Read WPP CEO. On the latest episode of Leaders with Lacqua, Mark Read joins Bloomberg's Francine Lacqua to discuss a new age of advertising and how to run a business fit for the 21st century.</desc>
+  <programme start="20230526190000 +0300" stop="20230526193000 +0300" channel="RIK">
+    <title lang="el">Emma Barnett Meets...</title>
+    <desc lang="el">Emma Barnett meets the Chinese artist and dissident Ai Weiwei to talks about his detention in China, fighting for human rights and the art of protest.</desc>
+  </programme>
+  <programme start="20230526193000 +0300" stop="20230526200000 +0300" channel="RIK">
+    <title lang="el">Athlete - Empire: Chase Griffin</title>
+    <desc lang="el">Chase Griffin isn't the starting quarterback for UCLA. But in the first year that college athletics have allowed students to profit, he's making a bid to be the president of name, image, and likeness.</desc>
+  </programme>
+  <programme start="20230526200000 +0300" stop="20230526203000 +0300" channel="RIK">
+    <title lang="el">The David Rubenstein Show</title>
+    <desc lang="el">Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+  </programme>
+  <programme start="20230526203000 +0300" stop="20230526210000 +0300" channel="RIK">
+    <title lang="el">Crypto IRL</title>
+    <desc lang="el">Tim Stenovic and Katie Greifeld make sense of the crypto world. From utility to energy to NFTs, from web3 to crime, this series is relaxed, conversational, accessible and full of insight.</desc>
+  </programme>
+  <programme start="20230526210000 +0300" stop="20230526213000 +0300" channel="RIK">
+    <title lang="el">Emma Barnett Meets...</title>
+    <desc lang="el">Emma Barnett meets the Chinese artist and dissident Ai Weiwei to talks about his detention in China, fighting for human rights and the art of protest.</desc>
+  </programme>
+  <programme start="20230526213000 +0300" stop="20230526220000 +0300" channel="RIK">
+    <title lang="el">Bloomberg Chief Future Officer</title>
+    <desc lang="el">Chief Financial Officers now play a critical role in shaping corporate strategy and positioning organisations to meet future challenges - this programme profiles them.</desc>
+  </programme>
+  <programme start="20230526220000 +0300" stop="20230526223000 +0300" channel="RIK">
+    <title lang="el">Bloomberg Studio 1.0</title>
+    <desc lang="el">Bloomberg's Emily Chang interviews prominent business leaders.</desc>
+  </programme>
+  <programme start="20230526223000 +0300" stop="20230526230000 +0300" channel="RIK">
+    <title lang="el">Bloomberg Studio 1.0</title>
+    <desc lang="el">Bloomberg's Emily Chang interviews prominent business leaders.</desc>
+  </programme>
+  <programme start="20230526230000 +0300" stop="20230526233000 +0300" channel="RIK">
+    <title lang="el">Emma Barnett Meets...</title>
+    <desc lang="el">Emma Barnett meets the Chinese artist and dissident Ai Weiwei to talks about his detention in China, fighting for human rights and the art of protest.</desc>
   </programme>
   <programme start="20230521000000 +0300" stop="20230521003000 +0300" channel="BBC World">
     <title lang="el">BBC News</title>
@@ -1496,141 +1487,70 @@
     <title lang="el">Κινηματογραφικά Νέα</title>
     <desc lang="el">Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema! Νέες κυκλοφορίες, παραγωγές που σημειώνουν επιτυχία, διάσημοι πρωταγωνιστές και σκηνοθέτες παρελαύνουν στην οθόνη σας... Μαγκαζίνο.</desc>
   </programme>
-  <channel id="ALPHA">
-    <display-name lang="el">ALPHA</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ANT1">
-    <display-name lang="el">ANT1</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="OPEN BEYOND">
-    <display-name lang="el">OPEN BEYOND</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="M.tv">
-    <display-name lang="el">M.tv</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="SKAI">
-    <display-name lang="el">SKAI</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="STAR">
-    <display-name lang="el">STAR</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ART TV">
-    <display-name lang="el">ART TV</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ETV">
-    <display-name lang="el">ETV</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ART">
-    <display-name lang="el">ART</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="EXTRA">
-    <display-name lang="el">EXTRA</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ACTION24">
-    <display-name lang="el">ACTION24</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ATTICA TV">
-    <display-name lang="el">ATTICA TV</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="BLUE SKY">
-    <display-name lang="el">BLUE SKY</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="CHANNEL 9">
-    <display-name lang="el">CHANNEL 9</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="AE CHANNEL">
-    <display-name lang="el">A.EPSILON</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="HIGH TV">
-    <display-name lang="el">HIGH TV</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="KONTRA CHANNEL">
-    <display-name lang="el">KONTRA CHANNEL</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="MAD">
-    <display-name lang="el">MAD</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="RISE TV">
-    <display-name lang="el">RISE TV</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="NICKELODEON">
-    <display-name lang="el">NICKELODEON</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="SMILE">
-    <display-name lang="el">SMILE</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ALERT">
-    <display-name lang="el">ALERT</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="VOULI">
-    <display-name lang="el">Vouli</display-name>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="ERT 1">
-    <display-name lang="el">ERT 1</display-name>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="ERT 2">
-    <display-name lang="el">ERT 2</display-name>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="ERT 3">
-    <display-name lang="el">ERT 3</display-name>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="ΕRΤ SPORTS">
-    <display-name lang="el">ΕRΤ SPORTS</display-name>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="MEGA">
-    <display-name lang="el">MEGA</display-name>
-    <icon>https://www.megatv.com/wp-content/uploads/2020/10/facebook.jpeg</icon>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="TV5 Europe">
-    <display-name lang="en">TV5 Europe</display-name>
-    <icon>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV5-europe-Logo.svg/2560px-TV5-europe-Logo.svg.png</icon>
-    <url>http://www.theguardian.com</url>
-  </channel>
-  <channel id="RIK">
-    <display-name lang="el">RIK</display-name>
-    <icon>https://hellasjournal.com/wp-content/uploads/2015/10/RIK-KYPROS01.jpg</icon>
-    <url>http://www.cyta.com.cy</url>
-  </channel>
-  <channel id="BBC World">
-    <display-name lang="el">BBC World</display-name>
-    <icon>https://seeklogo.com/images/B/bbc-world-service-logo-62AE02F8D5-seeklogo.com.png</icon>
-    <url>http://www.cyta.com.cy</url>
-  </channel>
-  <channel id="ERT NEWS">
-    <display-name lang="en">ERT NEWS</display-name>
-    <icon>https://www.newsit.gr/wp-content/uploads/2022/08/ERTNEWS_melas_1200.jpg</icon>
-  </channel>
-  <channel id="ERT1.">
-    <display-name lang="en">ERT1.</display-name>
-  </channel>
+  <programme start="20230527053000 +0300" stop="20230527070000 +0300" channel="BBC World">
+    <title lang="el">Τρελή κι ερωτευμένη... 60άρα</title>
+    <desc lang="el">Οταν γνωρίζει τον νέο της συνάδελφο, η 60χρονη Ντόρις γοητεύεται. Και παρόλο που εκείνος έχει τα μισά της χρόνια, εκείνη αποφασίζει να ρισκάρει και να διεκδικήσει όλα όσα θυσίασε στη ζωή της... Ρομαντική Κομεντί, 2015. Σκηνοθεσία: Μάικλ Σογουόλτερ. Πρωταγωνιστές: Σάλι Φιλντ, Μαξ Γκρίνφιλντ, Εντμουντ Λουπίνσκι.</desc>
+  </programme>
+  <programme start="20230527070000 +0300" stop="20230527083000 +0300" channel="BBC World">
+    <title lang="el">Στάσου Πλάι Μου</title>
+    <desc lang="el">Ένας συγγραφέας ανακαλεί ένα ταξίδι γεμάτο απρόοπτα και μοναδικές εμπειρίες, που επισφράγισε τη δυνατή φιλία 4 εφήβων και τους βοήθησε να ανακαλύψουν τον κόσμο και τον εαυτό τους. Ρομαντική Κομεντί, 1986. Σκηνοθεσία: Ρομπ Ράινερ. Πρωταγωνιστές: Ρίβερ Φίνιξ, Τζον Κιούζακ, Ρίτσαρντ Ντράιφους, Κίφερ Σάδερλαντ.</desc>
+  </programme>
+  <programme start="20230527083000 +0300" stop="20230527102000 +0300" channel="BBC World">
+    <title lang="el">Κόντρα στα Προγνωστικά</title>
+    <desc lang="el">Η συγκινητική ιστορία του Κερτ Γουόρνερ, ενός άνδρα που κατάφερε από υπάλληλος του σούπερ μάρκετ να χτίσει μία αξιοζήλευτη καριέρα στο NFL, με τη στήριξη της συζύγου του και των κοντινών του ανθρώπων. Αληθινή ιστορία, 2021. Σκηνοθεσία: Αντριου Εργουιν, Τζον Εργουιν. Πρωταγωνιστές: Ντένις Κουέιντ, Ανα Πάκουιν, Ζάκαρι Λίβαϊ.</desc>
+  </programme>
+  <programme start="20230527102000 +0300" stop="20230527115000 +0300" channel="BBC World">
+    <title lang="el">Μα πώς τα Kαταφέρνει!</title>
+    <desc lang="el">Η Κέιτ μοιράζει τη ζωή της στη δουλειά, στον σύζυγο και στα παιδιά της. Η κατάσταση όμως περιπλέκεται όταν αναλαμβάνει ένα έργο που απαιτεί ταξίδια κι ένας νέος συνεργάτης μπαίνει στη ζωή της. Κωμωδία, 2011. Σκηνοθεσία: Ντάγκλας ΜακΓκραθ. Πρωταγωνιστές: Πιρς Μπρόσναν, Σάρα Τζέσικα Πάρκερ, Γκρεγκ Κινίαρ, Ολίβια Μαν.</desc>
+  </programme>
+  <programme start="20230527115000 +0300" stop="20230527133500 +0300" channel="BBC World">
+    <title lang="el">Μεγάλα Μάτια</title>
+    <desc lang="el">Η ιστορία της Μάργκαρετ Κιν, της ζωγράφου που δημιούργησε τα διάσημα πορτρέτα με τα μεγάλα μάτια, και της διαμάχης με τον σύζυγό της, ο οποίος για χρόνια παρουσιαζόταν ως ο δημιουργός των έργων. Αληθινή ιστορία, 2014. Σκηνοθεσία: Τιμ Μπάρτον. Πρωταγωνιστές: Εϊμι Ανταμς, Κρίστοφ Βαλτς, Κρίστεν Ρίτερ, Ντάνι Χιούστον.</desc>
+  </programme>
+  <programme start="20230527133500 +0300" stop="20230527141000 +0300" channel="BBC World">
+    <title lang="el">Barry IV Κ4 ΕΠ3</title>
+    <desc lang="el">Τι συμβαίνει με 'σένα; Κωμωδία, 2023. Σκηνοθεσία: Μπιλ Χέιντερ. Πρωταγωνιστές: Μπιλ Χέιντερ, Στίβεν Ρουτ, Χένρι Γουίνκλερ, Σάρα Γκόλντμπεργκ.</desc>
+  </programme>
+  <programme start="20230527141000 +0300" stop="20230527150000 +0300" channel="BBC World">
+    <title lang="el">Panhandle Κ1 ΕΠ1</title>
+    <desc lang="el">Έναρξη σειράς. Όταν ανακαλύπτει ένα πτώμα, ο Μπελ αναγκάζεται να ξεφύγει από τα όρια που του επιβάλλει η αγοραφοβία του και να συνεργαστεί με την τροχονόμο Κάμι Λορντ για να λύσει τον μυστηριώδες φόνο. Κωμωδία, 2022. Σκηνοθεσία: Κόλιν Μπάκσεϊ. Πρωταγωνιστές: Λουκ Κέρμπι, Τιάνα Οκόγιε, Λορέντζα Ιζο, Λέσλι Αν Γουόρεν.</desc>
+  </programme>
+  <programme start="20230527150000 +0300" stop="20230527155000 +0300" channel="BBC World">
+    <title lang="el">Panhandle Κ1 ΕΠ2</title>
+    <desc lang="el">Η Κάμι συμφωνεί να βοηθήσει τον Μπελ να λύσει το μυστήριο της συζύγου του, αν εκείνος παραδώσει τους φακέλους παλιών υποθέσεων που έχει ερευνήσει. Ο Μπελ συγκλονίζεται όταν μαθαίνει ότι η γυναίκα του δεν ήταν εκείνη που νόμιζε. Κωμωδία, 2022. Σκηνοθεσία: Ντέιβιντ Σόλομον. Πρωταγωνιστές: Λουκ Κέρμπι, Τιάνα Οκόγιε, Λορέντζα Ιζο, Λέσλι Αν Γουόρεν.</desc>
+  </programme>
+  <programme start="20230527155000 +0300" stop="20230527164000 +0300" channel="BBC World">
+    <title lang="el">Panhandle Κ1 ΕΠ3</title>
+    <desc lang="el">Ο πατέρας της Βίντα, ο Αλεχάνδρο, επισκέπτεται τον Μπελ κι επιβεβαιώνει τους φόβους του, οδηγώντας τον Μπελ σε μία βαθιά κατάθλιψη. Η επίσκεψη της Κάμι στο παραλιακό σπίτι των Περέζ οδηγεί σε νέες αποκαλύψεις. Κωμωδία, 2022. Σκηνοθεσία: Ντέιβιντ Γκρόσμαν. Πρωταγωνιστές: Λουκ Κέρμπι, Τιάνα Οκόγιε, Λορέντζα Ιζο, Λέσλι Αν Γουόρεν.</desc>
+  </programme>
+  <programme start="20230527164000 +0300" stop="20230527173000 +0300" channel="BBC World">
+    <title lang="el">Panhandle Κ1 ΕΠ4</title>
+    <desc lang="el">Μία συγκλονιστική ανακάλυψη απομακρύνει την Κάμι από τον Μπελ και τη σπρώχνει προς τον Δρα Ότις, ενώ μία επίσκεψη στη μαρίνα οδηγεί την παρέα σε ένα επικίνδυνο νέο μονοπάτι. Κωμωδία, 2022. Σκηνοθεσία: Μπραντ Τέρνερ. Πρωταγωνιστές: Λουκ Κέρμπι, Τιάνα Οκόγιε, Λορέντζα Ιζο, Λέσλι Αν Γουόρεν.</desc>
+  </programme>
+  <programme start="20230527173000 +0300" stop="20230527182000 +0300" channel="BBC World">
+    <title lang="el">Panhandle Κ1 ΕΠ5</title>
+    <desc lang="el">Οι υποψίες πέφτουν στις επαγγελματικές πρακτικές των Περέζ. Την ίδια ώρα, το Μπόγκσβιλ συγκλονίζεται από ένα ακόμα τρομερό περιστατικό. Κωμωδία, 2022. Σκηνοθεσία: Εριν Φίλι. Πρωταγωνιστές: Λουκ Κέρμπι, Τιάνα Οκόγιε, Λορέντζα Ιζο, Λέσλι Αν Γουόρεν.</desc>
+  </programme>
+  <programme start="20230527182000 +0300" stop="20230527191000 +0300" channel="BBC World">
+    <title lang="el">Panhandle Κ1 ΕΠ6</title>
+    <desc lang="el">Αποφασισμένοι να ανακτήσουν στοιχεία που καταστράφηκαν σε μία φωτιά, η Κάμι κι ο Μπελ ταξιδεύουν στην Τάμπα. Ο κίνδυνος και το ρομάντζο κυριαρχούν καθώς πλησιάζουμε στην αλήθεια που κρύβουν οι Περέζ. Κωμωδία, 2022. Σκηνοθεσία: Μπάντι Ζισκ. Πρωταγωνιστές: Λουκ Κέρμπι, Τιάνα Οκόγιε, Λορέντζα Ιζο, Λέσλι Αν Γουόρεν.</desc>
+  </programme>
+  <programme start="20230527191000 +0300" stop="20230527200500 +0300" channel="BBC World">
+    <title lang="el">Panhandle Κ1 ΕΠ7</title>
+    <desc lang="el">Ο Μπελ φτάνει τελικά στην αλήθεια που αφορά το παρελθόν της Κάμι. Ένα ανατρεπτικό δείπνο στο σπίτι των Πρέσκοτ οδηγεί σε μία σειρά αποκαλύψεων που δίνουν απαντήσεις σε πολλά ερωτήματα, εκτός από ένα. Κωμωδία, 2022. Σκηνοθεσία: Ντέιβιντ Σόλομον. Πρωταγωνιστές: Λουκ Κέρμπι, Τιάνα Οκόγιε, Λορέντζα Ιζο, Λέσλι Αν Γουόρεν.</desc>
+  </programme>
+  <programme start="20230527200500 +0300" stop="20230527210000 +0300" channel="BBC World">
+    <title lang="el">Panhandle Κ1 ΕΠ8</title>
+    <desc lang="el">Φινάλε κύκλου. Με την πόλη σε νέο μονοπάτι, η Κάμι ανοίγει την υπόθεση δολοφονίας της Βίντα, ελπίζοντας να βγάλει τον Μπελ από την κατάθλιψη. Το μυστήριο ξετυλίγεται, όμως ο κίνδυνος γιγαντώνεται. Κωμωδία, 2022. Σκηνοθεσία: Μπράντον Σόνιερ. Πρωταγωνιστές: Λουκ Κέρμπι, Τιάνα Οκόγιε, Λορέντζα Ιζο, Λέσλι Αν Γουόρεν.</desc>
+  </programme>
+  <programme start="20230527210000 +0300" stop="20230527220000 +0300" channel="BBC World">
+    <title lang="el">A Spy Among Friends Κ1 ΕΠ1</title>
+    <desc lang="el">Έναρξη σειράς. Μετά την απόδραση του Κιμ Φίλμπι στη Μόσχα, ο καλός του φίλος από τις Βρετανικές Μυστικές Υπηρεσίες, ο Νίκολας Έλιοτ, βρίσκεται υπό έρευνα. Βιογραφία, 2022. Σκηνοθεσία: Νικ Μέρφι. Πρωταγωνιστές: Γκάι Πιρς, Ντέμιαν Λούις, Καρέλ Ρόντεν.</desc>
+  </programme>
+  <programme start="20230527220000 +0300" stop="20230527230500 +0300" channel="BBC World">
+    <title lang="el">A Spy Among Friends Κ1 ΕΠ2</title>
+    <desc lang="el">Η Λίλι Τόμας καταλαβαίνει ότι στη διάρκεια μίας συμβατικής ανακριτικής διαδικασίας ο Έλιοτ δεν πρόκειται να αποκαλύψει κάτι πολύτιμο σχετικά με το τι συνέβη στη Βηρυτό, κι έτσι αποφασίζει να δράσει διαφορετικά. Βιογραφία, 2022. Σκηνοθεσία: Νικ Μέρφι. Πρωταγωνιστές: Γκάι Πιρς, Ντέμιαν Λούις, Καρέλ Ρόντεν.</desc>
+  </programme>
   <programme start="20230520000000 +0100" stop="20230520235900 +0100" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
