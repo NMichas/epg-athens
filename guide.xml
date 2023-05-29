@@ -991,9 +991,9 @@
     <title lang="el">Κοίτα τι με Ανάγκασες να Κάνω Κ1 ΕΠ1</title>
     <desc lang="el">Η Τζες Χιλ φέρνει στο προσκήνιο το φάντασμα της ενδοοικογενειακής κακοποίησης. Αναρωτιέται τι πρέπει να γίνει για να εξασφαλιστεί η προφύλαξη των θυμάτων αλλά και για να λογοδοτήσουν οι δράστες.</desc>
   </programme>
-  <programme start="20230531232500 +0300" stop="20230601001000 +0300" channel="BBC World">
-    <title lang="el">Κολοσσιαίες Μηχανές Κ1 ΕΠ3</title>
-    <desc lang="el">Ρίχνουμε μια συναρπαστική ματιά στα υπερσύγχρονα σχέδια μερικών από τα πιο τεράστια αεροσκάφη του κόσμου, όπως το C5 Galaxy, το ιπτάμενο τάνκερ Airbus, το CH53 Stallion King και το Airlander 10. (2021).</desc>
+  <programme start="20230531225000 +0300" stop="20230531234000 +0300" channel="BBC World">
+    <title lang="el">Άπιστοι Κ12 ΕΠ13</title>
+    <desc lang="el">Πλάνα από κρυφές κάμερες ιδιωτικών ερευνητών της εκπομπής επιβεβαιώνουν τον χειρότερο εφιάλτη ενός ακόμα υποψιασμένου συζύγου. (2010).(c)</desc>
   </programme>
   <programme start="20230601001000 +0300" stop="20230601010000 +0300" channel="BBC World">
     <title lang="el">Κολοσσιαίες Μηχανές Κ1 ΕΠ4</title>
@@ -1119,9 +1119,9 @@
     <title lang="el">Διακίνηση με τη Μαριάνα Βαν Ζέλερ Κ3 ΕΠ7</title>
     <desc lang="el">Η Μαριάνα ξεκινά ένα ταξίδι από την Αφρική μέχρι τη Μέση Ανατολή για να αποκαλύψει πώς το πετρέλαιο της μαύρης αγοράς τροφοδοτεί τρομοκρατικές οργανώσεις σε όλο τον κόσμο. (2021).</desc>
   </programme>
-  <programme start="20230601224500 +0300" stop="20230602003500 +0300" channel="BBC World">
-    <title lang="el">Eddie The Eagle</title>
-    <desc lang="el">ΕΝΤΙ Ο ΑΕΤΟΣ. Ο Έντι είναι ένας αρχάριος αλλά θαρραλέος σκιέρ από την Αγγλία. Με τη βοήθεια ενός χαρισματικού προπονητή, ο Έντι, το απόλυτο αουτσάιντερ, καταφέρνει να κερδίσει τις καρδιές των φιλάθλων παγκοσμίως με την ιστορική εμφάνισή του στους χειμερινούς Ολυμπιακούς του 1988. Βιογραφία παραγωγής 2015 σε σκηνοθεσία Ντέξτερ Φλέτσερ με τους: Τάρον Έγκερτον, Χιου Τζάκμαν, Κρίστοφερ Γουόκεν, Τζο Χάρτλι.</desc>
+  <programme start="20230601223000 +0300" stop="20230601232000 +0300" channel="BBC World">
+    <title lang="el">Ο Πόλεμος των Ναρκωτικών: Μαφία Κ2 ΕΠ6</title>
+    <desc lang="el">Ο Χένρι Χιλ ήταν ένας χαμηλόβαθμος συνεργάτης της Μαφίας. Αλλά, η σύλληψή του το 1980 για εμπόριο ναρκωτικών έφερε και την πτώση της πιο πλούσιας ομάδας της Μαφίας. (2021).(c)</desc>
   </programme>
   <programme start="20230602003500 +0300" stop="20230602021500 +0300" channel="BBC World">
     <title lang="el">Simmer</title>
@@ -1495,6 +1495,10 @@
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
   </programme>
+  <programme start="20230605000000 +0100" stop="20230605235900 +0100" channel="ERT NEWS">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
   <programme start="20230529000000 +0100" stop="20230529235900 +0100" channel="ERT1.">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
@@ -1522,5 +1526,9 @@
   <programme start="20230604000000 +0100" stop="20230604235900 +0100" channel="ERT1.">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
+  </programme>
+  <programme start="20230605000000 +0100" stop="20230605235900 +0100" channel="ERT1.">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
   </programme>
 </tv>
