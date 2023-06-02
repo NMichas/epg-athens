@@ -135,51 +135,59 @@
   <channel id="ERT1.">
     <display-name lang="en">ERT1.</display-name>
   </channel>
-  <programme start="20230602023000 +0300" stop="20230602040000 +0300" channel="RIK">
+  <programme start="20230602023000 +0300" stop="20230602041100 +0300" channel="RIK">
     <title lang="el">ΠΟΔΗΛΑΣΙΑ: Παγκόσμιο Τουρ - Γύρος Ιταλίας 21ο Ετάπ</title>
     <desc lang="el">Stage 21 Men.</desc>
   </programme>
-  <programme start="20230602040000 +0300" stop="20230602053000 +0300" channel="RIK">
+  <programme start="20230602041100 +0300" stop="20230602052900 +0300" channel="RIK">
     <title lang="el">ΤΕΝΙΣ: ΤΟΥΡΝΟΥΑ ΓΚΡΑΝ ΣΛΑΜ ΡΟΛΑΝ ΓΚΑΡΟΣ - 2ος ΓΥΡΟΣ Μονό</title>
     <desc lang="el">Γύρος 2ος.</desc>
   </programme>
-  <programme start="20230602053000 +0300" stop="20230602063000 +0300" channel="RIK">
-    <title lang="el">ΠΟΔΗΛΑΣΙΑ: Παγκόσμιο Τουρ - Γύρος Ιταλίας</title>
-    <desc lang="el">ΠΟΔΗΛΑΣΙΑ: Παγκόσμιο Τουρ - Γύρος Ιταλίας.</desc>
+  <programme start="20230602052900 +0300" stop="20230602061800 +0300" channel="RIK">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ: Παγκόσμιο Τουρ - Γύρος Ιταλίας ΑΝΑΣΚΟΠΗΣΗ</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ: Παγκόσμιο Τουρ - Γύρος Ιταλίας ΑΝΑΣΚΟΠΗΣΗ.</desc>
   </programme>
-  <programme start="20230602063000 +0300" stop="20230602073000 +0300" channel="RIK">
+  <programme start="20230602061800 +0300" stop="20230602062800 +0300" channel="RIK">
+    <title lang="el">ΟΛΑ ΤΑ ΣΠΟΡ Ξεκλειδώνοντας τη δύναμη του αθλητισμού</title>
+    <desc lang="el">ΟΛΑ ΤΑ ΣΠΟΡ Ξεκλειδώνοντας τη δύναμη του αθλητισμού.</desc>
+  </programme>
+  <programme start="20230602062800 +0300" stop="20230602072300 +0300" channel="RIK">
     <title lang="el">Αναρρίχηση: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Τζακάρτα - Τελικός (Άνδρες και γυναίκες)</title>
     <desc lang="el">Αναρρίχηση: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Τζακάρτα - Τελικός (Άνδρες και γυναίκες).</desc>
   </programme>
-  <programme start="20230602073000 +0300" stop="20230602093000 +0300" channel="RIK">
+  <programme start="20230602072300 +0300" stop="20230602092500 +0300" channel="RIK">
     <title lang="el">ΤΕΝΙΣ: ΤΟΥΡΝΟΥΑ ΓΚΡΑΝ ΣΛΑΜ ΡΟΛΑΝ ΓΚΑΡΟΣ - 2ος ΓΥΡΟΣ Μονό</title>
     <desc lang="el">Γύρος 2ος.</desc>
   </programme>
-  <programme start="20230602093000 +0300" stop="20230602110000 +0300" channel="RIK">
+  <programme start="20230602092500 +0300" stop="20230602104100 +0300" channel="RIK">
     <title lang="el">Αναρρίχηση: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Σολτ Λέικ Σίτι - Τελικός (ΑΝΔΡΕΣ)</title>
     <desc lang="el">Αναρρίχηση: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Σολτ Λέικ Σίτι - Τελικός (ΑΝΔΡΕΣ).</desc>
   </programme>
-  <programme start="20230602110000 +0300" stop="20230602120000 +0300" channel="RIK">
-    <title lang="el">ΠΟΔΗΛΑΣΙΑ: Παγκόσμιο Τουρ - Γύρος Ιταλίας</title>
-    <desc lang="el">ΠΟΔΗΛΑΣΙΑ: Παγκόσμιο Τουρ - Γύρος Ιταλίας.</desc>
+  <programme start="20230602104100 +0300" stop="20230602105500 +0300" channel="RIK">
+    <title lang="el">ΟΛΑ ΤΑ ΣΠΟΡ Ξεκλειδώνοντας τη δύναμη του αθλητισμού</title>
+    <desc lang="el">ΟΛΑ ΤΑ ΣΠΟΡ Ξεκλειδώνοντας τη δύναμη του αθλητισμού.</desc>
   </programme>
-  <programme start="20230602120000 +0300" stop="20230602140000 +0300" channel="RIK">
+  <programme start="20230602105500 +0300" stop="20230602115400 +0300" channel="RIK">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ: Παγκόσμιο Τουρ - Γύρος Ιταλίας ΑΝΑΣΚΟΠΗΣΗ</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ: Παγκόσμιο Τουρ - Γύρος Ιταλίας ΑΝΑΣΚΟΠΗΣΗ.</desc>
+  </programme>
+  <programme start="20230602115400 +0300" stop="20230602135800 +0300" channel="RIK">
     <title lang="el">ΤΕΝΙΣ: ΤΟΥΡΝΟΥΑ ΓΚΡΑΝ ΣΛΑΜ ΡΟΛΑΝ ΓΚΑΡΟΣ - 3ος ΓΥΡΟΣ Μονό</title>
     <desc lang="el">Γύρος 3ος.</desc>
   </programme>
-  <programme start="20230602140000 +0300" stop="20230602170000 +0300" channel="RIK">
+  <programme start="20230602135800 +0300" stop="20230602165800 +0300" channel="RIK">
     <title lang="el">ΤΕΝΙΣ: ΤΟΥΡΝΟΥΑ ΓΚΡΑΝ ΣΛΑΜ ΡΟΛΑΝ ΓΚΑΡΟΣ - 3ος ΓΥΡΟΣ Μονό</title>
     <desc lang="el">Γύρος 3ος.</desc>
   </programme>
-  <programme start="20230602170000 +0300" stop="20230602190000 +0300" channel="RIK">
+  <programme start="20230602165800 +0300" stop="20230602185800 +0300" channel="RIK">
     <title lang="el">ΤΕΝΙΣ: ΤΟΥΡΝΟΥΑ ΓΚΡΑΝ ΣΛΑΜ ΡΟΛΑΝ ΓΚΑΡΟΣ - 3ος ΓΥΡΟΣ Μονό</title>
     <desc lang="el">Γύρος 3ος.</desc>
   </programme>
-  <programme start="20230602190000 +0300" stop="20230602220000 +0300" channel="RIK">
+  <programme start="20230602185800 +0300" stop="20230602215900 +0300" channel="RIK">
     <title lang="el">ΤΕΝΙΣ: ΤΟΥΡΝΟΥΑ ΓΚΡΑΝ ΣΛΑΜ ΡΟΛΑΝ ΓΚΑΡΟΣ - 3ος ΓΥΡΟΣ Μονό</title>
     <desc lang="el">Γύρος 3ος.</desc>
   </programme>
-  <programme start="20230602220000 +0300" stop="20230603000000 +0300" channel="RIK">
+  <programme start="20230602215900 +0300" stop="20230603000000 +0300" channel="RIK">
     <title lang="el">ΓΚΟΛΦ: PGA TOUR - Τουρνουά Μεμόριαλ 2Η ΗΜΕΡΑ</title>
     <desc lang="el">ΓΚΟΛΦ: PGA TOUR - Τουρνουά Μεμόριαλ 2Η ΗΜΕΡΑ.</desc>
   </programme>
@@ -1247,9 +1255,29 @@
     <title lang="el">News</title>
     <desc lang="el">The leading news stories of the moment.</desc>
   </programme>
-  <programme start="20230608230000 +0300" stop="20230609010000 +0300" channel="RIK">
-    <title lang="el">MAD Greekz</title>
-    <desc lang="el">Μουσικό τηλεοπτικό κανάλι, το οποίο μεταδίδεται 24 ώρες το 24ωρο. Προβάλλει ελληνικές επιτυχίες και βίντεο κλιπ από όλους τους κορυφαίους καλλιτέχνες στην Ελλάδα. Περιλαμβάνει διάφορα διαδραστικά χαρακτηριστικά και διαγωνισμούς για τους τηλεθεατές.(c)</desc>
+  <programme start="20230608230000 +0300" stop="20230608231200 +0300" channel="RIK">
+    <title lang="el">The European Debrief</title>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20230608231200 +0300" stop="20230608231500 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20230608231500 +0300" stop="20230608233000 +0300" channel="RIK">
+    <title lang="el">The European Debrief</title>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20230608233000 +0300" stop="20230608234200 +0300" channel="RIK">
+    <title lang="el">The European Debrief</title>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20230608234200 +0300" stop="20230608235300 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20230608235300 +0300" stop="20230608235800 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
   <programme start="20230609010000 +0300" stop="20230609030000 +0300" channel="RIK">
     <title lang="el">MAD Greekz</title>
@@ -1433,19 +1461,15 @@
   </programme>
   <programme start="20230602220000 +0300" stop="20230602223000 +0300" channel="BBC World">
     <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).(r)</desc>
+    <desc lang="el">Up-to-date news and analysis from around the world. (2019).(c)</desc>
   </programme>
   <programme start="20230602223000 +0300" stop="20230602230000 +0300" channel="BBC World">
     <title lang="el">The Stream ΕΠ93</title>
-    <desc lang="el">The Stream is where Al Jazeera's audience becomes a global community. (2023).(r)</desc>
+    <desc lang="el">The Stream is where Al Jazeera's audience becomes a global community. (2023).(c)</desc>
   </programme>
   <programme start="20230602230000 +0300" stop="20230602233000 +0300" channel="BBC World">
     <title lang="el">The Bottom Line ΕΠ22</title>
-    <desc lang="el">Al Jazeera English gets to the bottom line on US politics and policies and how they affect the world. (2023).(r)</desc>
-  </programme>
-  <programme start="20230602220000 +0300" stop="20230603010000 +0300" channel="BBC World">
-    <title lang="el">Die Frau ohne Schatten by Strauss at Baden-Baden</title>
-    <desc lang="el">Die Frau ohne Schatten (The Woman Without a Shadow): opera in three acts by Richard Strauss (1864 – 1949). Libretto by Hugo von Hofmannsthal. First performance in Vienna, Staatsoper, October 10, 1919. Berliner Philharmoniker, Kirill Petrenko (musical direction), Lydia Steier (Stage director), Paul Zoller (Sets), Katharina Schlipf (Costumes), Elana Siberski (Lighting), Momme Hinrichs (Video). (2023).(r)</desc>
+    <desc lang="el">Al Jazeera English gets to the bottom line on US politics and policies and how they affect the world. (2023).(c)</desc>
   </programme>
   <programme start="20230603010000 +0300" stop="20230603022400 +0300" channel="BBC World">
     <title lang="el">Pierre Boulez conducts Wagner, Berg and Schoenberg</title>
@@ -1771,19 +1795,19 @@
     <title lang="el">Τα Εμιράτα από Ψηλά ΕΠ1</title>
     <desc lang="el">Μια θεαματική εναέρια εξερεύνηση των Εμιράτων, η οποία αποκαλύπτει την πλούσια κληρονομιά της χώρας και τις καινοτόμες σύγχρονες ιστορίες που διαμορφώνουν το μέλλον της, όλα από μια ολοκαίνουρια οπτική. (2020).</desc>
   </programme>
-  <programme start="20230606005500 +0300" stop="20230606014000 +0300" channel="BBC World">
+  <programme start="20230606005500 +0300" stop="20230606014500 +0300" channel="BBC World">
     <title lang="el">Η Ευρώπη από Ψηλά Κ4 ΕΠ6</title>
     <desc lang="el">Το εναέριο ταξίδι πάνω από τη Ρουμανία αποκαλύπτει τον μεγαλύτερο Ορθόδοξο καθεδρικό ναό του κόσμου, μια στενή ατμομηχανή και Χριστούγεννα στο 'Κάστρο του Κόμη Δράκουλα'. (2021).</desc>
   </programme>
-  <programme start="20230606014000 +0300" stop="20230606023000 +0300" channel="BBC World">
+  <programme start="20230606014500 +0300" stop="20230606023000 +0300" channel="BBC World">
     <title lang="el">Wicked Tuna Κ12 ΕΠ5</title>
     <desc lang="el">Το Wicked Pissah ακολουθεί τα Fat Tuna, Hot Tuna και Time Flies στο Τσάταμ, ελπίζοντας στη δύναμη των πολλών. Στο μεταξύ, ο Τάιλερ συνεχίζει να ψαρεύει μόνος του. (2022).</desc>
   </programme>
-  <programme start="20230606023000 +0300" stop="20230606031500 +0300" channel="BBC World">
+  <programme start="20230606023000 +0300" stop="20230606032000 +0300" channel="BBC World">
     <title lang="el">Πρωτόγονη Επιβίωση: Απόδραση από τον Αμαζόνιο Κ1 ΕΠ5</title>
     <desc lang="el">Στο τελευταίο πια κομμάτι της πρόκλησης, ο Hazen διασχίζει χιλιόμετρα βάλτων γεμάτων φίδια για να φτάσει στον Ατλαντικό ωκεανό. Με τη βοήθεια της φυλής Warau, μαθαίνει πώς να ζει πάνω στο νερό και να αντιμετωπίζει φονικές μέλισσες. (2021).</desc>
   </programme>
-  <programme start="20230606031500 +0300" stop="20230606040500 +0300" channel="BBC World">
+  <programme start="20230606032000 +0300" stop="20230606040500 +0300" channel="BBC World">
     <title lang="el">Gordon Ramsay: Εκτός Χάρτη Κ1 ΕΠ6</title>
     <desc lang="el">Ο Gordon Ramsay ταξιδεύει στην Αλάσκα μέσα στο καταχείμωνο για να μάθει τρόπους επιβίωσης από τους ντόπιους και να ανακαλύψει την κουζίνα της περιοχής. (2019).</desc>
   </programme>
@@ -2120,12 +2144,12 @@
     <desc lang="el">Η Ρέιβεν ακούει μια φήμη στο κομμωτήριο για τον Βίκτορ. (2021).</desc>
   </programme>
   <programme start="20230609140000 +0300" stop="20230609142500 +0300" channel="BBC World">
-    <title lang="el">Σούπερ Βάιολετ &amp;Μαύρος Σκορπιός Κ1 ΕΠ9</title>
-    <desc lang="el">Η Βάιολετ γνωρίζει την Κασκάντα, μια νέα σούπερ μαχήτρια. (2021).</desc>
+    <title lang="el">Οι Κακοί του Βάλεϊ Βιού Κ1 ΕΠ3</title>
+    <desc lang="el">Η Έιμι και ο Τζέικ δημιουργούν μια εμπειρία "κακοποιού" για τον Κόλμπι. (2022).</desc>
   </programme>
   <programme start="20230609142500 +0300" stop="20230609145000 +0300" channel="BBC World">
-    <title lang="el">Σούπερ Βάιολετ &amp;Μαύρος Σκορπιός Κ1 ΕΠ10</title>
-    <desc lang="el">Η Βάιολετ μαθαίνει να παραβιάζει τους κανόνες απ’ την Κασκάντα. (2021).</desc>
+    <title lang="el">Οι Κακοί του Βάλεϊ Βιού Κ1 ΕΠ4</title>
+    <desc lang="el">Η Έιμι θέλει να εκδικηθεί τον άσπονδο εχθρό της. (2022).</desc>
   </programme>
   <programme start="20230609145000 +0300" stop="20230609151500 +0300" channel="BBC World">
     <title lang="el">Miraculous: Oι Φανταστικές Ιστορίες της Λέιντι Μπαγκ και του Κατ Νουάρ Κ5 ΕΠ113</title>
