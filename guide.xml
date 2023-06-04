@@ -1,57 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V4.2.4.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <programme start="20230604020000 +0300" stop="20230604030000 +0300" channel="RIK">
-    <title lang="el">ΣΟΥΠΕΡΜΠΑΪΚ: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μιζάνο 1ος ΑΓΩΝΑΣ</title>
-    <desc lang="el">All the latest news from the French Open: review of the matches, analysis and portraits.</desc>
-  </programme>
-  <programme start="20230604030000 +0300" stop="20230604040000 +0300" channel="RIK">
-    <title lang="el">ΠΟΔΗΛΑΣΙΑ: Παγκόσμιο Τουρ - Γύρος Ιταλίας</title>
-    <desc lang="el">ΠΟΔΗΛΑΣΙΑ: Παγκόσμιο Τουρ - Γύρος Ιταλίας.</desc>
-  </programme>
-  <programme start="20230604040000 +0300" stop="20230604053000 +0300" channel="RIK">
-    <title lang="el">ΤΕΝΙΣ: ΤΟΥΡΝΟΥΑ ΓΚΡΑΝ ΣΛΑΜ ΡΟΛΑΝ ΓΚΑΡΟΣ - 3ος ΓΥΡΟΣ Μονό</title>
-    <desc lang="el">Γύρος 3ος.</desc>
-  </programme>
-  <programme start="20230604053000 +0300" stop="20230604070000 +0300" channel="RIK">
-    <title lang="el">Αναρρίχηση: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Σολτ Λέικ Σίτι - Τελικός (ΑΝΔΡΕΣ)</title>
-    <desc lang="el">Αναρρίχηση: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Σολτ Λέικ Σίτι - Τελικός (ΑΝΔΡΕΣ).</desc>
-  </programme>
-  <programme start="20230604070000 +0300" stop="20230604073000 +0300" channel="RIK">
-    <title lang="el">Αναρρίχηση: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Σολτ Λέικ Σίτι - Τελικός (ΑΝΔΡΕΣ)</title>
-    <desc lang="el">Αναρρίχηση: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Σολτ Λέικ Σίτι - Τελικός (ΑΝΔΡΕΣ).</desc>
-  </programme>
-  <programme start="20230604073000 +0300" stop="20230604090000 +0300" channel="RIK">
-    <title lang="el">ΤΕΝΙΣ: ΤΟΥΡΝΟΥΑ ΓΚΡΑΝ ΣΛΑΜ ΡΟΛΑΝ ΓΚΑΡΟΣ - 3ος ΓΥΡΟΣ Μονό</title>
-    <desc lang="el">Γύρος 3ος.</desc>
-  </programme>
-  <programme start="20230604090000 +0300" stop="20230604105000 +0300" channel="RIK">
-    <title lang="el">Αναρρίχηση: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Πράγα - Τελικός (ΑΝΔΡΕΣ)</title>
-    <desc lang="el">Αναρρίχηση: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Πράγα - Τελικός (ΑΝΔΡΕΣ).</desc>
-  </programme>
-  <programme start="20230604105000 +0300" stop="20230604120000 +0300" channel="RIK">
-    <title lang="el">ΦΟΡΜΟΥΛΑ Ε: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Τζακάρτα 2ος ΑΓΩΝΑΣ</title>
-    <desc lang="el">ΦΟΡΜΟΥΛΑ Ε: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Τζακάρτα 2ος ΑΓΩΝΑΣ.</desc>
-  </programme>
-  <programme start="20230604120000 +0300" stop="20230604150000 +0300" channel="RIK">
-    <title lang="el">ΤΕΝΙΣ: ΤΟΥΡΝΟΥΑ ΓΚΡΑΝ ΣΛΑΜ ΡΟΛΑΝ ΓΚΑΡΟΣ - Round 4 Μονό</title>
-    <desc lang="el">Γύρος 4ος.</desc>
-  </programme>
-  <programme start="20230604150000 +0300" stop="20230604170000 +0300" channel="RIK">
-    <title lang="el">ΤΕΝΙΣ: ΤΟΥΡΝΟΥΑ ΓΚΡΑΝ ΣΛΑΜ ΡΟΛΑΝ ΓΚΑΡΟΣ - Round 4 Μονό</title>
-    <desc lang="el">Γύρος 4ος.</desc>
-  </programme>
-  <programme start="20230604170000 +0300" stop="20230604190000 +0300" channel="RIK">
-    <title lang="el">ΤΕΝΙΣ: ΤΟΥΡΝΟΥΑ ΓΚΡΑΝ ΣΛΑΜ ΡΟΛΑΝ ΓΚΑΡΟΣ - Round 4 Μονό</title>
-    <desc lang="el">Γύρος 4ος.</desc>
-  </programme>
-  <programme start="20230604190000 +0300" stop="20230604220000 +0300" channel="RIK">
-    <title lang="el">ΤΕΝΙΣ: ΤΟΥΡΝΟΥΑ ΓΚΡΑΝ ΣΛΑΜ ΡΟΛΑΝ ΓΚΑΡΟΣ - Round 4 Μονό</title>
-    <desc lang="el">Γύρος 4ος.</desc>
-  </programme>
-  <programme start="20230604220000 +0300" stop="20230605000000 +0300" channel="RIK">
-    <title lang="el">ΓΚΟΛΦ: PGA TOUR - Τουρνουά Μεμόριαλ 4Η ΗΜΕΡΑ</title>
-    <desc lang="el">ΓΚΟΛΦ: PGA TOUR - Τουρνουά Μεμόριαλ 4Η ΗΜΕΡΑ.</desc>
-  </programme>
+  <channel id="ALPHA">
+    <display-name lang="el">ALPHA</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ANT1">
+    <display-name lang="el">ANT1</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="OPEN BEYOND">
+    <display-name lang="el">OPEN BEYOND</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="M.tv">
+    <display-name lang="el">M.tv</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="SKAI">
+    <display-name lang="el">SKAI</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="STAR">
+    <display-name lang="el">STAR</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ART TV">
+    <display-name lang="el">ART TV</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ETV">
+    <display-name lang="el">ETV</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ART">
+    <display-name lang="el">ART</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="EXTRA">
+    <display-name lang="el">EXTRA</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ACTION24">
+    <display-name lang="el">ACTION24</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ATTICA TV">
+    <display-name lang="el">ATTICA TV</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="BLUE SKY">
+    <display-name lang="el">BLUE SKY</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="CHANNEL 9">
+    <display-name lang="el">CHANNEL 9</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="AE CHANNEL">
+    <display-name lang="el">A.EPSILON</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="HIGH TV">
+    <display-name lang="el">HIGH TV</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="KONTRA CHANNEL">
+    <display-name lang="el">KONTRA CHANNEL</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="MAD">
+    <display-name lang="el">MAD</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="RISE TV">
+    <display-name lang="el">RISE TV</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="NICKELODEON">
+    <display-name lang="el">NICKELODEON</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="SMILE">
+    <display-name lang="el">SMILE</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ALERT">
+    <display-name lang="el">ALERT</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="VOULI">
+    <display-name lang="el">Vouli</display-name>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="ERT 1">
+    <display-name lang="el">ERT 1</display-name>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="ERT 2">
+    <display-name lang="el">ERT 2</display-name>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="ERT 3">
+    <display-name lang="el">ERT 3</display-name>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="ΕRΤ SPORTS">
+    <display-name lang="el">ΕRΤ SPORTS</display-name>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="MEGA">
+    <display-name lang="el">MEGA</display-name>
+    <icon>https://www.megatv.com/wp-content/uploads/2020/10/facebook.jpeg</icon>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="TV5 Europe">
+    <display-name lang="en">TV5 Europe</display-name>
+    <icon>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV5-europe-Logo.svg/2560px-TV5-europe-Logo.svg.png</icon>
+    <url>http://www.theguardian.com</url>
+  </channel>
+  <channel id="RIK">
+    <display-name lang="el">RIK</display-name>
+    <icon>https://hellasjournal.com/wp-content/uploads/2015/10/RIK-KYPROS01.jpg</icon>
+    <url>http://www.cyta.com.cy</url>
+  </channel>
+  <channel id="BBC World">
+    <display-name lang="el">BBC World</display-name>
+    <icon>https://seeklogo.com/images/B/bbc-world-service-logo-62AE02F8D5-seeklogo.com.png</icon>
+    <url>http://www.cyta.com.cy</url>
+  </channel>
+  <channel id="ERT NEWS">
+    <display-name lang="en">ERT NEWS</display-name>
+    <icon>https://www.newsit.gr/wp-content/uploads/2022/08/ERTNEWS_melas_1200.jpg</icon>
+  </channel>
+  <channel id="ERT1.">
+    <display-name lang="en">ERT1.</display-name>
+  </channel>
   <programme start="20230605000000 +0300" stop="20230605060000 +0300" channel="RIK">
     <title lang="el">Novasports6</title>
     <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού! Τένις, γκολφ, μηχανοκίνητος αθλητισμός, πολεμικές τέχνες, extreme sports και βόλεϊ χαρίζουν μοναδικές στιγμές δράσεις στους φίλους των σπορ.</desc>
@@ -1156,33 +1239,9 @@
     <title lang="el">News</title>
     <desc lang="el">The leading news stories of the moment.</desc>
   </programme>
-  <programme start="20230609230000 +0300" stop="20230609230500 +0300" channel="RIK">
-    <title lang="el">5 Minutes</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20230609230500 +0300" stop="20230609232800 +0300" channel="RIK">
-    <title lang="el">Brussels, my Love?</title>
-    <desc lang="el">From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans. Tune in to understand the ins and outs of European politics.</desc>
-  </programme>
-  <programme start="20230609232800 +0300" stop="20230609233000 +0300" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20230609233000 +0300" stop="20230609233500 +0300" channel="RIK">
-    <title lang="el">5 Minutes</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20230609233500 +0300" stop="20230609234400 +0300" channel="RIK">
-    <title lang="el">Brussels, my Love?</title>
-    <desc lang="el">From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans. Tune in to understand the ins and outs of European politics.</desc>
-  </programme>
-  <programme start="20230609234400 +0300" stop="20230609235000 +0300" channel="RIK">
-    <title lang="el">Brussels, my Love?</title>
-    <desc lang="el">From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans. Tune in to understand the ins and outs of European politics.</desc>
-  </programme>
-  <programme start="20230609235000 +0300" stop="20230609235800 +0300" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+  <programme start="20230609230000 +0300" stop="20230610010000 +0300" channel="RIK">
+    <title lang="el">MAD Greekz</title>
+    <desc lang="el">Μουσικό τηλεοπτικό κανάλι, το οποίο μεταδίδεται 24 ώρες το 24ωρο. Προβάλλει ελληνικές επιτυχίες και βίντεο κλιπ από όλους τους κορυφαίους καλλιτέχνες στην Ελλάδα. Περιλαμβάνει διάφορα διαδραστικά χαρακτηριστικά και διαγωνισμούς για τους τηλεθεατές.</desc>
   </programme>
   <programme start="20230610010000 +0300" stop="20230610030000 +0300" channel="RIK">
     <title lang="el">MAD Greekz</title>
@@ -1227,289 +1286,6 @@
   <programme start="20230610210000 +0300" stop="20230610230000 +0300" channel="RIK">
     <title lang="el">MAD Greekz</title>
     <desc lang="el">Μουσικό τηλεοπτικό κανάλι, το οποίο μεταδίδεται 24 ώρες το 24ωρο. Προβάλλει ελληνικές επιτυχίες και βίντεο κλιπ από όλους τους κορυφαίους καλλιτέχνες στην Ελλάδα. Περιλαμβάνει διάφορα διαδραστικά χαρακτηριστικά και διαγωνισμούς για τους τηλεθεατές.</desc>
-  </programme>
-  <channel id="ALPHA">
-    <display-name lang="el">ALPHA</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ANT1">
-    <display-name lang="el">ANT1</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="OPEN BEYOND">
-    <display-name lang="el">OPEN BEYOND</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="M.tv">
-    <display-name lang="el">M.tv</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="SKAI">
-    <display-name lang="el">SKAI</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="STAR">
-    <display-name lang="el">STAR</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ART TV">
-    <display-name lang="el">ART TV</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ETV">
-    <display-name lang="el">ETV</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ART">
-    <display-name lang="el">ART</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="EXTRA">
-    <display-name lang="el">EXTRA</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ACTION24">
-    <display-name lang="el">ACTION24</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ATTICA TV">
-    <display-name lang="el">ATTICA TV</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="BLUE SKY">
-    <display-name lang="el">BLUE SKY</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="CHANNEL 9">
-    <display-name lang="el">CHANNEL 9</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="AE CHANNEL">
-    <display-name lang="el">A.EPSILON</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="HIGH TV">
-    <display-name lang="el">HIGH TV</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="KONTRA CHANNEL">
-    <display-name lang="el">KONTRA CHANNEL</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="MAD">
-    <display-name lang="el">MAD</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="RISE TV">
-    <display-name lang="el">RISE TV</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="NICKELODEON">
-    <display-name lang="el">NICKELODEON</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="SMILE">
-    <display-name lang="el">SMILE</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ALERT">
-    <display-name lang="el">ALERT</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="VOULI">
-    <display-name lang="el">Vouli</display-name>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="ERT 1">
-    <display-name lang="el">ERT 1</display-name>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="ERT 2">
-    <display-name lang="el">ERT 2</display-name>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="ERT 3">
-    <display-name lang="el">ERT 3</display-name>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="ΕRΤ SPORTS">
-    <display-name lang="el">ΕRΤ SPORTS</display-name>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="MEGA">
-    <display-name lang="el">MEGA</display-name>
-    <icon>https://www.megatv.com/wp-content/uploads/2020/10/facebook.jpeg</icon>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="TV5 Europe">
-    <display-name lang="en">TV5 Europe</display-name>
-    <icon>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV5-europe-Logo.svg/2560px-TV5-europe-Logo.svg.png</icon>
-    <url>http://www.theguardian.com</url>
-  </channel>
-  <channel id="RIK">
-    <display-name lang="el">RIK</display-name>
-    <icon>https://hellasjournal.com/wp-content/uploads/2015/10/RIK-KYPROS01.jpg</icon>
-    <url>http://www.cyta.com.cy</url>
-  </channel>
-  <channel id="BBC World">
-    <display-name lang="el">BBC World</display-name>
-    <icon>https://seeklogo.com/images/B/bbc-world-service-logo-62AE02F8D5-seeklogo.com.png</icon>
-    <url>http://www.cyta.com.cy</url>
-  </channel>
-  <channel id="ERT NEWS">
-    <display-name lang="en">ERT NEWS</display-name>
-    <icon>https://www.newsit.gr/wp-content/uploads/2022/08/ERTNEWS_melas_1200.jpg</icon>
-  </channel>
-  <channel id="ERT1.">
-    <display-name lang="en">ERT1.</display-name>
-  </channel>
-  <programme start="20230604013000 +0300" stop="20230604020000 +0300" channel="BBC World">
-    <title lang="el">War Hotels</title>
-    <desc lang="el">Part war zone, part hotel, Sarajevo's Holiday Inn was the ground zero of the 1990s siege, home to reporters and aid workers in a time of horror and camaraderie. (2021).</desc>
-  </programme>
-  <programme start="20230604020000 +0300" stop="20230604023000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230604023000 +0300" stop="20230604030000 +0300" channel="BBC World">
-    <title lang="el">Witness</title>
-    <desc lang="el">Detainees share their harrowing account of life inside a U.S. immigration detention facility during the COVID-19 pandemic. (2022).</desc>
-  </programme>
-  <programme start="20230604030000 +0300" stop="20230604033000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230604033000 +0300" stop="20230604040000 +0300" channel="BBC World">
-    <title lang="el">Inside Story Κ1</title>
-    <desc lang="el">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond. (2023).</desc>
-  </programme>
-  <programme start="20230604040000 +0300" stop="20230604043000 +0300" channel="BBC World">
-    <title lang="el">The Bottom Line ΕΠ22</title>
-    <desc lang="el">Al Jazeera English gets to the bottom line on US politics and policies and how they affect the world. (2023).</desc>
-  </programme>
-  <programme start="20230604043000 +0300" stop="20230604050000 +0300" channel="BBC World">
-    <title lang="el">Earthrise Κ3</title>
-    <desc lang="el">Al Jazeera's award-winning series, earthrise, travels the world exploring some of the innovations and ideas that are helping to tackle the environmental crisis. (2023).</desc>
-  </programme>
-  <programme start="20230604050000 +0300" stop="20230604053000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230604053000 +0300" stop="20230604060000 +0300" channel="BBC World">
-    <title lang="el">The Listening Post ΕΠ22</title>
-    <desc lang="el">What is being reported by world media and how? Richard Gizbert guides you through the global news maze. (2023).</desc>
-  </programme>
-  <programme start="20230604060000 +0300" stop="20230604063000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230604063000 +0300" stop="20230604070000 +0300" channel="BBC World">
-    <title lang="el">Counting the Cost ΕΠ22</title>
-    <desc lang="el">The show features the economical stories that shape our world and has an effect on the lives of the common human beings. (2023).</desc>
-  </programme>
-  <programme start="20230604070000 +0300" stop="20230604073000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230604073000 +0300" stop="20230604080000 +0300" channel="BBC World">
-    <title lang="el">The Stream ΕΠ93</title>
-    <desc lang="el">The Stream is where Al Jazeera's audience becomes a global community. (2023).</desc>
-  </programme>
-  <programme start="20230604080000 +0300" stop="20230604083000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230604083000 +0300" stop="20230604090000 +0300" channel="BBC World">
-    <title lang="el">Fault Lines</title>
-    <desc lang="el">Fault Lines travels to Tennessee to investigate why this state has one of the longest sentences in the country for juveniles convicted of murder. (2022).</desc>
-  </programme>
-  <programme start="20230604090000 +0300" stop="20230604100000 +0300" channel="BBC World">
-    <title lang="el">The War In June</title>
-    <desc lang="el">The June 1967 Arab-Israeli war lasted only six days but left a lasting mark on the middle east, with consequences still felt today in the on-going conflict. (2017).</desc>
-  </programme>
-  <programme start="20230604100000 +0300" stop="20230604103000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230604103000 +0300" stop="20230604110000 +0300" channel="BBC World">
-    <title lang="el">Inside Story Κ1</title>
-    <desc lang="el">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond. (2023).</desc>
-  </programme>
-  <programme start="20230604110000 +0300" stop="20230604113000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230604113000 +0300" stop="20230604120000 +0300" channel="BBC World">
-    <title lang="el">Talk to Al Jazeera Κ2</title>
-    <desc lang="el">Mexico's deputy finance minister discusses the country's economic disparity. (2023).</desc>
-  </programme>
-  <programme start="20230604120000 +0300" stop="20230604123000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230604123000 +0300" stop="20230604130000 +0300" channel="BBC World">
-    <title lang="el">War Hotels</title>
-    <desc lang="el">Part war zone, part hotel, Sarajevo's Holiday Inn was the ground zero of the 1990s siege, home to reporters and aid workers in a time of horror and camaraderie. (2021).</desc>
-  </programme>
-  <programme start="20230604130000 +0300" stop="20230604140000 +0300" channel="BBC World">
-    <title lang="el">Newshour</title>
-    <desc lang="el">Up-to-date news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20230604140000 +0300" stop="20230604143000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230604143000 +0300" stop="20230604150000 +0300" channel="BBC World">
-    <title lang="el">Inside Story Κ1</title>
-    <desc lang="el">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond. (2023).</desc>
-  </programme>
-  <programme start="20230604150000 +0300" stop="20230604160000 +0300" channel="BBC World">
-    <title lang="el">Al Jazeera World Κ13</title>
-    <desc lang="el">Three Moroccan amateur footballers, united in their passion for the sport, dream of turning professional against the odds. (2023).</desc>
-  </programme>
-  <programme start="20230604160000 +0300" stop="20230604170000 +0300" channel="BBC World">
-    <title lang="el">Newshour</title>
-    <desc lang="el">Up-to-date news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20230604170000 +0300" stop="20230604173000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230604173000 +0300" stop="20230604180000 +0300" channel="BBC World">
-    <title lang="el">The Listening Post ΕΠ22</title>
-    <desc lang="el">What is being reported by world media and how? Richard Gizbert guides you through the global news maze. (2023).</desc>
-  </programme>
-  <programme start="20230604180000 +0300" stop="20230604190000 +0300" channel="BBC World">
-    <title lang="el">Newshour</title>
-    <desc lang="el">Up-to-date news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20230604190000 +0300" stop="20230604193000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230604193000 +0300" stop="20230604200000 +0300" channel="BBC World">
-    <title lang="el">101 East</title>
-    <desc lang="el">101 East reports on the people and events shaping the Asia Pacific region.. (2023).</desc>
-  </programme>
-  <programme start="20230604200000 +0300" stop="20230604203000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230604203000 +0300" stop="20230604210000 +0300" channel="BBC World">
-    <title lang="el">Inside Story Κ1</title>
-    <desc lang="el">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond. (2023).</desc>
-  </programme>
-  <programme start="20230604210000 +0300" stop="20230604220000 +0300" channel="BBC World">
-    <title lang="el">Newshour</title>
-    <desc lang="el">Up-to-date news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20230604220000 +0300" stop="20230604223000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).(c)</desc>
-  </programme>
-  <programme start="20230604223000 +0300" stop="20230604230000 +0300" channel="BBC World">
-    <title lang="el">Talk to Al Jazeera Κ2</title>
-    <desc lang="el">Mexico's deputy finance minister discusses the country's economic disparity. (2023).(c)</desc>
   </programme>
   <programme start="20230605001000 +0300" stop="20230605010000 +0300" channel="BBC World">
     <title lang="el">InterMezzo</title>
@@ -1889,7 +1665,7 @@
   </programme>
   <programme start="20230607225000 +0300" stop="20230607234000 +0300" channel="BBC World">
     <title lang="el">Άπιστοι Κ12 ΕΠ17</title>
-    <desc lang="el">Πλάνα από κρυφές κάμερες ιδιωτικών ερευνητών της εκπομπής επιβεβαιώνουν τον χειρότερο εφιάλτη ενός ακόμα υποψιασμένου συζύγου. (2010).(c)</desc>
+    <desc lang="el">Πλάνα από κρυφές κάμερες ιδιωτικών ερευνητών της εκπομπής επιβεβαιώνουν τον χειρότερο εφιάλτη ενός ακόμα υποψιασμένου συζύγου. (2010).</desc>
   </programme>
   <programme start="20230608001000 +0300" stop="20230608005500 +0300" channel="BBC World">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ1 ΕΠ2</title>
@@ -2019,9 +1795,9 @@
     <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. Κ11 ΕΠ8</title>
     <desc lang="el">Τιμ και Φαζ ταξιδεύουν στο Σάουθεντ για να αναλάβουν έναν εκσκαφέα JCB του 1978. Το όχημα ανήκει στον πρώην ξυλουργό Κεβ, ο οποίος υπέστη πρόσφατα δύο καρδιακές προσβολές και τώρα δεν μπορεί να φροντίσει το καμάρι του. (2021).</desc>
   </programme>
-  <programme start="20230608223500 +0300" stop="20230608232500 +0300" channel="BBC World">
-    <title lang="el">Supercar Megabuild Κ1 ΕΠ3</title>
-    <desc lang="el">Η ομάδα αντιμετωπίζει ένα δύσκολο εγχείρημα το οποίο τους έχει αναθέσει ο σταρ της ποπ Σέιν Λιντς: τη μετατροπή της δικής του Rolls Royce Silver του 1979 σε αγωνιστικό αυτοκίνητο. (2015).(c)</desc>
+  <programme start="20230608224500 +0300" stop="20230609004500 +0300" channel="BBC World">
+    <title lang="el">Runaway Train</title>
+    <desc lang="el">ΤΟ ΤΡΕΝΟ ΤΗΣ ΜΕΓΑΛΗΣ ΦΥΓΗΣ. Δύο κατάδικοι δραπετεύουν από μια απομακρυσμένη φυλακή στην Αλάσκα. Επιβιβάζονται σε ένα άδειο τρένο αλλά οδεύουν προς τον θάνατο όταν ο οδηγός παθαίνει ανακοπή καρδιάς. Ένας τρίτος επιβάτης, μια γυναίκα, είναι το ίδιο αποφασισμένη με εκείνους να επιβιώσει. Δράση παραγωγής 1985 σε σκηνοθεσία Αντρέι Κοντσαλόφσκι με τους: Τζον Βόιτ, Έρικ Ρόμπερτς, Ρεμπέκα ΝτεΜορνέ, Κάιλ Τ. Χέφνερ.</desc>
   </programme>
   <programme start="20230609004500 +0300" stop="20230609021500 +0300" channel="BBC World">
     <title lang="el">The True Adventures Of Wolfboy</title>
@@ -2067,9 +1843,9 @@
     <title lang="el">Son Of The South</title>
     <desc lang="el">Αλαμπάμα, 1961. Κατά τη διάρκεια των εξεγέρσεων για τα ανθρώπινα δικαιώματα, ο Μπομπ Ζέλνερ, ένας νεαρός λευκός, αψηφά την οικογένεια του και πολεμά για ένα καλύτερο κόσμο χωρίς κοινωνική αδικία, καταπίεση και βία. Βιογραφία παραγωγής 2020 σε σκηνοθεσία Μπάρι Αλεξάντερ Μπράουν με τους: Λούκας Τιλ, Λεξ Σκοτ Ντέιβις, Λούσι Χέιλ, Τζούλια Όρμοντ.</desc>
   </programme>
-  <programme start="20230609210000 +0300" stop="20230609231500 +0300" channel="BBC World">
-    <title lang="el">Gorky Park</title>
-    <desc lang="el">ΕΓΚΛΗΜΑ ΣΤΟ ΓΚΟΡΚΙ ΠΑΡΚ. Ένας ντετέκτιβ της αστυνομίας στη Μόσχα διερευνά μια άγρια τριπλή δολοφονία. Ενώ είναι αποφασισμένος να διαλευκάνει την υπόθεση, ανακαλύπτει ότι πίσω κρύβεται μια διεθνής συνωμοσία που αγγίζει τα ανώτερα πολιτικά στρώματα. Αστυνομική ταινία παραγωγής 1983 σε σκηνοθεσία Μάικλ Άπτεντ με τους: Γουίλιαμ Χερτ, Λι Μάρβιν, Μπράιαν Ντένεχι, Τζοάνα Πάκουλα.(c)</desc>
+  <programme start="20230609230000 +0300" stop="20230610005500 +0300" channel="BBC World">
+    <title lang="el">Η Πρόσκληση</title>
+    <desc lang="el">Μετά τον θάνατο της μητέρας της, μία κοπέλα ανακαλύπτει έναν μακρινό συγγενή, ο οποίος, μάλιστα, την καλεί σε έναν γάμο. Αρχικά γοητεύεται, όμως σύντομα βιώνει τον απόλυτο εφιάλτη. Τρόμου, 2022. Σκηνοθεσία: Τζέσικα Τόμσον. Πρωταγωνιστές: Νάταλι Εμάνουελ, Σον Πέρτουι, Τόμας Ντόχερτι.</desc>
   </programme>
   <programme start="20230610005500 +0300" stop="20230610013000 +0300" channel="BBC World">
     <title lang="el">Κινηματογραφικά Νέα</title>
