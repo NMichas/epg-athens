@@ -219,9 +219,13 @@
     <title lang="el">Τένις: WTA 1000 2023</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Dubai Duty Free Tennis Championships της σειράς WTA 1000, που διεξάγεται το διάστημα 19-25 Φεβρουαρίου στο Ντουμπάι. Τένις.</desc>
   </programme>
-  <programme start="20230612224500 +0300" stop="20230613004500 +0300" channel="RIK">
-    <title lang="el">Novasports Start</title>
-    <desc lang="el">Μοναδικό αθλητικό θέαμα με ποδόσφαιρο και μπάσκετ από την Ελλάδα και την Ευρώπη! Ζωντανοί αγώνες από όλα τα κορυφαία ευρωπαϊκά πρωταθλήματα ποδοσφαίρου αλλά και αγώνες μπάσκετ από τη Euroleague και το Eurocup!</desc>
+  <programme start="20230612203000 +0300" stop="20230612230000 +0300" channel="RIK">
+    <title lang="el">Τένις: WTA 1000 2023</title>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών BNP Paribas Open της σειράς WTA 1000, που διεξάγεται το διάστημα 06-19 Μαρτίου στις Ηνωμένες Πολιτείες. Τένις.(c)</desc>
+  </programme>
+  <programme start="20230612230000 +0300" stop="20230612233000 +0300" channel="RIK">
+    <title lang="el">SailGP</title>
+    <desc lang="el">Το πρωτάθλημα ιστιοπλοϊας SailGP επισκέπτεται διάσημες παραλιακές πόλεις όπου φέρνει αντιμέτωπους αθλητές που συμμετέχουν με τις εθνικές τους ομάδες. Δείτε τα στιγμιότυπα από το τελευταίο event της σεζόν στο Σαν Φρανσίσκο. Ιστιοπλοϊα.(c)</desc>
   </programme>
   <programme start="20230613004500 +0300" stop="20230613050000 +0300" channel="RIK">
     <title lang="el">Cage 55</title>
@@ -1263,33 +1267,9 @@
     <title lang="el">News</title>
     <desc lang="el">The leading news stories of the moment.</desc>
   </programme>
-  <programme start="20230616230000 +0300" stop="20230616230500 +0300" channel="RIK">
-    <title lang="el">5 Minutes</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20230616230500 +0300" stop="20230616232800 +0300" channel="RIK">
-    <title lang="el">Brussels, my Love?</title>
-    <desc lang="el">From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans. Tune in to understand the ins and outs of European politics.</desc>
-  </programme>
-  <programme start="20230616232800 +0300" stop="20230616233000 +0300" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20230616233000 +0300" stop="20230616233500 +0300" channel="RIK">
-    <title lang="el">5 Minutes</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20230616233500 +0300" stop="20230616234400 +0300" channel="RIK">
-    <title lang="el">Brussels, my Love?</title>
-    <desc lang="el">From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans. Tune in to understand the ins and outs of European politics.</desc>
-  </programme>
-  <programme start="20230616234400 +0300" stop="20230616235000 +0300" channel="RIK">
-    <title lang="el">Brussels, my Love?</title>
-    <desc lang="el">From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans. Tune in to understand the ins and outs of European politics.</desc>
-  </programme>
-  <programme start="20230616235000 +0300" stop="20230616235800 +0300" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+  <programme start="20230616230000 +0300" stop="20230617010000 +0300" channel="RIK">
+    <title lang="el">MAD Greekz</title>
+    <desc lang="el">Μουσικό τηλεοπτικό κανάλι, το οποίο μεταδίδεται 24 ώρες το 24ωρο. Προβάλλει ελληνικές επιτυχίες και βίντεο κλιπ από όλους τους κορυφαίους καλλιτέχνες στην Ελλάδα. Περιλαμβάνει διάφορα διαδραστικά χαρακτηριστικά και διαγωνισμούς για τους τηλεθεατές.(c)</desc>
   </programme>
   <programme start="20230617010000 +0300" stop="20230617030000 +0300" channel="RIK">
     <title lang="el">MAD Greekz</title>
@@ -1871,9 +1851,9 @@
     <title lang="el">Δίωξη Οικονομικού Εγκλήματος Κ5 ΕΠ8</title>
     <desc lang="el">Δίωξη Οικονομικού Εγκλήματος.</desc>
   </programme>
-  <programme start="20230614225000 +0300" stop="20230614234000 +0300" channel="BBC World">
-    <title lang="el">Άπιστοι Κ12 ΕΠ22</title>
-    <desc lang="el">Πλάνα από κρυφές κάμερες ιδιωτικών ερευνητών της εκπομπής επιβεβαιώνουν τον χειρότερο εφιάλτη ενός ακόμα υποψιασμένου συζύγου. (2010).</desc>
+  <programme start="20230614232000 +0300" stop="20230615000500 +0300" channel="BBC World">
+    <title lang="el">Wicked Tuna Κ12 ΕΠ7</title>
+    <desc lang="el">Το Hard Merchandise αναγκάζεται να αντιμετωπίσει τα προβλήματα υγείας του καπετάνιου του και ταυτόχρονα να πάρει μέρος σε μια από τις μεγαλύτερες αλιευτικές μάχες της σεζόν. (2022).(c)</desc>
   </programme>
   <programme start="20230615000500 +0300" stop="20230615005500 +0300" channel="BBC World">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ1 ΕΠ3</title>
@@ -2003,9 +1983,9 @@
     <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. Κ11 ΕΠ9</title>
     <desc lang="el">Τιμ και Φαζ αναλαμβάνουν την πρόκληση να αποκαταστήσουν ένα ταλαιπωρημένο Mk.1 Toyota MR2, αλλά σύντομα ανακαλύπτουν ότι αυτό το μικρό σπορ αυτοκίνητο κρύβει πολλές εκπλήξεις. (2021).</desc>
   </programme>
-  <programme start="20230615224000 +0300" stop="20230615232500 +0300" channel="BBC World">
-    <title lang="el">Supercar Megabuild Κ1 ΕΠ2</title>
-    <desc lang="el">Ο σχεδιαστής Afzal Kahn σχεδιάζει να μετατρέψει ένα Range Rover Evoque στο απόλυτο όχημα ανώμαλου δρόμου, ένα αυτοκίνητο εμπνευσμένο από το Paris-Dakar Rally 4x4s. (2015).</desc>
+  <programme start="20230615224500 +0300" stop="20230616003000 +0300" channel="BBC World">
+    <title lang="el">Fargo</title>
+    <desc lang="el">Ένας πωλητής αυτοκινήτων προσλαμβάνει δύο κακοποιούς για να απάγουν τη γυναίκα του και να πάρει αυτός τα λύτρα από τον πλούσιο πεθερό του. Όμως, όλα πάνε λάθος και καταλήγουν σε δολοφονίες αθώων. Τη διαλεύκανση της υπόθεσης αναλαμβάνει μια πεισματάρα αστυνομικός. Αστυνομική ταινία παραγωγής 1996 σε σκηνοθεσία Τζόελ Κόεν με τους: Φράνσις ΜακΝτόρμαντ, Γουίλιαμ Χ. Μέισι, Στιβ Μπουσέμι, Πίτερ Στόρμερ.(c)</desc>
   </programme>
   <programme start="20230616003000 +0300" stop="20230616021500 +0300" channel="BBC World">
     <title lang="el">The Escape</title>
