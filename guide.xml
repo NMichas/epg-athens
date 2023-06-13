@@ -1,1212 +1,1239 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V4.2.4.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <programme start="20230613010000 +0300" stop="20230613014500 +0300" channel="RIK">
-    <title lang="el">ΜΟΤΟΚΡΟΣ: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Γερμανία MX2 2ος ΑΓΩΝΑΣ</title>
-    <desc lang="el">ΜΟΤΟΚΡΟΣ: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Γερμανία MX2 2ος ΑΓΩΝΑΣ.</desc>
-  </programme>
-  <programme start="20230613014500 +0300" stop="20230613023000 +0300" channel="RIK">
-    <title lang="el">ΜΟΤΟΚΡΟΣ: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Γερμανία MXGP 2ος ΑΓΩΝΑΣ</title>
-    <desc lang="el">ΜΟΤΟΚΡΟΣ: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Γερμανία MXGP 2ος ΑΓΩΝΑΣ.</desc>
-  </programme>
-  <programme start="20230613023000 +0300" stop="20230613040000 +0300" channel="RIK">
-    <title lang="el">Αγώνας Αντοχής Αυτοκινήτων : ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - 24 Ώρες Λε Μαν ΑΓΩΝΑΣ</title>
-    <desc lang="el">Αγώνας Αντοχής Αυτοκινήτων : ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - 24 Ώρες Λε Μαν ΑΓΩΝΑΣ.</desc>
-  </programme>
-  <programme start="20230613040000 +0300" stop="20230613044500 +0300" channel="RIK">
-    <title lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΓΥΝΑΙΚΕΣ.</desc>
-  </programme>
-  <programme start="20230613044500 +0300" stop="20230613053000 +0300" channel="RIK">
+  <channel id="ALPHA">
+    <display-name lang="el">ALPHA</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ANT1">
+    <display-name lang="el">ANT1</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="OPEN BEYOND">
+    <display-name lang="el">OPEN BEYOND</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="M.tv">
+    <display-name lang="el">M.tv</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="SKAI">
+    <display-name lang="el">SKAI</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="STAR">
+    <display-name lang="el">STAR</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ART TV">
+    <display-name lang="el">ART TV</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ETV">
+    <display-name lang="el">ETV</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ART">
+    <display-name lang="el">ART</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="EXTRA">
+    <display-name lang="el">EXTRA</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ACTION24">
+    <display-name lang="el">ACTION24</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ATTICA TV">
+    <display-name lang="el">ATTICA TV</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="BLUE SKY">
+    <display-name lang="el">BLUE SKY</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="CHANNEL 9">
+    <display-name lang="el">CHANNEL 9</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="AE CHANNEL">
+    <display-name lang="el">A.EPSILON</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="HIGH TV">
+    <display-name lang="el">HIGH TV</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="KONTRA CHANNEL">
+    <display-name lang="el">KONTRA CHANNEL</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="MAD">
+    <display-name lang="el">MAD</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="RISE TV">
+    <display-name lang="el">RISE TV</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="NICKELODEON">
+    <display-name lang="el">NICKELODEON</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="SMILE">
+    <display-name lang="el">SMILE</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="ALERT">
+    <display-name lang="el">ALERT</display-name>
+    <url>http://www.digea.gr</url>
+  </channel>
+  <channel id="VOULI">
+    <display-name lang="el">Vouli</display-name>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="ERT 1">
+    <display-name lang="el">ERT 1</display-name>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="ERT 2">
+    <display-name lang="el">ERT 2</display-name>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="ERT 3">
+    <display-name lang="el">ERT 3</display-name>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="ΕRΤ SPORTS">
+    <display-name lang="el">ΕRΤ SPORTS</display-name>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="MEGA">
+    <display-name lang="el">MEGA</display-name>
+    <icon>https://www.megatv.com/wp-content/uploads/2020/10/facebook.jpeg</icon>
+    <url>http://www.cosmote.gr</url>
+  </channel>
+  <channel id="TV5 Europe">
+    <display-name lang="en">TV5 Europe</display-name>
+    <icon>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV5-europe-Logo.svg/2560px-TV5-europe-Logo.svg.png</icon>
+    <url>http://www.theguardian.com</url>
+  </channel>
+  <channel id="RIK">
+    <display-name lang="el">RIK</display-name>
+    <icon>https://hellasjournal.com/wp-content/uploads/2015/10/RIK-KYPROS01.jpg</icon>
+    <url>http://www.cyta.com.cy</url>
+  </channel>
+  <channel id="BBC World">
+    <display-name lang="el">BBC World</display-name>
+    <icon>https://seeklogo.com/images/B/bbc-world-service-logo-62AE02F8D5-seeklogo.com.png</icon>
+    <url>http://www.cyta.com.cy</url>
+  </channel>
+  <channel id="ERT NEWS">
+    <display-name lang="en">ERT NEWS</display-name>
+    <icon>https://www.newsit.gr/wp-content/uploads/2022/08/ERTNEWS_melas_1200.jpg</icon>
+  </channel>
+  <channel id="ERT1.">
+    <display-name lang="en">ERT1.</display-name>
+  </channel>
+  <programme start="20230614014500 +0300" stop="20230614023000 +0300" channel="RIK">
     <title lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΑΝΔΡΕΣ</title>
-    <desc lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΑΝΔΡΕΣ.</desc>
+    <desc lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΑΝΔΡΕΣ.(c)</desc>
   </programme>
-  <programme start="20230613053000 +0300" stop="20230613073000 +0300" channel="RIK">
-    <title lang="el">ΤΕΝΙΣ: ΤΟΥΡΝΟΥΑ ΓΚΡΑΝ ΣΛΑΜ ΡΟΛΑΝ ΓΚΑΡΟΣ - ΗΜΙΤΕΛΙΚΟΣ Μονό ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">Ημιτελικός Γυναικών.</desc>
-  </programme>
-  <programme start="20230613073000 +0300" stop="20230613083000 +0300" channel="RIK">
-    <title lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΓΥΝΑΙΚΕΣ.</desc>
-  </programme>
-  <programme start="20230613083000 +0300" stop="20230613093000 +0300" channel="RIK">
-    <title lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΑΝΔΡΕΣ</title>
-    <desc lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΑΝΔΡΕΣ.</desc>
-  </programme>
-  <programme start="20230613093000 +0300" stop="20230613113000 +0300" channel="RIK">
-    <title lang="el">Αγώνας Αντοχής Αυτοκινήτων : ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - 24 Ώρες Λε Μαν ΑΓΩΝΑΣ</title>
-    <desc lang="el">Αγώνας Αντοχής Αυτοκινήτων : ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - 24 Ώρες Λε Μαν ΑΓΩΝΑΣ.</desc>
-  </programme>
-  <programme start="20230613113000 +0300" stop="20230613123000 +0300" channel="RIK">
-    <title lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΓΥΝΑΙΚΕΣ.</desc>
-  </programme>
-  <programme start="20230613123000 +0300" stop="20230613133000 +0300" channel="RIK">
-    <title lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΑΝΔΡΕΣ</title>
-    <desc lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΑΝΔΡΕΣ.</desc>
-  </programme>
-  <programme start="20230613133000 +0300" stop="20230613140000 +0300" channel="RIK">
-    <title lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ ΜΟΝΑΚΟ -</title>
-    <desc lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ ΜΟΝΑΚΟ -.</desc>
-  </programme>
-  <programme start="20230613140000 +0300" stop="20230613150000 +0300" channel="RIK">
-    <title lang="el">ΤΕΝΙΣ ΓΚΡΑΝ ΣΛΑΜ BEST OF ROLAND GARROS</title>
-    <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.</desc>
-  </programme>
-  <programme start="20230613150000 +0300" stop="20230613160000 +0300" channel="RIK">
+  <programme start="20230614023000 +0300" stop="20230614040000 +0300" channel="RIK">
     <title lang="el">Αναρρίχηση: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Μπρίξεν - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
-    <desc lang="el">Αναρρίχηση: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Μπρίξεν - Τελικός (ΓΥΝΑΙΚΕΣ).</desc>
+    <desc lang="el">Αναρρίχηση: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Μπρίξεν - Τελικός (ΓΥΝΑΙΚΕΣ).(c)</desc>
   </programme>
-  <programme start="20230613160000 +0300" stop="20230613173000 +0300" channel="RIK">
-    <title lang="el">Αναρρίχηση: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Μπρίξεν - Τελικός (ΑΝΔΡΕΣ)</title>
-    <desc lang="el">Αναρρίχηση: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Μπρίξεν - Τελικός (ΑΝΔΡΕΣ).</desc>
+  <programme start="20230614040000 +0300" stop="20230614044500 +0300" channel="RIK">
+    <title lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΓΥΝΑΙΚΕΣ</title>
+    <desc lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΓΥΝΑΙΚΕΣ.(c)</desc>
   </programme>
-  <programme start="20230613173000 +0300" stop="20230613190000 +0300" channel="RIK">
-    <title lang="el">ΤΕΝΙΣ: ΤΟΥΡΝΟΥΑ ΓΚΡΑΝ ΣΛΑΜ ΡΟΛΑΝ ΓΚΑΡΟΣ - Τελικός Μονό ΑΝΔΡΕΣ</title>
-    <desc lang="el">Τελικός Ανδρών.</desc>
+  <programme start="20230614044500 +0300" stop="20230614053000 +0300" channel="RIK">
+    <title lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΑΝΔΡΕΣ</title>
+    <desc lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΑΝΔΡΕΣ.(c)</desc>
   </programme>
-  <programme start="20230613190000 +0300" stop="20230613210000 +0300" channel="RIK">
-    <title lang="el">Αγώνας Αντοχής Αυτοκινήτων : ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - 24 Ώρες Λε Μαν ΑΓΩΝΑΣ</title>
-    <desc lang="el">Αγώνας Αντοχής Αυτοκινήτων : ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - 24 Ώρες Λε Μαν ΑΓΩΝΑΣ.</desc>
-  </programme>
-  <programme start="20230613210000 +0300" stop="20230613230000 +0300" channel="RIK">
+  <programme start="20230614053000 +0300" stop="20230614073000 +0300" channel="RIK">
     <title lang="el">ΤΕΝΙΣ: ΤΟΥΡΝΟΥΑ ΓΚΡΑΝ ΣΛΑΜ ΡΟΛΑΝ ΓΚΑΡΟΣ - Τελικός Μονό ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">Τελικός Γυναικών.</desc>
+    <desc lang="el">Τελικός Γυναικών.(c)</desc>
   </programme>
-  <programme start="20230613230000 +0300" stop="20230614000000 +0300" channel="RIK">
-    <title lang="el">Αγώνας Αντοχής Αυτοκινήτων : ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - 24 Ώρες Λε Μαν ΑΓΩΝΑΣ</title>
-    <desc lang="el">Αγώνας Αντοχής Αυτοκινήτων : ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - 24 Ώρες Λε Μαν ΑΓΩΝΑΣ.</desc>
+  <programme start="20230614073000 +0300" stop="20230614083000 +0300" channel="RIK">
+    <title lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΓΥΝΑΙΚΕΣ</title>
+    <desc lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΓΥΝΑΙΚΕΣ.(c)</desc>
   </programme>
-  <programme start="20230614000000 +0300" stop="20230614060000 +0300" channel="RIK">
+  <programme start="20230614083000 +0300" stop="20230614093000 +0300" channel="RIK">
+    <title lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΑΝΔΡΕΣ</title>
+    <desc lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΑΝΔΡΕΣ.(c)</desc>
+  </programme>
+  <programme start="20230614093000 +0300" stop="20230614113000 +0300" channel="RIK">
+    <title lang="el">ΤΕΝΙΣ: ΤΟΥΡΝΟΥΑ ΓΚΡΑΝ ΣΛΑΜ ΡΟΛΑΝ ΓΚΑΡΟΣ - Τελικός Μονό ΓΥΝΑΙΚΕΣ</title>
+    <desc lang="el">Τελικός Γυναικών.(c)</desc>
+  </programme>
+  <programme start="20230614113000 +0300" stop="20230614121500 +0300" channel="RIK">
+    <title lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΓΥΝΑΙΚΕΣ</title>
+    <desc lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΓΥΝΑΙΚΕΣ.(c)</desc>
+  </programme>
+  <programme start="20230614121500 +0300" stop="20230614130000 +0300" channel="RIK">
+    <title lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΑΝΔΡΕΣ</title>
+    <desc lang="el">ΜΑΟΥΝΤΕΝ ΜΠΑΪΚ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Λέντζερχάιντε - ΑΝΔΡΕΣ.(c)</desc>
+  </programme>
+  <programme start="20230614130000 +0300" stop="20230614140000 +0300" channel="RIK">
+    <title lang="el">SPEEDWAY: Γκραν Πρι - Τίτερο (ΑΝΑΣΚΟΠΗΣΗ)</title>
+    <desc lang="el">SPEEDWAY: Γκραν Πρι - Τίτερο (ΑΝΑΣΚΟΠΗΣΗ).(c)</desc>
+  </programme>
+  <programme start="20230614140000 +0300" stop="20230614150000 +0300" channel="RIK">
+    <title lang="el">Αγώνας Αντοχής Αυτοκινήτων : ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - 24 Ώρες Λε Μαν ΑΝΑΣΚΟΠΗΣΗ</title>
+    <desc lang="el">Αγώνας Αντοχής Αυτοκινήτων : ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - 24 Ώρες Λε Μαν ΑΝΑΣΚΟΠΗΣΗ.(c)</desc>
+  </programme>
+  <programme start="20230614150000 +0300" stop="20230614153000 +0300" channel="RIK">
+    <title lang="el">ΜΟΤΟΚΡΟΣ: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Γερμανία MX2 2ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">ΜΟΤΟΚΡΟΣ: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Γερμανία MX2 2ος ΑΓΩΝΑΣ.(c)</desc>
+  </programme>
+  <programme start="20230614153000 +0300" stop="20230614160000 +0300" channel="RIK">
+    <title lang="el">ΜΟΤΟΚΡΟΣ: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Γερμανία MXGP 2ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">ΜΟΤΟΚΡΟΣ: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Γερμανία MXGP 2ος ΑΓΩΝΑΣ.(c)</desc>
+  </programme>
+  <programme start="20230614160000 +0300" stop="20230614170000 +0300" channel="RIK">
+    <title lang="el">ΤΕΝΙΣ ΓΚΡΑΝ ΣΛΑΜ BEST OF ROLAND GARROS</title>
+    <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.(c)</desc>
+  </programme>
+  <programme start="20230614170000 +0300" stop="20230614180000 +0300" channel="RIK">
+    <title lang="el">Αναρρίχηση: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Μπρίξεν - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
+    <desc lang="el">Αναρρίχηση: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Μπρίξεν - Τελικός (ΓΥΝΑΙΚΕΣ).(c)</desc>
+  </programme>
+  <programme start="20230614180000 +0300" stop="20230614190000 +0300" channel="RIK">
+    <title lang="el">Αναρρίχηση: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Μπρίξεν - Τελικός (ΑΝΔΡΕΣ)</title>
+    <desc lang="el">Αναρρίχηση: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ Μπρίξεν - Τελικός (ΑΝΔΡΕΣ).(c)</desc>
+  </programme>
+  <programme start="20230614190000 +0300" stop="20230614200000 +0300" channel="RIK">
+    <title lang="el">Αγώνας Αντοχής Αυτοκινήτων : ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - 24 Ώρες Λε Μαν ΑΝΑΣΚΟΠΗΣΗ</title>
+    <desc lang="el">Αγώνας Αντοχής Αυτοκινήτων : ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - 24 Ώρες Λε Μαν ΑΝΑΣΚΟΠΗΣΗ.(c)</desc>
+  </programme>
+  <programme start="20230614200000 +0300" stop="20230614203000 +0300" channel="RIK">
+    <title lang="el">ΜΟΤΟΚΡΟΣ: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Γερμανία MXGP 2ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">ΜΟΤΟΚΡΟΣ: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Γερμανία MXGP 2ος ΑΓΩΝΑΣ.(c)</desc>
+  </programme>
+  <programme start="20230614203000 +0300" stop="20230614213000 +0300" channel="RIK">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ: PRO SERIES - Γύρος Σλοβενίας 1ο Ετάπ</title>
+    <desc lang="el">Stage 1 Men.(g)</desc>
+  </programme>
+  <programme start="20230614213000 +0300" stop="20230614223000 +0300" channel="RIK">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ: PRO SERIES - Γύρος Βελγίου 1ο Ετάπ</title>
+    <desc lang="el">Stage 1 Men.(c)</desc>
+  </programme>
+  <programme start="20230614223000 +0300" stop="20230614230000 +0300" channel="RIK">
+    <title lang="el">ΟΛΑ ΤΑ ΣΠΟΡ Ξεκλειδώνοντας τη δύναμη του αθλητισμού</title>
+    <desc lang="el">ΟΛΑ ΤΑ ΣΠΟΡ Ξεκλειδώνοντας τη δύναμη του αθλητισμού.(c)</desc>
+  </programme>
+  <programme start="20230614230000 +0300" stop="20230615000000 +0300" channel="RIK">
+    <title lang="el">ΤΕΝΙΣ: ΤΟΥΡΝΟΥΑ ΓΚΡΑΝ ΣΛΑΜ ΡΟΛΑΝ ΓΚΑΡΟΣ - Τελικός Μονό ΓΥΝΑΙΚΕΣ</title>
+    <desc lang="el">Τελικός Γυναικών.(c)</desc>
+  </programme>
+  <programme start="20230615000000 +0300" stop="20230615060000 +0300" channel="RIK">
     <title lang="el">Novasports6</title>
-    <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού! Τένις, γκολφ, μηχανοκίνητος αθλητισμός, πολεμικές τέχνες, extreme sports και βόλεϊ χαρίζουν μοναδικές στιγμές δράσεις στους φίλους των σπορ.</desc>
+    <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού! Τένις, γκολφ, μηχανοκίνητος αθλητισμός, πολεμικές τέχνες, extreme sports και βόλεϊ χαρίζουν μοναδικές στιγμές δράσεις στους φίλους των σπορ.(c)</desc>
   </programme>
-  <programme start="20230614060000 +0300" stop="20230614120000 +0300" channel="RIK">
+  <programme start="20230615060000 +0300" stop="20230615101500 +0300" channel="RIK">
     <title lang="el">Novasports6</title>
-    <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού! Τένις, γκολφ, μηχανοκίνητος αθλητισμός, πολεμικές τέχνες, extreme sports και βόλεϊ χαρίζουν μοναδικές στιγμές δράσεις στους φίλους των σπορ.</desc>
+    <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού! Τένις, γκολφ, μηχανοκίνητος αθλητισμός, πολεμικές τέχνες, extreme sports και βόλεϊ χαρίζουν μοναδικές στιγμές δράσεις στους φίλους των σπορ.(c)</desc>
   </programme>
-  <programme start="20230614120000 +0300" stop="20230614141500 +0300" channel="RIK">
-    <title lang="el">Τένις: WTA 1000 2023</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Miami Open της σειράς WTA 1000, που διεξάγεται το διάστημα 21 Μαρτίου έως 2 Απριλίου στις Ηνωμένες Πολιτείες. Τένις.</desc>
+  <programme start="20230615101500 +0300" stop="20230615133000 +0300" channel="RIK">
+    <title lang="el">Τένις: WTA 250 2023</title>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Grand Prix SAR La Princesse Lalla Meryem της σειράς WTA 250 που πραγματοποιείται στο Μαρόκο το διάστημα 21-27 Μαϊου. Τένις.(c)</desc>
   </programme>
-  <programme start="20230614141500 +0300" stop="20230614163000 +0300" channel="RIK">
-    <title lang="el">Τένις: WTA 500 2023</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Charleston Open της σειράς WTA 500, που διεξάγεται στο Τσάρλεστον των ΗΠΑ το διάστημα από 3 μέχρι 9 Απριλίου. Τένις.</desc>
+  <programme start="20230615133000 +0300" stop="20230615193000 +0300" channel="RIK">
+    <title lang="el">Τένις: WTA 250 2023 (Ζ)</title>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Rothesay Open της σειράς WTA 250, που πραγματοποιείται στο Νότιγχαμ της Αγγλίας το διάστημα 12-18 Ιουνίου. Περιγραφή: Γ. Λιώρης Τένις.(c)</desc>
   </programme>
-  <programme start="20230614163000 +0300" stop="20230614184500 +0300" channel="RIK">
-    <title lang="el">Τένις: WTA 500 2023</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Porsche Tennis Grand Prix της σειράς WTA 500, που πραγματοποιείται στη Στουτγκάρδη της Γερμανίας το διάστημα 17-23 Απριλίου. Τένις.</desc>
+  <programme start="20230615193000 +0300" stop="20230615231500 +0300" channel="RIK">
+    <title lang="el">Τένις: WTA 250 2023</title>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Rothesay Open της σειράς WTA 250, που πραγματοποιείται στο Νότιγχαμ της Αγγλίας το διάστημα 12-18 Ιουνίου. Τένις.(c)</desc>
   </programme>
-  <programme start="20230614184500 +0300" stop="20230614194500 +0300" channel="RIK">
-    <title lang="el">Στιγμιότυπα Ποδηλασίας</title>
-    <desc lang="el">Ο ποδηλατικός Γύρος της Ουγγαρίας, που περιλαμβάνεται στο πρόγραμμα του UCI Europe Tour, πραγματοποιήθηκε φέτος για 44η φορά το διάστημα 10-14 Μαϊου, με τη συμμετοχή 132 αθλητών που εκπροσώπησαν 22 ομάδες. Ποδηλασία.</desc>
+  <programme start="20230615231500 +0300" stop="20230615234500 +0300" channel="RIK">
+    <title lang="el">Ο Κόσμος του Μποξ</title>
+    <desc lang="el">Κάθε εβδομάδα, το μαγκαζίνο αυτό έρχεται με όλα τα νέα από τον χώρο του μποξ! Δείτε επίσης αναλύσεις όλων των μεγάλων events και αφιερώματα στους καλύτερους πυγμάχους της εποχής μας παγκοσμίως. Πυγμαχία.(c)</desc>
   </programme>
-  <programme start="20230614194500 +0300" stop="20230614203000 +0300" channel="RIK">
-    <title lang="el">Στιγμιότυπα Ράλι</title>
-    <desc lang="el">Το πρώτο Tabuk-Neom Rally, που διοργανώθηκε ως νέος γύρος του Πρωταθλήματος Ράλι Saudi Toyota 2023, πραγματοποιήθηκε το διάστημα 18-20 Μαϊου στο Ταμπούκ της Σαουδικής Αραβίας. Αγώνες Αυτοκινήτου.</desc>
+  <programme start="20230615234500 +0300" stop="20230616000000 +0300" channel="RIK">
+    <title lang="el">Τένις: WTA 250 2023</title>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Rothesay Open της σειράς WTA 250, που πραγματοποιείται στο Νότιγχαμ της Αγγλίας το διάστημα 12-18 Ιουνίου. Τένις.(c)</desc>
   </programme>
-  <programme start="20230614220000 +0300" stop="20230615010000 +0300" channel="RIK">
-    <title lang="el">Ολυμπιακός - ΠΑΟΚ</title>
-    <desc lang="el">Τα ταλέντα του σήμερα, τα αστέρια του αύριο αγωνίζονται στο Πρωτάθλημα Υποδομής Super League των νέων κάτω των 17 ετών και τα κανάλια Novasports μεταδίδουν τις σημαντικότερες αναμετρήσεις της διοργάνωσης. Ποδόσφαιρο.</desc>
+  <programme start="20230616000000 +0300" stop="20230616010000 +0300" channel="RIK">
+    <title lang="el">Γερμανικό Πρωτάθλημα Ποδοσφαίρου</title>
+    <desc lang="el">Τα κανάλια Novasports μάς ξεναγούν στα γερμανικά γήπεδα και στη συναρπαστική δράση της Bundesliga, που συγκαταλέγεται στα κορυφαία πρωταθλήματα παγκοσμίως. Θυμηθείτε τις σημαντικότερες στιγμές της φετινής σεζόν. Ποδόσφαιρο.(c)</desc>
   </programme>
-  <programme start="20230615010000 +0300" stop="20230615030000 +0300" channel="RIK">
+  <programme start="20230616010000 +0300" stop="20230616030000 +0300" channel="RIK">
     <title lang="el">Novasports Start</title>
-    <desc lang="el">Μοναδικό αθλητικό θέαμα με ποδόσφαιρο και μπάσκετ από την Ελλάδα και την Ευρώπη! Ζωντανοί αγώνες από όλα τα κορυφαία ευρωπαϊκά πρωταθλήματα ποδοσφαίρου αλλά και αγώνες μπάσκετ από τη Euroleague και το Eurocup!</desc>
+    <desc lang="el">Μοναδικό αθλητικό θέαμα με ποδόσφαιρο και μπάσκετ από την Ελλάδα και την Ευρώπη! Ζωντανοί αγώνες από όλα τα κορυφαία ευρωπαϊκά πρωταθλήματα ποδοσφαίρου αλλά και αγώνες μπάσκετ από τη Euroleague και το Eurocup!(c)</desc>
   </programme>
-  <programme start="20230615030000 +0300" stop="20230615050000 +0300" channel="RIK">
-    <title lang="el">Legend Stories Season 1</title>
-    <desc lang="el">Το πιο όμορφο ταξίδι στα χρονικά του ελληνικού ποδοσφαίρου ζωντανεύει ξανά μέσα από διηγήσεις &amp;ανέκδοτες ιστορίες των Ρεχάγκελ-Τοπαλίδη και των διεθνών. Ακόμα, 6 μέλη της ομάδας που θα πάει στη Βραζιλία αφηγούνται που βρίσκονταν το 2004.</desc>
-  </programme>
-  <programme start="20230615050000 +0300" stop="20230615070000 +0300" channel="RIK">
-    <title lang="el">Χάιντενχαϊμ - Ζανκτ Πάουλι</title>
-    <desc lang="el">Παρακολουθείτε αγώνες της Bundesliga 2, της δεύτερης κατηγορίας του γερμανικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 18 σύλλογοι, ενώ πέρσι πρωταθλήτρια αναδείχθηκε η Σάλκε. Ποδόσφαιρο.</desc>
-  </programme>
-  <programme start="20230615070000 +0300" stop="20230615090000 +0300" channel="RIK">
-    <title lang="el">Μπάρι - Τζένοα</title>
-    <desc lang="el">Παρακολουθείτε αγώνες της Serie B, της Β'κατηγορίας του ιταλικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 20 σύλλογοι και η Αταλάντα με την Τζένοα κατέχουν από έξι τίτλους ως τώρα. Ποδόσφαιρο.</desc>
-  </programme>
-  <programme start="20230615090000 +0300" stop="20230615110000 +0300" channel="RIK">
+  <programme start="20230616030000 +0300" stop="20230616050000 +0300" channel="RIK">
     <title lang="el">Timeline</title>
-    <desc lang="el">Κάντε μια βουτιά στο παρελθόν με τη σειρά που είναι αφιερωμένη στην πορεία μίας ομάδας σε προηγούμενες σεζόν αλλά και ενός ολόκληρου πρωταθλήματος που έγραψε ιστορία ή που μας έκοψε την ανάσα! Μπάσκετ.</desc>
+    <desc lang="el">Κάντε μια βουτιά στο παρελθόν με τη σειρά που είναι αφιερωμένη στην πορεία μίας ομάδας σε προηγούμενες σεζόν αλλά και ενός ολόκληρου πρωταθλήματος που έγραψε ιστορία ή που μας έκοψε την ανάσα! Μπάσκετ.(c)</desc>
   </programme>
-  <programme start="20230615110000 +0300" stop="20230615130000 +0300" channel="RIK">
-    <title lang="el">Novasports Start</title>
-    <desc lang="el">Μοναδικό αθλητικό θέαμα με ποδόσφαιρο και μπάσκετ από την Ελλάδα και την Ευρώπη! Ζωντανοί αγώνες από όλα τα κορυφαία ευρωπαϊκά πρωταθλήματα ποδοσφαίρου αλλά και αγώνες μπάσκετ από τη Euroleague και το Eurocup!</desc>
+  <programme start="20230616050000 +0300" stop="20230616070000 +0300" channel="RIK">
+    <title lang="el">Αννόβερο - Χάιντενχαϊμ</title>
+    <desc lang="el">Παρακολουθείτε αγώνες της Bundesliga 2, της δεύτερης κατηγορίας του γερμανικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 18 σύλλογοι, ενώ πέρσι πρωταθλήτρια αναδείχθηκε η Σάλκε. Ποδόσφαιρο.(c)</desc>
   </programme>
-  <programme start="20230615130000 +0300" stop="20230615150000 +0300" channel="RIK">
-    <title lang="el">Ντάρμσταντ - Πάντερμπορν</title>
-    <desc lang="el">Παρακολουθείτε αγώνες της Bundesliga 2, της δεύτερης κατηγορίας του γερμανικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 18 σύλλογοι, ενώ πέρσι πρωταθλήτρια αναδείχθηκε η Σάλκε. Ποδόσφαιρο.</desc>
-  </programme>
-  <programme start="20230615150000 +0300" stop="20230615170000 +0300" channel="RIK">
+  <programme start="20230616070000 +0300" stop="20230616090000 +0300" channel="RIK">
     <title lang="el">Τερνάνα - Άσκολι</title>
-    <desc lang="el">Παρακολουθείτε αγώνες της Serie B, της Β'κατηγορίας του ιταλικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 20 σύλλογοι και η Αταλάντα με την Τζένοα κατέχουν από έξι τίτλους ως τώρα. Ποδόσφαιρο.</desc>
-  </programme>
-  <programme start="20230615170000 +0300" stop="20230615190000 +0300" channel="RIK">
-    <title lang="el">Novasports Start</title>
-    <desc lang="el">Μοναδικό αθλητικό θέαμα με ποδόσφαιρο και μπάσκετ από την Ελλάδα και την Ευρώπη! Ζωντανοί αγώνες από όλα τα κορυφαία ευρωπαϊκά πρωταθλήματα ποδοσφαίρου αλλά και αγώνες μπάσκετ από τη Euroleague και το Eurocup!</desc>
-  </programme>
-  <programme start="20230615190000 +0300" stop="20230615210000 +0300" channel="RIK">
-    <title lang="el">Σερβία - ΗΠΑ</title>
-    <desc lang="el">Στo Παγκόσμιο Κύπελλο Μπάσκετ Κ17 2022 της FIBA, που διεξάγεται στη Μάλαγα της Ισπανίας στις 2-10 Ιουλίου, οι 16 κορυφαίες εθνικές ομάδες Κ17 ανδρών στον κόσμο διεκδικούν το τρόπαιο! Μπάσκετ.</desc>
-  </programme>
-  <programme start="20230615210000 +0300" stop="20230615220000 +0300" channel="RIK">
-    <title lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου</title>
-    <desc lang="el">Τα κανάλια Novasports μάς ξεναγούν στα γαλλικά γήπεδα! Δείτε την ανασκόπηση της φετινής, συναρπαστικής σεζόν της Ligue 1. Ποδόσφαιρο.</desc>
-  </programme>
-  <programme start="20230615220000 +0300" stop="20230615223000 +0300" channel="RIK">
-    <title lang="el">Μαυροβούνιο - Ελλάδα</title>
-    <desc lang="el">Ενα από τα πιο θεαματικά σπορ, το μπάσκετ, έχει κλείσει θέση στη συχνότητα των καναλιών Novasports! Απολαύστε φοβερά καρφώματα, απίθανα τρίποντα, μαγικές ασίστ,  σε ένα εξαιρετικό μίγμα αθλητικών προσόντων, ομαδικού πνεύματος &amp;τακτικής. Μπάσκετ.</desc>
-  </programme>
-  <programme start="20230615223000 +0300" stop="20230616000000 +0300" channel="RIK">
-    <title lang="el">Καρμιώτισσα - Ε.Ν. Παραλιμνίου 10/3/23 (E)</title>
-    <desc lang="el">Πρωτάθλημα Α' Κατηγορίας 2022-23.</desc>
-  </programme>
-  <programme start="20230616000000 +0300" stop="20230616003000 +0300" channel="RIK">
-    <title lang="el">The World Today</title>
-    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-  </programme>
-  <programme start="20230616003000 +0300" stop="20230616010000 +0300" channel="RIK">
-    <title lang="el">Leaders Talk</title>
-    <desc lang="el">Leaders Talk is China Media Group’s new current affairs program featuring one-on-one interviews with heads of state and high-ranking government officials and heads of international organizations. They will share their insights on the major events shaping today’s world, providing an international viewpoint to understand our times, the visions we share, the challenges we face and the efforts we can make for a better future.</desc>
-  </programme>
-  <programme start="20230616010000 +0300" stop="20230616020000 +0300" channel="RIK">
-    <title lang="el">Full Frame</title>
-    <desc lang="el">Full Frame enriches the lives of viewers through animated discussion of film, arts and culture, and social trends etc impacting a diverse global audience.</desc>
-  </programme>
-  <programme start="20230616020000 +0300" stop="20230616023000 +0300" channel="RIK">
-    <title lang="el">The World Today</title>
-    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-  </programme>
-  <programme start="20230616023000 +0300" stop="20230616030000 +0300" channel="RIK">
-    <title lang="el">Assignment Asia</title>
-    <desc lang="el">Assignment Asia is a current affairs program that takes an in-depth look at stories from all over Asia.</desc>
-  </programme>
-  <programme start="20230616030000 +0300" stop="20230616033000 +0300" channel="RIK">
-    <title lang="el">The World Today</title>
-    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-  </programme>
-  <programme start="20230616033000 +0300" stop="20230616040000 +0300" channel="RIK">
-    <title lang="el">The Agenda</title>
-    <desc lang="el">A weekly talk-show looking beyond the headlines and “accepted wisdom” to find the real story. Hosted by award-winning journalist and presenter Stephen Cole, The Agenda quite simply sets The Agenda. You won’t find the same-old talking heads recycling platitudes; instead thought-provoking guests to debate and explore key issues of today’s world.</desc>
-  </programme>
-  <programme start="20230616040000 +0300" stop="20230616050000 +0300" channel="RIK">
-    <title lang="el">Big Story</title>
-    <desc lang="el">Big Story is a documentary film program on CGTN. It explores global events with in a variety of filmic styles and featuring original, in-depth, thought-provoking storytelling.</desc>
-  </programme>
-  <programme start="20230616050000 +0300" stop="20230616053000 +0300" channel="RIK">
-    <title lang="el">The World Today</title>
-    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-  </programme>
-  <programme start="20230616053000 +0300" stop="20230616060000 +0300" channel="RIK">
-    <title lang="el">Inheritors</title>
-    <desc lang="el">Inheritors is a multi-media product from CGTN that shines a light on China’s rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country’s culture. He or she will introduce viewers to people who are dedicating their lives to its protection, inheritance, innovation, development and promotion.</desc>
-  </programme>
-  <programme start="20230616060000 +0300" stop="20230616061500 +0300" channel="RIK">
-    <title lang="el">The World Today</title>
-    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-  </programme>
-  <programme start="20230616061500 +0300" stop="20230616063000 +0300" channel="RIK">
-    <title lang="el">Sports Scene</title>
-    <desc lang="el">Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.</desc>
-  </programme>
-  <programme start="20230616063000 +0300" stop="20230616070000 +0300" channel="RIK">
-    <title lang="el">Leaders Talk</title>
-    <desc lang="el">Leaders Talk is China Media Group’s new current affairs program featuring one-on-one interviews with heads of state and high-ranking government officials and heads of international organizations. They will share their insights on the major events shaping today’s world, providing an international viewpoint to understand our times, the visions we share, the challenges we face and the efforts we can make for a better future.</desc>
-  </programme>
-  <programme start="20230616070000 +0300" stop="20230616080000 +0300" channel="RIK">
-    <title lang="el">Global Watch</title>
-    <desc lang="el">GLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China's perspective, policies and stories.</desc>
-  </programme>
-  <programme start="20230616080000 +0300" stop="20230616090000 +0300" channel="RIK">
-    <title lang="el">Full Frame</title>
-    <desc lang="el">Full Frame enriches the lives of viewers through animated discussion of film, arts and culture, and social trends etc impacting a diverse global audience.</desc>
+    <desc lang="el">Παρακολουθείτε αγώνες της Serie B, της Β'κατηγορίας του ιταλικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 20 σύλλογοι και η Αταλάντα με την Τζένοα κατέχουν από έξι τίτλους ως τώρα. Ποδόσφαιρο.(c)</desc>
   </programme>
   <programme start="20230616090000 +0300" stop="20230616093000 +0300" channel="RIK">
-    <title lang="el">The World Today</title>
-    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <title lang="el">Novasports Classic Zone</title>
+    <desc lang="el">Μέσα από επιλεγμένες στιγμές κλασικών αγώνων, θυμηθείτε τα στιγμιότυπα, τους πρωταγωνιστές καθώς και ενδιαφέροντα παραλειπόμενα μέσα από το πλούσιο αρχείο των καναλιών Novasports. Μπάσκετ.(c)</desc>
   </programme>
   <programme start="20230616093000 +0300" stop="20230616100000 +0300" channel="RIK">
-    <title lang="el">Biz Talk</title>
-    <desc lang="el">A groundbreaking 30-minute interview show, giving an in-depth look into how top companies around the world conduct business and how policymakers view the fast-changing world economy. It presents 360 degree profiles of industry movers and shakers, tech mavericks and policymakers, and drills down on the stories behind their success, to give you clarity on what’s happening in every facet of business.</desc>
+    <title lang="el">Novasports Classic Zone</title>
+    <desc lang="el">Μέσα από επιλεγμένες στιγμές κλασικών αγώνων, θυμηθείτε τα στιγμιότυπα, τους πρωταγωνιστές καθώς και ενδιαφέροντα παραλειπόμενα μέσα από το πλούσιο αρχείο των καναλιών Novasports. Μπάσκετ.(c)</desc>
   </programme>
-  <programme start="20230616100000 +0300" stop="20230616103000 +0300" channel="RIK">
+  <programme start="20230616100000 +0300" stop="20230616110000 +0300" channel="RIK">
+    <title lang="el">Timeline</title>
+    <desc lang="el">Κάντε μια βουτιά στο παρελθόν με τη σειρά που είναι αφιερωμένη στην πορεία μίας ομάδας σε προηγούμενες σεζόν αλλά και ενός ολόκληρου πρωταθλήματος που έγραψε ιστορία ή που μας έκοψε την ανάσα! Μπάσκετ.(c)</desc>
+  </programme>
+  <programme start="20230616110000 +0300" stop="20230616120000 +0300" channel="RIK">
+    <title lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου</title>
+    <desc lang="el">Τα κανάλια Novasports μάς ξεναγούν στα γαλλικά σαλόνια, όπου μερικές από τις καλύτερες ομάδες του κόσμου πρωταγωνιστούν στο πρωτάθλημα της Ligue 1. Απολαύστε τα γκολ και τις μεγάλες στιγμές της αγωνιστικής που προηγήθηκε. Αθλητικά Νέα.(c)</desc>
+  </programme>
+  <programme start="20230616120000 +0300" stop="20230616200000 +0300" channel="RIK">
+    <title lang="el">Τένις: WTA 250 2023 (Ζ)</title>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Libema Open της σειράς WTA 250, που πραγματοποιείται στο Χερτόγκενμπος της Ολλανδίας το διάστημα 12-18 Ιουνίου. Περιγραφή: Χρ. Καούρης Τένις.(c)</desc>
+  </programme>
+  <programme start="20230616200000 +0300" stop="20230616214500 +0300" channel="RIK">
+    <title lang="el">Γαλλία - Σλοβενία</title>
+    <desc lang="el">Στo Παγκόσμιο Κύπελλο Μπάσκετ Κ17 2022 της FIBA, που διεξάγεται στη Μάλαγα της Ισπανίας στις 2-10 Ιουλίου, οι 16 κορυφαίες εθνικές ομάδες Κ17 ανδρών στον κόσμο διεκδικούν το τρόπαιο! Μπάσκετ.(c)</desc>
+  </programme>
+  <programme start="20230616214500 +0300" stop="20230616234500 +0300" channel="RIK">
+    <title lang="el">Novasports Start</title>
+    <desc lang="el">Μοναδικό αθλητικό θέαμα με ποδόσφαιρο και μπάσκετ από την Ελλάδα και την Ευρώπη! Ζωντανοί αγώνες από όλα τα κορυφαία ευρωπαϊκά πρωταθλήματα ποδοσφαίρου αλλά και αγώνες μπάσκετ από τη Euroleague και το Eurocup!(c)</desc>
+  </programme>
+  <programme start="20230616234500 +0300" stop="20230617001500 +0300" channel="RIK">
+    <title lang="el">EQ Instant Highlights MD 3 #2 (Z)</title>
+    <desc lang="el">European Qualifiers UEFA EURO 2024.(c)</desc>
+  </programme>
+  <programme start="20230617001500 +0300" stop="20230617003000 +0300" channel="RIK">
+    <title lang="el">MOBILE 1 THE GRID 2022 EP.5 (PART2)</title>
+    <desc lang="el">MOBILE 1 THE GRID 2022.(c)</desc>
+  </programme>
+  <programme start="20230617003000 +0300" stop="20230617010000 +0300" channel="RIK">
+    <title lang="el">CLUBLAND EP.39</title>
+    <desc lang="el">CLUBLAND.(c)</desc>
+  </programme>
+  <programme start="20230617010000 +0300" stop="20230617020000 +0300" channel="RIK">
+    <title lang="el">ROOKIES CUP - SPAIN (RACE 2) 30/4/23</title>
+    <desc lang="el">2023 RED BULL MOTO GP ROOKIES CUP.(c)</desc>
+  </programme>
+  <programme start="20230617020000 +0300" stop="20230617053000 +0300" channel="RIK">
+    <title lang="el">POWER DRIFT Round 3 27/5/23</title>
+    <desc lang="el">2023 CYPRUS DRIFT CHAMPIONSHIP.(c)</desc>
+  </programme>
+  <programme start="20230617053000 +0300" stop="20230617060000 +0300" channel="RIK">
+    <title lang="el">Mobil 1 The Grid 2022 EP.2</title>
+    <desc lang="el">Mobil 1 The Grid 2022.(c)</desc>
+  </programme>
+  <programme start="20230617060000 +0300" stop="20230617070000 +0300" channel="RIK">
+    <title lang="el">POLAND - SPAIN 7/6/23</title>
+    <desc lang="el">SOCCA WORLD CUP 2023.(c)</desc>
+  </programme>
+  <programme start="20230617070000 +0300" stop="20230617090000 +0300" channel="RIK">
+    <title lang="el">FINLAND - SLOVENIA 16/6/23</title>
+    <desc lang="el">European Qualifiers UEFA EURO 2024.(c)</desc>
+  </programme>
+  <programme start="20230617090000 +0300" stop="20230617100000 +0300" channel="RIK">
+    <title lang="el">GRAND PRIX OF ITALY (MUGELLO) Highlights (52) 16/6/23</title>
+    <desc lang="el">2023 MOTO GP.(c)</desc>
+  </programme>
+  <programme start="20230617100000 +0300" stop="20230617120000 +0300" channel="RIK">
+    <title lang="el">GREECE - REPUBLIC OF IRELAND 16/6/23</title>
+    <desc lang="el">European Qualifiers UEFA EURO 2024.(c)</desc>
+  </programme>
+  <programme start="20230617120000 +0300" stop="20230617140000 +0300" channel="RIK">
+    <title lang="el">ICELAND - SLOVAKIA 17/6/23</title>
+    <desc lang="el">European Qualifiers UEFA EURO 2024.(c)</desc>
+  </programme>
+  <programme start="20230617140000 +0300" stop="20230617160000 +0300" channel="RIK">
+    <title lang="el">BELGIUM - AUSTRIA 17/6/23</title>
+    <desc lang="el">European Qualifiers UEFA EURO 2024.(c)</desc>
+  </programme>
+  <programme start="20230617160000 +0300" stop="20230617180000 +0300" channel="RIK">
+    <title lang="el">UEFA NATIONS LEAGUE FINALS (3rd Place) (Z)</title>
+    <desc lang="el">UEFA NATIONS LEAGUE FINALS 2023.(c)</desc>
+  </programme>
+  <programme start="20230617180000 +0300" stop="20230617183000 +0300" channel="RIK">
+    <title lang="el">INSIDE SAILING 2023 EP.3</title>
+    <desc lang="el">INSIDE SAILING 2023.(c)</desc>
+  </programme>
+  <programme start="20230617183000 +0300" stop="20230617190000 +0300" channel="RIK">
+    <title lang="el">GEARING UP 2023 EP.4</title>
+    <desc lang="el">GEARING UP 2023.(c)</desc>
+  </programme>
+  <programme start="20230617190000 +0300" stop="20230617193000 +0300" channel="RIK">
+    <title lang="el">Frankie Dettori : A Royal Ascot Love Affair (26) 9/6/23</title>
+    <desc lang="el">ROYAL ASCOT 2023.(c)</desc>
+  </programme>
+  <programme start="20230617193000 +0300" stop="20230617203000 +0300" channel="RIK">
+    <title lang="el">EQ Matchweek Highlights MD 3 (60)</title>
+    <desc lang="el">European Qualifiers UEFA EURO 2024.(c)</desc>
+  </programme>
+  <programme start="20230617203000 +0300" stop="20230617212500 +0300" channel="RIK">
+    <title lang="el">FULL IMPACT - End of Season Review (52) 14/6/23</title>
+    <desc lang="el">ITALIAN SERIE A 2022-23.(c)</desc>
+  </programme>
+  <programme start="20230617212500 +0300" stop="20230617214500 +0300" channel="RIK">
+    <title lang="el">PICK OF THE WEEK 17&amp;19 (10)</title>
+    <desc lang="el">PREMIER LEAGUE 2022-23.(c)</desc>
+  </programme>
+  <programme start="20230617214500 +0300" stop="20230617234500 +0300" channel="RIK">
+    <title lang="el">UEFA NATIONS LEAGUE FINALS (FINAL) (Z)</title>
+    <desc lang="el">UEFA NATIONS LEAGUE FINALS 2023.(c)</desc>
+  </programme>
+  <programme start="20230617234500 +0300" stop="20230618000000 +0300" channel="RIK">
+    <title lang="el">PICK OF THE WEEK 14-15 (10)</title>
+    <desc lang="el">PREMIER LEAGUE 2022-23.(c)</desc>
+  </programme>
+  <programme start="20230618000000 +0300" stop="20230618003000 +0300" channel="RIK">
     <title lang="el">The World Today</title>
-    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.(c)</desc>
   </programme>
-  <programme start="20230616103000 +0300" stop="20230616110000 +0300" channel="RIK">
-    <title lang="el">Sports Scene</title>
-    <desc lang="el">Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.</desc>
+  <programme start="20230618003000 +0300" stop="20230618010000 +0300" channel="RIK">
+    <title lang="el">Assignment Asia</title>
+    <desc lang="el">Assignment Asia is a current affairs program that takes an in-depth look at stories from all over Asia.(c)</desc>
   </programme>
-  <programme start="20230616110000 +0300" stop="20230616113000 +0300" channel="RIK">
+  <programme start="20230618010000 +0300" stop="20230618020000 +0300" channel="RIK">
+    <title lang="el">Americas Now</title>
+    <desc lang="el">Americas Now profiles the development, diversity and challenges facing the Americas, particularly Latin America.(c)</desc>
+  </programme>
+  <programme start="20230618020000 +0300" stop="20230618023000 +0300" channel="RIK">
     <title lang="el">The World Today</title>
-    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.(c)</desc>
   </programme>
-  <programme start="20230616113000 +0300" stop="20230616120000 +0300" channel="RIK">
-    <title lang="el">Talk Africa</title>
-    <desc lang="el">Talk Africa is a weekly discussion show that brings the most influential voices in Africa to the world.</desc>
-  </programme>
-  <programme start="20230616120000 +0300" stop="20230616123000 +0300" channel="RIK">
-    <title lang="el">The World Today</title>
-    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-  </programme>
-  <programme start="20230616123000 +0300" stop="20230616130000 +0300" channel="RIK">
+  <programme start="20230618023000 +0300" stop="20230618030000 +0300" channel="RIK">
     <title lang="el">Faces of Africa</title>
-    <desc lang="el">Faces of Africa is a topical magazine that showcases the diversity of the continent.</desc>
+    <desc lang="el">Faces of Africa is a topical magazine that showcases the diversity of the continent.(c)</desc>
   </programme>
-  <programme start="20230616130000 +0300" stop="20230616131500 +0300" channel="RIK">
+  <programme start="20230618030000 +0300" stop="20230618033000 +0300" channel="RIK">
     <title lang="el">The World Today</title>
-    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.(c)</desc>
   </programme>
-  <programme start="20230616131500 +0300" stop="20230616140000 +0300" channel="RIK">
-    <title lang="el">Africa Live</title>
-    <desc lang="el">Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.</desc>
-  </programme>
-  <programme start="20230616140000 +0300" stop="20230616150000 +0300" channel="RIK">
-    <title lang="el">Zoom in</title>
-    <desc lang="el">A TV news magazine show packed with top stories from around the world. The weekly program zooms in on the details of trending news items and zooms out to give viewers the bigger picture. With in-depth analysis and current perspective, Zoom in takes you on a journey beyond the daily headlines.</desc>
-  </programme>
-  <programme start="20230616150000 +0300" stop="20230616151500 +0300" channel="RIK">
-    <title lang="el">The World Today</title>
-    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-  </programme>
-  <programme start="20230616151500 +0300" stop="20230616160000 +0300" channel="RIK">
-    <title lang="el">China 24</title>
-    <desc lang="el">China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.</desc>
-  </programme>
-  <programme start="20230616160000 +0300" stop="20230616163000 +0300" channel="RIK">
-    <title lang="el">The World Today</title>
-    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-  </programme>
-  <programme start="20230616163000 +0300" stop="20230616170000 +0300" channel="RIK">
-    <title lang="el">The Agenda</title>
-    <desc lang="el">A weekly talk-show looking beyond the headlines and “accepted wisdom” to find the real story. Hosted by award-winning journalist and presenter Stephen Cole, The Agenda quite simply sets The Agenda. You won’t find the same-old talking heads recycling platitudes; instead thought-provoking guests to debate and explore key issues of today’s world.</desc>
-  </programme>
-  <programme start="20230616170000 +0300" stop="20230616180000 +0300" channel="RIK">
-    <title lang="el">Big Story</title>
-    <desc lang="el">Big Story is a documentary film program on CGTN. It explores global events with in a variety of filmic styles and featuring original, in-depth, thought-provoking storytelling.</desc>
-  </programme>
-  <programme start="20230616180000 +0300" stop="20230616183000 +0300" channel="RIK">
-    <title lang="el">The World Today</title>
-    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-  </programme>
-  <programme start="20230616183000 +0300" stop="20230616190000 +0300" channel="RIK">
-    <title lang="el">Travelogue</title>
-    <desc lang="el">Travelogue is a 30-minute travel program. Through the journeys of our intrepid hosts, we experience the beauty, culture and mystery of China, discovering how people live in this vast country and showcasing China's transformation to the world.</desc>
-  </programme>
-  <programme start="20230616190000 +0300" stop="20230616193000 +0300" channel="RIK">
-    <title lang="el">The World Today</title>
-    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-  </programme>
-  <programme start="20230616193000 +0300" stop="20230616200000 +0300" channel="RIK">
-    <title lang="el">Razor</title>
-    <desc lang="el">CGTN's brand new science and technology show, covering cutting edge developments from all over the world. RAZOR will show you the world's most powerful laser and the world's smallest anti-cancer treatment. It will take you from the weird world of quantum computing to the boundaries of the cosmos.  An international team of reporters will follow the guidance of Occam's Razor - the principle that the simplest explanation is the best one. RAZOR will show that we are already ""living in the future"!</desc>
-  </programme>
-  <programme start="20230616200000 +0300" stop="20230616203000 +0300" channel="RIK">
-    <title lang="el">Africa Live</title>
-    <desc lang="el">Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.</desc>
-  </programme>
-  <programme start="20230616203000 +0300" stop="20230616210000 +0300" channel="RIK">
-    <title lang="el">Faces of Africa</title>
-    <desc lang="el">Faces of Africa is a topical magazine that showcases the diversity of the continent.</desc>
-  </programme>
-  <programme start="20230616210000 +0300" stop="20230616213000 +0300" channel="RIK">
-    <title lang="el">Razor</title>
-    <desc lang="el">CGTN's brand new science and technology show, covering cutting edge developments from all over the world. RAZOR will show you the world's most powerful laser and the world's smallest anti-cancer treatment. It will take you from the weird world of quantum computing to the boundaries of the cosmos.  An international team of reporters will follow the guidance of Occam's Razor - the principle that the simplest explanation is the best one. RAZOR will show that we are already ""living in the future"!</desc>
-  </programme>
-  <programme start="20230616213000 +0300" stop="20230616220000 +0300" channel="RIK">
-    <title lang="el">Talk Africa</title>
-    <desc lang="el">Talk Africa is a weekly discussion show that brings the most influential voices in Africa to the world.</desc>
-  </programme>
-  <programme start="20230616220000 +0300" stop="20230616223000 +0300" channel="RIK">
-    <title lang="el">The World Today</title>
-    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-  </programme>
-  <programme start="20230616223000 +0300" stop="20230616230000 +0300" channel="RIK">
+  <programme start="20230618033000 +0300" stop="20230618040000 +0300" channel="RIK">
     <title lang="el">Inheritors</title>
-    <desc lang="el">Inheritors is a multi-media product from CGTN that shines a light on China’s rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country’s culture. He or she will introduce viewers to people who are dedicating their lives to its protection, inheritance, innovation, development and promotion.</desc>
+    <desc lang="el">Inheritors is a multi-media product from CGTN that shines a light on China’s rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country’s culture. He or she will introduce viewers to people who are dedicating their lives to its protection, inheritance, innovation, development and promotion.(c)</desc>
   </programme>
-  <programme start="20230616230000 +0300" stop="20230616233000 +0300" channel="RIK">
+  <programme start="20230618040000 +0300" stop="20230618043000 +0300" channel="RIK">
     <title lang="el">The World Today</title>
-    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.(c)</desc>
   </programme>
-  <programme start="20230616233000 +0300" stop="20230617000000 +0300" channel="RIK">
+  <programme start="20230618043000 +0300" stop="20230618050000 +0300" channel="RIK">
+    <title lang="el">Razor</title>
+    <desc lang="el">CGTN's brand new science and technology show, covering cutting edge developments from all over the world. RAZOR will show you the world's most powerful laser and the world's smallest anti-cancer treatment. It will take you from the weird world of quantum computing to the boundaries of the cosmos.  An international team of reporters will follow the guidance of Occam's Razor - the principle that the simplest explanation is the best one. RAZOR will show that we are already ""living in the future"!(c)</desc>
+  </programme>
+  <programme start="20230618050000 +0300" stop="20230618053000 +0300" channel="RIK">
+    <title lang="el">The World Today</title>
+    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.(c)</desc>
+  </programme>
+  <programme start="20230618053000 +0300" stop="20230618060000 +0300" channel="RIK">
     <title lang="el">Travelogue</title>
-    <desc lang="el">Travelogue is a 30-minute travel program. Through the journeys of our intrepid hosts, we experience the beauty, culture and mystery of China, discovering how people live in this vast country and showcasing China's transformation to the world.</desc>
+    <desc lang="el">Travelogue is a 30-minute travel program. Through the journeys of our intrepid hosts, we experience the beauty, culture and mystery of China, discovering how people live in this vast country and showcasing China's transformation to the world.(c)</desc>
   </programme>
-  <programme start="20230617000000 +0300" stop="20230617000500 +0300" channel="RIK">
-    <title lang="el">5 Minutes</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+  <programme start="20230618060000 +0300" stop="20230618061500 +0300" channel="RIK">
+    <title lang="el">The World Today</title>
+    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.(c)</desc>
   </programme>
-  <programme start="20230617000500 +0300" stop="20230617002800 +0300" channel="RIK">
-    <title lang="el">Brussels, my Love?</title>
-    <desc lang="el">From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans. Tune in to understand the ins and outs of European politics.</desc>
+  <programme start="20230618061500 +0300" stop="20230618063000 +0300" channel="RIK">
+    <title lang="el">Sports Scene</title>
+    <desc lang="el">Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.(c)</desc>
   </programme>
-  <programme start="20230617002800 +0300" stop="20230617003000 +0300" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+  <programme start="20230618063000 +0300" stop="20230618070000 +0300" channel="RIK">
+    <title lang="el">The Point with Liu Xin</title>
+    <desc lang="el">The Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin's very own unique perspective.(c)</desc>
   </programme>
-  <programme start="20230617003000 +0300" stop="20230617003500 +0300" channel="RIK">
-    <title lang="el">5 Minutes</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+  <programme start="20230618070000 +0300" stop="20230618080000 +0300" channel="RIK">
+    <title lang="el">Global Watch</title>
+    <desc lang="el">GLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China's perspective, policies and stories.(c)</desc>
   </programme>
-  <programme start="20230617003500 +0300" stop="20230617004400 +0300" channel="RIK">
-    <title lang="el">Brussels, my Love?</title>
-    <desc lang="el">From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans. Tune in to understand the ins and outs of European politics.</desc>
+  <programme start="20230618080000 +0300" stop="20230618081500 +0300" channel="RIK">
+    <title lang="el">The World Today</title>
+    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.(c)</desc>
   </programme>
-  <programme start="20230617004400 +0300" stop="20230617004900 +0300" channel="RIK">
-    <title lang="el">Brussels, my Love?</title>
-    <desc lang="el">From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans. Tune in to understand the ins and outs of European politics.</desc>
+  <programme start="20230618081500 +0300" stop="20230618083000 +0300" channel="RIK">
+    <title lang="el">Sports Scene</title>
+    <desc lang="el">Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.(c)</desc>
   </programme>
-  <programme start="20230617004900 +0300" stop="20230617005800 +0300" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+  <programme start="20230618083000 +0300" stop="20230618090000 +0300" channel="RIK">
+    <title lang="el">Rediscovering China</title>
+    <desc lang="el">Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.(c)</desc>
   </programme>
-  <programme start="20230617005800 +0300" stop="20230617010000 +0300" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+  <programme start="20230618090000 +0300" stop="20230618093000 +0300" channel="RIK">
+    <title lang="el">The World Today</title>
+    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.(c)</desc>
   </programme>
-  <programme start="20230617010000 +0300" stop="20230617010500 +0300" channel="RIK">
+  <programme start="20230618093000 +0300" stop="20230618100000 +0300" channel="RIK">
+    <title lang="el">Razor</title>
+    <desc lang="el">CGTN's brand new science and technology show, covering cutting edge developments from all over the world. RAZOR will show you the world's most powerful laser and the world's smallest anti-cancer treatment. It will take you from the weird world of quantum computing to the boundaries of the cosmos.  An international team of reporters will follow the guidance of Occam's Razor - the principle that the simplest explanation is the best one. RAZOR will show that we are already ""living in the future"!(c)</desc>
+  </programme>
+  <programme start="20230618100000 +0300" stop="20230618103000 +0300" channel="RIK">
+    <title lang="el">The World Today</title>
+    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.(c)</desc>
+  </programme>
+  <programme start="20230618103000 +0300" stop="20230618110000 +0300" channel="RIK">
+    <title lang="el">Sports Scene</title>
+    <desc lang="el">Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.(c)</desc>
+  </programme>
+  <programme start="20230618110000 +0300" stop="20230618111500 +0300" channel="RIK">
+    <title lang="el">The World Today</title>
+    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.(c)</desc>
+  </programme>
+  <programme start="20230618111500 +0300" stop="20230618120000 +0300" channel="RIK">
+    <title lang="el">Global Business</title>
+    <desc lang="el">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.(c)</desc>
+  </programme>
+  <programme start="20230618120000 +0300" stop="20230618123000 +0300" channel="RIK">
+    <title lang="el">The World Today</title>
+    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.(c)</desc>
+  </programme>
+  <programme start="20230618123000 +0300" stop="20230618130000 +0300" channel="RIK">
+    <title lang="el">The Vibe</title>
+    <desc lang="el">The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.(c)</desc>
+  </programme>
+  <programme start="20230618130000 +0300" stop="20230618131500 +0300" channel="RIK">
+    <title lang="el">The World Today</title>
+    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.(c)</desc>
+  </programme>
+  <programme start="20230618131500 +0300" stop="20230618140000 +0300" channel="RIK">
+    <title lang="el">Africa Live</title>
+    <desc lang="el">Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.(c)</desc>
+  </programme>
+  <programme start="20230618140000 +0300" stop="20230618143000 +0300" channel="RIK">
+    <title lang="el">Asia Today</title>
+    <desc lang="el">It concentrates on the latest news and social changes happening in Asia.(c)</desc>
+  </programme>
+  <programme start="20230618143000 +0300" stop="20230618150000 +0300" channel="RIK">
+    <title lang="el">Dialogue</title>
+    <desc lang="el">It is a prime time daily English talk show on CGTN.(c)</desc>
+  </programme>
+  <programme start="20230618150000 +0300" stop="20230618151500 +0300" channel="RIK">
+    <title lang="el">The World Today</title>
+    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.(c)</desc>
+  </programme>
+  <programme start="20230618151500 +0300" stop="20230618160000 +0300" channel="RIK">
+    <title lang="el">China 24</title>
+    <desc lang="el">China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.(c)</desc>
+  </programme>
+  <programme start="20230618160000 +0300" stop="20230618163000 +0300" channel="RIK">
+    <title lang="el">Global Business</title>
+    <desc lang="el">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.(c)</desc>
+  </programme>
+  <programme start="20230618163000 +0300" stop="20230618170000 +0300" channel="RIK">
+    <title lang="el">The Point with Liu Xin</title>
+    <desc lang="el">The Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin's very own unique perspective.(c)</desc>
+  </programme>
+  <programme start="20230618170000 +0300" stop="20230618173000 +0300" channel="RIK">
+    <title lang="el">The World Today</title>
+    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.(c)</desc>
+  </programme>
+  <programme start="20230618173000 +0300" stop="20230618180000 +0300" channel="RIK">
+    <title lang="el">World Insight with Tian Wei</title>
+    <desc lang="el">World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.(c)</desc>
+  </programme>
+  <programme start="20230618180000 +0300" stop="20230618183000 +0300" channel="RIK">
+    <title lang="el">The World Today</title>
+    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.(c)</desc>
+  </programme>
+  <programme start="20230618183000 +0300" stop="20230618190000 +0300" channel="RIK">
+    <title lang="el">The Vibe</title>
+    <desc lang="el">The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.(c)</desc>
+  </programme>
+  <programme start="20230618190000 +0300" stop="20230618200000 +0300" channel="RIK">
+    <title lang="el">Global Business</title>
+    <desc lang="el">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.(c)</desc>
+  </programme>
+  <programme start="20230618200000 +0300" stop="20230618210000 +0300" channel="RIK">
+    <title lang="el">Africa Live</title>
+    <desc lang="el">Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.(c)</desc>
+  </programme>
+  <programme start="20230618210000 +0300" stop="20230618220000 +0300" channel="RIK">
+    <title lang="el">Global Business</title>
+    <desc lang="el">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.(c)</desc>
+  </programme>
+  <programme start="20230618220000 +0300" stop="20230618223000 +0300" channel="RIK">
+    <title lang="el">The World Today</title>
+    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.(c)</desc>
+  </programme>
+  <programme start="20230618223000 +0300" stop="20230618230000 +0300" channel="RIK">
+    <title lang="el">World Insight with Tian Wei</title>
+    <desc lang="el">World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.(c)</desc>
+  </programme>
+  <programme start="20230618230000 +0300" stop="20230618233000 +0300" channel="RIK">
+    <title lang="el">The World Today</title>
+    <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.(r)</desc>
+  </programme>
+  <programme start="20230618233000 +0300" stop="20230619000000 +0300" channel="RIK">
+    <title lang="el">Dialogue</title>
+    <desc lang="el">It is a prime time daily English talk show on CGTN.(r)</desc>
+  </programme>
+  <programme start="20230619000000 +0300" stop="20230619001200 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(r)</desc>
   </programme>
-  <programme start="20230617010500 +0300" stop="20230617012800 +0300" channel="RIK">
-    <title lang="el">Brussels, my Love?</title>
-    <desc lang="el">From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans. Tune in to understand the ins and outs of European politics.</desc>
-  </programme>
-  <programme start="20230617012800 +0300" stop="20230617013000 +0300" channel="RIK">
+  <programme start="20230619001200 +0300" stop="20230619001500 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(r)</desc>
   </programme>
-  <programme start="20230617013000 +0300" stop="20230617013500 +0300" channel="RIK">
+  <programme start="20230619001500 +0300" stop="20230619003000 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(r)</desc>
   </programme>
-  <programme start="20230617013500 +0300" stop="20230617014400 +0300" channel="RIK">
-    <title lang="el">Brussels, my Love?</title>
-    <desc lang="el">From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans. Tune in to understand the ins and outs of European politics.</desc>
-  </programme>
-  <programme start="20230617014400 +0300" stop="20230617014900 +0300" channel="RIK">
-    <title lang="el">Brussels, my Love?</title>
-    <desc lang="el">From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans. Tune in to understand the ins and outs of European politics.</desc>
-  </programme>
-  <programme start="20230617014900 +0300" stop="20230617015800 +0300" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20230617015800 +0300" stop="20230617020000 +0300" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20230617020000 +0300" stop="20230617020500 +0300" channel="RIK">
+  <programme start="20230619003000 +0300" stop="20230619004200 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(r)</desc>
   </programme>
-  <programme start="20230617020500 +0300" stop="20230617021600 +0300" channel="RIK">
-    <title lang="el">Witness</title>
-    <desc lang="el">WITNESS verb. to see for oneself At Euronews we are committed to people’s stories and the truth. ‘Euronews WITNESS’ brings world issues into focus through the experiences of men, women and children at the heart of the story. Anelise Borges goes beyond the headlines, debates and data analysis... and into people’s lives.</desc>
-  </programme>
-  <programme start="20230617021600 +0300" stop="20230617022800 +0300" channel="RIK">
-    <title lang="el">Witness</title>
-    <desc lang="el">WITNESS verb. to see for oneself At Euronews we are committed to people’s stories and the truth. ‘Euronews WITNESS’ brings world issues into focus through the experiences of men, women and children at the heart of the story. Anelise Borges goes beyond the headlines, debates and data analysis... and into people’s lives.</desc>
-  </programme>
-  <programme start="20230617022800 +0300" stop="20230617023000 +0300" channel="RIK">
+  <programme start="20230619004200 +0300" stop="20230619005400 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(r)</desc>
   </programme>
-  <programme start="20230617023000 +0300" stop="20230617023300 +0300" channel="RIK">
+  <programme start="20230619005400 +0300" stop="20230619005800 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(r)</desc>
+  </programme>
+  <programme start="20230619005800 +0300" stop="20230619010000 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(r)</desc>
+  </programme>
+  <programme start="20230619010000 +0300" stop="20230619011200 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617023300 +0300" stop="20230617024400 +0300" channel="RIK">
-    <title lang="el">Witness</title>
-    <desc lang="el">WITNESS verb. to see for oneself At Euronews we are committed to people’s stories and the truth. ‘Euronews WITNESS’ brings world issues into focus through the experiences of men, women and children at the heart of the story. Anelise Borges goes beyond the headlines, debates and data analysis... and into people’s lives.</desc>
-  </programme>
-  <programme start="20230617024400 +0300" stop="20230617025800 +0300" channel="RIK">
+  <programme start="20230619011200 +0300" stop="20230619011500 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617025800 +0300" stop="20230617030000 +0300" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20230617030000 +0300" stop="20230617030600 +0300" channel="RIK">
+  <programme start="20230619011500 +0300" stop="20230619013000 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617030600 +0300" stop="20230617032800 +0300" channel="RIK">
-    <title lang="el">Brussels, my Love?</title>
-    <desc lang="el">From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans. Tune in to understand the ins and outs of European politics.</desc>
-  </programme>
-  <programme start="20230617032800 +0300" stop="20230617033000 +0300" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20230617033000 +0300" stop="20230617033500 +0300" channel="RIK">
+  <programme start="20230619013000 +0300" stop="20230619014200 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617033500 +0300" stop="20230617034400 +0300" channel="RIK">
-    <title lang="el">Brussels, my Love?</title>
-    <desc lang="el">From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans. Tune in to understand the ins and outs of European politics.</desc>
-  </programme>
-  <programme start="20230617034400 +0300" stop="20230617035000 +0300" channel="RIK">
-    <title lang="el">Brussels, my Love?</title>
-    <desc lang="el">From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans. Tune in to understand the ins and outs of European politics.</desc>
-  </programme>
-  <programme start="20230617035000 +0300" stop="20230617035800 +0300" channel="RIK">
+  <programme start="20230619014200 +0300" stop="20230619015400 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617035800 +0300" stop="20230617040000 +0300" channel="RIK">
+  <programme start="20230619015400 +0300" stop="20230619015800 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617040000 +0300" stop="20230617040500 +0300" channel="RIK">
+  <programme start="20230619015800 +0300" stop="20230619020000 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20230619020000 +0300" stop="20230619021200 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617040500 +0300" stop="20230617041600 +0300" channel="RIK">
-    <title lang="el">Witness</title>
-    <desc lang="el">WITNESS verb. to see for oneself At Euronews we are committed to people’s stories and the truth. ‘Euronews WITNESS’ brings world issues into focus through the experiences of men, women and children at the heart of the story. Anelise Borges goes beyond the headlines, debates and data analysis... and into people’s lives.</desc>
-  </programme>
-  <programme start="20230617041600 +0300" stop="20230617042800 +0300" channel="RIK">
-    <title lang="el">Witness</title>
-    <desc lang="el">WITNESS verb. to see for oneself At Euronews we are committed to people’s stories and the truth. ‘Euronews WITNESS’ brings world issues into focus through the experiences of men, women and children at the heart of the story. Anelise Borges goes beyond the headlines, debates and data analysis... and into people’s lives.</desc>
-  </programme>
-  <programme start="20230617042800 +0300" stop="20230617043000 +0300" channel="RIK">
+  <programme start="20230619021200 +0300" stop="20230619021500 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617043000 +0300" stop="20230617043600 +0300" channel="RIK">
+  <programme start="20230619021500 +0300" stop="20230619023000 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617043600 +0300" stop="20230617044700 +0300" channel="RIK">
-    <title lang="el">Witness</title>
-    <desc lang="el">WITNESS verb. to see for oneself At Euronews we are committed to people’s stories and the truth. ‘Euronews WITNESS’ brings world issues into focus through the experiences of men, women and children at the heart of the story. Anelise Borges goes beyond the headlines, debates and data analysis... and into people’s lives.</desc>
-  </programme>
-  <programme start="20230617044700 +0300" stop="20230617045800 +0300" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20230617045800 +0300" stop="20230617050000 +0300" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20230617050000 +0300" stop="20230617050500 +0300" channel="RIK">
+  <programme start="20230619023000 +0300" stop="20230619024200 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617050500 +0300" stop="20230617052800 +0300" channel="RIK">
-    <title lang="el">Brussels, my Love?</title>
-    <desc lang="el">From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans. Tune in to understand the ins and outs of European politics.</desc>
-  </programme>
-  <programme start="20230617052800 +0300" stop="20230617053000 +0300" channel="RIK">
+  <programme start="20230619024200 +0300" stop="20230619025300 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617053000 +0300" stop="20230617053500 +0300" channel="RIK">
+  <programme start="20230619025300 +0300" stop="20230619025800 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20230619025800 +0300" stop="20230619030000 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20230619030000 +0300" stop="20230619031200 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617053500 +0300" stop="20230617054400 +0300" channel="RIK">
-    <title lang="el">Brussels, my Love?</title>
-    <desc lang="el">From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans. Tune in to understand the ins and outs of European politics.</desc>
-  </programme>
-  <programme start="20230617054400 +0300" stop="20230617054900 +0300" channel="RIK">
-    <title lang="el">Brussels, my Love?</title>
-    <desc lang="el">From the economy to the climate and the EU's role in world affairs, this talk show sheds light on European affairs and the issues that impact on our daily lives as Europeans. Tune in to understand the ins and outs of European politics.</desc>
-  </programme>
-  <programme start="20230617054900 +0300" stop="20230617055800 +0300" channel="RIK">
+  <programme start="20230619031200 +0300" stop="20230619031500 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617055800 +0300" stop="20230617060000 +0300" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20230617060000 +0300" stop="20230617060500 +0300" channel="RIK">
+  <programme start="20230619031500 +0300" stop="20230619033000 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617060500 +0300" stop="20230617061600 +0300" channel="RIK">
-    <title lang="el">Witness</title>
-    <desc lang="el">WITNESS verb. to see for oneself At Euronews we are committed to people’s stories and the truth. ‘Euronews WITNESS’ brings world issues into focus through the experiences of men, women and children at the heart of the story. Anelise Borges goes beyond the headlines, debates and data analysis... and into people’s lives.</desc>
-  </programme>
-  <programme start="20230617061600 +0300" stop="20230617062800 +0300" channel="RIK">
-    <title lang="el">Witness</title>
-    <desc lang="el">WITNESS verb. to see for oneself At Euronews we are committed to people’s stories and the truth. ‘Euronews WITNESS’ brings world issues into focus through the experiences of men, women and children at the heart of the story. Anelise Borges goes beyond the headlines, debates and data analysis... and into people’s lives.</desc>
-  </programme>
-  <programme start="20230617062800 +0300" stop="20230617063000 +0300" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20230617063000 +0300" stop="20230617063500 +0300" channel="RIK">
+  <programme start="20230619033000 +0300" stop="20230619034200 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617063500 +0300" stop="20230617064500 +0300" channel="RIK">
-    <title lang="el">Witness</title>
-    <desc lang="el">WITNESS verb. to see for oneself At Euronews we are committed to people’s stories and the truth. ‘Euronews WITNESS’ brings world issues into focus through the experiences of men, women and children at the heart of the story. Anelise Borges goes beyond the headlines, debates and data analysis... and into people’s lives.</desc>
-  </programme>
-  <programme start="20230617064500 +0300" stop="20230617065800 +0300" channel="RIK">
+  <programme start="20230619034200 +0300" stop="20230619035400 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617065800 +0300" stop="20230617070000 +0300" channel="RIK">
+  <programme start="20230619035400 +0300" stop="20230619035800 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617070000 +0300" stop="20230617071200 +0300" channel="RIK">
+  <programme start="20230619035800 +0300" stop="20230619040000 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20230619040000 +0300" stop="20230619041200 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617071200 +0300" stop="20230617071500 +0300" channel="RIK">
+  <programme start="20230619041200 +0300" stop="20230619041500 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617071500 +0300" stop="20230617073000 +0300" channel="RIK">
+  <programme start="20230619041500 +0300" stop="20230619043000 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617073000 +0300" stop="20230617074200 +0300" channel="RIK">
+  <programme start="20230619043000 +0300" stop="20230619044200 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617074200 +0300" stop="20230617075400 +0300" channel="RIK">
+  <programme start="20230619044200 +0300" stop="20230619045400 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617075400 +0300" stop="20230617075800 +0300" channel="RIK">
+  <programme start="20230619045400 +0300" stop="20230619045800 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617075800 +0300" stop="20230617080000 +0300" channel="RIK">
+  <programme start="20230619045800 +0300" stop="20230619050000 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617080000 +0300" stop="20230617081200 +0300" channel="RIK">
+  <programme start="20230619050000 +0300" stop="20230619051200 +0300" channel="RIK">
+    <title lang="el">The European Debrief</title>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20230619051200 +0300" stop="20230619051500 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20230619051500 +0300" stop="20230619053000 +0300" channel="RIK">
+    <title lang="el">The European Debrief</title>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20230619053000 +0300" stop="20230619054200 +0300" channel="RIK">
+    <title lang="el">The European Debrief</title>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20230619054200 +0300" stop="20230619055400 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20230619055400 +0300" stop="20230619055800 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20230619055800 +0300" stop="20230619060000 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20230619060000 +0300" stop="20230619061200 +0300" channel="RIK">
+    <title lang="el">The European Debrief</title>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20230619061200 +0300" stop="20230619061500 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20230619061500 +0300" stop="20230619063000 +0300" channel="RIK">
+    <title lang="el">The European Debrief</title>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20230619063000 +0300" stop="20230619064200 +0300" channel="RIK">
+    <title lang="el">The European Debrief</title>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20230619064200 +0300" stop="20230619065300 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20230619065300 +0300" stop="20230619065800 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20230619065800 +0300" stop="20230619070000 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20230619070000 +0300" stop="20230619071200 +0300" channel="RIK">
+    <title lang="el">The European Debrief</title>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20230619071200 +0300" stop="20230619071500 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20230619071500 +0300" stop="20230619073000 +0300" channel="RIK">
+    <title lang="el">The European Debrief</title>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20230619073000 +0300" stop="20230619074200 +0300" channel="RIK">
+    <title lang="el">The European Debrief</title>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
+  </programme>
+  <programme start="20230619074200 +0300" stop="20230619075400 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20230619075400 +0300" stop="20230619075800 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20230619075800 +0300" stop="20230619080000 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
+  </programme>
+  <programme start="20230619080000 +0300" stop="20230619081200 +0300" channel="RIK">
     <title lang="el">Wake Up Europe</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617081200 +0300" stop="20230617081500 +0300" channel="RIK">
+  <programme start="20230619081200 +0300" stop="20230619081500 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617081500 +0300" stop="20230617083000 +0300" channel="RIK">
+  <programme start="20230619081500 +0300" stop="20230619083000 +0300" channel="RIK">
     <title lang="el">Wake Up Europe</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617083000 +0300" stop="20230617084100 +0300" channel="RIK">
+  <programme start="20230619083000 +0300" stop="20230619084200 +0300" channel="RIK">
     <title lang="el">Wake Up Europe</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617084100 +0300" stop="20230617085400 +0300" channel="RIK">
+  <programme start="20230619084200 +0300" stop="20230619085400 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617085400 +0300" stop="20230617085800 +0300" channel="RIK">
+  <programme start="20230619085400 +0300" stop="20230619085800 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617085800 +0300" stop="20230617090000 +0300" channel="RIK">
+  <programme start="20230619085800 +0300" stop="20230619090000 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617090000 +0300" stop="20230617091200 +0300" channel="RIK">
+  <programme start="20230619090000 +0300" stop="20230619091200 +0300" channel="RIK">
     <title lang="el">Wake Up Europe</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617091200 +0300" stop="20230617091500 +0300" channel="RIK">
+  <programme start="20230619091200 +0300" stop="20230619091500 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617091500 +0300" stop="20230617093000 +0300" channel="RIK">
+  <programme start="20230619091500 +0300" stop="20230619093000 +0300" channel="RIK">
     <title lang="el">Wake Up Europe</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617093000 +0300" stop="20230617094200 +0300" channel="RIK">
+  <programme start="20230619093000 +0300" stop="20230619094200 +0300" channel="RIK">
     <title lang="el">Wake Up Europe</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617094200 +0300" stop="20230617095300 +0300" channel="RIK">
+  <programme start="20230619094200 +0300" stop="20230619095400 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617095300 +0300" stop="20230617095800 +0300" channel="RIK">
+  <programme start="20230619095400 +0300" stop="20230619095800 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617095800 +0300" stop="20230617100000 +0300" channel="RIK">
+  <programme start="20230619095800 +0300" stop="20230619100000 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617100000 +0300" stop="20230617101200 +0300" channel="RIK">
+  <programme start="20230619100000 +0300" stop="20230619101200 +0300" channel="RIK">
     <title lang="el">Wake Up Europe</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617101200 +0300" stop="20230617101500 +0300" channel="RIK">
+  <programme start="20230619101200 +0300" stop="20230619101500 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617101500 +0300" stop="20230617103000 +0300" channel="RIK">
+  <programme start="20230619101500 +0300" stop="20230619103000 +0300" channel="RIK">
     <title lang="el">Wake Up Europe</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617103000 +0300" stop="20230617104100 +0300" channel="RIK">
+  <programme start="20230619103000 +0300" stop="20230619104200 +0300" channel="RIK">
     <title lang="el">Wake Up Europe</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617104100 +0300" stop="20230617105400 +0300" channel="RIK">
+  <programme start="20230619104200 +0300" stop="20230619105300 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617105400 +0300" stop="20230617105800 +0300" channel="RIK">
+  <programme start="20230619105300 +0300" stop="20230619105800 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617105800 +0300" stop="20230617110000 +0300" channel="RIK">
+  <programme start="20230619105800 +0300" stop="20230619110000 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617110000 +0300" stop="20230617111200 +0300" channel="RIK">
+  <programme start="20230619110000 +0300" stop="20230619111200 +0300" channel="RIK">
     <title lang="el">Wake Up Europe</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617111200 +0300" stop="20230617111500 +0300" channel="RIK">
+  <programme start="20230619111200 +0300" stop="20230619111500 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617111500 +0300" stop="20230617113000 +0300" channel="RIK">
+  <programme start="20230619111500 +0300" stop="20230619113000 +0300" channel="RIK">
     <title lang="el">Wake Up Europe</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617113000 +0300" stop="20230617114200 +0300" channel="RIK">
+  <programme start="20230619113000 +0300" stop="20230619114200 +0300" channel="RIK">
     <title lang="el">Wake Up Europe</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617114200 +0300" stop="20230617115200 +0300" channel="RIK">
+  <programme start="20230619114200 +0300" stop="20230619115300 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617115200 +0300" stop="20230617115800 +0300" channel="RIK">
+  <programme start="20230619115300 +0300" stop="20230619115800 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617115800 +0300" stop="20230617120000 +0300" channel="RIK">
+  <programme start="20230619115800 +0300" stop="20230619120000 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617120000 +0300" stop="20230617121200 +0300" channel="RIK">
+  <programme start="20230619120000 +0300" stop="20230619121200 +0300" channel="RIK">
     <title lang="el">Wake Up Europe</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617121200 +0300" stop="20230617121500 +0300" channel="RIK">
+  <programme start="20230619121200 +0300" stop="20230619121500 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617121500 +0300" stop="20230617123000 +0300" channel="RIK">
+  <programme start="20230619121500 +0300" stop="20230619123000 +0300" channel="RIK">
     <title lang="el">Wake Up Europe</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617123000 +0300" stop="20230617124200 +0300" channel="RIK">
+  <programme start="20230619123000 +0300" stop="20230619124200 +0300" channel="RIK">
     <title lang="el">Wake Up Europe</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617124200 +0300" stop="20230617125400 +0300" channel="RIK">
+  <programme start="20230619124200 +0300" stop="20230619125400 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617125400 +0300" stop="20230617125800 +0300" channel="RIK">
+  <programme start="20230619125400 +0300" stop="20230619125800 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617125800 +0300" stop="20230617130000 +0300" channel="RIK">
+  <programme start="20230619125800 +0300" stop="20230619130000 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617130000 +0300" stop="20230617131200 +0300" channel="RIK">
+  <programme start="20230619130000 +0300" stop="20230619131200 +0300" channel="RIK">
     <title lang="el">Euronews Now</title>
-    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".</desc>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
   </programme>
-  <programme start="20230617131200 +0300" stop="20230617131500 +0300" channel="RIK">
+  <programme start="20230619131200 +0300" stop="20230619131500 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617131500 +0300" stop="20230617133000 +0300" channel="RIK">
+  <programme start="20230619131500 +0300" stop="20230619133000 +0300" channel="RIK">
     <title lang="el">Euronews Now</title>
-    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".</desc>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
   </programme>
-  <programme start="20230617133000 +0300" stop="20230617134200 +0300" channel="RIK">
+  <programme start="20230619133000 +0300" stop="20230619134200 +0300" channel="RIK">
     <title lang="el">Euronews Now</title>
-    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".</desc>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
   </programme>
-  <programme start="20230617134200 +0300" stop="20230617135300 +0300" channel="RIK">
+  <programme start="20230619134200 +0300" stop="20230619135400 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617135300 +0300" stop="20230617135800 +0300" channel="RIK">
+  <programme start="20230619135400 +0300" stop="20230619135800 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617135800 +0300" stop="20230617140000 +0300" channel="RIK">
+  <programme start="20230619135800 +0300" stop="20230619140000 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617140000 +0300" stop="20230617141200 +0300" channel="RIK">
+  <programme start="20230619140000 +0300" stop="20230619141200 +0300" channel="RIK">
     <title lang="el">Euronews Now</title>
-    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".</desc>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
   </programme>
-  <programme start="20230617141200 +0300" stop="20230617141500 +0300" channel="RIK">
+  <programme start="20230619141200 +0300" stop="20230619141500 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617141500 +0300" stop="20230617143000 +0300" channel="RIK">
+  <programme start="20230619141500 +0300" stop="20230619143000 +0300" channel="RIK">
     <title lang="el">Euronews Now</title>
-    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".</desc>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
   </programme>
-  <programme start="20230617143000 +0300" stop="20230617144200 +0300" channel="RIK">
+  <programme start="20230619143000 +0300" stop="20230619144200 +0300" channel="RIK">
     <title lang="el">Euronews Now</title>
-    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".</desc>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
   </programme>
-  <programme start="20230617144200 +0300" stop="20230617145400 +0300" channel="RIK">
+  <programme start="20230619144200 +0300" stop="20230619145400 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617145400 +0300" stop="20230617145800 +0300" channel="RIK">
+  <programme start="20230619145400 +0300" stop="20230619145800 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617145800 +0300" stop="20230617150000 +0300" channel="RIK">
+  <programme start="20230619145800 +0300" stop="20230619150000 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617150000 +0300" stop="20230617151200 +0300" channel="RIK">
+  <programme start="20230619150000 +0300" stop="20230619151200 +0300" channel="RIK">
     <title lang="el">Euronews Now</title>
-    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".</desc>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
   </programme>
-  <programme start="20230617151200 +0300" stop="20230617151500 +0300" channel="RIK">
+  <programme start="20230619151200 +0300" stop="20230619151500 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617151500 +0300" stop="20230617153000 +0300" channel="RIK">
+  <programme start="20230619151500 +0300" stop="20230619153000 +0300" channel="RIK">
     <title lang="el">Euronews Now</title>
-    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".</desc>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
   </programme>
-  <programme start="20230617153000 +0300" stop="20230617154200 +0300" channel="RIK">
+  <programme start="20230619153000 +0300" stop="20230619154200 +0300" channel="RIK">
     <title lang="el">Euronews Now</title>
-    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".</desc>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
   </programme>
-  <programme start="20230617154200 +0300" stop="20230617155300 +0300" channel="RIK">
+  <programme start="20230619154200 +0300" stop="20230619155400 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617155300 +0300" stop="20230617155800 +0300" channel="RIK">
+  <programme start="20230619155400 +0300" stop="20230619155800 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617155800 +0300" stop="20230617160000 +0300" channel="RIK">
+  <programme start="20230619155800 +0300" stop="20230619160000 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617160000 +0300" stop="20230617161200 +0300" channel="RIK">
+  <programme start="20230619160000 +0300" stop="20230619161200 +0300" channel="RIK">
     <title lang="el">Euronews Now</title>
-    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".</desc>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
   </programme>
-  <programme start="20230617161200 +0300" stop="20230617161500 +0300" channel="RIK">
+  <programme start="20230619161200 +0300" stop="20230619161500 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617161500 +0300" stop="20230617163000 +0300" channel="RIK">
+  <programme start="20230619161500 +0300" stop="20230619163000 +0300" channel="RIK">
     <title lang="el">Euronews Now</title>
-    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".</desc>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
   </programme>
-  <programme start="20230617163000 +0300" stop="20230617164100 +0300" channel="RIK">
+  <programme start="20230619163000 +0300" stop="20230619164200 +0300" channel="RIK">
     <title lang="el">Euronews Now</title>
-    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".</desc>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
   </programme>
-  <programme start="20230617164100 +0300" stop="20230617165400 +0300" channel="RIK">
+  <programme start="20230619164200 +0300" stop="20230619165300 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617165400 +0300" stop="20230617165800 +0300" channel="RIK">
+  <programme start="20230619165300 +0300" stop="20230619165800 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617165800 +0300" stop="20230617170000 +0300" channel="RIK">
+  <programme start="20230619165800 +0300" stop="20230619170000 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617170000 +0300" stop="20230617171200 +0300" channel="RIK">
+  <programme start="20230619170000 +0300" stop="20230619171200 +0300" channel="RIK">
     <title lang="el">Euronews Now</title>
-    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".</desc>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
   </programme>
-  <programme start="20230617171200 +0300" stop="20230617171500 +0300" channel="RIK">
+  <programme start="20230619171200 +0300" stop="20230619171500 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617171500 +0300" stop="20230617173000 +0300" channel="RIK">
+  <programme start="20230619171500 +0300" stop="20230619173000 +0300" channel="RIK">
     <title lang="el">Euronews Now</title>
-    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".</desc>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
   </programme>
-  <programme start="20230617173000 +0300" stop="20230617174200 +0300" channel="RIK">
+  <programme start="20230619173000 +0300" stop="20230619174200 +0300" channel="RIK">
     <title lang="el">Euronews Now</title>
-    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".</desc>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
   </programme>
-  <programme start="20230617174200 +0300" stop="20230617175100 +0300" channel="RIK">
+  <programme start="20230619174200 +0300" stop="20230619175400 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617175100 +0300" stop="20230617175400 +0300" channel="RIK">
+  <programme start="20230619175400 +0300" stop="20230619175800 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617175400 +0300" stop="20230617175800 +0300" channel="RIK">
+  <programme start="20230619175800 +0300" stop="20230619180000 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617175800 +0300" stop="20230617180000 +0300" channel="RIK">
-    <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
-  </programme>
-  <programme start="20230617180000 +0300" stop="20230617181200 +0300" channel="RIK">
+  <programme start="20230619180000 +0300" stop="20230619181200 +0300" channel="RIK">
     <title lang="el">Euronews Now</title>
-    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".</desc>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
   </programme>
-  <programme start="20230617181200 +0300" stop="20230617181500 +0300" channel="RIK">
+  <programme start="20230619181200 +0300" stop="20230619181500 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617181500 +0300" stop="20230617183000 +0300" channel="RIK">
+  <programme start="20230619181500 +0300" stop="20230619183000 +0300" channel="RIK">
     <title lang="el">Euronews Now</title>
-    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".</desc>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
   </programme>
-  <programme start="20230617183000 +0300" stop="20230617184200 +0300" channel="RIK">
+  <programme start="20230619183000 +0300" stop="20230619184200 +0300" channel="RIK">
     <title lang="el">Euronews Now</title>
-    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".</desc>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
   </programme>
-  <programme start="20230617184200 +0300" stop="20230617185400 +0300" channel="RIK">
+  <programme start="20230619184200 +0300" stop="20230619185400 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617185400 +0300" stop="20230617185800 +0300" channel="RIK">
+  <programme start="20230619185400 +0300" stop="20230619185800 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617185800 +0300" stop="20230617190000 +0300" channel="RIK">
+  <programme start="20230619185800 +0300" stop="20230619190000 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617190000 +0300" stop="20230617191200 +0300" channel="RIK">
+  <programme start="20230619190000 +0300" stop="20230619191200 +0300" channel="RIK">
     <title lang="el">Euronews Now</title>
-    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".</desc>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
   </programme>
-  <programme start="20230617191200 +0300" stop="20230617191500 +0300" channel="RIK">
+  <programme start="20230619191200 +0300" stop="20230619191500 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617191500 +0300" stop="20230617193000 +0300" channel="RIK">
+  <programme start="20230619191500 +0300" stop="20230619193000 +0300" channel="RIK">
     <title lang="el">Euronews Now</title>
-    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".</desc>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
   </programme>
-  <programme start="20230617193000 +0300" stop="20230617194100 +0300" channel="RIK">
+  <programme start="20230619193000 +0300" stop="20230619194200 +0300" channel="RIK">
     <title lang="el">Euronews Now</title>
-    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".</desc>
+    <desc lang="el">Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world. Euronews is Europe's Town Square with a dedication to "all voices, all views, all welcome".(c)</desc>
   </programme>
-  <programme start="20230617194100 +0300" stop="20230617195300 +0300" channel="RIK">
+  <programme start="20230619194200 +0300" stop="20230619195400 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617195300 +0300" stop="20230617195800 +0300" channel="RIK">
+  <programme start="20230619195400 +0300" stop="20230619195800 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617195800 +0300" stop="20230617200000 +0300" channel="RIK">
+  <programme start="20230619195800 +0300" stop="20230619200000 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617200000 +0300" stop="20230617201200 +0300" channel="RIK">
+  <programme start="20230619200000 +0300" stop="20230619201200 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617201200 +0300" stop="20230617201500 +0300" channel="RIK">
+  <programme start="20230619201200 +0300" stop="20230619201500 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617201500 +0300" stop="20230617203000 +0300" channel="RIK">
+  <programme start="20230619201500 +0300" stop="20230619203000 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617203000 +0300" stop="20230617204200 +0300" channel="RIK">
+  <programme start="20230619203000 +0300" stop="20230619204200 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617204200 +0300" stop="20230617205300 +0300" channel="RIK">
+  <programme start="20230619204200 +0300" stop="20230619205300 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617205300 +0300" stop="20230617205800 +0300" channel="RIK">
+  <programme start="20230619205300 +0300" stop="20230619205800 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617205800 +0300" stop="20230617210000 +0300" channel="RIK">
+  <programme start="20230619205800 +0300" stop="20230619210000 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617210000 +0300" stop="20230617211200 +0300" channel="RIK">
+  <programme start="20230619210000 +0300" stop="20230619211200 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617211200 +0300" stop="20230617211500 +0300" channel="RIK">
+  <programme start="20230619211200 +0300" stop="20230619211500 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617211500 +0300" stop="20230617213000 +0300" channel="RIK">
+  <programme start="20230619211500 +0300" stop="20230619213000 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617213000 +0300" stop="20230617214200 +0300" channel="RIK">
+  <programme start="20230619213000 +0300" stop="20230619214200 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617214200 +0300" stop="20230617215300 +0300" channel="RIK">
+  <programme start="20230619214200 +0300" stop="20230619215300 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617215300 +0300" stop="20230617215800 +0300" channel="RIK">
+  <programme start="20230619215300 +0300" stop="20230619215800 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617215800 +0300" stop="20230617220000 +0300" channel="RIK">
+  <programme start="20230619215800 +0300" stop="20230619220000 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617220000 +0300" stop="20230617221200 +0300" channel="RIK">
+  <programme start="20230619220000 +0300" stop="20230619221200 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617221200 +0300" stop="20230617221500 +0300" channel="RIK">
+  <programme start="20230619221200 +0300" stop="20230619221500 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617221500 +0300" stop="20230617223000 +0300" channel="RIK">
+  <programme start="20230619221500 +0300" stop="20230619223000 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617223000 +0300" stop="20230617224200 +0300" channel="RIK">
+  <programme start="20230619223000 +0300" stop="20230619224200 +0300" channel="RIK">
     <title lang="el">The European Debrief</title>
-    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(c)</desc>
   </programme>
-  <programme start="20230617224200 +0300" stop="20230617225400 +0300" channel="RIK">
+  <programme start="20230619224200 +0300" stop="20230619225300 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617225400 +0300" stop="20230617225800 +0300" channel="RIK">
+  <programme start="20230619225300 +0300" stop="20230619225800 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617225800 +0300" stop="20230617230000 +0300" channel="RIK">
+  <programme start="20230619225800 +0300" stop="20230619230000 +0300" channel="RIK">
     <title lang="el">News</title>
-    <desc lang="el">The leading news stories of the moment.</desc>
+    <desc lang="el">The leading news stories of the moment.(c)</desc>
   </programme>
-  <programme start="20230617230000 +0300" stop="20230618010000 +0300" channel="RIK">
-    <title lang="el">MAD Greekz</title>
-    <desc lang="el">Μουσικό τηλεοπτικό κανάλι, το οποίο μεταδίδεται 24 ώρες το 24ωρο. Προβάλλει ελληνικές επιτυχίες και βίντεο κλιπ από όλους τους κορυφαίους καλλιτέχνες στην Ελλάδα. Περιλαμβάνει διάφορα διαδραστικά χαρακτηριστικά και διαγωνισμούς για τους τηλεθεατές.</desc>
+  <programme start="20230619230000 +0300" stop="20230619231200 +0300" channel="RIK">
+    <title lang="el">The European Debrief</title>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(n)</desc>
   </programme>
-  <programme start="20230618010000 +0300" stop="20230618030000 +0300" channel="RIK">
-    <title lang="el">MAD Greekz</title>
-    <desc lang="el">Μουσικό τηλεοπτικό κανάλι, το οποίο μεταδίδεται 24 ώρες το 24ωρο. Προβάλλει ελληνικές επιτυχίες και βίντεο κλιπ από όλους τους κορυφαίους καλλιτέχνες στην Ελλάδα. Περιλαμβάνει διάφορα διαδραστικά χαρακτηριστικά και διαγωνισμούς για τους τηλεθεατές.</desc>
+  <programme start="20230619231200 +0300" stop="20230619231500 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(n)</desc>
   </programme>
-  <programme start="20230618030000 +0300" stop="20230618050000 +0300" channel="RIK">
-    <title lang="el">MAD Greekz</title>
-    <desc lang="el">Μουσικό τηλεοπτικό κανάλι, το οποίο μεταδίδεται 24 ώρες το 24ωρο. Προβάλλει ελληνικές επιτυχίες και βίντεο κλιπ από όλους τους κορυφαίους καλλιτέχνες στην Ελλάδα. Περιλαμβάνει διάφορα διαδραστικά χαρακτηριστικά και διαγωνισμούς για τους τηλεθεατές.</desc>
+  <programme start="20230619231500 +0300" stop="20230619233000 +0300" channel="RIK">
+    <title lang="el">The European Debrief</title>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(n)</desc>
   </programme>
-  <programme start="20230618050000 +0300" stop="20230618070000 +0300" channel="RIK">
-    <title lang="el">MAD Greekz</title>
-    <desc lang="el">Μουσικό τηλεοπτικό κανάλι, το οποίο μεταδίδεται 24 ώρες το 24ωρο. Προβάλλει ελληνικές επιτυχίες και βίντεο κλιπ από όλους τους κορυφαίους καλλιτέχνες στην Ελλάδα. Περιλαμβάνει διάφορα διαδραστικά χαρακτηριστικά και διαγωνισμούς για τους τηλεθεατές.</desc>
+  <programme start="20230619233000 +0300" stop="20230619234200 +0300" channel="RIK">
+    <title lang="el">The European Debrief</title>
+    <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.(n)</desc>
   </programme>
-  <programme start="20230618070000 +0300" stop="20230618090000 +0300" channel="RIK">
-    <title lang="el">MAD Greekz</title>
-    <desc lang="el">Μουσικό τηλεοπτικό κανάλι, το οποίο μεταδίδεται 24 ώρες το 24ωρο. Προβάλλει ελληνικές επιτυχίες και βίντεο κλιπ από όλους τους κορυφαίους καλλιτέχνες στην Ελλάδα. Περιλαμβάνει διάφορα διαδραστικά χαρακτηριστικά και διαγωνισμούς για τους τηλεθεατές.</desc>
+  <programme start="20230619234200 +0300" stop="20230619235300 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(n)</desc>
   </programme>
-  <programme start="20230618090000 +0300" stop="20230618110000 +0300" channel="RIK">
-    <title lang="el">MAD Greekz</title>
-    <desc lang="el">Μουσικό τηλεοπτικό κανάλι, το οποίο μεταδίδεται 24 ώρες το 24ωρο. Προβάλλει ελληνικές επιτυχίες και βίντεο κλιπ από όλους τους κορυφαίους καλλιτέχνες στην Ελλάδα. Περιλαμβάνει διάφορα διαδραστικά χαρακτηριστικά και διαγωνισμούς για τους τηλεθεατές.</desc>
-  </programme>
-  <programme start="20230618110000 +0300" stop="20230618130000 +0300" channel="RIK">
-    <title lang="el">MAD Greekz</title>
-    <desc lang="el">Μουσικό τηλεοπτικό κανάλι, το οποίο μεταδίδεται 24 ώρες το 24ωρο. Προβάλλει ελληνικές επιτυχίες και βίντεο κλιπ από όλους τους κορυφαίους καλλιτέχνες στην Ελλάδα. Περιλαμβάνει διάφορα διαδραστικά χαρακτηριστικά και διαγωνισμούς για τους τηλεθεατές.</desc>
-  </programme>
-  <programme start="20230618130000 +0300" stop="20230618150000 +0300" channel="RIK">
-    <title lang="el">MAD Greekz</title>
-    <desc lang="el">Μουσικό τηλεοπτικό κανάλι, το οποίο μεταδίδεται 24 ώρες το 24ωρο. Προβάλλει ελληνικές επιτυχίες και βίντεο κλιπ από όλους τους κορυφαίους καλλιτέχνες στην Ελλάδα. Περιλαμβάνει διάφορα διαδραστικά χαρακτηριστικά και διαγωνισμούς για τους τηλεθεατές.</desc>
-  </programme>
-  <programme start="20230618150000 +0300" stop="20230618170000 +0300" channel="RIK">
-    <title lang="el">MAD Greekz</title>
-    <desc lang="el">Μουσικό τηλεοπτικό κανάλι, το οποίο μεταδίδεται 24 ώρες το 24ωρο. Προβάλλει ελληνικές επιτυχίες και βίντεο κλιπ από όλους τους κορυφαίους καλλιτέχνες στην Ελλάδα. Περιλαμβάνει διάφορα διαδραστικά χαρακτηριστικά και διαγωνισμούς για τους τηλεθεατές.</desc>
-  </programme>
-  <programme start="20230618170000 +0300" stop="20230618190000 +0300" channel="RIK">
-    <title lang="el">MAD Greekz</title>
-    <desc lang="el">Μουσικό τηλεοπτικό κανάλι, το οποίο μεταδίδεται 24 ώρες το 24ωρο. Προβάλλει ελληνικές επιτυχίες και βίντεο κλιπ από όλους τους κορυφαίους καλλιτέχνες στην Ελλάδα. Περιλαμβάνει διάφορα διαδραστικά χαρακτηριστικά και διαγωνισμούς για τους τηλεθεατές.</desc>
-  </programme>
-  <programme start="20230618190000 +0300" stop="20230618210000 +0300" channel="RIK">
-    <title lang="el">MAD Greekz</title>
-    <desc lang="el">Μουσικό τηλεοπτικό κανάλι, το οποίο μεταδίδεται 24 ώρες το 24ωρο. Προβάλλει ελληνικές επιτυχίες και βίντεο κλιπ από όλους τους κορυφαίους καλλιτέχνες στην Ελλάδα. Περιλαμβάνει διάφορα διαδραστικά χαρακτηριστικά και διαγωνισμούς για τους τηλεθεατές.</desc>
-  </programme>
-  <programme start="20230618210000 +0300" stop="20230618230000 +0300" channel="RIK">
-    <title lang="el">MAD Greekz</title>
-    <desc lang="el">Μουσικό τηλεοπτικό κανάλι, το οποίο μεταδίδεται 24 ώρες το 24ωρο. Προβάλλει ελληνικές επιτυχίες και βίντεο κλιπ από όλους τους κορυφαίους καλλιτέχνες στην Ελλάδα. Περιλαμβάνει διάφορα διαδραστικά χαρακτηριστικά και διαγωνισμούς για τους τηλεθεατές.</desc>
-  </programme>
-  <programme start="20230613013000 +0300" stop="20230613020000 +0300" channel="BBC World">
-    <title lang="el">Witness</title>
-    <desc lang="el">At The Husband School in Sierra Leone, Pidia tries to teach men why domestic violence is wrong and how to be better husbands. (2019).</desc>
-  </programme>
-  <programme start="20230613020000 +0300" stop="20230613023000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230613023000 +0300" stop="20230613030000 +0300" channel="BBC World">
-    <title lang="el">Fault Lines</title>
-    <desc lang="el">Fault Lines investigates Florida's cosmetic surgery industry and reveals a battle between patient safety and maximizing profits in the state. (2023).</desc>
-  </programme>
-  <programme start="20230613030000 +0300" stop="20230613033000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230613033000 +0300" stop="20230613040000 +0300" channel="BBC World">
-    <title lang="el">Inside Story Κ1</title>
-    <desc lang="el">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond. (2023).</desc>
-  </programme>
-  <programme start="20230613040000 +0300" stop="20230613050000 +0300" channel="BBC World">
-    <title lang="el">Witness</title>
-    <desc lang="el">Survivors of the 1945 firebombing of Tokyo campaign for official recognition of this forgotten tragedy. (2023).</desc>
-  </programme>
-  <programme start="20230613050000 +0300" stop="20230613053000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230613053000 +0300" stop="20230613060000 +0300" channel="BBC World">
-    <title lang="el">101 East</title>
-    <desc lang="el">101 East reports on the people and events shaping the Asia Pacific region.. (2023).</desc>
-  </programme>
-  <programme start="20230613060000 +0300" stop="20230613063000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230613063000 +0300" stop="20230613070000 +0300" channel="BBC World">
-    <title lang="el">The Big Picture</title>
-    <desc lang="el">A four-part series examining France's struggle to live up to its founding ideals. This episode takes a close look at the role of secularism in French society.</desc>
-  </programme>
-  <programme start="20230613070000 +0300" stop="20230613073000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230613073000 +0300" stop="20230613080000 +0300" channel="BBC World">
-    <title lang="el">The Stream ΕΠ99</title>
-    <desc lang="el">The Stream is where Al Jazeera's audience becomes a global community. (2023).</desc>
-  </programme>
-  <programme start="20230613080000 +0300" stop="20230613083000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230613083000 +0300" stop="20230613090000 +0300" channel="BBC World">
-    <title lang="el">Counting the Cost ΕΠ23</title>
-    <desc lang="el">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people. (2023).</desc>
-  </programme>
-  <programme start="20230613090000 +0300" stop="20230613100000 +0300" channel="BBC World">
-    <title lang="el">Al Jazeera World</title>
-    <desc lang="el">Are Muslim dating apps an acceptable tool for young people to find life partners or are they just a way to legitimise dating in the eyes of their communities? (2023).</desc>
-  </programme>
-  <programme start="20230613100000 +0300" stop="20230613103000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230613103000 +0300" stop="20230613110000 +0300" channel="BBC World">
-    <title lang="el">Inside Story Κ1</title>
-    <desc lang="el">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond. (2023).</desc>
-  </programme>
-  <programme start="20230613110000 +0300" stop="20230613113000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230613113000 +0300" stop="20230613120000 +0300" channel="BBC World">
-    <title lang="el">The Stream ΕΠ99</title>
-    <desc lang="el">The Stream is where Al Jazeera's audience becomes a global community. (2023).</desc>
-  </programme>
-  <programme start="20230613120000 +0300" stop="20230613123000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230613123000 +0300" stop="20230613130000 +0300" channel="BBC World">
-    <title lang="el">Witness</title>
-    <desc lang="el">At The Husband School in Sierra Leone, Pidia tries to teach men why domestic violence is wrong and how to be better husbands. (2019).</desc>
-  </programme>
-  <programme start="20230613130000 +0300" stop="20230613140000 +0300" channel="BBC World">
-    <title lang="el">Newshour</title>
-    <desc lang="el">Up-to-date news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20230613140000 +0300" stop="20230613143000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230613143000 +0300" stop="20230613150000 +0300" channel="BBC World">
-    <title lang="el">Inside Story Κ1</title>
-    <desc lang="el">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond. (2023).</desc>
-  </programme>
-  <programme start="20230613150000 +0300" stop="20230613160000 +0300" channel="BBC World">
-    <title lang="el">Drug Trafficking, Politics and Power Κ1</title>
-    <desc lang="el">From colonial China's opium wars to Cold War USA politics, this series traces the rise of the global drug trade and its powerful political backers 1/3. (2021).</desc>
-  </programme>
-  <programme start="20230613160000 +0300" stop="20230613170000 +0300" channel="BBC World">
-    <title lang="el">Newshour</title>
-    <desc lang="el">Up-to-date news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20230613170000 +0300" stop="20230613173000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230613173000 +0300" stop="20230613180000 +0300" channel="BBC World">
-    <title lang="el">The Stream ΕΠ99</title>
-    <desc lang="el">The Stream is where Al Jazeera's audience becomes a global community. (2023).</desc>
-  </programme>
-  <programme start="20230613180000 +0300" stop="20230613190000 +0300" channel="BBC World">
-    <title lang="el">Newshour</title>
-    <desc lang="el">Up-to-date news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20230613190000 +0300" stop="20230613193000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230613193000 +0300" stop="20230613200000 +0300" channel="BBC World">
-    <title lang="el">Football Rebels</title>
-    <desc lang="el">The story of goalkeeper Claudio Tamburrini, arrested by the Argentine secret police in 1977 and tortured in a concentration camp before escaping to Sweden. (2021).</desc>
-  </programme>
-  <programme start="20230613200000 +0300" stop="20230613203000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230613203000 +0300" stop="20230613210000 +0300" channel="BBC World">
-    <title lang="el">Inside Story Κ1</title>
-    <desc lang="el">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond. (2023).</desc>
-  </programme>
-  <programme start="20230613210000 +0300" stop="20230613220000 +0300" channel="BBC World">
-    <title lang="el">Newshour</title>
-    <desc lang="el">Up-to-date news and analysis from around the world.</desc>
-  </programme>
-  <programme start="20230613220000 +0300" stop="20230613223000 +0300" channel="BBC World">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019).</desc>
-  </programme>
-  <programme start="20230613223000 +0300" stop="20230613230000 +0300" channel="BBC World">
-    <title lang="el">The Stream ΕΠ100</title>
-    <desc lang="el">The Stream is where Al Jazeera's audience becomes a global community. (2023).</desc>
-  </programme>
-  <programme start="20230613230000 +0300" stop="20230613235000 +0300" channel="BBC World">
-    <title lang="el">Al Jazeera World</title>
-    <desc lang="el">A tiny village football club set up by a Palestinian farmer for his 12 sons fights it way from the very bottom to become Palestinian Premier League Champions. (2023).</desc>
-  </programme>
-  <programme start="20230613235000 +0300" stop="20230614010000 +0300" channel="BBC World">
-    <title lang="el">Simon Rattle and the London Symphony Orchestra: Knussen, Turnage, Britten</title>
-    <desc lang="el">London Symphony Orchestra, Simon Rattle (Conductor). Lucy Crowe (soprano), Allan Clayton (tenor). Oliver Knussen (1952 - 2018): Song &amp; A Sea Interlude (from 'Where the Wild things'). Mark Anthony Turnage (b. 1960): Last song for Olly (World Premiere). Benjamin Britten (1913 - 1976): Serenade for tenor, horn and strings. Σκηνοθεσία: Jonathan Haswell. (2020).</desc>
+  <programme start="20230619235300 +0300" stop="20230619235800 +0300" channel="RIK">
+    <title lang="el">News</title>
+    <desc lang="el">The leading news stories of the moment.(n)</desc>
   </programme>
   <programme start="20230614010000 +0300" stop="20230614024700 +0300" channel="BBC World">
     <title lang="el">John Eliot Gardiner and the Orchestre Révolutionnaire et Romantique: Berlioz</title>
@@ -1578,7 +1605,7 @@
   </programme>
   <programme start="20230616232000 +0300" stop="20230617001000 +0300" channel="BBC World">
     <title lang="el">Στα Σύνορα Κ3 ΕΠ6</title>
-    <desc lang="el">Αστυνομικοί ανακαλύπτουν μαριχουάνα κρυμμένη στα λάστιχα ενός φορτηγού, συλλαμβάνουν παράτυπους μετανάστες που προσπαθούν να περάσουν τα σύνορα και συλλαμβάνουν μια νεαρή γυναίκα που μεταφέρει κοκαΐνη και αντιδρά παράξενα στη σύλληψή της. (2010).(c)</desc>
+    <desc lang="el">Αστυνομικοί ανακαλύπτουν μαριχουάνα κρυμμένη στα λάστιχα ενός φορτηγού, συλλαμβάνουν παράτυπους μετανάστες που προσπαθούν να περάσουν τα σύνορα και συλλαμβάνουν μια νεαρή γυναίκα που μεταφέρει κοκαΐνη και αντιδρά παράξενα στη σύλληψή της. (2010).</desc>
   </programme>
   <programme start="20230617001000 +0300" stop="20230617005500 +0300" channel="BBC World">
     <title lang="el">Πάμπλο Εσκομπάρ: Άνθρωπος εναντίον Μύθου ΕΠ1</title>
@@ -1893,12 +1920,12 @@
     <desc lang="el">Η Λους ψάχνει να βρει έναν τρόπο για να γυρίσει στον Κόσμο των Ανθρώπων. (2021).</desc>
   </programme>
   <programme start="20230620083000 +0300" stop="20230620085500 +0300" channel="BBC World">
-    <title lang="el">Τσιπ &amp;Ντέιλ: Ζωή στο Πάρκο Κ1 ΕΠ9</title>
-    <desc lang="el">Τα σκιουράκια ντετέκτιβ. Ο Ντέιλ καλεί την Κλαρίς. Το σπίτι. (2021).</desc>
+    <title lang="el">Miraculous: Oι Φανταστικές Ιστορίες της Λέιντι Μπαγκ και του Κατ Νουάρ Κ4 ΕΠ80</title>
+    <desc lang="el">Ladybug and Cat Noir face Lies. (2020).</desc>
   </programme>
   <programme start="20230620085500 +0300" stop="20230620092000 +0300" channel="BBC World">
-    <title lang="el">ΟΙ ΒΙΟΝΙΚΟΙ ΜΟΥ ΦΙΛΟΙ Κ2 ΕΠ37</title>
-    <desc lang="el">Μόλις ο Λίο τακτοποιείται στο σπίτι που μοιράζεται με τον εφευρέτη θετό πατέρα του και τη μητέρα του, ανακαλύπτει ένα μυστικό υπόγειο εργαστήριο που στεγάζει τρεις υπεράνθρωπους έφηβους και όλοι μαζί ζουν τις πιο απίθανες περιπέτειες! (2013).</desc>
+    <title lang="el">Miraculous: Oι Φανταστικές Ιστορίες της Λέιντι Μπαγκ και του Κατ Νουάρ Κ4 ΕΠ81</title>
+    <desc lang="el">Ladybug and Cat Noir face the Gang of Secrets. (2020).</desc>
   </programme>
   <programme start="20230620092000 +0300" stop="20230620094500 +0300" channel="BBC World">
     <title lang="el">ΟΙ ΒΙΟΝΙΚΟΙ ΜΟΥ ΦΙΛΟΙ Κ2 ΕΠ38</title>
@@ -1941,20 +1968,20 @@
     <desc lang="el">Η Ίλβα γίνεται αρχηγός της ομάδας Λαχανόσφαιρου. (2021).</desc>
   </programme>
   <programme start="20230620131000 +0300" stop="20230620133500 +0300" channel="BBC World">
-    <title lang="el">Το σπίτι της Ρέιβεν Κ5 ΕΠ81</title>
-    <desc lang="el">Η Ρέιβεν επιστρέφει μετά από ένα πρόβλημα υγείας του πατέρα της. (2021).</desc>
-  </programme>
-  <programme start="20230620133500 +0300" stop="20230620140000 +0300" channel="BBC World">
-    <title lang="el">Το σπίτι της Ρέιβεν Κ5 ΕΠ82</title>
-    <desc lang="el">Η Ρέιβεν βοηθά τον Βίκτορ να διατηρεί έναν υγιεινό τρόπο ζωής. (2021).</desc>
-  </programme>
-  <programme start="20230620140000 +0300" stop="20230620142500 +0300" channel="BBC World">
     <title lang="el">Οι Κακοί του Βάλεϊ Βιού Κ1 ΕΠ9</title>
     <desc lang="el">Η Έιμι ανακαλύπτει ένα σοκαριστικό μυστικό που έκρυβε ο Τζέικ. (2022).</desc>
   </programme>
-  <programme start="20230620142500 +0300" stop="20230620145000 +0300" channel="BBC World">
+  <programme start="20230620133500 +0300" stop="20230620140000 +0300" channel="BBC World">
     <title lang="el">Οι Κακοί του Βάλεϊ Βιού Κ1 ΕΠ10</title>
     <desc lang="el">Ο Τζέικ ξαναυιοθετεί τις κακές του συνήθειες. (2022).</desc>
+  </programme>
+  <programme start="20230620140000 +0300" stop="20230620142500 +0300" channel="BBC World">
+    <title lang="el">Miraculous: Oι Φανταστικές Ιστορίες της Λέιντι Μπαγκ και του Κατ Νουάρ Κ4 ΕΠ80</title>
+    <desc lang="el">Ladybug and Cat Noir face Lies. (2020).</desc>
+  </programme>
+  <programme start="20230620142500 +0300" stop="20230620145000 +0300" channel="BBC World">
+    <title lang="el">Miraculous: Oι Φανταστικές Ιστορίες της Λέιντι Μπαγκ και του Κατ Νουάρ Κ4 ΕΠ81</title>
+    <desc lang="el">Ladybug and Cat Noir face the Gang of Secrets. (2020).</desc>
   </programme>
   <programme start="20230620145000 +0300" stop="20230620151500 +0300" channel="BBC World">
     <title lang="el">Χάμστερ &amp;Γκρέτελ Κ1 ΕΠ16</title>
@@ -1973,28 +2000,28 @@
     <desc lang="el">Η Μόλι λέει ψέματα στην Λίμπι. Μπορεί να υπάρξει μόνο ένας κολλητός. (2021).</desc>
   </programme>
   <programme start="20230620163000 +0300" stop="20230620165500 +0300" channel="BBC World">
-    <title lang="el">Τσιπ &amp;Ντέιλ: Ζωή στο Πάρκο Κ1 ΕΠ9</title>
-    <desc lang="el">Τα σκιουράκια ντετέκτιβ. Ο Ντέιλ καλεί την Κλαρίς. Το σπίτι. (2021).</desc>
+    <title lang="el">Miraculous: Oι Φανταστικές Ιστορίες της Λέιντι Μπαγκ και του Κατ Νουάρ Κ5 ΕΠ106</title>
+    <desc lang="el">Για πρώτη φορά οι ήρωές μας δεν έχουν κανέναν αντίπαλο να αντιμετωπίσουν! (2022).</desc>
   </programme>
-  <programme start="20230620165500 +0300" stop="20230620170000 +0300" channel="BBC World">
+  <programme start="20230620165500 +0300" stop="20230620170100 +0300" channel="BBC World">
     <title lang="el">Σχολείο για Βίκινγκ Κ1 ΕΠ4</title>
     <desc lang="el">Σχολείο για Βίκινγκ (2022).</desc>
   </programme>
-  <programme start="20230620170000 +0300" stop="20230620172500 +0300" channel="BBC World">
-    <title lang="el">Το σπίτι της Ρέιβεν Κ5 ΕΠ83</title>
-    <desc lang="el">Μπελάδες στο Αλκατράζ! Η Ρέιβεν βλέπει ένα όραμα. (2021).</desc>
-  </programme>
-  <programme start="20230620172500 +0300" stop="20230620175000 +0300" channel="BBC World">
-    <title lang="el">Το σπίτι της Ρέιβεν Κ5 ΕΠ85</title>
-    <desc lang="el">Ο Μπούκερ βρίσκει τον μπελά του προσπαθώντας να εντυπωσιάσει ένα κορίτσι. (2021).</desc>
-  </programme>
-  <programme start="20230620175000 +0300" stop="20230620181500 +0300" channel="BBC World">
+  <programme start="20230620170100 +0300" stop="20230620172600 +0300" channel="BBC World">
     <title lang="el">Οι Κακοί του Βάλεϊ Βιού Κ1 ΕΠ10</title>
     <desc lang="el">Ο Τζέικ ξαναυιοθετεί τις κακές του συνήθειες. (2022).</desc>
   </programme>
-  <programme start="20230620181500 +0300" stop="20230620184000 +0300" channel="BBC World">
+  <programme start="20230620172600 +0300" stop="20230620175000 +0300" channel="BBC World">
     <title lang="el">Οι Κακοί του Βάλεϊ Βιού Κ1 ΕΠ11</title>
     <desc lang="el">Η Έιμι φέρνει σε πάρτι τη γιαγιά της, η οποία κλέβει πτώματα από τάφους. (2022).</desc>
+  </programme>
+  <programme start="20230620175000 +0300" stop="20230620181500 +0300" channel="BBC World">
+    <title lang="el">Το σπίτι της Ρέιβεν Κ5 ΕΠ83</title>
+    <desc lang="el">Μπελάδες στο Αλκατράζ! Η Ρέιβεν βλέπει ένα όραμα. (2021).</desc>
+  </programme>
+  <programme start="20230620181500 +0300" stop="20230620184000 +0300" channel="BBC World">
+    <title lang="el">Το σπίτι της Ρέιβεν Κ5 ΕΠ85</title>
+    <desc lang="el">Ο Μπούκερ βρίσκει τον μπελά του προσπαθώντας να εντυπωσιάσει ένα κορίτσι. (2021).</desc>
   </programme>
   <programme start="20230620184000 +0300" stop="20230620190500 +0300" channel="BBC World">
     <title lang="el">Γκάμπι Ντουράν: Νταντά για Εξωγήινα Ζιζάνια Κ2 ΕΠ27</title>
@@ -2029,12 +2056,12 @@
     <desc lang="el">Ένα κορίτσι και το κατοικίδιό της, ο Χάμστερ, γίνονται υπερήρωες! (2022).</desc>
   </programme>
   <programme start="20230620220000 +0300" stop="20230620222500 +0300" channel="BBC World">
-    <title lang="el">Τσιπ &amp;Ντέιλ: Ζωή στο Πάρκο Κ1 ΕΠ8</title>
-    <desc lang="el">Το φάντασμα. Το ατελές έγκλημα. Φουντουκόσουπα. (2021).</desc>
+    <title lang="el">Miraculous: Oι Φανταστικές Ιστορίες της Λέιντι Μπαγκ και του Κατ Νουάρ Κ5 ΕΠ106</title>
+    <desc lang="el">Για πρώτη φορά οι ήρωές μας δεν έχουν κανέναν αντίπαλο να αντιμετωπίσουν! (2022).</desc>
   </programme>
   <programme start="20230620222500 +0300" stop="20230620225000 +0300" channel="BBC World">
-    <title lang="el">Τσιπ &amp;Ντέιλ: Ζωή στο Πάρκο Κ1 ΕΠ9</title>
-    <desc lang="el">Τα σκιουράκια ντετέκτιβ. Ο Ντέιλ καλεί την Κλαρίς. Το σπίτι. (2021).</desc>
+    <title lang="el">Miraculous: Oι Φανταστικές Ιστορίες της Λέιντι Μπαγκ και του Κατ Νουάρ Κ5 ΕΠ107</title>
+    <desc lang="el">Τι θα γινόταν αν η Μόναρχ εμφανιζόταν στο σπίτι της Μαρινέτ; (2022).</desc>
   </programme>
   <programme start="20230620225000 +0300" stop="20230620231000 +0300" channel="BBC World">
     <title lang="el">Το σπίτι της Ρέιβεν Κ5 ΕΠ83</title>
@@ -2044,141 +2071,6 @@
     <title lang="el">Το σπίτι της Ρέιβεν Κ5 ΕΠ84</title>
     <desc lang="el">Η Ρέιβεν δεν θέλει ο Μπούκερ να φύγει από το Σαν Φρανσίσκο. (2021).</desc>
   </programme>
-  <channel id="ALPHA">
-    <display-name lang="el">ALPHA</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ANT1">
-    <display-name lang="el">ANT1</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="OPEN BEYOND">
-    <display-name lang="el">OPEN BEYOND</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="M.tv">
-    <display-name lang="el">M.tv</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="SKAI">
-    <display-name lang="el">SKAI</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="STAR">
-    <display-name lang="el">STAR</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ART TV">
-    <display-name lang="el">ART TV</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ETV">
-    <display-name lang="el">ETV</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ART">
-    <display-name lang="el">ART</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="EXTRA">
-    <display-name lang="el">EXTRA</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ACTION24">
-    <display-name lang="el">ACTION24</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ATTICA TV">
-    <display-name lang="el">ATTICA TV</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="BLUE SKY">
-    <display-name lang="el">BLUE SKY</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="CHANNEL 9">
-    <display-name lang="el">CHANNEL 9</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="AE CHANNEL">
-    <display-name lang="el">A.EPSILON</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="HIGH TV">
-    <display-name lang="el">HIGH TV</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="KONTRA CHANNEL">
-    <display-name lang="el">KONTRA CHANNEL</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="MAD">
-    <display-name lang="el">MAD</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="RISE TV">
-    <display-name lang="el">RISE TV</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="NICKELODEON">
-    <display-name lang="el">NICKELODEON</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="SMILE">
-    <display-name lang="el">SMILE</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="ALERT">
-    <display-name lang="el">ALERT</display-name>
-    <url>http://www.digea.gr</url>
-  </channel>
-  <channel id="VOULI">
-    <display-name lang="el">Vouli</display-name>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="ERT 1">
-    <display-name lang="el">ERT 1</display-name>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="ERT 2">
-    <display-name lang="el">ERT 2</display-name>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="ERT 3">
-    <display-name lang="el">ERT 3</display-name>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="ΕRΤ SPORTS">
-    <display-name lang="el">ΕRΤ SPORTS</display-name>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="MEGA">
-    <display-name lang="el">MEGA</display-name>
-    <icon>https://www.megatv.com/wp-content/uploads/2020/10/facebook.jpeg</icon>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="TV5 Europe">
-    <display-name lang="en">TV5 Europe</display-name>
-    <icon>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV5-europe-Logo.svg/2560px-TV5-europe-Logo.svg.png</icon>
-    <url>http://www.theguardian.com</url>
-  </channel>
-  <channel id="RIK">
-    <display-name lang="el">RIK</display-name>
-    <icon>https://hellasjournal.com/wp-content/uploads/2015/10/RIK-KYPROS01.jpg</icon>
-    <url>http://www.cyta.com.cy</url>
-  </channel>
-  <channel id="BBC World">
-    <display-name lang="el">BBC World</display-name>
-    <icon>https://seeklogo.com/images/B/bbc-world-service-logo-62AE02F8D5-seeklogo.com.png</icon>
-    <url>http://www.cyta.com.cy</url>
-  </channel>
-  <channel id="ERT NEWS">
-    <display-name lang="en">ERT NEWS</display-name>
-    <icon>https://www.newsit.gr/wp-content/uploads/2022/08/ERTNEWS_melas_1200.jpg</icon>
-  </channel>
-  <channel id="ERT1.">
-    <display-name lang="en">ERT1.</display-name>
-  </channel>
   <programme start="20230613000000 +0100" stop="20230613235900 +0100" channel="ERT NEWS">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.</desc>
